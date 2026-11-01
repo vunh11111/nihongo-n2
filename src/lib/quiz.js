@@ -10,8 +10,11 @@ export function shuffle(list) {
 }
 
 // Tách câu có đánh dấu [phần cần hỏi] thành 3 phần: trước, mục tiêu, sau
+// Chấp nhận cả dấu half-width [ ] lẫn full-width ［ ］
+const SENTENCE_MARK = /^(.*?)[\[［](.+?)[\]］](.*)$/s;
+
 export function parseSentence(sentence) {
-  const m = sentence.match(/^(.*?)\[(.+?)\](.*)$/s);
+  const m = sentence.match(SENTENCE_MARK);
   return m ? { before: m[1], target: m[2], after: m[3] } : { before: sentence, target: "", after: "" };
 }
 
@@ -20,4 +23,12 @@ export function buildDeck(questions, size = questions.length) {
   return shuffle(questions)
     .slice(0, size)
     .map((q) => ({ ...q, options: shuffle(q.choices) }));
+}
+
+// Chọn ngẫu nhiên 1 trò chơi. Nếu có `excludeId` thì cố gắng chọn trò khác trò đó
+export function pickRandomGame(games, excludeId) {
+  const playable = games.filter((g) => g.questions.length > 0);
+  const others = playable.filter((g) => g.id !== excludeId);
+  const pool = others.length ? others : playable;
+  return pool[Math.floor(Math.random() * pool.length)];
 }

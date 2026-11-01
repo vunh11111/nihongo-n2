@@ -1,5 +1,6 @@
 import readingData from "./data/reading.json";
 import kanjiData from "./data/kanji.json";
+import affixData from "./data/affix.json";
 
 // Số câu tối đa mỗi lượt chơi (áp dụng cho các trò bên dưới)
 export const ROUND_SIZE = 10;
@@ -25,5 +26,16 @@ export const GAMES = [
     prompt: "Chọn chữ Hán đúng của từ được gạch chân",
     roundSize: ROUND_SIZE,
     questions: kanjiData,
+  },
+  {
+    id: "affix",
+    path: "/tien-to-hau-to",
+    icon: "接",
+    title: "Tiền tố / Hậu tố",
+    desc: "Giống mondai 3 của đề JLPT: chọn tiền tố hoặc hậu tố thích hợp điền vào chỗ trống.",
+    prompt: "Chọn tiền tố / hậu tố thích hợp điền vào chỗ trống",
+    roundSize: ROUND_SIZE,
+    fillBlank: true, // hiện chỗ trống, trả lời xong thì điền đáp án vào câu
+    questions: affixData,
   },
 ];

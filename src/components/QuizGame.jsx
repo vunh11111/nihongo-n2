@@ -1,10 +1,15 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { buildDeck, parseSentence } from "../lib/quiz.js";
+import { useNavigate } from "react-router-dom";
+import { GAMES } from "../games.js";
+import { buildDeck, parseSentence, pickRandomGame } from "../lib/quiz.js";
 
-// Trò chơi trắc nghiệm 4 đáp án dùng chung cho mọi bộ câu hỏi (cách đọc, chữ Hán, ...)
+const TYPE_LABEL = { prefix: "Tiền tố 接頭語", suffix: "Hậu tố 接尾語" };
+
+// Trò chơi trắc nghiệm 4 đáp án dùng chung cho mọi bộ câu hỏi (cách đọc, chữ Hán, tiền tố/hậu tố, ...)
 export default function QuizGame({ game }) {
+  const navigate = useNavigate();
   const [round, setRound] = useState(0);
-  const deck = useMemo(() => buildDeck(game.questions, game.roundSize), [game, round]); // ĐÃ SỬA
+  const deck = useMemo(() => buildDeck(game.questions, game.roundSize), [game, round]);
   const [index, setIndex] = useState(0);
   const [picked, setPicked] = useState(null);
   const [score, setScore] = useState(0);
@@ -38,6 +43,8 @@ export default function QuizGame({ game }) {
     setFinished(false);
   };
 
+  const playRandomOther = () => navigate(pickRandomGame(GAMES, game.id).path);
+
   // Phím tắt: 1-4 để chọn đáp án, Enter / Space / mũi tên phải để sang câu tiếp
   useEffect(() => {
     const onKey = (e) => {
@@ -62,6 +69,9 @@ export default function QuizGame({ game }) {
         <p>{score === deck.length ? "Tuyệt vời, bạn trả lời đúng tất cả." : "Hãy luyện lại để nhớ chắc hơn nhé."}</p>
         <div className="row">
           <button className="btn primary" onClick={restart}>Chơi lại</button>
+          {GAMES.length > 1 && (
+            <button className="btn" onClick={playRandomOther}>🎲 Trò ngẫu nhiên khác</button>
+          )}
         </div>
       </section>
     );
@@ -69,6 +79,7 @@ export default function QuizGame({ game }) {
 
   const { before, target, after } = parseSentence(q.sentence);
   const correct = picked === q.answer;
+  const blank = game.fillBlank;
 
   return (
     <section className="panel">
@@ -80,9 +91,14 @@ export default function QuizGame({ game }) {
         <div style={{ width: `${((index + (answered ? 1 : 0)) / deck.length) * 100}%` }} />
       </div>
 
-      <p className="prompt">{game.prompt}</p>
+      <p className="prompt">
+        {game.prompt}
+        {q.type && TYPE_LABEL[q.type] && <span className="tag">{TYPE_LABEL[q.type]}</span>}
+      </p>
       <p className="sentence" lang="ja">
-        {before}<mark>{target}</mark>{after}
+        {before}
+        <mark className={blank ? "blank" : undefined}>{blank ? (answered ? q.answer : "　　") : target}</mark>
+        {after}
       </p>
 
       <div className="choices">
