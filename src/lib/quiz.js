@@ -25,6 +25,22 @@ export function buildDeck(questions, size = questions.length) {
     .map((q) => ({ ...q, options: shuffle(q.choices) }));
 }
 
+// Xáo 4 mảnh câu của trò Hái sao, đảm bảo thứ tự hiển thị khác thứ tự đúng
+function shuffleDifferent(list) {
+  for (let i = 0; i < 10; i++) {
+    const s = shuffle(list);
+    if (s.some((x, k) => x !== list[k])) return s;
+  }
+  return [...list].reverse();
+}
+
+// Tạo bộ đề cho trò Hái sao: `pieces` lưu theo thứ tự đúng, `options` là các mảnh đã xáo
+export function buildStarDeck(questions, size = questions.length) {
+  return shuffle(questions)
+    .slice(0, size)
+    .map((q) => ({ ...q, options: shuffleDifferent(q.pieces) }));
+}
+
 // Chọn ngẫu nhiên 1 trò chơi. Nếu có `excludeId` thì cố gắng chọn trò khác trò đó
 export function pickRandomGame(games, excludeId) {
   const playable = games.filter((g) => g.questions.length > 0);

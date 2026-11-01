@@ -71,3 +71,21 @@ mark { background: rgba(244, 180, 0, .18); color: #fff; border-bottom: 3px solid
 .score-big { font-size: 54px; font-weight: 800; margin: 8px 0; color: var(--gold); }
 .empty { text-align: center; opacity: .8; }
 @media (prefers-reduced-motion: reduce) { .bar > div { transition: none; } }
+
+/* ===== Ngữ pháp (feedback mở rộng) ===== */
+.feedback .grammar { color: var(--gold); font-weight: 700; }
+.feedback .explain { font-size: 14px; opacity: .85; line-height: 1.5; }
+.feedback .hint { font-size: 14px; opacity: .75; }
+
+/* ===== Hái sao ===== */
+.slot { display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-width: 3.4em; min-height: 1.9em; margin: 2px 4px; padding: 0 10px; background: #000a12; color: #fff; border: 2px dashed var(--line); border-radius: 8px; font: inherit; font-size: .8em; line-height: 1.4; cursor: pointer; vertical-align: middle; }
+.slot:disabled { cursor: default; }
+.slot.filled { border-style: solid; background: #0b3a48; }
+.slot.star { border-color: var(--gold); }
+.slot.right { background: var(--ok); border-color: var(--ok); }
+.slot.wrong { background: var(--bad); border-color: var(--bad); }
+.slot-no { font: 700 .7em "Segoe UI", Arial, sans-serif; opacity: .8; }
+.slot.star .slot-no { color: var(--gold); opacity: 1; font-size: .9em; }
+.slot.right .slot-no, .slot.wrong .slot-no { color: #fff; }
+.choice.used { opacity: .35; border-style: dashed; }
+.feedback .solution { font-size: 20px; line-height: 1.7; }
