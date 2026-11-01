@@ -1,30 +1,56 @@
 // Kiểm tra dữ liệu trước khi build: chạy bằng `npm run validate` (tự chạy khi `npm run build`)
+// Lỗi  -> build thất bại. Cảnh báo (câu trùng) -> chỉ in ra, không làm build thất bại.
 import { readFileSync } from "node:fs";
 
 // kind: "reading" -> answer = reading, vùng [ ] là chữ Hán (word)
 //       "kanji"   -> answer = word, vùng [ ] là hiragana (reading)
 //       "affix"   -> answer là tiền tố/hậu tố, vùng [ ] là chỗ trống; điền answer vào thì câu phải chứa word
+//       "grammar" -> answer là mẫu ngữ pháp điền vào chỗ trống [ ] (mondai 7)
+//       "star"    -> trò Hái sao (mondai 8): before + 4 mảnh `pieces` theo thứ tự đúng + after
 const FILES = [
   { file: "src/data/reading.json", kind: "reading" },
   { file: "src/data/kanji.json", kind: "kanji" },
   { file: "src/data/affix.json", kind: "affix" },
+  { file: "src/data/grammar.json", kind: "grammar" },
+  { file: "src/data/star.json", kind: "star" },
 ];
+
+const REQUIRED = {
+  reading: ["id", "sentence", "word", "reading", "answer", "choices", "meaning"],
+  kanji: ["id", "sentence", "word", "reading", "answer", "choices", "meaning"],
+  affix: ["id", "sentence", "word", "reading", "answer", "choices", "meaning"],
+  grammar: ["id", "sentence", "answer", "choices", "meaning", "grammar"],
+  star: ["id", "pieces", "meaning"],
+};
 
 // Chấp nhận cả dấu half-width [ ] lẫn full-width ［ ］ để đánh dấu phần cần hỏi
 const MARK_TEST = /[\[［].+[\]］]/;
 const MARK_CAPTURE = /[\[［](.+?)[\]］]/;
 const MARK_REPLACE = /[\[［].+?[\]］]/;
+
 const errors = [];
+const warnings = [];
 
 for (const { file, kind } of FILES) {
   const list = JSON.parse(readFileSync(new URL(`../${file}`, import.meta.url), "utf8"));
   const ids = new Set();
+  const sentences = new Map(); // để cảnh báo câu trùng
+
   list.forEach((q, i) => {
     const at = `${file} #${i + 1} (${q.id ?? "không có id"})`;
-    for (const f of ["id", "sentence", "word", "reading", "answer", "choices", "meaning"])
+    for (const f of REQUIRED[kind])
       if (q[f] === undefined || q[f] === "") errors.push(`${at}: thiếu trường "${f}"`);
     if (ids.has(q.id)) errors.push(`${at}: id bị trùng`);
     ids.add(q.id);
+
+    if (kind === "star") {
+      validateStar(q, at);
+      const key = `${q.before ?? ""}|${(q.pieces ?? []).join("|")}|${q.after ?? ""}`;
+      sentences.set(key, [...(sentences.get(key) ?? []), q.id]);
+      return;
+    }
+
+    // ----- các trò trắc nghiệm 4 đáp án -----
     if (!MARK_TEST.test(q.sentence ?? "")) errors.push(`${at}: sentence cần đánh dấu phần cần hỏi bằng [ ] hoặc ［ ］`);
     if (!Array.isArray(q.choices) || q.choices.length !== 4) errors.push(`${at}: cần đúng 4 đáp án trong choices`);
     else {
@@ -38,14 +64,41 @@ for (const { file, kind } of FILES) {
       const expectedTarget = kind === "reading" ? q.word : q.reading;
       if (q.answer !== q[answerField]) errors.push(`${at}: answer phải trùng với "${answerField}"`);
       if (m && m[1] !== expectedTarget) errors.push(`${at}: phần trong dấu ngoặc ("${m[1]}") phải là "${expectedTarget}"`);
-    } else {
+    } else if (kind === "affix") {
       if (!["prefix", "suffix"].includes(q.type)) errors.push(`${at}: type phải là "prefix" hoặc "suffix"`);
       const filled = (q.sentence ?? "").replace(MARK_REPLACE, q.answer ?? "");
       if (q.word && !filled.includes(q.word)) errors.push(`${at}: điền answer vào chỗ trống thì câu phải chứa từ "${q.word}"`);
+      // tiền tố thì đứng đầu từ, hậu tố thì đứng cuối từ
+      if (q.type === "prefix" && q.word && !q.word.startsWith(q.answer)) errors.push(`${at}: type là "prefix" nhưng từ "${q.word}" không bắt đầu bằng "${q.answer}" (có phải là "suffix"?)`);
+      if (q.type === "suffix" && q.word && !q.word.endsWith(q.answer)) errors.push(`${at}: type là "suffix" nhưng từ "${q.word}" không kết thúc bằng "${q.answer}" (có phải là "prefix"?)`);
     }
+    // kind === "grammar": chỉ cần các kiểm tra chung ở trên
+
+    const key = q.sentence ?? "";
+    sentences.set(key, [...(sentences.get(key) ?? []), q.id]);
   });
+
+  const dup = [...sentences.values()].filter((v) => v.length > 1);
+  if (dup.length)
+    warnings.push(`${file}: ${dup.length} nhóm câu trùng nội dung (vd: ${dup.slice(0, 3).map((v) => v.join(" = ")).join("; ")}${dup.length > 3 ? "; ..." : ""})`);
+
   console.log(`${file}: ${list.length} câu`);
 }
+
+// Kiểm tra riêng cho trò Hái sao
+function validateStar(q, at) {
+  for (const f of ["before", "after"])
+    if (typeof q[f] !== "string") errors.push(`${at}: "${f}" phải là chuỗi (có thể để trống "")`);
+  if (!Array.isArray(q.pieces) || q.pieces.length !== 4) errors.push(`${at}: pieces cần đúng 4 mảnh`);
+  else {
+    if (q.pieces.some((p) => typeof p !== "string" || p === "")) errors.push(`${at}: mỗi mảnh trong pieces phải là chuỗi không rỗng`);
+    if (new Set(q.pieces).size !== 4) errors.push(`${at}: các mảnh trong pieces bị trùng nhau`);
+  }
+  if (!Number.isInteger(q.starIndex) || q.starIndex < 0 || q.starIndex > 3)
+    errors.push(`${at}: starIndex phải là số nguyên từ 0 đến 3 (0 = ô thứ nhất)`);
+}
+
+if (warnings.length) console.warn("\nCảnh báo (không làm build thất bại):\n- " + warnings.join("\n- "));
 
 if (errors.length) {
   console.error("\nDữ liệu có lỗi:\n- " + errors.join("\n- "));

@@ -5,7 +5,7 @@ import { buildDeck, parseSentence, pickRandomGame } from "../lib/quiz.js";
 
 const TYPE_LABEL = { prefix: "Tiền tố 接頭語", suffix: "Hậu tố 接尾語" };
 
-// Trò chơi trắc nghiệm 4 đáp án dùng chung cho mọi bộ câu hỏi (cách đọc, chữ Hán, tiền tố/hậu tố, ...)
+// Trò chơi trắc nghiệm 4 đáp án dùng chung cho mọi bộ câu hỏi (cách đọc, chữ Hán, tiền tố/hậu tố, ngữ pháp, ...)
 export default function QuizGame({ game }) {
   const navigate = useNavigate();
   const [round, setRound] = useState(0);
@@ -119,8 +119,10 @@ export default function QuizGame({ game }) {
         {answered && (
           <>
             <b className={correct ? "ok" : "bad"}>{correct ? "Chính xác!" : `Chưa đúng. Đáp án: ${q.answer}`}</b>
-            <span lang="ja">{q.word}（{q.reading}）</span>
+            {q.word && <span lang="ja">{q.word}{q.reading ? `（${q.reading}）` : ""}</span>}
+            {q.grammar && <span lang="ja" className="grammar">{q.grammar}</span>}
             <span>{q.meaning}</span>
+            {q.explanation && <span className="explain">{q.explanation}</span>}
           </>
         )}
       </div>
