@@ -101,7 +101,7 @@ export default function QuizGame({ game }) {
         {after}
       </p>
 
-      <div className="choices">
+      <div className={"choices" + (game.longChoices ? " long" : "")}>
         {q.options.map((opt, i) => {
           let cls = "choice";
           if (answered && opt === q.answer) cls += " right";

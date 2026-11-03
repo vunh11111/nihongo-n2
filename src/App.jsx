@@ -2,11 +2,17 @@ import { Link, Route, Routes, useLocation } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import QuizGame from "./components/QuizGame.jsx";
 import StarGame from "./components/StarGame.jsx";
+import ReadingGame from "./components/ReadingGame.jsx";
 import { GAMES } from "./games.js";
 
-// Chọn component theo loại trò: "star" = Hái sao, còn lại là trắc nghiệm 4 đáp án
+// Chọn component theo loại trò (game.kind):
+//   "star"    -> Hái sao
+//   "reading" -> bài đọc + nhiều câu hỏi (mondai 9-14)
+//   còn lại   -> trắc nghiệm 4 đáp án
 function GameView({ game }) {
-  return game.kind === "star" ? <StarGame game={game} /> : <QuizGame game={game} />;
+  if (game.kind === "star") return <StarGame game={game} />;
+  if (game.kind === "reading") return <ReadingGame game={game} />;
+  return <QuizGame game={game} />;
 }
 
 export default function App() {

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "l001",
+    "passages": [
+      {
+        "text": "「効率」という言葉は、現代の社会でとてもよく使われる。無駄を省き、できるだけ短い時間で成果を出すことは、確かに大切なことである。しかし、効率ばかりを求めていると、見落としてしまうものもあるのではないか。\n\n私は先日、祖父の家で、祖父が古い時計を一つ一つ分解して修理する様子を見た。新しい時計を買うほうがずっと早くて安いのに、と私が言うと、祖父は「早く直すことが目的ではないんだよ」と笑った。祖父にとって、時計を直す時間は、その時計と過ごしてきた年月を思い出す時間でもあるのだという。\n\n効率の面だけで考えれば、祖父のやり方は無駄に見えるかもしれない。だが、その「無駄」の中にこそ、物を大切にする心や、人とのつながりが育まれてきたのではないだろうか。すべてを効率で測るのではなく、時間がかかることの意味を考え直してみる余裕を、私たちは持つべきだと思う。"
+      }
+    ],
+    "translation": "Từ \"hiệu suất\" được dùng rất nhiều trong xã hội hiện đại. Loại bỏ lãng phí và tạo kết quả trong thời gian ngắn nhất đúng là quan trọng. Nhưng nếu chỉ chạy theo hiệu suất, có lẽ ta sẽ bỏ sót những điều khác.\n\nHôm trước ở nhà ông, tôi thấy ông tháo từng chiếc đồng hồ cũ ra để sửa. Khi tôi nói mua đồng hồ mới sẽ nhanh và rẻ hơn, ông cười: \"Mục đích không phải là sửa cho nhanh\". Với ông, thời gian sửa đồng hồ cũng là thời gian nhớ lại những năm tháng đã sống cùng chiếc đồng hồ đó.\n\nNhìn từ góc độ hiệu suất, cách làm của ông có vẻ lãng phí. Nhưng chính trong sự \"lãng phí\" ấy, lòng quý trọng đồ vật và sự gắn kết giữa người với người đã được nuôi dưỡng. Thay vì đo mọi thứ bằng hiệu suất, chúng ta nên có sự thong thả để suy nghĩ lại ý nghĩa của những việc tốn thời gian.",
+    "questions": [
+      {
+        "id": "l001-1",
+        "prompt": "「早く直すことが目的ではないんだよ」とあるが、祖父にとって時計を直す時間はどのような時間か。",
+        "choices": [
+          "新しい時計を買うための準備をする時間",
+          "時計と過ごしてきた年月を思い出す時間",
+          "孫に修理の方法を教える時間",
+          "無駄な作業を減らす方法を考える時間"
+        ],
+        "answer": "時計と過ごしてきた年月を思い出す時間",
+        "explanation": "Đoạn 2 nêu rõ: 時計を直す時間は、その時計と過ごしてきた年月を思い出す時間でもある."
+      },
+      {
+        "id": "l001-2",
+        "prompt": "筆者は「効率」についてどう考えているか。",
+        "choices": [
+          "効率を求めることは無駄であり、やめるべきだ。",
+          "効率は大切だが、それだけで物事を測ると見落とすものがある。",
+          "効率を上げるためには、古いものを捨てたほうがよい。",
+          "効率よりも、人との会話を増やすことのほうが重要だ。"
+        ],
+        "answer": "効率は大切だが、それだけで物事を測ると見落とすものがある。",
+        "explanation": "Đoạn 1: 確かに大切 nhưng 効率ばかりを求めていると見落としてしまうものもある. Tác giả không phủ nhận hoàn toàn hiệu suất."
+      },
+      {
+        "id": "l001-3",
+        "prompt": "筆者が最も言いたいことは何か。",
+        "choices": [
+          "祖父のように、時計の修理を趣味にすべきだ。",
+          "時間がかかることの意味を考え直す余裕を持つべきだ。",
+          "物は安くて新しいものを買うほうがよい。",
+          "家族とは、できるだけ長い時間を一緒に過ごすべきだ。"
+        ],
+        "answer": "時間がかかることの意味を考え直す余裕を持つべきだ。",
+        "explanation": "Câu kết luận ở đoạn cuối (～余裕を、私たちは持つべきだと思う) là ý chính của tác giả."
+      }
+    ],
+    "level": "N2"
+  }
+]

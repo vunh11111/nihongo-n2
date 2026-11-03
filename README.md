@@ -1,12 +1,23 @@
 # Nihongo N2 - Luyện thi JLPT N2
 
-Web luyện thi JLPT N2 với 5 trò chơi:
+Web luyện thi JLPT N2 với 14 trò chơi, xếp đúng thứ tự các mondai trong đề thi:
 
-1. **Chọn cách đọc**: cho câu có chữ Hán, chọn phiên âm hiragana đúng.
-2. **Chọn chữ Hán**: cho phiên âm hiragana trong câu, chọn chữ Hán đúng.
-3. **Tiền tố / Hậu tố** (mondai 3): chọn tiền tố hoặc hậu tố điền vào chỗ trống.
-4. **Ngữ pháp** (mondai 7): chọn mẫu ngữ pháp thích hợp điền vào chỗ trống.
-5. **Hái sao** (mondai 8): xếp 4 mảnh vào 4 ô trống thành câu đúng; điểm tính theo mảnh nằm ở ô ★ như đề thi thật.
+| Mondai | Trò chơi | Nội dung |
+|---|---|---|
+| 1 | Chọn cách đọc | Chọn phiên âm hiragana đúng của từ được gạch chân |
+| 2 | Chọn chữ Hán | Chọn chữ Hán đúng của từ được gạch chân |
+| 3 | Tiền tố / Hậu tố | Chọn tiền tố hoặc hậu tố điền vào chỗ trống |
+| 4 | Điền từ | Chọn từ vựng thích hợp với ngữ cảnh |
+| 5 | Từ đồng nghĩa | Chọn từ/cụm từ có nghĩa gần nhất |
+| 6 | Cách dùng từ | Chọn câu dùng từ đúng cách nhất |
+| 7 | Ngữ pháp | Chọn mẫu ngữ pháp điền vào chỗ trống |
+| 8 | Hái sao | Xếp 4 mảnh vào 4 ô, điểm tính theo mảnh ở ô ★ |
+| 9 | Đục lỗ | Bài đọc có nhiều chỗ trống, chọn đáp án cho từng chỗ |
+| 10 | Đoản văn | Đọc đoạn văn ngắn, trả lời câu hỏi |
+| 11 | Trung văn | Đọc bài văn cỡ vừa, trả lời câu hỏi |
+| 12 | A và B | Đọc hai bài viết A, B và so sánh ý kiến |
+| 13 | Trường văn | Đọc bài văn dài, nắm ý chính tác giả |
+| 14 | Tìm thông tin | Đọc tài liệu thông tin, chọn đáp án theo điều kiện |
 
 Công nghệ: **Vite + React + React Router** (web tĩnh, không cần server). Dữ liệu nằm trong các file JSON.
 
@@ -35,17 +46,28 @@ File `vercel.json` đã có sẵn để các đường dẫn như `/chon-cach-do
 
 ## Bổ sung database
 
-Mỗi trò có 1 file JSON:
+Mỗi trò có 1 file JSON trong `src/data/`:
 
-| Trò               | File                    |
-|-------------------|-------------------------|
-| Chọn cách đọc     | `src/data/reading.json` |
-| Chọn chữ Hán      | `src/data/kanji.json`   |
-| Tiền tố / Hậu tố  | `src/data/affix.json`   |
-| Ngữ pháp          | `src/data/grammar.json` |
-| Hái sao           | `src/data/star.json`    |
+| Trò | File | Kiểu dữ liệu |
+|---|---|---|
+| Chọn cách đọc | `reading.json` | câu trắc nghiệm |
+| Chọn chữ Hán | `kanji.json` | câu trắc nghiệm |
+| Tiền tố / Hậu tố | `affix.json` | câu trắc nghiệm |
+| Điền từ | `context.json` | câu trắc nghiệm |
+| Từ đồng nghĩa | `synonym.json` | câu trắc nghiệm |
+| Cách dùng từ | `usage.json` | câu trắc nghiệm |
+| Ngữ pháp | `grammar.json` | câu trắc nghiệm |
+| Hái sao | `star.json` | xếp 4 mảnh |
+| Đục lỗ | `cloze.json` | bài đọc + câu hỏi |
+| Đoản văn | `short.json` | bài đọc + câu hỏi |
+| Trung văn | `medium.json` | bài đọc + câu hỏi |
+| A và B | `ab.json` | bài đọc + câu hỏi |
+| Trường văn | `long.json` | bài đọc + câu hỏi |
+| Tìm thông tin | `info.json` | bài đọc + câu hỏi |
 
-### Trò trắc nghiệm (cách đọc, chữ Hán, tiền tố/hậu tố)
+`id` không được trùng trong cùng một file. Chạy `npm run validate` để kiểm tra dữ liệu; lệnh này cũng tự chạy trước `npm run build`, nên dữ liệu sai sẽ làm build thất bại và Vercel báo lỗi rõ ràng. Dữ liệu trùng nội dung chỉ bị cảnh báo, không làm build thất bại.
+
+### Câu trắc nghiệm (mondai 1-7)
 
 ```
 {
@@ -60,28 +82,16 @@ Mỗi trò có 1 file JSON:
 }
 ```
 
-- `sentence`: đánh dấu phần cần hỏi bằng `[ ]`. Trò **Chọn cách đọc** để chữ Hán trong `[ ]`, trò **Chọn chữ Hán** để hiragana trong `[ ]`.
-- `answer`: trò **Chọn cách đọc** thì bằng `reading`, trò **Chọn chữ Hán** thì bằng `word`.
+- `sentence`: đánh dấu phần cần hỏi bằng `[ ]`.
 - `choices`: đúng 4 đáp án khác nhau và phải chứa `answer` (thứ tự được xáo ngẫu nhiên khi chơi).
-- **Tiền tố / Hậu tố**: thêm `type` là `prefix` (từ bắt đầu bằng `answer`) hoặc `suffix` (từ kết thúc bằng `answer`); `[ ]` là chỗ trống.
-
-### Ngữ pháp (mondai 7)
-
-```
-{
-  "id": "g006",
-  "sentence": "留学[ ]、彼は日本語に興味を持つようになった。",
-  "answer": "をきっかけに",
-  "choices": ["をきっかけに", "を問わず", "をめぐって", "をはじめ"],
-  "grammar": "～をきっかけに",
-  "meaning": "Nhân dịp đi du học, anh ấy bắt đầu hứng thú với tiếng Nhật.",
-  "explanation": "Giải thích mẫu ngữ pháp (không bắt buộc).",
-  "level": "N2"
-}
-```
-
-- `[ ]` là chỗ trống; trả lời xong thì đáp án được điền vào câu.
-- Bắt buộc có `grammar` (tên mẫu ngữ pháp) và `meaning` (nghĩa/dịch câu). `explanation` là tùy chọn.
+- Trường bắt buộc theo từng trò:
+  - **Chọn cách đọc / Chọn chữ Hán**: `word`, `reading`. Cách đọc thì `[ ]` chứa chữ Hán và `answer` = `reading`; chữ Hán thì `[ ]` chứa hiragana và `answer` = `word`.
+  - **Tiền tố / Hậu tố**: thêm `type` là `prefix` (từ bắt đầu bằng `answer`) hoặc `suffix` (từ kết thúc bằng `answer`); `[ ]` là chỗ trống.
+  - **Điền từ**: `[ ]` là chỗ trống. `word`, `reading`, `explanation` tùy chọn.
+  - **Từ đồng nghĩa**: `[từ gạch chân]` trong câu, `word` = từ đó, 4 đáp án là từ/cụm từ.
+  - **Cách dùng từ**: `sentence` chỉ gồm từ cần hỏi, ví dụ `"[あいにく]"`, `word` = từ đó, 4 đáp án là 4 câu hoàn chỉnh.
+  - **Ngữ pháp**: `[ ]` là chỗ trống, bắt buộc có `grammar` (tên mẫu ngữ pháp).
+- `explanation` (giải thích) luôn là tùy chọn.
 
 ### Hái sao (mondai 8)
 
@@ -92,30 +102,46 @@ Mỗi trò có 1 file JSON:
   "pieces": ["先輩から", "言われた", "とおりに", "資料を作った"],
   "starIndex": 2,
   "after": "。",
-  "meaning": "Yamada đã làm tài liệu đúng như lời tiền bối nói.",
-  "grammar": "～とおりに",
-  "explanation": "Giải thích (không bắt buộc).",
-  "level": "N2"
+  "meaning": "Yamada đã làm tài liệu đúng như lời tiền bối nói."
 }
 ```
 
 - Câu hoàn chỉnh = `before` + 4 mảnh `pieces` nối theo thứ tự + `after`.
 - `pieces`: đúng 4 mảnh khác nhau, **viết theo thứ tự đúng**; khi chơi sẽ được xáo ngẫu nhiên.
-- `starIndex`: vị trí ô ★ từ 0 đến 3 (đề thi thật thường là `2`, tức ô thứ 3).
-- `before` / `after` có thể là chuỗi rỗng `""`.
+- `starIndex`: vị trí ô ★ từ 0 đến 3 (đề thi thật thường là `2`).
 - Nên chọn mảnh sao cho chỉ có **một** cách xếp đúng.
 
-### Quy tắc chung
+### Bài đọc (mondai 9-14)
 
-- `id` không được trùng trong cùng một file.
+```
+{
+  "id": "m002",
+  "passages": [{ "text": "Nội dung bài đọc...\n\nĐoạn 2... __chữ gạch chân__ ..." }],
+  "translation": "Nghĩa tiếng Việt của bài đọc (không bắt buộc).",
+  "questions": [
+    {
+      "id": "m002-1",
+      "prompt": "Câu hỏi?",
+      "choices": ["đáp án 1", "đáp án 2", "đáp án 3", "đáp án 4"],
+      "answer": "đáp án 2",
+      "explanation": "Giải thích (không bắt buộc)."
+    }
+  ]
+}
+```
 
-Chạy `npm run validate` để kiểm tra dữ liệu. Lệnh này cũng tự chạy trước `npm run build`, nên dữ liệu sai sẽ làm build thất bại và Vercel sẽ báo lỗi rõ ràng thay vì đưa lỗi lên web. Câu trùng nội dung chỉ bị cảnh báo, không làm build thất bại.
+- Mỗi phần tử trong file là **một bài đọc** với nhiều câu hỏi (`questions`).
+- Xuống dòng trong bài đọc dùng `\n`; chữ gạch chân dùng `__chữ__`.
+- **Đoản văn, Trung văn, Trường văn, Tìm thông tin**: `passages` có đúng 1 đoạn. Với Tìm thông tin, đoạn đó là tài liệu (thông báo, bảng giá, lịch...).
+- **A và B**: `passages` có đúng 2 đoạn, thêm `"label": "A"` và `"label": "B"` lần lượt cho từng đoạn.
+- **Đục lỗ**: bài đọc chứa các chỗ trống `[1]`, `[2]`, ... mỗi số đúng 1 lần, khớp thứ tự với `questions`; các câu hỏi không cần `prompt`.
+- Các trò còn lại bắt buộc mỗi câu hỏi có `prompt`.
 
 ## Thêm trò chơi mới
 
 1. Tạo file dữ liệu mới trong `src/data/`.
-2. Thêm một mục vào danh sách `GAMES` trong `src/games.js` (trang chủ và đường dẫn tự cập nhật). Trường `kind`: `"quiz"` cho trắc nghiệm 4 đáp án, `"star"` cho Hái sao.
-3. Nếu trò mới cũng là trắc nghiệm 4 đáp án, component `QuizGame` dùng lại được ngay. Trò có cách chơi khác thì tạo component riêng (như `StarGame`) và rẽ nhánh trong `GameView` ở `src/App.jsx`.
+2. Thêm một mục vào danh sách `GAMES` trong `src/games.js`, đặt đúng vị trí muốn hiển thị (trang chủ và đường dẫn tự cập nhật). Trường `kind`: `"quiz"` (trắc nghiệm), `"star"` (Hái sao) hoặc `"reading"` (bài đọc + nhiều câu hỏi).
+3. Trò có cách chơi khác hoàn toàn thì tạo component riêng và rẽ nhánh trong `GameView` ở `src/App.jsx`.
 4. Thêm quy tắc kiểm tra cho file dữ liệu mới vào `scripts/validate-data.mjs`.
 
 ## Khi database lớn hơn
@@ -126,11 +152,11 @@ Với vài trăm đến vài nghìn câu, để JSON như hiện tại vẫn ch�
 
 ```
 src/
-  data/        reading.json, kanji.json, affix.json, grammar.json, star.json (database)
-  components/  QuizGame.jsx (trắc nghiệm dùng chung), StarGame.jsx (Hái sao)
+  data/        14 file JSON (database, mỗi trò một file)
+  components/  QuizGame.jsx (trắc nghiệm), StarGame.jsx (Hái sao), ReadingGame.jsx (đọc hiểu)
   pages/       Home.jsx (trang chủ)
   lib/         quiz.js (xáo trộn, tách câu, tạo bộ đề)
-  games.js     danh sách trò chơi
-  styles.css   giao diện (nền tối, chữ trắng, như bộ Football Hub)
+  games.js     danh sách trò chơi theo thứ tự mondai
+  styles.css   giao diện (nền tối, chữ trắng)
 scripts/       validate-data.mjs (kiểm tra dữ liệu)
 ```

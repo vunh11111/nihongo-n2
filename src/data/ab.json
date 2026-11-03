@@ -1,0 +1,43 @@
+[
+  {
+    "id": "b001",
+    "passages": [
+      {
+        "label": "A",
+        "text": "テレワークは、通勤の時間がなくなるので、自分の時間を有効に使える働き方だ。また、家族と過ごす時間も増えるため、仕事と生活のバランスが取りやすい。会社に来る回数が減っても、オンラインで会議ができれば、仕事に大きな問題はないと思う。"
+      },
+      {
+        "label": "B",
+        "text": "テレワークには、便利な面がある一方で、同僚との何気ない会話が減るという問題がある。雑談の中から新しいアイデアが生まれることも多い。そのため、仕事の効率だけでなく、人とのつながりも考えて、週に何日かは出社する日を決めるほうがよいと思う。"
+      }
+    ],
+    "translation": "A: Làm việc từ xa giúp không mất thời gian đi lại nên dùng thời gian hiệu quả, có thêm thời gian cho gia đình, dễ cân bằng công việc và cuộc sống. Dù đến công ty ít đi, nếu họp online được thì không có vấn đề lớn.\nB: Làm việc từ xa có mặt tiện lợi nhưng làm giảm những cuộc trò chuyện bâng quơ với đồng nghiệp, mà ý tưởng mới thường nảy sinh từ đó. Vì vậy nên quy định vài ngày mỗi tuần đến công ty, cân nhắc cả sự gắn kết giữa người với người.",
+    "questions": [
+      {
+        "id": "b001-1",
+        "prompt": "テレワークについて、AとBに共通している考えはどれか。",
+        "choices": [
+          "テレワークは、生活と仕事のバランスを取りやすくする。",
+          "テレワークには便利な面がある。",
+          "テレワークでは雑談が増えるので、アイデアが生まれやすい。",
+          "出社する回数はできるだけ減らすべきだ。"
+        ],
+        "answer": "テレワークには便利な面がある。",
+        "explanation": "A nêu nhiều lợi ích; B nói 便利な面がある一方で～. Cả hai đều thừa nhận mặt tiện lợi. Các đáp án khác chỉ đúng với một bên hoặc sai."
+      },
+      {
+        "id": "b001-2",
+        "prompt": "AとBの筆者の考えの違いはどれか。",
+        "choices": [
+          "Aは時間の使い方を重視し、Bは人とのつながりも大切だと考えている。",
+          "Aはテレワークに反対で、Bは賛成している。",
+          "Aは会議をオンラインにすることに反対し、Bは賛成している。",
+          "Aは出社を増やすことを、Bは減らすことを勧めている。"
+        ],
+        "answer": "Aは時間の使い方を重視し、Bは人とのつながりも大切だと考えている。",
+        "explanation": "A nhấn mạnh việc dùng thời gian hiệu quả, còn B lo về việc ít trò chuyện nên coi trọng 人とのつながり và đề xuất có ngày đến công ty."
+      }
+    ],
+    "level": "N2"
+  }
+]

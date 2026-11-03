@@ -1,0 +1,38 @@
+[
+  {
+    "id": "m001",
+    "passages": [
+      {
+        "text": "地方の商店街では、シャッターを閉めたままの店が増えている。大型ショッピングセンターができて客が減ったことが、最大の原因だと言われてきた。しかし、最近の調査では、__客が減ったから店が閉まる__のではなく、後継者がいないために店を閉じるケースが多いことがわかってきた。店主の高齢化が進み、子どもたちは都会で働いているため、店を継ぐ人がいないのである。\n\nそこで、ある町では、空き店舗を安く貸し出し、若い人が新しく店を開けるよう支援を始めた。最初は小さなパン屋や雑貨店が数軒できただけだったが、それを目当てに訪れる人が増え、今では週末に人通りが戻りつつある。商店街を守るには、客を呼ぶこと以上に、店を担う人を育てることが大切なのかもしれない。"
+      }
+    ],
+    "translation": "Ở các khu phố buôn bán vùng quê, ngày càng nhiều cửa hàng đóng cửa. Người ta từng cho rằng nguyên nhân chính là khách giảm do trung tâm mua sắm lớn. Nhưng điều tra gần đây cho thấy nhiều cửa hàng đóng cửa vì không có người kế nghiệp: chủ tiệm lớn tuổi, con cái làm việc ở thành phố.\n\nVì vậy, một thị trấn đã cho thuê cửa hàng trống giá rẻ để hỗ trợ người trẻ mở tiệm mới. Ban đầu chỉ có vài tiệm bánh mì, tạp hóa nhỏ nhưng khách đến ngày càng nhiều, cuối tuần phố đã đông trở lại. Để giữ khu phố, việc đào tạo người gánh vác cửa hàng có thể quan trọng hơn việc thu hút khách.",
+    "questions": [
+      {
+        "id": "m001-1",
+        "prompt": "「客が減ったから店が閉まる」とあるが、筆者はこの考えについてどう考えているか。",
+        "choices": [
+          "客が減ることが、店が閉まる唯一の原因である。",
+          "客の減少よりも、後継者がいないことが大きな原因になっている。",
+          "大型ショッピングセンターが増えたので、店主が高齢になった。",
+          "子どもたちが都会で働くようになったのは、客が減ったためである。"
+        ],
+        "answer": "客の減少よりも、後継者がいないことが大きな原因になっている。",
+        "explanation": "Tác giả dùng ~のではなく để phủ định, rồi nêu nguyên nhân thực sự là 後継者がいない (không có người kế nghiệp)."
+      },
+      {
+        "id": "m001-2",
+        "prompt": "筆者は、商店街を守るために何が大切だと考えているか。",
+        "choices": [
+          "大型ショッピングセンターをなくすこと",
+          "店を担う人を育てること",
+          "週末だけ店を開けること",
+          "空き店舗を高く貸し出して収入を得ること"
+        ],
+        "answer": "店を担う人を育てること",
+        "explanation": "Câu cuối: 客を呼ぶこと以上に、店を担う人を育てることが大切 (quan trọng hơn cả việc thu hút khách là đào tạo người gánh vác cửa hàng)."
+      }
+    ],
+    "level": "N2"
+  }
+]
