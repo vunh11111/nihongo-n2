@@ -3,6 +3,7 @@ import Home from "./pages/Home.jsx";
 import QuizGame from "./components/QuizGame.jsx";
 import StarGame from "./components/StarGame.jsx";
 import ReadingGame from "./components/ReadingGame.jsx";
+import Exam from "./pages/Exam.jsx";
 import { GAMES } from "./games.js";
 
 // Chọn component theo loại trò (game.kind):
@@ -26,11 +27,12 @@ export default function App() {
         ) : (
           <Link className="btn ghost" to="/">← Trang chủ</Link>
         )}
-        {!onHome && <strong className="top-title">{GAMES.find((g) => g.path === pathname)?.title}</strong>}
+        {!onHome && <strong className="top-title">{pathname === "/thi-thu" ? "Thi thử" : GAMES.find((g) => g.path === pathname)?.title}</strong>}
       </header>
       <main className="main">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/thi-thu" element={<Exam />} />
           {GAMES.map((g) => (
             <Route key={g.id} path={g.path} element={<GameView key={g.id} game={g} />} />
           ))}

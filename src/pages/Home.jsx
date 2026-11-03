@@ -12,6 +12,7 @@ export default function Home() {
       <p className="sub">Luyện thi JLPT N2 theo từng mondai - chọn một trò chơi để bắt đầu</p>
       <div className="random">
         <button className="btn primary big" onClick={playRandom}>🎲 Chơi ngẫu nhiên</button>
+        <Link className="btn big exam-link" to="/thi-thu">📝 Thi thử như đề thật</Link>
       </div>
       <div className="cards">
         {GAMES.map((g) => (

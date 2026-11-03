@@ -21,6 +21,22 @@ Web luyện thi JLPT N2 với 14 trò chơi, xếp đúng thứ tự các mondai
 
 Công nghệ: **Vite + React + React Router** (web tĩnh, không cần server). Dữ liệu nằm trong các file JSON.
 
+## Thi thử như đề thật
+
+Vào `/thi-thu` (nút **Thi thử như đề thật** ở trang chủ). Có 3 chế độ:
+
+| Chế độ | Gồm | Thời gian |
+|---|---|---|
+| Từ vựng + Ngữ pháp | Mondai 1 → 9 | 30-40 phút (chọn bằng thanh trượt, mặc định 35) |
+| Đọc hiểu | Mondai 10 → 14 | 65-75 phút (mặc định 70) |
+| Toàn bộ đề | Mondai 1 → 14 | 105 phút |
+
+- Đề tạo ngẫu nhiên từ database: mondai 1-8 lấy 5 / 5 / 3 / 7 / 5 / 5 / 12 / 5 câu; mondai 9-14 lấy 1 / 5 / 3 / 1 / 1 / 1 **bài** (số câu hỏi theo dữ liệu của từng bài, ví dụ m10 mỗi bài 1 câu, m11 mỗi bài 3 câu). Cấu trúc này nằm trong `EXAM_SPEC` ở `src/lib/exam.js`.
+- Một đề không bao giờ có hai câu trùng nội dung. Database chưa đủ thì đề lấy tối đa số hiện có, màn chọn chế độ có bảng "Cần / Database có".
+- Khi làm bài không hiện đáp án đúng/sai, có thể quay lại sửa, đánh dấu xem lại, phím 1-4 chọn đáp án, phím ← → đổi câu. Hết giờ tự nộp bài.
+- Kết quả gồm số câu đúng theo từng mondai và tổng, kèm phần xem lại đáp án và giải thích. Hái sao chỉ chấm theo mảnh ở ô ★ như đề thật.
+- Tiến độ không được lưu: tải lại trang là mất bài đang làm.
+
 ## Chạy trên máy
 
 Cần Node.js 18 trở lên.
