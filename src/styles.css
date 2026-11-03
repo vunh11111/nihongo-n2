@@ -111,3 +111,63 @@ mark { background: rgba(244, 180, 0, .18); color: #fff; border-bottom: 3px solid
 .trans { margin-top: 6px; font-size: 14px; line-height: 1.6; }
 .trans summary { cursor: pointer; color: var(--accent); }
 .trans p { margin: 6px 0 0; opacity: .9; white-space: pre-line; }
+
+
+/* ===== Trang chủ: hai nút phía trên ===== */
+.random { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+.btn.exam-link { background: var(--gold); color: #02161f; }
+
+/* ===== Thi thử: chọn chế độ ===== */
+.exam-setup h2, .exam-result h2 { margin: 6px 0; }
+.exam-setup .sub { text-align: left; margin: 0 0 18px; }
+.mode-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-bottom: 14px; }
+.mode-card { display: flex; flex-direction: column; gap: 6px; text-align: left; background: var(--panel); color: #fff; border: 2px solid var(--line); border-radius: 12px; padding: 16px; font: inherit; cursor: pointer; }
+.mode-card b { font-size: 18px; }
+.mode-card span { font-size: 14px; opacity: .85; }
+.mode-card em { font-style: normal; font-size: 13px; background: #0b5566; border-radius: 20px; padding: 3px 12px; align-self: flex-start; }
+.mode-card.selected { border-color: var(--gold); background: #03202c; }
+.time-box { margin-bottom: 14px; }
+.time-box p { margin: 0; }
+.time-box input[type="range"] { width: 100%; margin: 10px 0 2px; accent-color: var(--gold); }
+.range-ends { display: flex; justify-content: space-between; font-size: 12px; opacity: .7; }
+.avail { width: 100%; border-collapse: collapse; font-size: 14px; }
+.avail th, .avail td { text-align: left; padding: 7px 8px; border-bottom: 1px solid #0b3a48; }
+.avail tr.lack td { color: #ff8a80; }
+.warn-text { margin: 10px 0 0; font-size: 14px; color: var(--gold); }
+.exam-setup .row { margin: 16px 0; }
+
+/* ===== Thi thử: đang làm bài ===== */
+.exam-bar { position: sticky; top: 0; z-index: 5; display: flex; align-items: center; justify-content: space-between; gap: 10px; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; margin-bottom: 12px; }
+.timer { font: 800 22px "Segoe UI", Arial, sans-serif; font-variant-numeric: tabular-nums; }
+.timer.warn { color: #ff8a80; }
+.exam-count { font-size: 14px; opacity: .85; }
+.exam-run .panel { margin-bottom: 12px; }
+.confirm p { margin: 0 0 6px; line-height: 1.6; }
+.confirm .bad { color: #ff8a80; }
+.row.between { justify-content: space-between; flex-wrap: wrap; margin-top: 16px; }
+.btn.flag-on { background: #7a5a00; }
+.choice.picked { border-color: var(--gold); background: #0b3a48; }
+.gap.filled { color: var(--gold); border-color: var(--gold); }
+.exam-nav .nav-group { margin-bottom: 10px; }
+.nav-label { display: block; font-size: 12px; opacity: .8; margin-bottom: 4px; }
+.nav-btns { display: flex; flex-wrap: wrap; gap: 6px; }
+.nav-btn { min-width: 38px; height: 34px; padding: 0 8px; display: inline-grid; place-items: center; background: #000a12; color: #fff; border: 2px solid var(--line); border-radius: 8px; font: 700 14px "Segoe UI", Arial, sans-serif; cursor: pointer; }
+.nav-btn.done { background: #0b5566; }
+.nav-btn.flagged { border-color: var(--gold); color: var(--gold); }
+.nav-btn.current { outline: 3px solid var(--accent); outline-offset: 1px; }
+.nav-legend { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0 0; font-size: 12px; }
+.nav-legend .nav-btn { cursor: default; height: 26px; font-size: 12px; }
+
+/* ===== Thi thử: kết quả ===== */
+.exam-result .panel { margin-bottom: 12px; }
+.exam-result h3 { margin: 0 0 10px; font-size: 17px; }
+.sections { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+.res-row { display: grid; grid-template-columns: minmax(130px, 220px) 1fr 52px; align-items: center; gap: 10px; margin: 6px 0; font-size: 14px; }
+.res-bar { height: 8px; background: #0b3a48; border-radius: 4px; overflow: hidden; }
+.res-bar > div { height: 100%; background: var(--accent); }
+.res-num { text-align: right; font-variant-numeric: tabular-nums; }
+.review-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; margin: 22px 0 10px; }
+.review-head h3 { margin: 0; }
+.check { font-size: 14px; display: flex; align-items: center; gap: 6px; cursor: pointer; }
+.review-item .meta .ok { color: #6ee7a0; font-weight: 700; }
+.review-item .meta .bad { color: #ff8a80; font-weight: 700; }
