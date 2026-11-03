@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <section className="home">
       <h1>NIHONGO <span>N2</span></h1>
-      <p className="sub">Luyện từ vựng JLPT N2 - chọn một trò chơi để bắt đầu</p>
+      <p className="sub">Luyện thi JLPT N2 theo từng mondai - chọn một trò chơi để bắt đầu</p>
       <div className="random">
         <button className="btn primary big" onClick={playRandom}>🎲 Chơi ngẫu nhiên</button>
       </div>
@@ -17,9 +17,10 @@ export default function Home() {
         {GAMES.map((g) => (
           <Link key={g.id} to={g.path} className="card">
             <i>{g.icon}</i>
+            {g.mondai && <small>Mondai {g.mondai}</small>}
             <b>{g.title}</b>
             <span>{g.desc}</span>
-            <em>{g.questions.length} câu trong database</em>
+            <em>{g.questions.length} {g.unit ?? "câu"} trong database</em>
           </Link>
         ))}
       </div>

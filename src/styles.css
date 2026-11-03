@@ -89,3 +89,25 @@ mark { background: rgba(244, 180, 0, .18); color: #fff; border-bottom: 3px solid
 .slot.right .slot-no, .slot.wrong .slot-no { color: #fff; }
 .choice.used { opacity: .35; border-style: dashed; }
 .feedback .solution { font-size: 20px; line-height: 1.7; }
+
+
+/* ===== Trang chủ: nhãn mondai ===== */
+.card small { font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+
+/* ===== Cách dùng từ: đáp án là câu dài ===== */
+.choices.long { grid-template-columns: 1fr; }
+.choices.long .choice { font-size: 17px; line-height: 1.6; }
+
+/* ===== Đọc hiểu (mondai 9-14) ===== */
+.passages { display: flex; flex-direction: column; gap: 12px; margin: 16px 0 18px; }
+.passage { background: #000a12; border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; font-size: 18px; line-height: 2; white-space: pre-wrap; }
+.passage-label { display: block; color: var(--gold); font-size: 20px; font-weight: 800; margin-bottom: 2px; }
+.passage u { text-decoration-color: var(--gold); text-decoration-thickness: 2px; text-underline-offset: 5px; }
+.gap { display: inline-block; min-width: 3.4em; margin: 0 2px; padding: 0 8px; text-align: center; font-size: .9em; border-bottom: 2px solid var(--line); border-radius: 4px 4px 0 0; }
+.gap.current { border-color: var(--gold); background: rgba(244, 180, 0, .18); }
+.gap.right { color: #6ee7a0; border-color: var(--ok); }
+.gap.wrong { color: #ff8a80; border-color: var(--bad); }
+.q-prompt { margin: 8px 0 12px; font-size: 18px; line-height: 1.7; font-weight: 600; }
+.trans { margin-top: 6px; font-size: 14px; line-height: 1.6; }
+.trans summary { cursor: pointer; color: var(--accent); }
+.trans p { margin: 6px 0 0; opacity: .9; white-space: pre-line; }
