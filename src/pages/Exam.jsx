@@ -83,14 +83,13 @@ export default function Exam() {
       <div className="panel">
         <table className="avail">
           <thead>
-            <tr><th>Mondai</th><th>Cần</th><th>Database có</th></tr>
+            <tr><th>Mondai</th><th>Số lượng</th></tr>
           </thead>
           <tbody>
             {rows.map((r) => (
               <tr key={r.mondai} className={r.have < r.need ? "lack" : ""}>
                 <td>{r.mondai}. {r.title}</td>
                 <td>{r.need} {r.unit}</td>
-                <td>{r.have} {r.unit}{r.have < r.need ? " (thiếu)" : ""}</td>
               </tr>
             ))}
           </tbody>

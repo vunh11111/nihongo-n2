@@ -106,6 +106,7 @@ export const GAMES = [
     prompt: "Chọn câu dùng từ này đúng cách nhất",
     roundSize: ROUND_SIZE,
     longChoices: true,
+    keepOrder: true, 
     questions: usageData,
   },
   {

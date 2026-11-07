@@ -1,3 +1,1794 @@
 [
-{ "id": "c001", "sentence": "今週は忙しかったから、週末は家で[ ]テレビを見ていた。", "word": "のんびり", "reading": "のんびり", "answer": "のんびり", "choices": ["のろのろ", "のんびり", "ぐるぐる", "ぐっすり"], "meaning": "Tuần này bận rộn nên cuối tuần tôi ở nhà thong thả xem ti vi.", "explanation": "のんびり: thong thả, thoải mái. のろのろ là chậm chạp, ぐるぐる là xoay vòng vòng, ぐっすり là ngủ say.", "level": "N2" }, { "id": "c002", "sentence": "マラソンでは周りの人にあわせようとしないで、[ ]で走るといい。", "word": "マイペース", "reading": "まいぺーす", "answer": "マイペース", "choices": ["テクニック", "フレッシュ", "アプローチ", "マイペース"], "meaning": "Trong cuộc chạy marathon, không nên cố hùa theo mọi người xung quanh mà hãy chạy theo nhịp độ của riêng mình.", "explanation": "マイペース: nhịp độ riêng của bản thân. テクニック là kỹ thuật, フレッシュ là tươi mới, アプローチ là cách tiếp cận.", "level": "N2" }, { "id": "c003", "sentence": "あの店はサービスがいいと[ ]だ。", "word": "評判", "reading": "ひょうばん", "answer": "評判", "choices": ["評判", "評価", "診断", "決断"], "meaning": "Cửa hàng đó có tiếng là dịch vụ tốt.", "explanation": "評判: tiếng tăm, danh tiếng. 評判だ nghĩa là có tiếng, được đánh giá tốt bởi mọi người.", "level": "N2" }, { "id": "c004", "sentence": "彼女とは久しぶりに会ったので、何時間話しても話が[ ]。", "word": "尽きる", "reading": "つける", "answer": "尽きない", "choices": ["粘らない", "限らない", "尽きない", "衰えない"], "meaning": "Vì lâu lắm mới gặp lại cô ấy nên trò chuyện bao nhiêu tiếng đồng hồ câu chuyện vẫn không hồi kết.", "explanation": "話が尽きない: câu chuyện không bao giờ cạn hoặc hết.", "level": "N2" }, { "id": "c005", "sentence": "練習の成果が[ ]できれば、きっと優勝できるだろう。", "word": "発揮", "reading": "はっき", "answer": "発揮", "choices": ["発揮", "発生", "発行", "発明"], "meaning": "Nếu có thể phát huy được thành quả luyện tập thì nhất định sẽ vô địch.", "explanation": "成果を発揮する: phát huy thành quả, năng lực.", "level": "N2" }, { "id": "c006", "sentence": "この表現は[ ]でわかりにくい。", "word": "あいまい", "reading": "あいまい", "answer": "あいまい", "choices": ["軟弱", "質素", "あいまい", "ささやか"], "meaning": "Mẫu biểu đạt này mập mờ nên rất khó hiểu.", "explanation": "あいまい: mơ hồ, mập mờ, không rõ ràng.", "level": "N2" }, { "id": "c007", "sentence": "この切符は、明日まで[ ]です。", "word": "有効", "reading": "ゆうこう", "answer": "有効", "choices": ["利点", "権利", "効用", "有効"], "meaning": "Vé này có hiệu lực cho đến ngày mai.", "explanation": "有効: có hiệu lực.", "level": "N2" }, { "id": "c008", "sentence": "あの町の人口は[ ]減少している。", "word": "徐々に", "reading": "じょじょに", "answer": "徐々に", "choices": ["軽々と", "順々に", "徐々に", "細々と"], "meaning": "Dân số của thị trấn đó đang giảm dần dần.", "explanation": "徐々に: từ từ, dần dần.", "level": "N2" }, { "id": "c009", "sentence": "最近、物価が[ ]している。", "word": "上昇", "reading": "じょうしょう", "answer": "上昇", "choices": ["増加", "上達", "増大", "上昇"], "meaning": "Dạo gần đây giá cả đang tăng lên.", "explanation": "物価が上昇する: giá cả gia tăng hoặc tăng vọt.", "level": "N2" }, { "id": "c010", "sentence": "多くの人が旅行する[ ]は、飛行機のチケットが高い。", "word": "シーズン", "reading": "しーずん", "answer": "シーズン", "choices": ["シリーズ", "タイム", "シーズン", "チャンス"], "meaning": "Mùa mà nhiều người đi du lịch thì vé máy bay rất đắt.", "explanation": "シーズン: mùa, thời điểm cao điểm trong năm.", "level": "N2" }, { "id": "c011", "sentence": "私の上司はとても[ ]で、今まで怒ったのを見たことがない。", "word": "温厚", "reading": "おんこう", "answer": "温厚", "choices": ["優良", "温暖", "良性", "温厚"], "meaning": "Sếp của tôi rất hiền lành ôn hòa, từ trước tới giờ tôi chưa từng thấy ông ấy tức giận.", "explanation": "温厚: hiền hòa, ôn hòa chỉ tính cách con người.", "level": "N2" }, { "id": "c012", "sentence": "この数カ月、新しいゲームが[ ]発売されている。", "word": "相次ぐ", "reading": "あいつぐ", "answer": "相次いで", "choices": ["相次いで", "間もなく", "ぐんぐん", "すいすい"], "meaning": "Mấy tháng gần đây, các trò chơi mới liên tiếp được mở bán.", "explanation": "相次いで: liên tiếp, dồn dập xảy ra.", "level": "N2" }, { "id": "c013", "sentence": "池田さんはまじめすぎて、冗談が[ ]。", "word": "通じる", "reading": "つうじる", "answer": "通じない", "choices": ["当たらない", "渡らない", "構わない", "通じない"], "meaning": "Anh Ikeda quá nghiêm túc nên nói đùa anh ấy không hiểu.", "explanation": "冗談が通じない: nói đùa không lọt tai hoặc không hiểu câu chuyện đùa.", "level": "N2" }, { "id": "c014", "sentence": "このホテルの宿泊料金には、朝食も[ ]いる。", "word": "含む", "reading": "ふくむ", "answer": "含まれて", "choices": ["含まれて", "納めれて", "割り込まれて", "詰め込まれて"], "meaning": "Tiền phòng khách sạn này đã bao gồm cả bữa sáng.", "explanation": "含まれる: được bao gồm trong giá cả hoặc chi phí.", "level": "N2" }, { "id": "c015", "sentence": "さまざまなデータを[ ]した結果、事故の原因が明らかになった。", "word": "分析", "reading": "ぶんせき", "answer": "分析", "choices": ["視察", "検査", "発明", "分析"], "meaning": "Sau khi phân tích nhiều dữ liệu khác nhau, nguyên nhân vụ tai nạn đã được làm rõ.", "explanation": "データを分析する: phân tích dữ liệu.", "level": "N2" }, { "id": "c016", "sentence": "街を[ ]していたら、山本さんに会った。", "word": "ぶらぶら", "reading": "ぶらぶら", "answer": "ぶらぶら", "choices": ["ぐらぐら", "がらがら", "ばらばら", "ぶらぶら"], "meaning": "Khi tôi đang đi dạo thong dong trên phố thì tình cờ gặp anh Yamamoto.", "explanation": "ぶらぶらする: đi dạo quanh thong thả, đi lang thang.", "level": "N2" }, { "id": "c017", "sentence": "祭りの日は町が[ ]にあふれている。", "word": "活気", "reading": "かっき", "answer": "活気", "choices": ["活気", "活発", "活躍", "活動"], "meaning": "Vào ngày lễ hội, thị trấn tràn ngập không khí sôi động sầm uất.", "explanation": "活気にあふれる: tràn ngập sức sống, sôi động.", "level": "N2" }, { "id": "c018", "sentence": "コピー機に紙が[ ]、出てこない。", "word": "詰まる", "reading": "つまる", "answer": "つまって", "choices": ["もぐって", "つまって", "しずんで", "うまって"], "meaning": "Giấy bị kẹt trong máy photo nên không chui ra được.", "explanation": "紙が詰まる: giấy bị mắc kẹt.", "level": "N2" }, { "id": "c019", "sentence": "この小説は今の時代を[ ]した作品だ。", "word": "反映", "reading": "はんえい", "answer": "反映", "choices": ["反映", "放映", "引用", "採用"], "meaning": "Cuốn tiểu thuyết này là một tác phẩm phản ánh thời đại ngày nay.", "explanation": "時代を反映する: phản ánh thời đại.", "level": "N2" }, { "id": "c020", "sentence": "田中さんは長い間[ ]窓の外を見ていた。", "word": "ぼんやり", "reading": "ぼんやり", "answer": "ぼんやり", "choices": ["ぼんやり", "ふんわり", "うっすら", "しっとり"], "meaning": "Anh Tanaka nhìn ra ngoài cửa sổ một cách thẫn thờ suốt thời gian dài.", "explanation": "ぼんやり: thẫn thờ, lơ đãng, mơ hồ.", "level": "N2" }, { "id": "c021", "sentence": "経済だけでなく、法律にも詳しいのが彼の[ ]だ。", "word": "強み", "reading": "つよみ", "answer": "強み", "choices": ["深み", "強み", "高み", "重み"], "meaning": "Không chỉ kinh tế mà am hiểu cả luật pháp chính là điểm mạnh của anh ấy.", "explanation": "強み: thế mạnh, điểm mạnh.", "level": "N2" }, { "id": "c022", "sentence": "ストレスを[ ]するために、何かしていますか。", "word": "解消", "reading": "かいしょう", "answer": "解消", "choices": ["解消", "削除", "減量", "停止"], "meaning": "Bạn có làm gì để giải tỏa căng thẳng không?", "explanation": "ストレスを解消する: giải tỏa căng thẳng.", "level": "N2" }, { "id": "c023", "sentence": "生活習慣を[ ]してから、ほとんど病気をしなくなりました。", "word": "改善", "reading": "かいぜん", "answer": "改善", "choices": ["訂正", "変換", "整備", "改善"], "meaning": "Từ khi cải thiện thói quen sinh hoạt, tôi hầu như không còn bị ốm nữa.", "explanation": "生活習慣を改善する: cải thiện thói quen sinh hoạt.", "level": "N2" }, { "id": "c024", "sentence": "申し込みの締め切りは明日に[ ]いる。", "word": "迫る", "reading": "せまる", "answer": "迫って", "choices": ["迫って", "限って", "寄って", "至って"], "meaning": "Hạn chót đăng ký đang tiến đến gần vào ngày mai.", "explanation": "締め切りが迫る: hạn chót đang đến gần.", "level": "N2" }, { "id": "c025", "sentence": "日曜だから込んでいるかと思ったけど、[ ]すいているね。", "word": "わりと", "reading": "わりと", "answer": "わりと", "choices": ["たいして", "どうりで", "わりと", "よけい"], "meaning": "Tưởng là chủ nhật thì sẽ đông, ai ngờ tương đối vắng vẻ nhỉ.", "explanation": "わりと: tương đối, khá là.", "level": "N2" }, { "id": "c026", "sentence": "組織のトップに立つ人間は、広い[ ]を持つことが必要だ。", "word": "視野", "reading": "しや", "answer": "視野", "choices": ["視界", "視野", "視線", "視察"], "meaning": "Người đứng ở vị trí lãnh đạo tổ chức cần phải có tầm nhìn rộng mở.", "explanation": "広い視野を持つ: có tầm nhìn hoặc tầm mắt rộng.", "level": "N2" }, { "id": "c027", "sentence": "シャワーを浴びたら、体も気分も[ ]した。", "word": "さっぱり", "reading": "さっぱり", "answer": "さっぱり", "choices": ["さらさら", "きらきら", "さっぱり", "きっぱり"], "meaning": "Tắm vòi hoa sen xong, cả cơ thể lẫn tâm trạng đều thấy sảng khoái.", "explanation": "さっぱりする: sảng khoái, dễ chịu nhẹ nhõm.", "level": "N2" }, { "id": "c028", "sentence": "この携帯電話にはいろいろな[ ]がついている。", "word": "機能", "reading": "きのう", "answer": "機能", "choices": ["効用", "才能", "機能", "効力"], "meaning": "Chiếc điện thoại di động này có tích hợp nhiều tính năng đa dạng.", "explanation": "機能がついている: có trang bị hoặc tích hợp tính năng.", "level": "N2" }, { "id": "c029", "sentence": "子どもが遊んだあとは、おもちゃが[ ]いる。", "word": "散らかる", "reading": "ちらかる", "answer": "散らかって", "choices": ["飛び越えて", "散らかって", "見わたして", "落ち込んで"], "meaning": "Sau khi trẻ con chơi xong, đồ chơi bày bừa bộn khắp nơi.", "explanation": "おもちゃが散らかる: đồ chơi bị bày bừa bãi.", "level": "N2" }, { "id": "c030", "sentence": "田中選手はサッカーの日本代表に選ばれたが、けがを理由に代表を[ ]した。", "word": "辞退", "reading": "じたい", "answer": "辞退", "choices": ["避難", "逃避", "退場", "辞退"], "meaning": "Tuyển thủ Tanaka đã được chọn vào đội tuyển quốc gia Nhật Bản, nhưng lấy lý do chấn thương nên đã xin rút lui.", "explanation": "辞退する: từ chối, khước từ, xin rút lui.", "level": "N2" }, { "id": "c031", "sentence": "今回の調査で[ ]結果は、今後のサービス向上に生かしていきたい。", "word": "得る", "reading": "える", "answer": "得た", "choices": ["にぎった", "はさんだ", "得た", "込めた"], "meaning": "Những kết quả thu được qua cuộc khảo sát lần này, chúng tôi muốn vận dụng vào việc nâng cao chất lượng dịch vụ trong tương lai.", "explanation": "結果を得る: thu được hoặc đạt được kết quả.", "level": "N2" }, { "id": "c032", "sentence": "大きな荷物を[ ]いたので、携帯電話に出られなかった。", "word": "抱える", "reading": "かかえる", "answer": "かかえて", "choices": ["だいて", "いだいて", "かかえて", "だきしめて"], "meaning": "Vì đang ôm hành lý to nên tôi không thể nghe điện thoại di động được.", "explanation": "荷物をかかえる: ôm hoặc mang hành lý cồng kềnh trong tay.", "level": "N2" }, { "id": "c033", "sentence": "法律が[ ]されて、申請方法が以前とは大幅に変わりました。", "word": "改正", "reading": "かいせい", "answer": "改正", "choices": ["改正", "改造", "転換", "変換"], "meaning": "Luật pháp đã được sửa đổi nên phương thức nộp đơn đã thay đổi lớn so với trước đây.", "explanation": "法律が改正される: luật pháp được sửa đổi.", "level": "N2" }, { "id": "c034", "sentence": "読書に[ ]なっていて、友達との約束時間を忘れていた。", "word": "夢中", "reading": "むちゅう", "answer": "夢中に", "choices": ["好調に", "夢中に", "頑固に", "強引に"], "meaning": "Tôi mải mê đọc sách đến mức quên cả giờ hẹn với bạn.", "explanation": "夢中になる: mải mê, hăng hái đắm chìm vào.", "level": "N2" }, { "id": "c035", "sentence": "目が覚めたが、まだ時間が早かったので、しばらくベッドで[ ]していた。", "word": "ごろごろ", "reading": "ごろごろ", "answer": "ごろごろ", "choices": ["ごろごろ", "ぶらぶら", "ゆらゆら", "うろうろ"], "meaning": "Tôi đã tỉnh giấc nhưng vì còn sớm nên nằm thong thả lười biếng trên giường một lúc.", "explanation": "ごろごろする: nằm lăn lộn thong thả lười biếng.", "level": "N2" }, { "id": "c036", "sentence": "栄養が[ ]ように、いろいろな食品をたべたほうがいい。", "word": "偏る", "reading": "かたよる", "answer": "かたよらない", "choices": ["はぶかれない", "はずされない", "かたよらない", "かたむかない"], "meaning": "Nên ăn đa dạng thực phẩm để dinh dưỡng không bị mất cân bằng thiên lệch.", "explanation": "栄養が偏る: dinh dưỡng bị mất cân bằng hoặc thiên lệch.", "level": "N2" }, { "id": "c037", "sentence": "ダムの建設は計画通り[ ]進んでいる。", "word": "着々と", "reading": "ちゃくちゃくと", "answer": "着々と", "choices": ["さらさら", "すらすら", "着々と", "続々と"], "meaning": "Việc xây dựng đập nước đang tiến triển đều đặn theo đúng kế hoạch.", "explanation": "着々と進む: tiến triển đều đặn, đúng tiến độ.", "level": "N2" }, { "id": "c038", "sentence": "急いでいるのに、渋滞のせいで車が前に進まなくて[ ]した。", "word": "いらいら", "reading": "いらいら", "answer": "いらいら", "choices": ["いらいら", "わくわく", "すっきり", "うっかり"], "meaning": "Đang vội mà vì tắc đường xe không nhích lên được khiến tôi rất sốt ruột bực bội.", "explanation": "いらいらする: sốt ruột, nóng thảy, bực bội.", "level": "N2" }, { "id": "c039", "sentence": "兄は「残業が多い、給料が安い」と会社の[ ]ばかり言っている。", "word": "愚痴", "reading": "ぐち", "answer": "ぐち", "choices": ["ゆううつ", "ぐち", "苦情", "非難"], "meaning": "Anh trai tôi toàn cằn nhằn than thở về công ty như tăng ca nhiều, lương thấp.", "explanation": "愚痴を言っている: than thở, cằn nhằn.", "level": "N2" }, { "id": "c040", "sentence": "あのドラマは、最後に主人公が恋人と再会する[ ]が感動的だった。", "word": "場面", "reading": "ばめん", "answer": "場面", "choices": ["要所", "名所", "場面", "画面"], "meaning": "Bộ phim đó, cảnh cuối cùng nhân vật chính tái ngộ với người yêu rất xúc động.", "explanation": "場面: phân cảnh, cảnh phim.", "level": "N2" }, { "id": "c041", "sentence": "A社はこの１０年で、社員一万人の大企業に[ ]した。", "word": "成長", "reading": "せいちょう", "answer": "成長", "choices": ["発達", "展開", "上昇", "成長"], "meaning": "Công ty A trong 10 năm qua đã phát triển lớn mạnh thành doanh nghiệp lớn có 10.000 nhân viên.", "explanation": "企業が成長する: công ty phát triển, tăng trưởng.", "level": "N2" }, { "id": "c042", "sentence": "激しい運動をたまにするより、[ ]運動を毎日続ける方が体にはいいらしい。", "word": "適度", "reading": "てきど", "answer": "適度な", "choices": ["適度な", "簡略な", "好調な", "対等な"], "meaning": "So với thỉnh thoảng tập vận động mạnh, việc duy trì vận động vừa sức mỗi ngày nghe nói tốt cho cơ thể hơn.", "explanation": "適度な運動: vận động vừa sức, điều độ.", "level": "N2" }, { "id": "c043", "sentence": "駅前を歩いていたら、テレビのリポーターに突然[ ]インタビューを受けた。", "word": "呼び止める", "reading": "よびとめる", "answer": "呼び止められて", "choices": ["聞き取られて", "呼び止められて", "問い合わせられて", "見分けられて"], "meaning": "Khi đang đi bộ trước ga, tôi bất ngờ bị phóng viên truyền hình gọi lại xin phỏng vấn.", "explanation": "呼び止められる: bị gọi giật lại, chặn lại để hỏi.", "level": "N2" }, { "id": "c044", "sentence": "明日のハイキングは午前10時集合、午後4時[ ]の予定です。", "word": "解散", "reading": "かいさん", "answer": "解散", "choices": ["解散", "解放", "退出", "退場"], "meaning": "Buổi đi bộ đường dài ngày mai dự kiến tập trung lúc 10 giờ sáng và giải tán lúc 4 giờ chiều.", "explanation": "解散: giải tán cuộc họp hoặc sự kiện tập thể.", "level": "N2" }, { "id": "c045", "sentence": "司会をしてくれる人がいると、話し合いが[ ]進む。", "word": "スムーズ", "reading": "すむーず", "answer": "スムーズに", "choices": ["シンプルに", "スムーズに", "ソフトに", "クリアに"], "meaning": "Có người làm người dẫn chương trình thì cuộc thảo luận diễn ra trôi chảy.", "explanation": "スムーズに進む: tiến triển trôi chảy, suôn sẻ.", "level": "N2" }, { "id": "c046", "sentence": "転校する日はクラスのみんなと分かれるのが[ ]、涙が止まらなかった。", "word": "つらい", "reading": "つらい", "answer": "つらくて", "choices": ["にくくて", "つらくて", "痛ましくて", "重苦しくて"], "meaning": "Ngày chuyển trường, việc chia tay các bạn trong lớp quá đau đớn đau khổ khiến tôi không cầm được nước mắt.", "explanation": "つらい: đau đớn, xót xa, cay đắng.", "level": "N2" }, { "id": "c047", "sentence": "自分のやったことがきちんと評価されると、仕事への[ ]も高まる。", "word": "意欲", "reading": "いよく", "answer": "意欲", "choices": ["活気", "根気", "意図", "意欲"], "meaning": "Khi những việc mình làm được đánh giá đúng đắn, động lực với công việc cũng tăng lên.", "explanation": "仕事への意欲: động lực hoặc hứng thú làm việc.", "level": "N2" }, { "id": "c048", "sentence": "試験が近くなってきたので、アルバイトはやめて、勉強に[ ]することにした。", "word": "専念", "reading": "せんねん", "answer": "専念", "choices": ["特定", "統一", "専念", "注目"], "meaning": "Kỳ thi đã đến gần nên tôi quyết định nghỉ làm thêm để tập trung dồn sức vào việc học.", "explanation": "勉強に専念する: chuyên tâm, dồn sức vào việc học.", "level": "N2" }, { "id": "c049", "sentence": "卒業パーティーには、ちゃんとした[ ]で行ったほうがいいのかな。", "word": "格好", "reading": "かっこう", "answer": "格好", "choices": ["様子", "容姿", "外見", "格好"], "meaning": "Tiệc tốt nghiệp thì có nên mặc diện mạo chỉn chu đàng hoàng đến không nhỉ?", "explanation": "ちゃんとした格好: diện mạo, trang phục đàng hoàng lịch sự.", "level": "N2" }, { "id": "c050", "sentence": "オリンピックの開会式の様子が、会場から世界中に[ ]された。", "word": "中継", "reading": "ちゅうけい", "answer": "中継", "choices": ["普及", "接続", "分配", "中継"], "meaning": "Quang cảnh lễ mở màn Olympic đã được truyền hình trực tiếp từ hội trường ra toàn thế giới.", "explanation": "中継される: được phát sóng hoặc truyền hình trực tiếp.", "level": "N2" }, { "id": "c051", "sentence": "彼は最近かなりの収入があったらしく、[ ]生活をするようになった。", "word": "ぜいたく", "reading": "ぜいたく", "answer": "ぜいたくな", "choices": ["ぜいたくな", "豊富な", "わずかな", "質素な"], "meaning": "Anh ấy dạo này hình như có thu nhập khá cao nên đã bắt đầu sống cuộc sống xa hoa.", "explanation": "ぜいたくな生活: cuộc sống xa hoa, phung phí.", "level": "N2" }, { "id": "c052", "sentence": "絵のことはよく知らないので、この作品にどのくらいの価値があるのか[ ]がつかない。", "word": "見当", "reading": "けんとう", "answer": "見当", "choices": ["発想", "仮定", "見当", "目印"], "meaning": "Tôi không am hiểu về tranh lắm nên không thể đoán được tác phẩm này có giá trị khoảng bao nhiêu.", "explanation": "見当がつかない: không đoán được, không ước lượng được.", "level": "N2" }, { "id": "c053", "sentence": "不要な物を捨てて、散らかった部屋を整理したら、気分が[ ]した。", "word": "すっきり", "reading": "すっきり", "answer": "すっきり", "choices": ["ぎっしり", "すっきり", "ぶらぶら", "きらきら"], "meaning": "Sau khi vứt bỏ đồ không cần thiết và dọn dẹp phòng ốc bừa bộn, tâm trạng tôi thấy rất khoan khoái sảng khoái.", "explanation": "気分がすっきりする: tâm trạng trở nên nhẹ nhõm, khoan khoái.", "level": "N2" }, { "id": "c054", "sentence": "気温の上昇に[ ]して、エアコンの売上も伸びているらしい。", "word": "比例", "reading": "ひれい", "answer": "比例", "choices": ["比例", "対応", "比較", "応答"], "meaning": "Nghe nói tỷ lệ thuận với việc nhiệt độ gia tăng, doanh số bán máy điều hòa cũng tăng lên.", "explanation": "比例して: tỷ lệ thuận với.", "level": "N2" }, { "id": "c055", "sentence": "地図を見ながら歩いていたら、小さな石に[ ]、転んでしまった。", "word": "つまずく", "reading": "つまずく", "answer": "つまずいて", "choices": ["つっこんで", "つまずいて", "くっついて", "かたむいて"], "meaning": "Trong lúc vừa đi vừa xem bản đồ, tôi vấp phải hòn đá nhỏ và bị ngã.", "explanation": "石につまずく: vấp phải hòn đá.", "level": "N2" }, { "id": "c056", "sentence": "その会にはぜひ出席したいのですが、[ ]ほかに予定が入ってるんです。", "word": "あいにく", "reading": "あいにく", "answer": "あいにく", "choices": ["せっかく", "うっかり", "あいにく", "わざわざ"], "meaning": "Tôi rất muốn tham dự buổi gặp mặt đó, nhưng không may lại bị vướng lịch trình khác mất rồi.", "explanation": "あいにく: không may, thật tiếc là.", "level": "N2" }
+  {
+    "id": "c001",
+    "sentence": "今週は忙しかったから、週末は家で[ ]テレビを見ていた。",
+    "word": "のんびり",
+    "reading": "のんびり",
+    "answer": "のんびり",
+    "choices": [
+      "のろのろ",
+      "のんびり",
+      "ぐるぐる",
+      "ぐっすり"
+    ],
+    "meaning": "Tuần này bận rộn nên cuối tuần tôi ở nhà thong thả xem ti vi.",
+    "explanation": "Đáp án đúng: のんびり — thong thả, ung dung. のろのろ (đáp án sai): chậm chạp, ì ạch | のんびり (đáp án đúng): thong thả, ung dung | ぐるぐる (đáp án sai): xoay vòng vòng | ぐっすり (đáp án sai): ngủ say, ngủ ngon",
+    "level": "N2"
+  },
+  {
+    "id": "c002",
+    "sentence": "マラソンでは周りの人にあわせようとしないで、[ ]で走るといい。",
+    "word": "マイペース",
+    "reading": "まいぺーす",
+    "answer": "マイペース",
+    "choices": [
+      "テクニック",
+      "フレッシュ",
+      "アプローチ",
+      "マイペース"
+    ],
+    "meaning": "Trong cuộc chạy marathon, không nên cố hùa theo mọi người xung quanh mà hãy chạy theo nhịp độ của riêng mình.",
+    "explanation": "Đáp án đúng: マイペース — nhịp độ riêng của bản thân. テクニック (đáp án sai): kỹ thuật | フレッシュ (đáp án sai): tươi mới | アプローチ (đáp án sai): cách tiếp cận | マイペース (đáp án đúng): nhịp độ riêng của bản thân",
+    "level": "N2"
+  },
+  {
+    "id": "c003",
+    "sentence": "あの店はサービスがいいと[ ]だ。",
+    "word": "評判",
+    "reading": "ひょうばん",
+    "answer": "評判",
+    "choices": [
+      "評判",
+      "評価",
+      "診断",
+      "決断"
+    ],
+    "meaning": "Cửa hàng đó có tiếng là dịch vụ tốt.  (Hán Việt: BÌNH PHÁN)",
+    "explanation": "Đáp án đúng: 評判 — danh tiếng, tiếng tăm. 評判 (đáp án đúng): danh tiếng, tiếng tăm | 評価 (đáp án sai): sự đánh giá, nhận xét | 診断 (đáp án sai): sự chẩn đoán | 決断 (đáp án sai): sự quyết đoán, quyết định dứt khoát",
+    "level": "N2"
+  },
+  {
+    "id": "c004",
+    "sentence": "彼女とは久しぶりに会ったので、何時間話しても話が[ ]。",
+    "word": "尽きる",
+    "reading": "つきる",
+    "answer": "尽きない",
+    "choices": [
+      "粘らない",
+      "限らない",
+      "尽きない",
+      "衰えない"
+    ],
+    "meaning": "Vì lâu lắm mới gặp lại cô ấy nên trò chuyện bao nhiêu tiếng đồng hồ câu chuyện vẫn không hồi kết.  (Hán Việt: TẬN)",
+    "explanation": "Đáp án đúng: 尽きない — không cạn, không hết. 粘らない (đáp án sai): không kiên trì, không bám trụ | 限らない (đáp án sai): không giới hạn; không nhất thiết | 尽きない (đáp án đúng): không cạn, không hết | 衰えない (đáp án sai): không suy yếu, không giảm sút",
+    "level": "N2"
+  },
+  {
+    "id": "c005",
+    "sentence": "練習の成果が[ ]できれば、きっと優勝できるだろう。",
+    "word": "発揮",
+    "reading": "はっき",
+    "answer": "発揮",
+    "choices": [
+      "発揮",
+      "発生",
+      "発行",
+      "発明"
+    ],
+    "meaning": "Nếu có thể phát huy được thành quả luyện tập thì nhất định sẽ vô địch.  (Hán Việt: PHÁT HUY)",
+    "explanation": "Đáp án đúng: 発揮 — phát huy, thể hiện. 発揮 (đáp án đúng): phát huy, thể hiện | 発生 (đáp án sai): phát sinh, xảy ra | 発行 (đáp án sai): phát hành, xuất bản | 発明 (đáp án sai): sự phát minh",
+    "level": "N2"
+  },
+  {
+    "id": "c006",
+    "sentence": "この表現は[ ]でわかりにくい。",
+    "word": "あいまい",
+    "reading": "あいまい",
+    "answer": "あいまい",
+    "choices": [
+      "軟弱",
+      "質素",
+      "あいまい",
+      "ささやか"
+    ],
+    "meaning": "Mẫu biểu đạt này mập mờ nên rất khó hiểu.",
+    "explanation": "Đáp án đúng: あいまい — mơ hồ, không rõ ràng. 軟弱 (đáp án sai): yếu đuối, mềm yếu | 質素 (đáp án sai): giản dị, đạm bạc | あいまい (đáp án đúng): mơ hồ, không rõ ràng | ささやか (đáp án sai): nhỏ bé, khiêm tốn",
+    "level": "N2"
+  },
+  {
+    "id": "c007",
+    "sentence": "この切符は、明日まで[ ]です。",
+    "word": "有効",
+    "reading": "ゆうこう",
+    "answer": "有効",
+    "choices": [
+      "利点",
+      "権利",
+      "効用",
+      "有効"
+    ],
+    "meaning": "Vé này có hiệu lực cho đến ngày mai.  (Hán Việt: HỮU HIỆU)",
+    "explanation": "Đáp án đúng: 有効 — có hiệu lực, hữu hiệu. 利点 (đáp án sai): ưu điểm, lợi thế | 権利 (đáp án sai): quyền lợi, quyền hạn | 効用 (đáp án sai): công dụng, hiệu quả | 有効 (đáp án đúng): có hiệu lực, hữu hiệu",
+    "level": "N2"
+  },
+  {
+    "id": "c008",
+    "sentence": "あの町の人口は[ ]減少している。",
+    "word": "徐々に",
+    "reading": "じょじょに",
+    "answer": "徐々に",
+    "choices": [
+      "軽々と",
+      "順々に",
+      "徐々に",
+      "細々と"
+    ],
+    "meaning": "Dân số của thị trấn đó đang giảm dần dần.  (Hán Việt: TỪ TỪ)",
+    "explanation": "Đáp án đúng: 徐々に — dần dần, từ từ. 軽々と (đáp án sai): một cách nhẹ nhàng/dễ dàng | 順々に (đáp án sai): lần lượt, theo thứ tự | 徐々に (đáp án đúng): dần dần, từ từ | 細々と (đáp án sai): một cách nhỏ lẻ, cầm chừng",
+    "level": "N2"
+  },
+  {
+    "id": "c009",
+    "sentence": "最近、物価が[ ]している。",
+    "word": "上昇",
+    "reading": "じょうしょう",
+    "answer": "上昇",
+    "choices": [
+      "増加",
+      "上達",
+      "増大",
+      "上昇"
+    ],
+    "meaning": "Dạo gần đây giá cả đang tăng lên.  (Hán Việt: THƯỢNG THĂNG)",
+    "explanation": "Đáp án đúng: 上昇 — sự tăng lên, đi lên. 増加 (đáp án sai): sự gia tăng về số lượng | 上達 (đáp án sai): sự tiến bộ, nâng cao trình độ | 増大 (đáp án sai): sự tăng lớn, mở rộng | 上昇 (đáp án đúng): sự tăng lên, đi lên",
+    "level": "N2"
+  },
+  {
+    "id": "c010",
+    "sentence": "多くの人が旅行する[ ]は、飛行機のチケットが高い。",
+    "word": "シーズン",
+    "reading": "しーずん",
+    "answer": "シーズン",
+    "choices": [
+      "シリーズ",
+      "タイム",
+      "シーズン",
+      "チャンス"
+    ],
+    "meaning": "Mùa mà nhiều người đi du lịch thì vé máy bay rất đắt.",
+    "explanation": "Đáp án đúng: シーズン — mùa, thời điểm trong năm. シリーズ (đáp án sai): loạt, chuỗi (tác phẩm/sản phẩm) | タイム (đáp án sai): thời gian | シーズン (đáp án đúng): mùa, thời điểm trong năm | チャンス (đáp án sai): cơ hội",
+    "level": "N2"
+  },
+  {
+    "id": "c011",
+    "sentence": "私の上司はとても[ ]で、今まで怒ったのを見たことがない。",
+    "word": "温厚",
+    "reading": "おんこう",
+    "answer": "温厚",
+    "choices": [
+      "優良",
+      "温暖",
+      "良性",
+      "温厚"
+    ],
+    "meaning": "Sếp của tôi rất hiền lành ôn hòa, từ trước tới giờ tôi chưa từng thấy ông ấy tức giận.  (Hán Việt: ÔN HẬU)",
+    "explanation": "Đáp án đúng: 温厚 — hiền hậu, ôn hòa (tính cách). 優良 (đáp án sai): ưu tú, tốt, có chất lượng cao | 温暖 (đáp án sai): ấm áp, ôn hòa (khí hậu) | 良性 (đáp án sai): lành tính, không ác tính | 温厚 (đáp án đúng): hiền hậu, ôn hòa (tính cách)",
+    "level": "N2"
+  },
+  {
+    "id": "c012",
+    "sentence": "この数カ月、新しいゲームが[ ]発売されている。",
+    "word": "相次ぐ",
+    "reading": "あいつぐ",
+    "answer": "相次いで",
+    "choices": [
+      "相次いで",
+      "間もなく",
+      "ぐんぐん",
+      "すいすい"
+    ],
+    "meaning": "Mấy tháng gần đây, các trò chơi mới liên tiếp được mở bán.  (Hán Việt: TƯƠNG THỨ)",
+    "explanation": "Đáp án đúng: 相次いで — liên tiếp, lần lượt xảy ra. 相次いで (đáp án đúng): liên tiếp, lần lượt xảy ra | 間もなく (đáp án sai): chẳng bao lâu nữa, sắp sửa | ぐんぐん (đáp án sai): nhanh chóng, mạnh mẽ (tiến triển/tăng lên) | すいすい (đáp án sai): trôi chảy, nhẹ nhàng không gặp trở ngại",
+    "level": "N2"
+  },
+  {
+    "id": "c013",
+    "sentence": "池田さんはまじめすぎて、冗談が[ ]。",
+    "word": "通じる",
+    "reading": "つうじる",
+    "answer": "通じない",
+    "choices": [
+      "当たらない",
+      "渡らない",
+      "構わない",
+      "通じない"
+    ],
+    "meaning": "Anh Ikeda quá nghiêm túc nên nói đùa anh ấy không hiểu.  (Hán Việt: THÔNG)",
+    "explanation": "Đáp án đúng: 通じない — không hiểu; không thông suốt. 当たらない (đáp án sai): không trúng; không đúng | 渡らない (đáp án sai): không băng qua | 構わない (đáp án sai): không bận tâm, không sao | 通じない (đáp án đúng): không hiểu; không thông suốt",
+    "level": "N2"
+  },
+  {
+    "id": "c014",
+    "sentence": "このホテルの宿泊料金には、朝食も[ ]いる。",
+    "word": "含む",
+    "reading": "ふくむ",
+    "answer": "含まれて",
+    "choices": [
+      "含まれて",
+      "納められて",
+      "割り込まれて",
+      "詰め込まれて"
+    ],
+    "meaning": "Tiền phòng khách sạn này đã bao gồm cả bữa sáng.  (Hán Việt: HÀM)",
+    "explanation": "Đáp án đúng: 含まれて — được bao gồm. 含まれて (đáp án đúng): được bao gồm | 納められて (đáp án sai): được nộp, được thanh toán (thuế/tiền) | 割り込まれて (đáp án sai): bị chen ngang, bị xen vào | 詰め込まれて (đáp án sai): bị nhồi nhét, bị chất đầy",
+    "level": "N2"
+  },
+  {
+    "id": "c015",
+    "sentence": "さまざまなデータを[ ]した結果、事故の原因が明らかになった。",
+    "word": "分析",
+    "reading": "ぶんせき",
+    "answer": "分析",
+    "choices": [
+      "視察",
+      "検査",
+      "発明",
+      "分析"
+    ],
+    "meaning": "Sau khi phân tích nhiều dữ liệu khác nhau, nguyên nhân vụ tai nạn đã được làm rõ.  (Hán Việt: PHÂN TÍCH)",
+    "explanation": "Đáp án đúng: 分析 — sự phân tích. 視察 (đáp án sai): sự thị sát | 検査 (đáp án sai): sự kiểm tra, xét nghiệm | 発明 (đáp án sai): sự phát minh | 分析 (đáp án đúng): sự phân tích",
+    "level": "N2"
+  },
+  {
+    "id": "c016",
+    "sentence": "街を[ ]していたら、山本さんに会った。",
+    "word": "ぶらぶら",
+    "reading": "ぶらぶら",
+    "answer": "ぶらぶら",
+    "choices": [
+      "ぐらぐら",
+      "がらがら",
+      "ばらばら",
+      "ぶらぶら"
+    ],
+    "meaning": "Khi tôi đang đi dạo thong dong trên phố thì tình cờ gặp anh Yamamoto.",
+    "explanation": "Đáp án đúng: ぶらぶら — đi lang thang; lững thững. ぐらぐら (đáp án sai): lung lay, lắc lư | がらがら (đáp án sai): trống không; lạch cạch | ばらばら (đáp án sai): rời rạc, phân tán; từng mảnh | ぶらぶら (đáp án đúng): đi lang thang; lững thững",
+    "level": "N2"
+  },
+  {
+    "id": "c017",
+    "sentence": "祭りの日は町が[ ]にあふれている。",
+    "word": "活気",
+    "reading": "かっき",
+    "answer": "活気",
+    "choices": [
+      "活気",
+      "活発",
+      "活躍",
+      "活動"
+    ],
+    "meaning": "Vào ngày lễ hội, thị trấn tràn ngập không khí sôi động sầm uất.  (Hán Việt: HOẠT KHÍ)",
+    "explanation": "Đáp án đúng: 活気 — sức sống, sự sôi nổi. 活気 (đáp án đúng): sức sống, sự sôi nổi | 活発 (đáp án sai): năng động, tích cực | 活躍 (đáp án sai): hoạt động nổi bật, phát huy vai trò | 活動 (đáp án sai): hoạt động",
+    "level": "N2"
+  },
+  {
+    "id": "c018",
+    "sentence": "コピー機に紙が[ ]、出てこない。",
+    "word": "詰まる",
+    "reading": "つまる",
+    "answer": "つまって",
+    "choices": [
+      "もぐって",
+      "つまって",
+      "しずんで",
+      "うまって"
+    ],
+    "meaning": "Giấy bị kẹt trong máy photo nên không chui ra được.",
+    "explanation": "Đáp án đúng: つまって — bị tắc, bị nghẽn. もぐって (đáp án sai): lặn xuống, chui xuống | つまって (đáp án đúng): bị tắc, bị nghẽn | しずんで (đáp án sai): chìm xuống | うまって (đáp án sai): bị lấp đầy, bị chôn vùi",
+    "level": "N2"
+  },
+  {
+    "id": "c019",
+    "sentence": "この小説は今の時代を[ ]した作品だ。",
+    "word": "反映",
+    "reading": "はんえい",
+    "answer": "反映",
+    "choices": [
+      "反映",
+      "放映",
+      "引用",
+      "採用"
+    ],
+    "meaning": "Cuốn tiểu thuyết này là một tác phẩm phản ánh thời đại ngày nay.  (Hán Việt: PHẢN ÁNH)",
+    "explanation": "Đáp án đúng: 反映 — phản ánh. 反映 (đáp án đúng): phản ánh | 放映 (đáp án sai): phát sóng (chương trình) | 引用 (đáp án sai): trích dẫn | 採用 (đáp án sai): tuyển dụng; áp dụng",
+    "level": "N2"
+  },
+  {
+    "id": "c020",
+    "sentence": "田中さんは長い間[ ]窓の外を見ていた。",
+    "word": "ぼんやり",
+    "reading": "ぼんやり",
+    "answer": "ぼんやり",
+    "choices": [
+      "ぼんやり",
+      "ふんわり",
+      "うっすら",
+      "しっとり"
+    ],
+    "meaning": "Anh Tanaka nhìn ra ngoài cửa sổ một cách thẫn thờ suốt thời gian dài.",
+    "explanation": "Đáp án đúng: ぼんやり — thẫn thờ, lơ đãng; mờ mịt. ぼんやり (đáp án đúng): thẫn thờ, lơ đãng; mờ mịt | ふんわり (đáp án sai): mềm nhẹ, bồng bềnh | うっすら (đáp án sai): mờ nhạt, thoang thoảng | しっとり (đáp án sai): ẩm mềm; dịu dàng, đằm thắm",
+    "level": "N2"
+  },
+  {
+    "id": "c021",
+    "sentence": "経済だけでなく、法律にも詳しいのが彼の[ ]だ。",
+    "word": "強み",
+    "reading": "つよみ",
+    "answer": "強み",
+    "choices": [
+      "深み",
+      "強み",
+      "高み",
+      "重み"
+    ],
+    "meaning": "Không chỉ kinh tế mà am hiểu cả luật pháp chính là điểm mạnh của anh ấy.  (Hán Việt: CƯỜNG)",
+    "explanation": "Đáp án đúng: 強み — điểm mạnh, thế mạnh. 深み (đáp án sai): chiều sâu, sự sâu sắc | 強み (đáp án đúng): điểm mạnh, thế mạnh | 高み (đáp án sai): vị trí/cấp độ cao | 重み (đáp án sai): sức nặng; tầm quan trọng",
+    "level": "N2"
+  },
+  {
+    "id": "c022",
+    "sentence": "ストレスを[ ]するために、何かしていますか。",
+    "word": "解消",
+    "reading": "かいしょう",
+    "answer": "解消",
+    "choices": [
+      "解消",
+      "削除",
+      "減量",
+      "停止"
+    ],
+    "meaning": "Bạn có làm gì để giải tỏa căng thẳng không?  (Hán Việt: GIẢI TIÊU)",
+    "explanation": "Đáp án đúng: 解消 — giải tỏa, xóa bỏ (vấn đề/căng thẳng). 解消 (đáp án đúng): giải tỏa, xóa bỏ (vấn đề/căng thẳng) | 削除 (đáp án sai): xóa bỏ (dữ liệu/văn bản) | 減量 (đáp án sai): giảm cân; giảm khối lượng | 停止 (đáp án sai): sự dừng lại, đình chỉ",
+    "level": "N2"
+  },
+  {
+    "id": "c023",
+    "sentence": "生活習慣を[ ]してから、ほとんど病気をしなくなりました。",
+    "word": "改善",
+    "reading": "かいぜん",
+    "answer": "改善",
+    "choices": [
+      "訂正",
+      "変換",
+      "整備",
+      "改善"
+    ],
+    "meaning": "Từ khi cải thiện thói quen sinh hoạt, tôi hầu như không còn bị ốm nữa.  (Hán Việt: CẢI THIỆN)",
+    "explanation": "Đáp án đúng: 改善 — sự cải thiện. 訂正 (đáp án sai): sự đính chính, sửa lỗi | 変換 (đáp án sai): chuyển đổi | 整備 (đáp án sai): sự bảo trì, chỉnh trang, hoàn thiện | 改善 (đáp án đúng): sự cải thiện",
+    "level": "N2"
+  },
+  {
+    "id": "c024",
+    "sentence": "申し込みの締め切りは明日に[ ]いる。",
+    "word": "迫る",
+    "reading": "せまる",
+    "answer": "迫って",
+    "choices": [
+      "迫って",
+      "限って",
+      "寄って",
+      "至って"
+    ],
+    "meaning": "Hạn chót đăng ký đang tiến đến gần vào ngày mai.  (Hán Việt: BÁCH)",
+    "explanation": "Đáp án đúng: 迫って — đang đến gần, áp sát. 迫って (đáp án đúng): đang đến gần, áp sát | 限って (đáp án sai): riêng vào; giới hạn ở | 寄って (đáp án sai): ghé qua; tiến lại gần | 至って (đáp án sai): đến mức; vô cùng",
+    "level": "N2"
+  },
+  {
+    "id": "c025",
+    "sentence": "日曜だから込んでいるかと思ったけど、[ ]すいているね。",
+    "word": "わりと",
+    "reading": "わりと",
+    "answer": "わりと",
+    "choices": [
+      "たいして",
+      "どうりで",
+      "わりと",
+      "よけい"
+    ],
+    "meaning": "Tưởng là chủ nhật thì sẽ đông, ai ngờ tương đối vắng vẻ nhỉ.",
+    "explanation": "Đáp án đúng: わりと — tương đối, khá. たいして (đáp án sai): không ... lắm (thường đi với phủ định) | どうりで (đáp án sai): thảo nào, bảo sao | わりと (đáp án đúng): tương đối, khá | よけい (đáp án sai): hơn mức cần thiết; càng thêm",
+    "level": "N2"
+  },
+  {
+    "id": "c026",
+    "sentence": "組織のトップに立つ人間は、広い[ ]を持つことが必要だ。",
+    "word": "視野",
+    "reading": "しや",
+    "answer": "視野",
+    "choices": [
+      "視界",
+      "視野",
+      "視線",
+      "視察"
+    ],
+    "meaning": "Người đứng ở vị trí lãnh đạo tổ chức cần phải có tầm nhìn rộng mở.  (Hán Việt: THỊ DÃ)",
+    "explanation": "Đáp án đúng: 視野 — tầm nhìn, phạm vi quan sát/hiểu biết. 視界 (đáp án sai): tầm nhìn trong phạm vi mắt thấy | 視野 (đáp án đúng): tầm nhìn, phạm vi quan sát/hiểu biết | 視線 (đáp án sai): ánh mắt, hướng nhìn | 視察 (đáp án sai): sự thị sát",
+    "level": "N2"
+  },
+  {
+    "id": "c027",
+    "sentence": "シャワーを浴びたら、体も気分も[ ]した。",
+    "word": "さっぱり",
+    "reading": "さっぱり",
+    "answer": "さっぱり",
+    "choices": [
+      "さらさら",
+      "きらきら",
+      "さっぱり",
+      "きっぱり"
+    ],
+    "meaning": "Tắm vòi hoa sen xong, cả cơ thể lẫn tâm trạng đều thấy sảng khoái.",
+    "explanation": "Đáp án đúng: さっぱり — sảng khoái; hoàn toàn không (tùy ngữ cảnh). さらさら (đáp án sai): mượt, khô ráo; róc rách | きらきら (đáp án sai): lấp lánh | さっぱり (đáp án đúng): sảng khoái; hoàn toàn không (tùy ngữ cảnh) | きっぱり (đáp án sai): dứt khoát, rõ ràng",
+    "level": "N2"
+  },
+  {
+    "id": "c028",
+    "sentence": "この携帯電話にはいろいろな[ ]がついている。",
+    "word": "機能",
+    "reading": "きのう",
+    "answer": "機能",
+    "choices": [
+      "効用",
+      "才能",
+      "機能",
+      "効力"
+    ],
+    "meaning": "Chiếc điện thoại di động này có tích hợp nhiều tính năng đa dạng.  (Hán Việt: CƠ NĂNG)",
+    "explanation": "Đáp án đúng: 機能 — chức năng. 効用 (đáp án sai): công dụng, hiệu quả | 才能 (đáp án sai): tài năng | 機能 (đáp án đúng): chức năng | 効力 (đáp án sai): hiệu lực, tác dụng",
+    "level": "N2"
+  },
+  {
+    "id": "c029",
+    "sentence": "子どもが遊んだあとは、おもちゃが[ ]いる。",
+    "word": "散らかる",
+    "reading": "ちらかる",
+    "answer": "散らかって",
+    "choices": [
+      "飛び越えて",
+      "散らかって",
+      "見わたして",
+      "落ち込んで"
+    ],
+    "meaning": "Sau khi trẻ con chơi xong, đồ chơi bày bừa bộn khắp nơi.  (Hán Việt: TẢN)",
+    "explanation": "Đáp án đúng: 散らかって — bừa bộn, vương vãi. 飛び越えて (đáp án sai): nhảy vượt qua | 散らかって (đáp án đúng): bừa bộn, vương vãi | 見わたして (đáp án sai): nhìn bao quát | 落ち込んで (đáp án sai): chán nản; tụt giảm",
+    "level": "N2"
+  },
+  {
+    "id": "c030",
+    "sentence": "田中選手はサッカーの日本代表に選ばれたが、けがを理由に代表を[ ]した。",
+    "word": "辞退",
+    "reading": "じたい",
+    "answer": "辞退",
+    "choices": [
+      "避難",
+      "逃避",
+      "退場",
+      "辞退"
+    ],
+    "meaning": "Tuyển thủ Tanaka đã được chọn vào đội tuyển quốc gia Nhật Bản, nhưng lấy lý do chấn thương nên đã xin rút lui.  (Hán Việt: TỪ THOÁI)",
+    "explanation": "Đáp án đúng: 辞退 — từ chối, xin rút lui. 避難 (đáp án sai): sơ tán; lánh nạn | 逃避 (đáp án sai): trốn tránh, lẩn tránh | 退場 (đáp án sai): rời khỏi hội trường/sân khấu | 辞退 (đáp án đúng): từ chối, xin rút lui",
+    "level": "N2"
+  },
+  {
+    "id": "c031",
+    "sentence": "今回の調査で[ ]結果は、今後のサービス向上に生かしていきたい。",
+    "word": "得る",
+    "reading": "える",
+    "answer": "得た",
+    "choices": [
+      "にぎった",
+      "はさんだ",
+      "得た",
+      "込めた"
+    ],
+    "meaning": "Những kết quả thu được qua cuộc khảo sát lần này, chúng tôi muốn vận dụng vào việc nâng cao chất lượng dịch vụ trong tương lai.  (Hán Việt: ĐẮC)",
+    "explanation": "Đáp án đúng: 得た — đã thu được, đạt được. にぎった (đáp án sai): đã nắm, đã cầm | はさんだ (đáp án sai): đã kẹp vào giữa | 得た (đáp án đúng): đã thu được, đạt được | 込めた (đáp án sai): đã dồn/gửi gắm (tình cảm, sức lực...)",
+    "level": "N2"
+  },
+  {
+    "id": "c032",
+    "sentence": "大きな荷物を[ ]いたので、携帯電話に出られなかった。",
+    "word": "抱える",
+    "reading": "かかえる",
+    "answer": "かかえて",
+    "choices": [
+      "だいて",
+      "いだいて",
+      "かかえて",
+      "だきしめて"
+    ],
+    "meaning": "Vì đang ôm hành lý to nên tôi không thể nghe điện thoại di động được.  (Hán Việt: BÃO)",
+    "explanation": "Đáp án đúng: かかえて — ôm/mang (vật cồng kềnh); gánh (vấn đề). だいて (đáp án sai): ôm (cách đọc だく) | いだいて (đáp án sai): ấp ủ (ước mơ, tình cảm...) | かかえて (đáp án đúng): ôm/mang (vật cồng kềnh); gánh (vấn đề) | だきしめて (đáp án sai): ôm chặt vào lòng",
+    "level": "N2"
+  },
+  {
+    "id": "c033",
+    "sentence": "法律が[ ]されて、申請方法が以前とは大幅に変わりました。",
+    "word": "改正",
+    "reading": "かいせい",
+    "answer": "改正",
+    "choices": [
+      "改正",
+      "改造",
+      "転換",
+      "変換"
+    ],
+    "meaning": "Luật pháp đã được sửa đổi nên phương thức nộp đơn đã thay đổi lớn so với trước đây.  (Hán Việt: CẢI CHÍNH)",
+    "explanation": "Đáp án đúng: 改正 — sửa đổi (luật, quy định). 改正 (đáp án đúng): sửa đổi (luật, quy định) | 改造 (đáp án sai): cải tạo, cải tiến cấu trúc | 転換 (đáp án sai): chuyển đổi, bước ngoặt | 変換 (đáp án sai): chuyển đổi",
+    "level": "N2"
+  },
+  {
+    "id": "c034",
+    "sentence": "読書に[ ]なっていて、友達との約束時間を忘れていた。",
+    "word": "夢中",
+    "reading": "むちゅう",
+    "answer": "夢中に",
+    "choices": [
+      "好調に",
+      "夢中に",
+      "頑固に",
+      "強引に"
+    ],
+    "meaning": "Tôi mải mê đọc sách đến mức quên cả giờ hẹn với bạn.  (Hán Việt: MỘNG TRUNG)",
+    "explanation": "Đáp án đúng: 夢中に — mải mê, say sưa. 好調に (đáp án sai): một cách thuận lợi, suôn sẻ | 夢中に (đáp án đúng): mải mê, say sưa | 頑固に (đáp án sai): một cách ngoan cố, bướng bỉnh | 強引に (đáp án sai): một cách cưỡng ép, áp đặt",
+    "level": "N2"
+  },
+  {
+    "id": "c035",
+    "sentence": "目が覚めたが、まだ時間が早かったので、しばらくベッドで[ ]していた。",
+    "word": "ごろごろ",
+    "reading": "ごろごろ",
+    "answer": "ごろごろ",
+    "choices": [
+      "ごろごろ",
+      "ぶらぶら",
+      "ゆらゆら",
+      "うろうろ"
+    ],
+    "meaning": "Tôi đã tỉnh giấc nhưng vì còn sớm nên nằm thong thả lười biếng trên giường một lúc.",
+    "explanation": "Đáp án đúng: ごろごろ — nằm ườn/lười biếng; lăn lóc. ごろごろ (đáp án đúng): nằm ườn/lười biếng; lăn lóc | ぶらぶら (đáp án sai): đi lang thang; lững thững | ゆらゆら (đáp án sai): đung đưa, lắc lư | うろうろ (đáp án sai): đi loanh quanh, lảng vảng",
+    "level": "N2"
+  },
+  {
+    "id": "c036",
+    "sentence": "栄養が[ ]ように、いろいろな食品をたべたほうがいい。",
+    "word": "偏る",
+    "reading": "かたよる",
+    "answer": "かたよらない",
+    "choices": [
+      "はぶかれない",
+      "はずされない",
+      "かたよらない",
+      "かたむかない"
+    ],
+    "meaning": "Nên ăn đa dạng thực phẩm để dinh dưỡng không bị mất cân bằng thiên lệch.  (Hán Việt: THIÊN)",
+    "explanation": "Đáp án đúng: かたよらない — không thiên lệch, không mất cân bằng. はぶかれない (đáp án sai): không bị lược bỏ | はずされない (đáp án sai): không bị tháo ra/loại ra | かたよらない (đáp án đúng): không thiên lệch, không mất cân bằng | かたむかない (đáp án sai): không nghiêng, không chệch",
+    "level": "N2"
+  },
+  {
+    "id": "c037",
+    "sentence": "ダムの建設は計画通り[ ]進んでいる。",
+    "word": "着々と",
+    "reading": "ちゃくちゃくと",
+    "answer": "着々と",
+    "choices": [
+      "さらさら",
+      "すらすら",
+      "着々と",
+      "続々と"
+    ],
+    "meaning": "Việc xây dựng đập nước đang tiến triển đều đặn theo đúng kế hoạch.  (Hán Việt: TRƯỚC TRƯỚC)",
+    "explanation": "Đáp án đúng: 着々と — đều đặn, từng bước chắc chắn. さらさら (đáp án sai): mượt, khô ráo; róc rách | すらすら (đáp án sai): trôi chảy, lưu loát | 着々と (đáp án đúng): đều đặn, từng bước chắc chắn | 続々と (đáp án sai): liên tiếp, hết đợt này đến đợt khác",
+    "level": "N2"
+  },
+  {
+    "id": "c038",
+    "sentence": "急いでいるのに、渋滞のせいで車が前に進まなくて[ ]した。",
+    "word": "いらいら",
+    "reading": "いらいら",
+    "answer": "いらいら",
+    "choices": [
+      "いらいら",
+      "わくわく",
+      "すっきり",
+      "うっかり"
+    ],
+    "meaning": "Đang vội mà vì tắc đường xe không nhích lên được khiến tôi rất sốt ruột bực bội.",
+    "explanation": "Đáp án đúng: いらいら — bực bội, sốt ruột. いらいら (đáp án đúng): bực bội, sốt ruột | わくわく (đáp án sai): háo hức, hồi hộp mong chờ | すっきり (đáp án sai): sảng khoái, nhẹ nhõm | うっかり (đáp án sai): lỡ đãng, vô ý",
+    "level": "N2"
+  },
+  {
+    "id": "c039",
+    "sentence": "兄は「残業が多い、給料が安い」と会社の[ ]ばかり言っている。",
+    "word": "愚痴",
+    "reading": "ぐち",
+    "answer": "ぐち",
+    "choices": [
+      "ゆううつ",
+      "ぐち",
+      "苦情",
+      "非難"
+    ],
+    "meaning": "Anh trai tôi toàn cằn nhằn than thở về công ty như tăng ca nhiều, lương thấp.  (Hán Việt: NGU SI)",
+    "explanation": "Đáp án đúng: ぐち — lời than vãn, lời cằn nhằn. ゆううつ (đáp án sai): u sầu, phiền muộn | ぐち (đáp án đúng): lời than vãn, lời cằn nhằn | 苦情 (đáp án sai): lời phàn nàn, khiếu nại | 非難 (đáp án sai): sự chỉ trích, lên án",
+    "level": "N2"
+  },
+  {
+    "id": "c040",
+    "sentence": "あのドラマは、最後に主人公が恋人と再会する[ ]が感動的だった。",
+    "word": "場面",
+    "reading": "ばめん",
+    "answer": "場面",
+    "choices": [
+      "要所",
+      "名所",
+      "場面",
+      "画面"
+    ],
+    "meaning": "Bộ phim đó, cảnh cuối cùng nhân vật chính tái ngộ với người yêu rất xúc động.  (Hán Việt: TRƯỜNG DIỆN)",
+    "explanation": "Đáp án đúng: 場面 — cảnh, phân cảnh. 要所 (đáp án sai): điểm then chốt, vị trí quan trọng | 名所 (đáp án sai): danh lam thắng cảnh, địa danh nổi tiếng | 場面 (đáp án đúng): cảnh, phân cảnh | 画面 (đáp án sai): màn hình",
+    "level": "N2"
+  },
+  {
+    "id": "c041",
+    "sentence": "A社はこの１０年で、社員一万人の大企業に[ ]した。",
+    "word": "成長",
+    "reading": "せいちょう",
+    "answer": "成長",
+    "choices": [
+      "発達",
+      "展開",
+      "上昇",
+      "成長"
+    ],
+    "meaning": "Công ty A trong 10 năm qua đã phát triển lớn mạnh thành doanh nghiệp lớn có 10.000 nhân viên.  (Hán Việt: THÀNH TRƯỞNG)",
+    "explanation": "Đáp án đúng: 成長 — sự trưởng thành, tăng trưởng. 発達 (đáp án sai): sự phát triển (năng lực/cơ thể/hệ thống) | 展開 (đáp án sai): sự triển khai, diễn biến, mở rộng | 上昇 (đáp án sai): sự tăng lên, đi lên | 成長 (đáp án đúng): sự trưởng thành, tăng trưởng",
+    "level": "N2"
+  },
+  {
+    "id": "c042",
+    "sentence": "激しい運動をたまにするより、[ ]運動を毎日続ける方が体にはいいらしい。",
+    "word": "適度",
+    "reading": "てきど",
+    "answer": "適度な",
+    "choices": [
+      "適度な",
+      "簡略な",
+      "好調な",
+      "対等な"
+    ],
+    "meaning": "So với thỉnh thoảng tập vận động mạnh, việc duy trì vận động vừa sức mỗi ngày nghe nói tốt cho cơ thể hơn.  (Hán Việt: THÍCH ĐỘ)",
+    "explanation": "Đáp án đúng: 適度な — vừa phải, điều độ. 適度な (đáp án đúng): vừa phải, điều độ | 簡略な (đáp án sai): đơn giản hóa, sơ lược | 好調な (đáp án sai): thuận lợi, tiến triển tốt | 対等な (đáp án sai): ngang hàng, bình đẳng",
+    "level": "N2"
+  },
+  {
+    "id": "c043",
+    "sentence": "駅前を歩いていたら、テレビのリポーターに突然[ ]インタビューを受けた。",
+    "word": "呼び止める",
+    "reading": "よびとめる",
+    "answer": "呼び止められて",
+    "choices": [
+      "聞き取られて",
+      "呼び止められて",
+      "問い合わせられて",
+      "見分けられて"
+    ],
+    "meaning": "Khi đang đi bộ trước ga, tôi bất ngờ bị phóng viên truyền hình gọi lại xin phỏng vấn.  (Hán Việt: HÔ CHỈ)",
+    "explanation": "Đáp án đúng: 呼び止められて — bị gọi giật lại, bị chặn lại. 聞き取られて (đáp án sai): bị nghe/ghi nhận được lời nói | 呼び止められて (đáp án đúng): bị gọi giật lại, bị chặn lại | 問い合わせられて (đáp án sai): bị hỏi/thẩm vấn; được liên hệ hỏi | 見分けられて (đáp án sai): được phân biệt, nhận ra",
+    "level": "N2"
+  },
+  {
+    "id": "c044",
+    "sentence": "明日のハイキングは午前10時集合、午後4時[ ]の予定です。",
+    "word": "解散",
+    "reading": "かいさん",
+    "answer": "解散",
+    "choices": [
+      "解散",
+      "解放",
+      "退出",
+      "退場"
+    ],
+    "meaning": "Buổi đi bộ đường dài ngày mai dự kiến tập trung lúc 10 giờ sáng và giải tán lúc 4 giờ chiều.  (Hán Việt: GIẢI TÁN)",
+    "explanation": "Đáp án đúng: 解散 — giải tán, kết thúc tụ họp. 解散 (đáp án đúng): giải tán, kết thúc tụ họp | 解放 (đáp án sai): giải phóng, thả tự do | 退出 (đáp án sai): rời khỏi phòng/nơi họp | 退場 (đáp án sai): rời khỏi hội trường/sân khấu",
+    "level": "N2"
+  },
+  {
+    "id": "c045",
+    "sentence": "司会をしてくれる人がいると、話し合いが[ ]進む。",
+    "word": "スムーズ",
+    "reading": "すむーず",
+    "answer": "スムーズに",
+    "choices": [
+      "シンプルに",
+      "スムーズに",
+      "ソフトに",
+      "クリアに"
+    ],
+    "meaning": "Có người làm người dẫn chương trình thì cuộc thảo luận diễn ra trôi chảy.",
+    "explanation": "Đáp án đúng: スムーズに — một cách trôi chảy, suôn sẻ. シンプルに (đáp án sai): một cách đơn giản | スムーズに (đáp án đúng): một cách trôi chảy, suôn sẻ | ソフトに (đáp án sai): một cách nhẹ nhàng, mềm mỏng | クリアに (đáp án sai): một cách rõ ràng",
+    "level": "N2"
+  },
+  {
+    "id": "c046",
+    "sentence": "転校する日はクラスのみんなと分かれるのが[ ]、涙が止まらなかった。",
+    "word": "つらい",
+    "reading": "つらい",
+    "answer": "つらくて",
+    "choices": [
+      "にくくて",
+      "つらくて",
+      "痛ましくて",
+      "重苦しくて"
+    ],
+    "meaning": "Ngày chuyển trường, việc chia tay các bạn trong lớp quá đau đớn đau khổ khiến tôi không cầm được nước mắt.",
+    "explanation": "Đáp án đúng: つらくて — đau khổ, khó chịu nên.... にくくて (đáp án sai): căm ghét, đáng ghét | つらくて (đáp án đúng): đau khổ, khó chịu nên... | 痛ましくて (đáp án sai): đáng thương, đau lòng | 重苦しくて (đáp án sai): nặng nề, ngột ngạt",
+    "level": "N2"
+  },
+  {
+    "id": "c047",
+    "sentence": "自分のやったことがきちんと評価されると、仕事への[ ]も高まる。",
+    "word": "意欲",
+    "reading": "いよく",
+    "answer": "意欲",
+    "choices": [
+      "活気",
+      "根気",
+      "意図",
+      "意欲"
+    ],
+    "meaning": "Khi những việc mình làm được đánh giá đúng đắn, động lực với công việc cũng tăng lên.  (Hán Việt: Ý DỤC)",
+    "explanation": "Đáp án đúng: 意欲 — ý chí, động lực, ham muốn. 活気 (đáp án sai): sức sống, sự sôi nổi | 根気 (đáp án sai): sự kiên trì, nhẫn nại | 意図 (đáp án sai): ý định, chủ ý | 意欲 (đáp án đúng): ý chí, động lực, ham muốn",
+    "level": "N2"
+  },
+  {
+    "id": "c048",
+    "sentence": "試験が近くなってきたので、アルバイトはやめて、勉強に[ ]することにした。",
+    "word": "専念",
+    "reading": "せんねん",
+    "answer": "専念",
+    "choices": [
+      "特定",
+      "統一",
+      "専念",
+      "注目"
+    ],
+    "meaning": "Kỳ thi đã đến gần nên tôi quyết định nghỉ làm thêm để tập trung dồn sức vào việc học.  (Hán Việt: CHUYÊN NIỆM)",
+    "explanation": "Đáp án đúng: 専念 — chuyên tâm, tập trung toàn lực. 特定 (đáp án sai): xác định, chỉ định | 統一 (đáp án sai): thống nhất | 専念 (đáp án đúng): chuyên tâm, tập trung toàn lực | 注目 (đáp án sai): sự chú ý, quan tâm",
+    "level": "N2"
+  },
+  {
+    "id": "c049",
+    "sentence": "卒業パーティーには、ちゃんとした[ ]で行ったほうがいいのかな。",
+    "word": "格好",
+    "reading": "かっこう",
+    "answer": "格好",
+    "choices": [
+      "様子",
+      "容姿",
+      "外見",
+      "格好"
+    ],
+    "meaning": "Tiệc tốt nghiệp thì có nên mặc diện mạo chỉn chu đàng hoàng đến không nhỉ?  (Hán Việt: CÁCH HẢO)",
+    "explanation": "Đáp án đúng: 格好 — dáng vẻ; cách ăn mặc. 様子 (đáp án sai): tình trạng, dáng vẻ, tình hình | 容姿 (đáp án sai): dung mạo, ngoại hình | 外見 (đáp án sai): vẻ bề ngoài | 格好 (đáp án đúng): dáng vẻ; cách ăn mặc",
+    "level": "N2"
+  },
+  {
+    "id": "c050",
+    "sentence": "オリンピックの開会式の様子が、会場から世界中に[ ]された。",
+    "word": "中継",
+    "reading": "ちゅうけい",
+    "answer": "中継",
+    "choices": [
+      "普及",
+      "接続",
+      "分配",
+      "中継"
+    ],
+    "meaning": "Quang cảnh lễ mở màn Olympic đã được truyền hình trực tiếp từ hội trường ra toàn thế giới.  (Hán Việt: TRUNG KẾ)",
+    "explanation": "Đáp án đúng: 中継 — truyền tiếp; phát sóng trực tiếp. 普及 (đáp án sai): sự phổ biến, phổ cập | 接続 (đáp án sai): sự kết nối | 分配 (đáp án sai): sự phân phối, chia phần | 中継 (đáp án đúng): truyền tiếp; phát sóng trực tiếp",
+    "level": "N2"
+  },
+  {
+    "id": "c051",
+    "sentence": "彼は最近かなりの収入があったらしく、[ ]生活をするようになった。",
+    "word": "ぜいたく",
+    "reading": "ぜいたく",
+    "answer": "ぜいたくな",
+    "choices": [
+      "ぜいたくな",
+      "豊富な",
+      "わずかな",
+      "質素な"
+    ],
+    "meaning": "Anh ấy dạo này hình như có thu nhập khá cao nên đã bắt đầu sống cuộc sống xa hoa.",
+    "explanation": "Đáp án đúng: ぜいたくな — xa hoa, sang trọng. ぜいたくな (đáp án đúng): xa hoa, sang trọng | 豊富な (đáp án sai): phong phú, dồi dào | わずかな (đáp án sai): ít ỏi, nhỏ nhoi | 質素な (đáp án sai): giản dị, đạm bạc",
+    "level": "N2"
+  },
+  {
+    "id": "c052",
+    "sentence": "絵のことはよく知らないので、この作品にどのくらいの価値があるのか[ ]がつかない。",
+    "word": "見当",
+    "reading": "けんとう",
+    "answer": "見当",
+    "choices": [
+      "発想",
+      "仮定",
+      "見当",
+      "目印"
+    ],
+    "meaning": "Tôi không am hiểu về tranh lắm nên không thể đoán được tác phẩm này có giá trị khoảng bao nhiêu.  (Hán Việt: KIẾN ĐƯƠNG)",
+    "explanation": "Đáp án đúng: 見当 — ước đoán, phỏng đoán. 発想 (đáp án sai): ý tưởng, cách nghĩ | 仮定 (đáp án sai): giả định | 見当 (đáp án đúng): ước đoán, phỏng đoán | 目印 (đáp án sai): dấu hiệu, vật đánh dấu",
+    "level": "N2"
+  },
+  {
+    "id": "c053",
+    "sentence": "不要な物を捨てて、散らかった部屋を整理したら、気分が[ ]した。",
+    "word": "すっきり",
+    "reading": "すっきり",
+    "answer": "すっきり",
+    "choices": [
+      "ぎっしり",
+      "すっきり",
+      "ぶらぶら",
+      "きらきら"
+    ],
+    "meaning": "Sau khi vứt bỏ đồ không cần thiết và dọn dẹp phòng ốc bừa bộn, tâm trạng tôi thấy rất khoan khoái sảng khoái.",
+    "explanation": "Đáp án đúng: すっきり — sảng khoái, nhẹ nhõm. ぎっしり (đáp án sai): chật kín, đầy ắp | すっきり (đáp án đúng): sảng khoái, nhẹ nhõm | ぶらぶら (đáp án sai): đi lang thang; lững thững | きらきら (đáp án sai): lấp lánh",
+    "level": "N2"
+  },
+  {
+    "id": "c054",
+    "sentence": "気温の上昇に[ ]して、エアコンの売上も伸びているらしい。",
+    "word": "比例",
+    "reading": "ひれい",
+    "answer": "比例",
+    "choices": [
+      "比例",
+      "対応",
+      "比較",
+      "応答"
+    ],
+    "meaning": "Nghe nói tỷ lệ thuận với việc nhiệt độ gia tăng, doanh số bán máy điều hòa cũng tăng lên.  (Hán Việt: TỶ LỆ)",
+    "explanation": "Đáp án đúng: 比例 — tỷ lệ thuận. 比例 (đáp án đúng): tỷ lệ thuận | 対応 (đáp án sai): ứng phó; tương ứng | 比較 (đáp án sai): sự so sánh | 応答 (đáp án sai): sự hồi đáp, trả lời",
+    "level": "N2"
+  },
+  {
+    "id": "c055",
+    "sentence": "地図を見ながら歩いていたら、小さな石に[ ]、転んでしまった。",
+    "word": "つまずく",
+    "reading": "つまずく",
+    "answer": "つまずいて",
+    "choices": [
+      "つっこんで",
+      "つまずいて",
+      "くっついて",
+      "かたむいて"
+    ],
+    "meaning": "Trong lúc vừa đi vừa xem bản đồ, tôi vấp phải hòn đá nhỏ và bị ngã.",
+    "explanation": "Đáp án đúng: つまずいて — vấp phải, vấp ngã. つっこんで (đáp án sai): lao vào; xen sâu vào | つまずいて (đáp án đúng): vấp phải, vấp ngã | くっついて (đáp án sai): dính vào, bám sát | かたむいて (đáp án sai): nghiêng đi",
+    "level": "N2"
+  },
+  {
+    "id": "c056",
+    "sentence": "その会にはぜひ出席したいのですが、[ ]ほかに予定が入ってるんです。",
+    "word": "あいにく",
+    "reading": "あいにく",
+    "answer": "あいにく",
+    "choices": [
+      "せっかく",
+      "うっかり",
+      "あいにく",
+      "わざわざ"
+    ],
+    "meaning": "Tôi rất muốn tham dự buổi gặp mặt đó, nhưng không may lại bị vướng lịch trình khác mất rồi.",
+    "explanation": "Đáp án đúng: あいにく — không may, thật tiếc. せっかく (đáp án sai): cất công; hiếm có dịp | うっかり (đáp án sai): lỡ đãng, vô ý | あいにく (đáp án đúng): không may, thật tiếc | わざわざ (đáp án sai): cất công, cố ý làm riêng",
+    "level": "N2"
+  },
+  {
+    "id": "c057",
+    "sentence": "子どものいたずらにいちいち[ ]を立てても仕方がない。",
+    "word": "腹",
+    "reading": "はら",
+    "answer": "腹",
+    "choices": [
+      "気",
+      "頭",
+      "腹",
+      "心"
+    ],
+    "meaning": "Thật chẳng ích gì khi cứ đi bực mình với từng trò nghịch ngợm của trẻ con. (Hán Việt: PHÚC)",
+    "explanation": "Đáp án đúng: 腹 — tức giận (腹を立てる). 気 (đáp án sai): khí, tâm trí | 頭 (đáp án sai): đầu | 腹 (đáp án đúng): bụng, tức giận | 心 (đáp án sai): tim, lòng",
+    "level": "N2"
+  },
+  {
+    "id": "c058",
+    "sentence": "A社が開発した商品管理システムは評価が高く、多くの会社に[ ]されている。",
+    "word": "導入",
+    "reading": "どうにゅう",
+    "answer": "導入",
+    "choices": [
+      "導入",
+      "引用",
+      "吸収",
+      "移行"
+    ],
+    "meaning": "Hệ thống quản lý sản phẩm do công ty A phát triển được đánh giá cao và được nhiều công ty áp dụng đưa vào sử dụng. (Hán Việt: ĐẠO NHẬP)",
+    "explanation": "Đáp án đúng: 導入 — áp dụng, đưa vào sử dụng. 導入 (đáp án đúng): đưa vào, áp dụng | 引用 (đáp án sai): trích dẫn | 吸収 (đáp án sai): hấp thụ | 移行 (đáp án sai): chuyển giao, chuyển đổi",
+    "level": "N2"
+  },
+  {
+    "id": "c059",
+    "sentence": "工事の音が[ ]、全然眠れない。",
+    "word": "やかましい",
+    "reading": "やかましい",
+    "answer": "やかましくて",
+    "choices": [
+      "しつこくて",
+      "ずうずうしくて",
+      "やかましくて",
+      "けわしくて"
+    ],
+    "meaning": "Tiếng ồn công trường quá ầm ĩ nên tôi hoàn toàn không thể ngủ được.",
+    "explanation": "Đáp án đúng: やかましくて — ầm ĩ, ồn ào. しつこくて (đáp án sai): ngoan cố, dai dẳng | ずうずうしくて (đáp án sai): trơ tráo, thô lỗ | やかましくて (đáp án đúng): ầm ĩ, ồn ào | けわしくて (đáp án sai): hiểm trở, gay gắt",
+    "level": "N2"
+  },
+  {
+    "id": "c060",
+    "sentence": "自転車のタイヤが[ ]して、空気が抜けていた。",
+    "word": "パンク",
+    "reading": "パンク",
+    "answer": "パンク",
+    "choices": [
+      "ストライキ",
+      "パンク",
+      "ダウン",
+      "ミス"
+    ],
+    "meaning": "Lốp xe đạp bị xì lốp và hơi đã thoát hết ra ngoài.",
+    "explanation": "Đáp án đúng: パンク — xì lốp, nổ lốp. ストライキ (đáp án sai): đình công | パンク (đáp án đúng): xì lốp, nổ lốp | ダウン (đáp án sai): gục ngã, hạ xuống | ミス (đáp án sai): lỗi, sai sót",
+    "level": "N2"
+  },
+  {
+    "id": "c061",
+    "sentence": "セミナーの日の朝は準備の時間がないので、資料は[ ]コピーしておいてください。",
+    "word": "あらかじめ",
+    "reading": "あらかじめ",
+    "answer": "あらかじめ",
+    "choices": [
+      "遅くとも",
+      "あらかじめ",
+      "とっくに",
+      "先々"
+    ],
+    "meaning": "Vì buổi sáng ngày diễn ra hội thảo không có thời gian chuẩn bị nên hãy photo sẵn tài liệu từ trước.",
+    "explanation": "Đáp án đúng: あらかじめ — sẵn, trước. 遅くとも (đáp án sai): muộn nhất là | あらかじめ (đáp án đúng): sẵn, trước | とっくに (đáp án sai): từ lâu rồi | 先々 (đáp án sai): tương lai xa",
+    "level": "N2"
+  },
+  {
+    "id": "c062",
+    "sentence": "山口さんは柔道をしているので、がっしりした[ ]をしている。",
+    "word": "体格",
+    "reading": "たいかく",
+    "answer": "体格",
+    "choices": [
+      "体格",
+      "姿勢",
+      "格好",
+      "容姿"
+    ],
+    "meaning": "Anh Yamaguchi tập võ Judo nên có vóc dáng săn chắc vạm vỡ. (Hán Việt: THỂ CÁCH)",
+    "explanation": "Đáp án đúng: 体格 — vóc dáng, thể hình. 体格 (đáp án đúng): vóc dáng, thể hình | 姿勢 (đáp án sai): tư thế | 格好 (đáp án sai): diện mạo, ngoại hình | 容姿 (đáp án sai): dung貌, vẻ ngoài",
+    "level": "N2"
+  },
+  {
+    "id": "c063",
+    "sentence": "こんなに夜遅くまでおきていると、明日の仕事に[ ]よ。",
+    "word": "差し支える",
+    "reading": "さしつかえる",
+    "answer": "差し支える",
+    "choices": [
+      "かかわり合う",
+      "割り込む",
+      "引っかかる",
+      "差し支える"
+    ],
+    "meaning": "Thức khuya đến tận đêm muộn thế này thì sẽ cản trở đến công việc ngày mai đấy. (Hán Việt: SAI CHI)",
+    "explanation": "Đáp án đúng: 差し支える — cản trở, ảnh hưởng. かかわり合う (đáp án sai): dính líu, liên quan | 割り込む (đáp án sai): chen ngang | 引っかかる (đáp án sai): vướng vào, mắc bẫy | 差し支える (đáp án đúng): cản trở, ảnh hưởng",
+    "level": "N2"
+  },
+  {
+    "id": "c064",
+    "sentence": "誰にも言えずにずっと悩んでいたが、昨日親友に[ ]相談してみた。",
+    "word": "思い切って",
+    "reading": "おもいきって",
+    "answer": "思いきって",
+    "choices": [
+      "思いきって",
+      "うっかり",
+      "せっかく",
+      "知らず知らず"
+    ],
+    "meaning": "Tôi đã trăn trở suốt mà không thể nói với ai, nhưng hôm qua tôi đã dũng cảm tâm sự với đứa bạn thân.",
+    "explanation": "Đáp án đúng: 思いきって — dũng cảm, dứt khoát. 思いきって (đáp án đúng): dũng cảm, dứt khoát | うっかり (đáp án sai): lơ đễnh, vô意 | せっかく (đáp án sai): cất công | 知らず知らず (đáp án sai): vô tình, không hay biết",
+    "level": "N2"
+  },
+  {
+    "id": "c065",
+    "sentence": "原稿に漢字の誤りがあったので、赤のペンで[ ]した。",
+    "word": "訂正",
+    "reading": "ていせい",
+    "answer": "訂正",
+    "choices": [
+      "交換",
+      "改訂",
+      "変換",
+      "訂正"
+    ],
+    "meaning": "Vì trong bản thảo có lỗi sai chữ Hán nên tôi đã sửa lại bằng bút đỏ. (Hán Việt: ĐÍNH CHÍNH)",
+    "explanation": "Đáp án đúng: 訂正 — đính chính, sửa lỗi. 交換 (đáp án sai): trao đổi | 改訂 (đáp án sai): hiệu đính bản in | 変換 (đáp án sai): chuyển đổi (chữ) | 訂正 (đáp án đúng): đính chính, sửa chữa",
+    "level": "N2"
+  },
+  {
+    "id": "c066",
+    "sentence": "選手たちは、次の大会での優勝を[ ]、毎日遅くまで練習している。",
+    "word": "目指す",
+    "reading": "めざす",
+    "answer": "めざして",
+    "choices": [
+      "とらえて",
+      "めざして",
+      "みはって",
+      "にぎって"
+    ],
+    "meaning": "Các vận động viên đang nỗ lực tập luyện đến tận đêm muộn mỗi ngày nhằm hướng tới mục tiêu vô địch ở giải đấu tới. (Hán Việt: MỤC CHỈ)",
+    "explanation": "Đáp án đúng: めざして — hướng tới, mục tiêu. とらえて (đáp án sai): nắm bắt | めざして (đáp án đúng): hướng tới, mục tiêu | みはって (đáp án sai): canh gác | にぎって (đáp án sai): nắm lấy",
+    "level": "N2"
+  },
+  {
+    "id": "c067",
+    "sentence": "この小説はとてもおもしろかったので、最後まで[ ]読んでしまった。",
+    "word": "一気に",
+    "reading": "いっきに",
+    "answer": "一気に",
+    "choices": [
+      "一気に",
+      "一時的に",
+      "一斉に",
+      "一方的に"
+    ],
+    "meaning": "Cuốn tiểu thuyết này quá hay nên tôi đã đọc một mạch cho đến cuối. (Hán Việt: NHẤT KHÍ)",
+    "explanation": "Đáp án đúng: 一気に — một mạch, liền một hơi. 一気に (đáp án đúng): một mạch | 一時的に (đáp án sai): tạm thời | 一斉に (đáp án sai): đồng loạt | 一方的に (đáp án sai): một chiều, đơn phương",
+    "level": "N2"
+  },
+  {
+    "id": "c068",
+    "sentence": "希望の職に就きたいのなら、情報を集めて、必要な知識を[ ]おくことが大切だ。",
+    "word": "蓄える",
+    "reading": "たくわえる",
+    "answer": "蓄えて",
+    "choices": [
+      "蓄えて",
+      "招いて",
+      "抱えて",
+      "結んで"
+    ],
+    "meaning": "Nếu muốn làm công việc mong muốn, việc thu thập thông tin và tích lũy sẵn kiến thức cần thiết là rất quan trọng. (Hán Việt: TÍCH)",
+    "explanation": "Đáp án đúng: 蓄えて — tích lũy, dự trữ. 蓄えて (đáp án đúng): tích lũy | 招いて (đáp án sai): mời, vẫy gọi | 抱えて (đáp án sai): ôm, vướng phải | 結んで (đáp án sai): buộc, kết nối",
+    "level": "N2"
+  },
+  {
+    "id": "c069",
+    "sentence": "今週は仕事が忙しかったので、週末は家で好きな音楽でも聞いて[ ]したい。",
+    "word": "リラックス",
+    "reading": "リラックス",
+    "answer": "リラックス",
+    "choices": [
+      "ダウン",
+      "キャンセル",
+      "クリア",
+      "リラックス"
+    ],
+    "meaning": "Tuần này công việc bận rộn nên cuối tuần tôi muốn ở nhà nghe bản nhạc yêu thích để thư giãn.",
+    "explanation": "Đáp án đúng: リラックス — thư giãn. ダウン (đáp án sai): giảm xuống, kiệt sức | キャンセル (đáp án sai): hủy bỏ | クリア (đáp án sai): vượt qua, làm sạch | リラックス (đáp án đúng): thư giãn",
+    "level": "N2"
+  },
+  {
+    "id": "c070",
+    "sentence": "昨日徹夜したせいで、今日は眠くて、本を読みながらつい[ ]してしまった。",
+    "word": "うとうと",
+    "reading": "うとうと",
+    "answer": "うとうと",
+    "choices": [
+      "ぎっしり",
+      "いきいき",
+      "うとうと",
+      "さっぱり"
+    ],
+    "meaning": "Vì đêm qua thức trắng nên hôm nay tôi buồn ngủ, đang đọc sách thì lỡ ngủ gật mất.",
+    "explanation": "Đáp án đúng: うとうと — ngủ gật, thiu thiu. ぎっしり (đáp án sai): lấp đầy | いきいき (đáp án sai): tràn đầy sống động | うとうと (đáp án đúng): ngủ gật, thiu thiu | さっぱり (đáp án sai): hoàn toàn, sảng khoái",
+    "level": "N2"
+  },
+  {
+    "id": "c071",
+    "sentence": "この学校の[ ]は、国際交流が盛んなことだ。",
+    "word": "特色",
+    "reading": "とくしょく",
+    "answer": "特色",
+    "choices": [
+      "得点",
+      "性能",
+      "効用",
+      "特色"
+    ],
+    "meaning": "Đặc điểm nổi bật của ngôi trường này là hoạt động giao lưu quốc tế diễn ra rất sôi nổi. (Hán Việt: ĐẶC SẮC)",
+    "explanation": "Đáp án đúng: 特色 — đặc điểm nổi bật, đặc sắc. 得点 (đáp án sai): điểm số | 性能 (đáp án sai): tính năng | 効用 (đáp án sai): công dụng, hiệu quả | 特色 (đáp án đúng): đặc điểm nổi bật",
+    "level": "N2"
+  },
+  {
+    "id": "c072",
+    "sentence": "だんだん雨が激しくなって、傘を差していたのに服が[ ]ぬれてしまった。",
+    "word": "びっしょり",
+    "reading": "びっしょり",
+    "answer": "びっしょり",
+    "choices": [
+      "すっきり",
+      "ぎっしり",
+      "びっしょり",
+      "ぴったり"
+    ],
+    "meaning": "Mưa ngày càng nặng hạt, dù đã che ô nhưng quần áo vẫn bị ướt sũng.",
+    "explanation": "Đáp án đúng: びっしょり — ướt sũng. すっきり (đáp án sai): sảng khoái, gọn gàng | ぎっしり (đáp án sai): lấp đầy | びっしょり (đáp án đúng): ướt sũng | ぴったり (đáp án sai): vừa vặn",
+    "level": "N2"
+  },
+  {
+    "id": "c073",
+    "sentence": "このチームは何度も優勝し、[ ]成績を残している。",
+    "word": "輝かしい",
+    "reading": "かがやかしい",
+    "answer": "輝かしい",
+    "choices": [
+      "力強い",
+      "輝かしい",
+      "分厚い",
+      "限りない"
+    ],
+    "meaning": "Đội bóng này đã nhiều lần vô địch và để lại thành tích rực rỡ huy hoàng. (Hán Việt: HUY)",
+    "explanation": "Đáp án đúng: 輝かしい — rực rỡ, huy hoàng. 力強い (đáp án sai): mạnh mẽ | 輝かしい (đáp án đúng): rực rỡ, huy hoàng | 分厚い (đáp án sai): rất dày | 限りない (đáp án sai): vô tận",
+    "level": "N2"
+  },
+  {
+    "id": "c074",
+    "sentence": "A ホテルは大通りに[ ]いて、分かりやすい場所にある。",
+    "word": "面する",
+    "reading": "めんする",
+    "answer": "面して",
+    "choices": [
+      "当たって",
+      "触れて",
+      "面して",
+      "合わせて"
+    ],
+    "meaning": "Khách sạn A nằm hướng ra mặt đường lớn nên ở vị trí rất dễ tìm. (Hán Việt: DIỆN)",
+    "explanation": "Đáp án đúng: 面して — hướng ra, giáp mặt. 当たって (đáp án sai): va trúng | 触れて (đáp án sai): chạm vào | 面して (đáp án đúng): hướng ra, giáp mặt | 合わせて (đáp án sai): kết hợp",
+    "level": "N2"
+  },
+  {
+    "id": "c075",
+    "sentence": "それは、問題点を的確にとらえた[ ]質問だった。",
+    "word": "鋭い",
+    "reading": "するどい",
+    "answer": "するどい",
+    "choices": [
+      "するどい",
+      "にぶい",
+      "けわしい",
+      "ゆるい"
+    ],
+    "meaning": "Đó là một câu hỏi sắc bén đã nắm bắt chính xác vấn đề. (Hán Việt: NHUỆ)",
+    "explanation": "Đáp án đúng: するどい — sắc bén, sắc sảo. するどい (đáp án đúng): sắc bén, sắc sảo | にぶい (đáp án sai): cùn, chậm chạp | けわしい (đáp án sai): hiểm trở | ゆるい (đáp án sai): lỏng lẻo",
+    "level": "N2"
+  },
+  {
+    "id": "c076",
+    "sentence": "このいすは、大きさがちょうどいいし、色や[ ]も気に入っている。",
+    "word": "デザイン",
+    "reading": "デザイン",
+    "answer": "デザイン",
+    "choices": [
+      "インテリア",
+      "スペース",
+      "リビング",
+      "デザイン"
+    ],
+    "meaning": "Chiếc ghế này kích thước vừa vặn, tôi cũng rất ưng意 màu sắc và thiết kiểu dáng của nó.",
+    "explanation": "Đáp án đúng: デザイン — thiết kế, kiểu dáng. インテリア (đáp án sai): nội thất | スペース (đáp án sai): khoảng trống | リビング (đáp án sai): phòng khách | デザイン (đáp án đúng): thiết kế, kiểu dáng",
+    "level": "N2"
+  },
+  {
+    "id": "c077",
+    "sentence": "一つの考え方に縛られず、[ ]思考を持つことで、新しい発想が生まれるだろう。",
+    "word": "柔軟な",
+    "reading": "じゅうなんな",
+    "answer": "柔軟な",
+    "choices": [
+      "快適な",
+      "柔軟な",
+      "円満な",
+      "順調な"
+    ],
+    "meaning": "Không bị gò bó vào một cách suy nghĩ, việc có lối tư duy linh hoạt sẽ giúp nảy sinh những ý tưởng mới. (Hán Việt: NHU NHUYỄN)",
+    "explanation": "Đáp án đúng: 柔軟な — linh hoạt, mềm dẻo. 快適な (đáp án sai): thoải mái | 柔軟な (đáp án đúng): linh hoạt, mềm dẻo | 円満な (đáp án sai): viên mãn | 順調な (đáp án sai): thuận lợi",
+    "level": "N2"
+  },
+  {
+    "id": "c078",
+    "sentence": "日本の 10 年後の人口を、様々なデータから[ ]した。",
+    "word": "予測",
+    "reading": "よそく",
+    "answer": "予測",
+    "choices": [
+      "予測",
+      "予報",
+      "予感",
+      "予習"
+    ],
+    "meaning": "Dân số Nhật Bản sau 10 năm nữa đã được dự đoán từ nhiều dữ liệu khác nhau. (Hán Việt: DỰ TRẮC)",
+    "explanation": "Đáp án đúng: 予測 — dự đoán, ước tính. 予測 (đáp án đúng): dự đoán, ước tính | 予報 (đáp án sai): dự báo (thời tiết) | 予感 (đáp án sai): linh cảm | 予習 (đáp án sai): chuẩn bị bài trước",
+    "level": "N2"
+  },
+  {
+    "id": "c079",
+    "sentence": "川の水が茶色く[ ]いて、底の方が見えない。",
+    "word": "濁る",
+    "reading": "にごる",
+    "answer": "にごって",
+    "choices": [
+      "くもって",
+      "かくれて",
+      "にごって",
+      "くずれて"
+    ],
+    "meaning": "Nước sông đục ngầu màu nâu nên không thể nhìn thấy phía đáy. (Hán Việt: TRỤC)",
+    "explanation": "Đáp án đúng: にごって — vẩn đục, bị đục. くもって (đáp án sai): mờ, mây phủ | かくれて (đáp án sai): ẩn nấp | にごって (đáp án đúng): vẩn đục | くずれて (đáp án sai): sụp đổ",
+    "level": "N2"
+  },
+  {
+    "id": "c080",
+    "sentence": "この書類に必要なことを記入して窓口に提出すれば、手続きは[ ]します。",
+    "word": "完了",
+    "reading": "かんりょう",
+    "answer": "完了",
+    "choices": [
+      "完了",
+      "決定",
+      "実現",
+      "達成"
+    ],
+    "meaning": "Nếu bạn điền thông tin cần thiết vào tài liệu này và nộp tại quầy thủ tục thì thủ tục sẽ hoàn tất. (Hán Việt: HOÀN LIỄU)",
+    "explanation": "Đáp án đúng: 完了 — hoàn tất, hoàn thành. 完了 (đáp án đúng): hoàn tất | 決定 (đáp án sai): quyết định | 実現 (đáp án sai): thực hiện | 達成 (đáp án sai): đạt được",
+    "level": "N2"
+  },
+  {
+    "id": "c081",
+    "sentence": "栄養の[ ]を考えて、いろいろなものを食べましょう。",
+    "word": "バランス",
+    "reading": "バランス",
+    "answer": "バランス",
+    "choices": [
+      "ストレス",
+      "バランス",
+      "チェンジ",
+      "ステップ"
+    ],
+    "meaning": "Hãy cân nhắc đến sự cân bằng dinh dưỡng và ăn đa dạng các loại thực phẩm.",
+    "explanation": "Đáp án đúng: バランス — sự cân bằng. ストレス (đáp án sai): căng thẳng | バランス (đáp án đúng): sự cân bằng | チェンジ (đáp án sai): thay đổi | ステップ (đáp án sai): bước đi",
+    "level": "N2"
+  },
+  {
+    "id": "c082",
+    "sentence": "この店の料理は、量が[ ]あるので、たくさん食べる人に人気があります。",
+    "word": "たっぷり",
+    "reading": "たっぷり",
+    "answer": "たっぷり",
+    "choices": [
+      "ふんわり",
+      "すっきり",
+      "たっぷり",
+      "ぼんやり"
+    ],
+    "meaning": "Món ăn của quán này có khẩu phần rất nhiều nên rất được ưa chuộng bởi những người ăn nhiều.",
+    "explanation": "Đáp án đúng: たっぷり — đầy đặn, nhiều. ふんわり (đáp án sai): mềm mại | すっきり (đáp án sai): khoan khoái | たっぷり (đáp án đúng): đầy đặn, nhiều | ぼんやり (đáp án sai): mờ mịt",
+    "level": "N2"
+  },
+  {
+    "id": "c083",
+    "sentence": "二人の間には意見の[ ]があり、なかなか議論が進まない。",
+    "word": "相違",
+    "reading": "そうい",
+    "answer": "相違",
+    "choices": [
+      "対比",
+      "間隔",
+      "大別",
+      "相違"
+    ],
+    "meaning": "Giữa hai người có sự bất đồng về ý kiến nên cuộc thảo luận mãi không tiến triển được. (Hán Việt: TƯƠNG VI)",
+    "explanation": "Đáp án đúng: 相違 — sự khác biệt, bất đồng. 対比 (đáp án sai): đối chiếu | 間隔 (đáp án sai): khoảng cách | 大別 (đáp án sai): phân loại lớn | 相違 (đáp án đúng): sự khác biệt, bất đồng",
+    "level": "N2"
+  },
+  {
+    "id": "c084",
+    "sentence": "約束の時間より早く来てしまったので、喫茶店に入って時間を[ ]。",
+    "word": "潰す",
+    "reading": "つぶす",
+    "answer": "つぶした",
+    "choices": [
+      "やぶった",
+      "つぶした",
+      "こわした",
+      "はずった"
+    ],
+    "meaning": "Vì đến sớm hơn giờ hẹn nên tôi đã vào quán cà phê để giết thời gian. (Hán Việt: HỘI)",
+    "explanation": "Đáp án đúng: つぶした — giết (thời gian). やぶった (đáp án sai): xé rách, thất hứa | つぶした (đáp án đúng): giết thời gian | こわした (đáp án sai): làm hỏng | はずった (đáp án sai): trượt",
+    "level": "N2"
+  },
+  {
+    "id": "c085",
+    "sentence": "この大学では一般向けの講座を開き、社会に学習の場を[ ]している。",
+    "word": "提供",
+    "reading": "ていきょう",
+    "answer": "提供",
+    "choices": [
+      "選出",
+      "提供",
+      "指示",
+      "寄付"
+    ],
+    "meaning": "Trường đại học này mở các khóa học dành cho công chúng, cung cấp môi trường học tập cho xã hội. (Hán Việt: ĐỀ CUNG)",
+    "explanation": "Đáp án đúng: 提供 — cung cấp. 選出 (đáp án sai): tuyển chọn | 提供 (đáp án đúng): cung cấp | 指示 (đáp án sai): chỉ thị, hướng dẫn | 寄付 (đáp án sai): quyên góp",
+    "level": "N2"
+  },
+  {
+    "id": "c086",
+    "sentence": "今年の夏は暑さが厳しく、仕事から家に帰ると疲れて[ ]してしまう。",
+    "word": "ぐったり",
+    "reading": "ぐったり",
+    "answer": "ぐったり",
+    "choices": [
+      "ぐったり",
+      "しっかり",
+      "すっきり",
+      "ぎっしり"
+    ],
+    "meaning": "Mùa hè năm nay cái nóng thật gay gắt, từ chỗ làm về đến nhà là tôi mệt rã rời.",
+    "explanation": "Đáp án đúng: ぐったり — mệt rã rời, rũ rượi. ぐったり (đáp án đúng): mệt rã rời | しっかり (đáp án sai): chắc chắn | すっきり (đáp án sai): sảng khoái | ぎっしり (đáp án sai): lấp đầy",
+    "level": "N2"
+  },
+  {
+    "id": "c087",
+    "sentence": "学生時代の友人が私の名前を忘れていたので、とても[ ]だった。",
+    "word": "ショック",
+    "reading": "ショック",
+    "answer": "ショック",
+    "choices": [
+      "アウト",
+      "ダウン",
+      "ショック",
+      "エラー"
+    ],
+    "meaning": "Vì người bạn thời đi học quên mất tên tôi nên tôi cảm thấy rất sốc.",
+    "explanation": "Đáp án đúng: ショック — sốc, bàng hoàng. アウト (đáp án sai): out, hỏng | ダウン (đáp án sai): suy giảm | ショック (đáp án đúng): sốc, bàng hoàng | エラー (đáp án sai): lỗi",
+    "level": "N2"
+  },
+  {
+    "id": "c088",
+    "sentence": "通路に荷物を置いたら、通る人の[ ]になりますよ。",
+    "word": "邪魔",
+    "reading": "じゃま",
+    "answer": "邪魔",
+    "choices": [
+      "面倒",
+      "邪魔",
+      "被害",
+      "無理"
+    ],
+    "meaning": "Nếu đặt hành lý ở lối đi thì sẽ cản trở người đi qua đấy. (Hán Việt: TÀ MA)",
+    "explanation": "Đáp án đúng: 邪魔 — cản trở, phiền phức. 面倒 (đáp án sai): phiền phức | 邪魔 (đáp án đúng): cản trở | 被害 (đáp án sai): thiệt hại | 無理 (đáp án sai): vô lý, quá sức",
+    "level": "N2"
+  },
+  {
+    "id": "c089",
+    "sentence": "少し長めの上り坂だったが[ ]ので、それほど疲れなかった。",
+    "word": "なだらか",
+    "reading": "なだらか",
+    "answer": "なだらかだった",
+    "choices": [
+      "おとなしかった",
+      "ささやかだった",
+      "なだらかだった",
+      "よわよわしかった"
+    ],
+    "meaning": "Dù là con dốc lên hơi dài một chút nhưng vì thoai thoải nên tôi không thấy mệt lắm.",
+    "explanation": "Đáp án đúng: なだらかだった — thoai thoải, êm ả. おとなしかった (đáp án sai): hiền lành | ささやかだった (đáp án sai): nhỏ bé, giản dị | なだらかだった (đáp án đúng): thoai thoải | よわよわしかった (đáp án sai): yếu ớt",
+    "level": "N2"
+  },
+  {
+    "id": "c090",
+    "sentence": "出席者は皆会議に積極的に参加し、意見を[ ]交換し合った。",
+    "word": "活発に",
+    "reading": "かっぱつに",
+    "answer": "活発に",
+    "choices": [
+      "活発に",
+      "円満に",
+      "機敏に",
+      "濃厚に"
+    ],
+    "meaning": "Các thành viên tham dự đều tích cực tham gia họp và trao đổi ý kiến rất sôi nổi. (Hán Việt: HOẠT PHÁT)",
+    "explanation": "Đáp án đúng: 活発に — sôi nổi, tích cực. 活発に (đáp án đúng): sôi nổi | 円満に (đáp án sai): êm đẹp, viên mãn | 機敏に (đáp án sai): nhanh nhẹn | 濃厚に (đáp án sai): nồng đậm",
+    "level": "N2"
+  },
+  {
+    "id": "c091",
+    "sentence": "列に並んでいたら、私の前に強引に[ ]きた人がいて、嫌な気分になった。",
+    "word": "割り込む",
+    "reading": "わりこむ",
+    "answer": "割り込んで",
+    "choices": [
+      "当てはまって",
+      "付け加えて",
+      "行き着いて",
+      "割り込んで"
+    ],
+    "meaning": "Trong lúc xếp hàng, có người đã cố tình chen ngang vào trước mặt tôi khiến tôi cảm thấy khó chịu.",
+    "explanation": "Đáp án đúng: 割り込んで — chen ngang, xen vào. 当てはまって (đáp án sai): áp dụng | 付け加えて (đáp án sai): thêm vào | 行き着いて (đáp án sai): đi tới đích | 割り込んで (đáp án đúng): chen ngang",
+    "level": "N2"
+  },
+  {
+    "id": "c092",
+    "sentence": "骨を丈夫にするために、カルシウムを[ ]含む食品をとるようにしている。",
+    "word": "豊富に",
+    "reading": "ほうふに",
+    "answer": "豊富に",
+    "choices": [
+      "鮮明に",
+      "活発に",
+      "円満に",
+      "豊富に"
+    ],
+    "meaning": "Để xương chắc khỏe, tôi cố gắng dùng thực phẩm có chứa dồi dào canxi. (Hán Việt: PHONG PHÚ)",
+    "explanation": "Đáp án đúng: 豊富に — phong phú, dồi dào. 鮮明に (đáp án sai): rõ ràng, tươi sáng | 活発に (đáp án sai): sôi nổi | 円満に (đáp án sai): viên mãn | 豊富に (đáp án đúng): phong phú, dồi dào",
+    "level": "N2"
+  },
+  {
+    "id": "c093",
+    "sentence": "今週は、暑くも寒くもなく、強い風も吹かず、[ ]天気が続いている。",
+    "word": "穏やか",
+    "reading": "おだやか",
+    "answer": "穏やかな",
+    "choices": [
+      "柔らかな",
+      "穏やかな",
+      "滑らかな",
+      "緩やかな"
+    ],
+    "meaning": "Tuần này thời tiết tiếp tục trôi qua êm đềm, không nóng không lạnh cũng không có gió mạnh. (Hán Việt: ỔN)",
+    "explanation": "Đáp án đúng: 穏やかな — êm đềm, ôn hòa. 柔らかな (đáp án sai): mềm mại | 穏やかな (đáp án đúng): êm đềm, ôn hòa | 滑らかな (đáp án sai): trơn tru | 緩やかな (đáp án sai): thoai thoải",
+    "level": "N2"
+  },
+  {
+    "id": "c094",
+    "sentence": "資格試験がもうすぐあるのに、最近仕事が忙しくて、毎朝の勉強時間を十分に[ ]するのが難しいです。",
+    "word": "確保",
+    "reading": "かくほ",
+    "answer": "確保",
+    "choices": [
+      "制作",
+      "保存",
+      "作成",
+      "確保"
+    ],
+    "meaning": "Dù kỳ thi chứng chỉ đã đến gần nhưng gần đây công việc bận rộn nên rất khó đảm bảo đủ thời gian học mỗi sáng. (Hán Việt: XÁC BẢO)",
+    "explanation": "Đáp án đúng: 確保 — đảm bảo, giữ chắc. 制作 (đáp án sai): chế tác, sản xuất | 保存 (đáp án sai): bảo tồn | 作成 (đáp án sai): tạo ra | 確保 (đáp án đúng): đảm bảo",
+    "level": "N2"
+  },
+  {
+    "id": "c095",
+    "sentence": "雑誌に新しい広告を出して、わが社の商品の良さを消費者にもっと[ ]したい。",
+    "word": "アピール",
+    "reading": "アピール",
+    "answer": "アピール",
+    "choices": [
+      "アピール",
+      "インストール",
+      "チャージ",
+      "セット"
+    ],
+    "meaning": "Tôi muốn đăng quảng cáo mới trên tạp chí để quảng bá nhiều hơn ưu điểm sản phẩm của công ty tới người tiêu dùng.",
+    "explanation": "Đáp án đúng: アピール — quảng bá, thu hút sự chú ý. アピール (đáp án đúng): quảng bá, thu hút | インストール (đáp án sai): cài đặt | チャージ (đáp án sai): nạp tiền | セット (đáp án sai): thiết lập",
+    "level": "N2"
+  },
+  {
+    "id": "c096",
+    "sentence": "失敗したことを[ ]より、気持ちを切り替えて、明日からまたがんばろうと思う。",
+    "word": "悔やむ",
+    "reading": "くやむ",
+    "answer": "悔やむ",
+    "choices": [
+      "断る",
+      "疑う",
+      "悔やむ",
+      "あきらめる"
+    ],
+    "meaning": "Thay vì hối hận về những thất bại, tôi nghĩ mình nên thay đổi tâm trạng và từ ngày mai lại cố gắng tiếp. (Hán Việt: HỐI)",
+    "explanation": "Đáp án đúng: 悔やむ — hối hận, tiếc nuối. 断る (đáp án sai): từ chối | 疑う (đáp án sai): nghi ngờ | 悔やむ (đáp án đúng): hối hận | あきらめる (đáp án sai): từ bỏ",
+    "level": "N2"
+  },
+  {
+    "id": "c097",
+    "sentence": "わが社が海外への進出を考える[ ]となったのは、二年前の国際イベントだった。",
+    "word": "契機",
+    "reading": "けいき",
+    "answer": "契機",
+    "choices": [
+      "契機",
+      "先端",
+      "始発",
+      "合図"
+    ],
+    "meaning": "Thời cơ khiến công ty chúng tôi cân nhắc mở rộng ra nước ngoài chính là sự kiện quốc tế cách đây 2 năm. (Hán Việt: KHẾ CƠ)",
+    "explanation": "Đáp án đúng: 契機 — thời cơ, bước ngoặt. 契機 (đáp án đúng): thời cơ, bước ngoặt | 先端 (đáp án sai): mũi nhọn | 始発 (đáp án sai): chuyến đầu tiên | 合図 (đáp án sai): hiệu lệnh",
+    "level": "N2"
+  },
+  {
+    "id": "c098",
+    "sentence": "あの二人はさっきから[ ]話しているが、他人に聞かれては困る話なのだろうか。",
+    "word": "ひそひそ",
+    "reading": "ひそひそ",
+    "answer": "ひそひそ",
+    "choices": [
+      "ぐっすり",
+      "うろうろ",
+      "ひそひそ",
+      "ばっさり"
+    ],
+    "meaning": "Hai người đó từ nãy đến giờ cứ nói chuyện thì thầm, phải chăng là chuyện sợ người khác nghe thấy?",
+    "explanation": "Đáp án đúng: ひそひそ — thì thầm, nhỏ to. ぐっすり (đáp án sai): ngủ ngon | うろうろ (đáp án sai): đi đi lại lại | ひそひそ (đáp án đúng): thì thầm | ばっさり (đáp án sai): quyết đoán, thẳng tay",
+    "level": "N2"
+  },
+  {
+    "id": "c099",
+    "sentence": "健康のためには、栄養の[ ]がいい食事を取ることが大切だ。",
+    "word": "バランス",
+    "reading": "バランス",
+    "answer": "バランス",
+    "choices": [
+      "バランス",
+      "リズム",
+      "ビタミン",
+      "エネルギー"
+    ],
+    "meaning": "Để có sức khỏe tốt, việc dùng bữa ăn có sự cân bằng dinh dưỡng hợp lý là rất quan trọng.",
+    "explanation": "Đáp án đúng: バランス — cân bằng. バランス (đáp án đúng): sự cân bằng | リズム (đáp án sai): nhịp điệu | ビタミン (đáp án sai): vitamin | エネルギー (đáp án sai): năng lượng",
+    "level": "N2"
+  },
+  {
+    "id": "c100",
+    "sentence": "市役所には騒音などの迷惑行為に対する[ ]が寄せられる。",
+    "word": "苦情",
+    "reading": "くじょう",
+    "answer": "苦情",
+    "choices": [
+      "苦情",
+      "悪意",
+      "不便",
+      "多難"
+    ],
+    "meaning": "Tại ủy ban thành phố, nhiều lời phàn nàn về các hành vi gây phiền hà như tiếng ồn đã được gửi tới. (Hán Việt: KHỔ TÌNH)",
+    "explanation": "Đáp án đúng: 苦情 — phàn nàn, khiếu nại. 苦情 (đáp án đúng): phàn nàn | 悪意 (đáp án sai): ác ý | 不便 (đáp án sai): bất tiện | 多難 (đáp án sai): nhiều gian nan",
+    "level": "N2"
+  },
+  {
+    "id": "c101",
+    "sentence": "ここは桜の[ ]で、春になると大勢の花見客が訪れる。",
+    "word": "名所",
+    "reading": "めいしょ",
+    "answer": "名所",
+    "choices": [
+      "要所",
+      "名所",
+      "実地",
+      "現場"
+    ],
+    "meaning": "Nơi đây là địa danh nổi tiếng về hoa anh đào, mỗi khi xuân về lại có rất đông khách thưởng hoa ghé thăm. (Hán Việt: DANH SỞ)",
+    "explanation": "Đáp án đúng: 名所 — danh thắng, địa danh nổi tiếng. 要所 (đáp án sai): vị trí quan trọng | 名所 (đáp án đúng): danh thắng | 実地 (đáp án sai): thực địa | 現場 (đáp án sai): hiện trường",
+    "level": "N2"
+  },
+  {
+    "id": "c102",
+    "sentence": "電車に遅れそうだったが、[ ]間に合って何とか乗れた。",
+    "word": "ぎりぎり",
+    "reading": "ぎりぎり",
+    "answer": "ぎりぎり",
+    "choices": [
+      "ばったり",
+      "ぐっすり",
+      "ぎりぎり",
+      "がらがら"
+    ],
+    "meaning": "Suýt nữa thì trễ tàu điện, nhưng vừa kịp sát nút nên bằng cách nào đó tôi đã lên được tàu.",
+    "explanation": "Đáp án đúng: ぎりぎり — sát nút, vừa kịp. ばったり (đáp án sai): tình cờ, thình lình | ぐっすり (đáp án sai): ngủ say | ぎりぎり (đáp án đúng): sát nút | がらがら (đáp án sai): vắng ngắt",
+    "level": "N2"
+  },
+  {
+    "id": "c103",
+    "sentence": "この資格を持っていると就職に[ ]になると聞いた。",
+    "word": "有利",
+    "reading": "ゆうり",
+    "answer": "有利",
+    "choices": [
+      "先着",
+      "優先",
+      "強力",
+      "有利"
+    ],
+    "meaning": "Tôi nghe nói nếu sở hữu chứng chỉ này thì sẽ có lợi thế khi xin việc. (Hán Việt: HỮU LỢI)",
+    "explanation": "Đáp án đúng: 有利 — có lợi, lợi thế. 先着 (đáp án sai): đến trước | 優先 (đáp án sai): ưu tiên | 強力 (đáp án sai): mạnh mẽ | 有利 (đáp án đúng): có lợi, lợi thế",
+    "level": "N2"
+  },
+  {
+    "id": "c104",
+    "sentence": "あの政治家は記者会見に元気な様子で現れて、病気だといううわさを[ ]。",
+    "word": "打ち消す",
+    "reading": "うちけす",
+    "answer": "打ち消した",
+    "choices": [
+      "入れ替えた",
+      "打ち消した",
+      "追い返した",
+      "差し引いた"
+    ],
+    "meaning": "Nhà chính trị đó đã xuất hiện tại buổi họp báo với vẻ ngoài khỏe mạnh, dập tắt tin đồn bị bệnh.",
+    "explanation": "Đáp án đúng: 打ち消した — bác bỏ, dập tắt. 入れ替えた (đáp án sai): thay thế | 打ち消した (đáp án đúng): dập tắt, phủ nhận | 追い返した (đáp án sai): đuổi về | 差し引いた (đáp án sai): khấu trừ",
+    "level": "N2"
+  },
+  {
+    "id": "c105",
+    "sentence": "買い物に行くのに財布を忘れてしまうとは、山口さんは本当に[ ]人だ。",
+    "word": "そそっかしい",
+    "reading": "そそっかしい",
+    "answer": "そそっかしい",
+    "choices": [
+      "たのもしい",
+      "そうぞうしい",
+      "あつかましい",
+      "そそっかしい"
+    ],
+    "meaning": "Đi mua sắm mà lại quên mất ví tiền, anh Yamaguchi thật là một người hậu đậu quá.",
+    "explanation": "Đáp án đúng: そそっかしい — hậu đậu, cẩu thả. たのもしい (đáp án sai): đáng tin cậy | そうぞうしい (đáp án sai): ồn ào | あつかましい (đáp án sai): mặt dày | そそっかしい (đáp án đúng): hậu đậu, cẩu thả",
+    "level": "N2"
+  },
+  {
+    "id": "c106",
+    "sentence": "その話が本当かどうか分からないのに、確認もしないで[ ]信じてしまった。",
+    "word": "安易に",
+    "reading": "あんいに",
+    "answer": "安易に",
+    "choices": [
+      "率直に",
+      "安易に",
+      "柔軟に",
+      "短気に"
+    ],
+    "meaning": "Dù chưa biết câu chuyện đó có thật hay không, tôi đã vội tin mà không kiểm chứng. (Hán Việt: AN DỊ)",
+    "explanation": "Đáp án đúng: 安易に — một cách dễ dãi, thiếu cân nhắc. 率直に (đáp án sai): thẳng thắn | 安易に (đáp án đúng): dễ dãi, thiếu thận trọng | 柔軟に (đáp án sai): linh hoạt | 短気に (đáp án sai): nóng nảy, thiếu kiên nhẫn",
+    "level": "N2"
+  },
+  {
+    "id": "c107",
+    "sentence": "今年は天候に恵まれたので、昨年を上回る量の農作物が[ ]できるだろう。",
+    "word": "収穫",
+    "reading": "しゅうかく",
+    "answer": "収穫",
+    "choices": [
+      "収穫",
+      "成立",
+      "採集",
+      "取得"
+    ],
+    "meaning": "Vì năm nay thời tiết thuận lợi nên có lẽ sẽ thu hoạch được lượng nông sản nhiều hơn năm ngoái. (Hán Việt: THU HOẠCH)",
+    "explanation": "Đáp án đúng: 収穫 — thu hoạch nông sản. 収穫 (đáp án đúng): thu hoạch | 成立 (đáp án sai): được thành lập, được hình thành | 採集 (đáp án sai): thu thập, sưu tập (mẫu vật, côn trùng...) | 取得 (đáp án sai): đạt được, lấy được (bằng cấp, quyền lợi...)",
+    "level": "N2"
+  },
+  {
+    "id": "c108",
+    "sentence": "先週は忙しかったので、週末は家で本を読んで[ ]過ごした。",
+    "word": "のんびり",
+    "reading": "のんびり",
+    "answer": "のんびり",
+    "choices": [
+      "だぶだぶ",
+      "がらがら",
+      "ぐっすり",
+      "のんびり"
+    ],
+    "meaning": "Vì tuần trước bận rộn nên cuối tuần tôi đã thong thả đọc sách ở nhà.",
+    "explanation": "Đáp án đúng: のんびり — thong thả, thảnh thơi. だぶだぶ (đáp án sai): rộng thùng thình | がらがら (đáp án sai): vắng vẻ, trống không | ぐっすり (đáp án sai): ngủ say | のんびり (đáp án đúng): thong thả, thảnh thơi",
+    "level": "N2"
+  },
+  {
+    "id": "c109",
+    "sentence": "このサービスの利用者はまだ少なく、一般の人々に[ ]するには時間がかかるだろう。",
+    "word": "普及",
+    "reading": "ふきゅう",
+    "answer": "普及",
+    "choices": [
+      "普及",
+      "充満",
+      "伝染",
+      "進行"
+    ],
+    "meaning": "Dịch vụ này hiện vẫn có ít người sử dụng, nên có lẽ sẽ mất thời gian để trở nên phổ biến trong cộng đồng. (Hán Việt: PHỔ CẬP)",
+    "explanation": "Đáp án đúng: 普及 — lan rộng, trở nên phổ biến. 普及 (đáp án đúng): phổ biến, phổ cập | 充満 (đáp án sai): tràn ngập, đầy kín (khí, mùi...) | 伝染 (đáp án sai): lây truyền (bệnh...) | 進行 (đáp án sai): tiến triển, diễn ra",
+    "level": "N2"
+  },
+  {
+    "id": "c110",
+    "sentence": "話したいことがあったので、帰ろうとした友人を[ ]。",
+    "word": "引き止めた",
+    "reading": "ひきとめた",
+    "answer": "引き止めた",
+    "choices": [
+      "取り付けた",
+      "引き止めた",
+      "持ち寄った",
+      "受け入れた"
+    ],
+    "meaning": "Vì có chuyện muốn nói nên tôi đã giữ người bạn đang định ra về ở lại.",
+    "explanation": "Đáp án đúng: 引き止めた — giữ lại, níu lại, ngăn ai đó rời đi. 取り付けた (đáp án sai): lắp đặt, gắn vào | 引き止めた (đáp án đúng): giữ lại, níu lại | 持ち寄った (đáp án sai): mỗi người mang một thứ đến góp chung | 受け入れた (đáp án sai): tiếp nhận, chấp nhận. Đây là động từ Nhật có okurigana; không dùng âm Hán Việt ghép từng chữ để giải thích nghĩa.",
+    "level": "N2"
+  },
+  {
+    "id": "c111",
+    "sentence": "林さんは企画チームの[ ]として、部下をまとめ、導いていく責任がある。",
+    "word": "リーダー",
+    "reading": "リーダー",
+    "answer": "リーダー",
+    "choices": [
+      "ライバル",
+      "ゲスト",
+      "リーダー",
+      "ファン"
+    ],
+    "meaning": "Là trưởng nhóm lập kế hoạch, anh Hayashi có trách nhiệm tập hợp và dẫn dắt các thành viên cấp dưới.",
+    "explanation": "Đáp án đúng: リーダー — trưởng nhóm, người lãnh đạo (leader). ライバル (đáp án sai): đối thủ | ゲスト (đáp án sai): khách mời | リーダー (đáp án đúng): trưởng nhóm, người dẫn dắt | ファン (đáp án sai): người hâm mộ",
+    "level": "N2"
+  },
+  {
+    "id": "c112",
+    "sentence": "外国語が得意な森さんは、海外旅行の時に通訳をして皆を助けてくれて、とても[ ]。",
+    "word": "たのもしかった",
+    "reading": "たのもしかった",
+    "answer": "たのもしかった",
+    "choices": [
+      "したしかった",
+      "なつかしかった",
+      "くわしかった",
+      "たのもしかった"
+    ],
+    "meaning": "Trong chuyến du lịch nước ngoài, anh Mori vốn giỏi ngoại ngữ đã phiên dịch giúp mọi người, khiến ai cũng cảm thấy rất yên tâm và tin cậy.",
+    "explanation": "Đáp án đúng: たのもしかった（頼もしかった）— đáng tin cậy, khiến người khác yên tâm. したしかった (đáp án sai): thân thiết | なつかしかった (đáp án sai): gợi nhớ, hoài niệm | くわしかった (đáp án sai): am hiểu, tường tận | たのもしかった (đáp án đúng): đáng tin cậy, vững tâm",
+    "level": "N2"
+  }
 ]
