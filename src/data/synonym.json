@@ -1,3 +1,1202 @@
 [
-     { "id": "y001", "sentence": "[とりあえず]社長に電話で話しておいた。", "word": "とりあえず", "answer": "一応", "choices": ["さっき", "すぐに", "一応", "直接"], "meaning": "Tôi đã tạm thời gọi điện trao đổi với giám đốc.", "explanation": "とりあえず: tạm thời, trước mắt, đồng nghĩa với 一応.", "level": "N2" }, { "id": "y002", "sentence": "友人がバイクを安く[ゆずって]くれた。", "word": "ゆずって", "answer": "売って", "choices": ["売って", "貸して", "預かって", "直して"], "meaning": "Bạn tôi đã nhượng lại giá rẻ chiếc xe máy cho tôi.", "explanation": "ゆずる: nhượng lại, bán lại cho người khác, gần nghĩa với 売って.", "level": "N2" }, { "id": "y003", "sentence": "[雑談]をしているときにいいアイディアが浮かんだ。", "word": "雑談", "answer": "おしゃべり", "choices": ["あいさつ", "おしゃべり", "説明", "報告"], "meaning": "Trong lúc trò chuyện phiếm thì tôi nảy ra ý tưởng hay.", "explanation": "雑談: trò chuyện tán phét, nói chuyện phiếm, gần nghĩa với おしゃべり.", "level": "N2" }, { "id": "y004", "sentence": "うちの犬はとても[かしこい]。", "word": "かしこい", "answer": "頭がいい", "choices": ["頭がいい", "足が速い", "めずらしい", "おとなしい"], "meaning": "Chú chó nhà tôi rất thông minh.", "explanation": "かしこい: thông minh, khôn ngoan, đồng nghĩa với 頭がいい.", "level": "N2" }, { "id": "y005", "sentence": "彼の話はいつも[大げさ]だ。", "word": "大げさ", "answer": "オーバーだ", "choices": ["エネルギーがある", "ユーモアがある", "オープンだ", "オーバーだ"], "meaning": "Câu chuyện của anh ấy lúc nào cũng phóng đại quá lời.", "explanation": "大げさ: cường điệu, phóng đại, đồng nghĩa với オーバーだ.", "level": "N2" }, { "id": "y006", "sentence": "あまり[勝手な]ことは言わないでください。", "word": "勝手な", "answer": "わがままな", "choices": ["わがままな", "うるさい", "消極的な", "情けない"], "meaning": "Xin đừng nói những điều ích kỷ tùy tiện như thế.", "explanation": "勝手な: tùy tiện, ích kỷ, đồng nghĩa với わがままな.", "level": "N2" }, { "id": "y007", "sentence": "あの人は[たびたび]夜遅くに電話をかけてくる。", "word": "たびたび", "answer": "何度も", "choices": ["たまに", "何度も", "たいてい", "突然"], "meaning": "Người đó thường xuyên gọi điện cho tôi vào đêm muộn.", "explanation": "たびたび: thường xuyên, nhiều lần, đồng nghĩa với 何度も.", "level": "N2" }, { "id": "y008", "sentence": "この靴は[ぶかぶか]だ。", "word": "ぶかぶか", "answer": "とても大きい", "choices": ["とても重い", "とても小さい", "とても軽い", "とても大きい"], "meaning": "Đôi giày này rộng thùng sinh rộng quá khổ.", "explanation": "ぶかぶか: rộng thùng sinh, rộng quá khổ, đồng nghĩa với とても大きい.", "level": "N2" }, { "id": "y009", "sentence": "同じ分野の専門家でも、立場によって[見解]が異なる。", "word": "見解", "answer": "考え方", "choices": ["教え方", "調べ方", "考え方", "決め方"], "meaning": "Dù là chuyên gia trong cùng lĩnh vực nhưng tùy vào lập trường mà quan điểm lại khác nhau.", "explanation": "見解: quan điểm, cách nhìn nhận, đồng nghĩa với 考え方.", "level": "N2" }, { "id": "y010", "sentence": "先週、車を[レンタル]した。", "word": "レンタル", "answer": "借りた", "choices": ["修理した", "借りた", "検査した", "買った"], "meaning": "Tuần trước tôi đã thuê xe ô tô.", "explanation": "レンタルする: thuê, mượn, đồng nghĩa với 借りた.", "level": "N2" }, { "id": "y011", "sentence": "この[ブーム]は長くは続かないだろう。", "word": "ブーム", "answer": "流行", "choices": ["効果", "状態", "流行", "緊張"], "meaning": "Phong trào này chắc sẽ không kéo dài lâu đâu.", "explanation": "ブーム: trào lưu, cơn sốt, đồng nghĩa với 流行.", "level": "N2" }, { "id": "y012", "sentence": "この作業は[慎重に]やってください。", "word": "慎重に", "answer": "十分注意して", "choices": ["急いで", "絶対忘れずに", "静かに", "十分注意して"], "meaning": "Hãy thực hiện công đoạn này một cách thận trọng.", "explanation": "慎重に: cẩn thận, thận trọng, đồng nghĩa với 十分注意して.", "level": "N2" }, { "id": "y013", "sentence": "シャツが[ちぢんで]しまった。", "word": "ちぢんで", "answer": "小さくなって", "choices": ["小さくなって", "古くなって", "汚れて", "破れて"], "meaning": "Áo sơ mi bị co lại rồi.", "explanation": "ちぢむ: co lại, ngắn lại, thu nhỏ lại, đồng nghĩa với 小さくなって.", "level": "N2" }, { "id": "y014", "sentence": "宿題のレポートは[ほぼ]終わった。", "word": "ほぼ", "answer": "だいたい", "choices": ["すべて", "すぐに", "だいたい", "やっと"], "meaning": "Báo cáo bài tập về nhà hầu như đã hoàn thành xong.", "explanation": "ほぼ: hầu như, gần như, đồng nghĩa với だいたい.", "level": "N2" }, { "id": "y015", "sentence": "来週は天気が[回復する]そうだ。", "word": "回復する", "answer": "よくなる", "choices": ["あまり変わらない", "変わりやすい", "よくなる", "悪くなる"], "meaning": "Nghe nói tuần sau thời tiết sẽ hồi phục tốt lên.", "explanation": "天気が回復する: thời tiết trở nên tốt lên, đồng nghĩa với よくなる.", "level": "N2" }, { "id": "y016", "sentence": "真夏の屋外でずっと仕事をしたら、[くたくた]になった。", "word": "くたくた", "answer": "ひどく疲れた", "choices": ["ひどく疲れた", "のどがかわいた", "お腹が空いた", "汗をかいた"], "meaning": "Làm việc ngoài trời giữa mùa hè suốt nên tôi mệt rã rời.", "explanation": "くたくた: mệt phờ phạt, mệt rã rời, đồng nghĩa với ひどく疲れた.", "level": "N2" }, { "id": "y017", "sentence": "この 10 年で、この島の自然環境は[わずかに]変化した。", "word": "わずかに", "answer": "少し", "choices": ["急に", "ゆっくり", "大きく", "少し"], "meaning": "Trong 10 năm qua, môi trường tự nhiên đảo này đã biến đổi một chút.", "explanation": "わずかに: chỉ một chút, ít ỏi, đồng nghĩa với 少し.", "level": "N2" }, { "id": "y018", "sentence": "田中さんは子供のころから[優秀]だったらしい。", "word": "優秀", "answer": "あたまがよかった", "choices": ["あたまがよかった", "体が丈夫だった", "話がおもしろかった", "人気があった"], "meaning": "Nghe nói anh Tanaka từ nhỏ đã rất ưu tú thông minh.", "explanation": "優秀: giỏi giang, ưu tú, đồng nghĩa với あたまがよかった.", "level": "N2" }, { "id": "y019", "sentence": "鈴木さんは恥ずかしそうに[うつむいていた]。", "word": "うつむいていた", "answer": "下を向いて", "choices": ["横を向いて", "下を向いて", "頭をかいて", "鼻をかいて"], "meaning": "Suzuki cúi mặt xuống trông có vẻ ngượng ngùng.", "explanation": "うつむく: cúi mặt xuống, nhìn xuống dưới, đồng nghĩa với 下を向いて.", "level": "N2" }, { "id": "y020", "sentence": "学生時代の友人が[いきなり]訪ねてきた。", "word": "いきなり", "answer": "とつぜん", "choices": ["つぎつぎ", "やっと", "とつぜん", "いちどに"], "meaning": "Người bạn thời sinh viên đột ngột đến thăm tôi.", "explanation": "いきなり: bất ngờ, đột ngột, đồng nghĩa với とつぜん.", "level": "N2" }, { "id": "y021", "sentence": "この問題は、[ただちに]部長に報告しなければならない。", "word": "ただちに", "answer": "すぐに", "choices": ["あとで", "すぐに", "くわしく", "きちんと"], "meaning": "Vấn đề này phải lập tức báo cáo cho trưởng phòng.", "explanation": "ただちに: lập tức, ngay tức khắc, đồng nghĩa với すぐに.", "level": "N2" }, { "id": "y022", "sentence": "隣の部屋から[奇妙な]音が聞こえる。", "word": "奇妙な", "answer": "変な", "choices": ["変な", "にぎやかな", "大きな", "嫌な"], "meaning": "Từ phòng bên cạnh nghe thấy âm thanh kì lạ.", "explanation": "奇妙な: kì lạ, kì quái, đồng nghĩa với 変な.", "level": "N2" }, { "id": "y023", "sentence": "明日までに、この資料を[仕上げて]おいてください。", "word": "仕上げて", "answer": "完成させて", "choices": ["出して", "直して", "完成させて", "移動させて"], "meaning": "Cho đến ngày mai hãy hoàn thiện tài liệu này sẵn nhé.", "explanation": "仕上げる: hoàn thành, làm xong hoàn thiện, đồng nghĩa với 完成させて.", "level": "N2" }, { "id": "y024", "sentence": "[日中]はアルバイトに行っています。", "word": "日中", "answer": "昼間", "choices": ["平日", "休日", "夜間", "昼間"], "meaning": "Ban ngày tôi đi làm thêm.", "explanation": "日中: ban ngày, thời gian trong ngày, đồng nghĩa với 昼間.", "level": "N2" }, { "id": "y025", "sentence": "このタオルとシャツは[しめっている]ね。", "word": "しめっている", "answer": "まだ乾いていない", "choices": ["まだきれいになっていない", "まだ乾いていない", "もうきれいになっている", "もう乾いている"], "meaning": "Chiếc khăn tắm và áo sơ mi này ẩm ướt nhỉ.", "explanation": "しめっている: ẩm ướt, chưa khô, đồng nghĩa với まだ乾いていない.", "level": "N2" }, { "id": "y026", "sentence": "ちょっと[追加したい]データがあります。", "word": "追加したい", "answer": "たしたい", "choices": ["たしたい", "なおしたい", "のせたい", "しらべたい"], "meaning": "Có chút dữ liệu tôi muốn thêm vào.", "explanation": "追加する: bổ sung, thêm vào, đồng nghĩa với たしたい.", "level": "N2" }, { "id": "y027", "sentence": "その国も今の時期は[そうとう]暑いだろう。", "word": "そうとう", "answer": "かなり", "choices": ["たぶん", "どうせ", "やはり", "かなり"], "meaning": "Quốc gia đó vào thời điểm này chắc cũng tương đối khá là nóng.", "explanation": "そうとう: tương đối, khá là, đồng nghĩa với かなり.", "level": "N2" }, { "id": "y028", "sentence": "少しの間、[じっと]していてください。", "word": "じっと", "answer": "動かないで", "choices": ["見ないで", "話さないで", "使わないで", "動かないで"], "meaning": "Hãy bất động giữ nguyên đừng cử động trong một khoảng thời gian ngắn nhé.", "explanation": "じっとする: giữ yên, không cử động, đồng nghĩa với 動かないで.", "level": "N2" }, { "id": "y029", "sentence": "[あやまった]情報が流れてしまったようだ。", "word": "あやまった", "answer": "正しくない", "choices": ["古い", "正しくない", "秘密の", "必要のない"], "meaning": "Có vẻ như thông tin sai lệch không chính xác đã bị phát tán.", "explanation": "あやまった: nhầm lẫn, sai lầm, không đúng, đồng nghĩa với 正しくない.", "level": "N2" }, { "id": "y030", "sentence": "ちょっと手が[かさかさしている]。", "word": "かさかさしている", "answer": "乾いている", "choices": ["汚れている", "冷えている", "乾いている", "痺れている"], "meaning": "Tay tôi hơi bị khô ráp.", "explanation": "かさかさしている: khô ráp, khô nẻ, đồng nghĩa với 乾いている.", "level": "N2" }, { "id": "y031", "sentence": "できるだけ早く仕事を[済ます]ようにします。", "word": "済ます", "answer": "終える", "choices": ["覚える", "終える", "始める", "教える"], "meaning": "Tôi sẽ cố gắng hoàn thành xong công việc càng sớm càng tốt.", "explanation": "済ます: hoàn thành, làm xong, đồng nghĩa với 終える.", "level": "N2" }, { "id": "y032", "sentence": "昨日のあの人の態度は[あいまい]だった。", "word": "あいまい", "answer": "はっきりしなかった", "choices": ["ていねいだった", "はっきりしなかった", "りっぱだった", "なさけなかった"], "meaning": "Thái độ của người đó hôm qua thật mập mờ mơ hồ.", "explanation": "あいまい: mơ hồ, mập mờ, không rõ ràng, đồng nghĩa với はっきりしなかった.", "level": "N2" }, { "id": "y033", "sentence": "昨日、学校で[思いがけない]出来事があった。", "word": "思いがけない", "answer": "意外な", "choices": ["おもしろい", "悲しい", "意外な", "ふしぎな"], "meaning": "Hôm qua ở trường đã xảy ra sự việc bất ngờ ngoài dự tính.", "explanation": "思いがけない: không ngờ, ngoài dự tính, đồng nghĩa với 意外な.", "level": "N2" }, { "id": "y034", "sentence": "彼は大学を卒業した後、[みずから]会社を立ち上げる。", "word": "みずから", "answer": "自分で", "choices": ["自分で", "すぐに", "仲間と", "しばらくして"], "meaning": "Sau khi tốt nghiệp đại học, anh ấy tự mình thành lập công ty.", "explanation": "みずから: đích thân, tự bản thân mình, đồng nghĩa với 自分で.", "level": "N2" }, { "id": "y035", "sentence": "もう全員[そろいました]か。", "word": "そろいました", "answer": "集まりました", "choices": ["集まりました", "訪ねました", "出発しました", "案内しました"], "meaning": "Mọi người đã tập hợp đầy đủ đông đủ chưa?", "explanation": "そろう: tập hợp đầy đủ, tụ họp, đồng nghĩa với 集まりました.", "level": "N2" }, { "id": "y036", "sentence": "荷物の重さは[およそ] 5 キロでした。", "word": "およそ", "answer": "だいたい", "choices": ["ぜんぶで", "ぴったり", "だいたい", "それぞれ"], "meaning": "Trọng lượng của hành lý đại khái là khoảng 5 kg.", "explanation": "およそ: khoảng, đại khái, đồng nghĩa với だいたい.", "level": "N2" }, { "id": "y037", "sentence": "もう少し具体的な[プラン]を教えてほしい。", "word": "プラン", "answer": "計画", "choices": ["理由", "情報", "特徴", "計画"], "meaning": "Tôi muốn bạn cho biết kế hoạch cụ thể hơn chút.", "explanation": "プラン: kế hoạch, dự án, đồng nghĩa với 計画.", "level": "N2" }, { "id": "y038", "sentence": "市の経済状況は[依然として]厳しいらしい。", "word": "依然として", "answer": "相変わらず", "choices": ["相変わらず", "思ったとおり", "実際には", "これまでより"], "meaning": "Tình hình kinh tế của thành phố nghe nói vẫn tiếp tục khó khăn như trước.", "explanation": "依然として: vẫn như cũ, vẫn vậy như trước, đồng nghĩa với 相変わらず.", "level": "N2" }, { "id": "y039", "sentence": "あのときは本当に[必死]だった。", "word": "必死", "answer": "一生懸命だった", "choices": ["危なかった", "一生懸命だった", "緊張した", "恐ろしかった"], "meaning": "Lúc đó tôi thực sự đã dốc hết sức mình.", "explanation": "必死: quyết tâm, dốc hết sức lực, đồng nghĩa với 一生懸命だった.", "level": "N2" }, { "id": "y040", "sentence": "山の[ふもと]にきれいな湖があります。", "word": "ふもと", "answer": "山の下のほう", "choices": ["山の向こう", "山の上のほう", "山の中間あたり", "山の下のほう"], "meaning": "Ở chân núi có một hồ nước rất đẹp.", "explanation": "ふモと: chân núi, phần phía dưới chân núi, đồng nghĩa với 山の下のほう.", "level": "N2" } 
+  {
+    "id": "y001",
+    "sentence": "[とりあえず]社長に電話で話しておいた。",
+    "word": "とりあえず",
+    "answer": "一応",
+    "choices": [
+      "さっき",
+      "すぐに",
+      "一応",
+      "直接"
+    ],
+    "meaning": "Tôi đã tạm thời gọi điện trao đổi với giám đốc.",
+    "explanation": "とりあえず: trước mắt, tạm thời làm việc cần thiết trước; 一応 là phương án gần nghĩa nhất trong ngữ cảnh này, nhưng không hoàn toàn đồng nghĩa.",
+    "level": "N2"
+  },
+  {
+    "id": "y002",
+    "sentence": "友人がバイクを安く[ゆずって]くれた。",
+    "word": "ゆずって",
+    "answer": "売って",
+    "choices": [
+      "売って",
+      "貸して",
+      "預かって",
+      "直して"
+    ],
+    "meaning": "Bạn tôi đã nhượng lại giá rẻ chiếc xe máy cho tôi.",
+    "explanation": "譲る（ゆずる）: nhượng lại, chuyển cho người khác (có thể bán hoặc cho). Trong câu có 安く, 売って là lựa chọn gần nghĩa nhất.",
+    "level": "N2"
+  },
+  {
+    "id": "y003",
+    "sentence": "[雑談]をしているときにいいアイディアが浮かんだ。",
+    "word": "雑談",
+    "answer": "おしゃべり",
+    "choices": [
+      "あいさつ",
+      "おしゃべり",
+      "説明",
+      "報告"
+    ],
+    "meaning": "Trong lúc trò chuyện phiếm thì tôi nảy ra ý tưởng hay.",
+    "explanation": "雑談: trò chuyện tán phét, nói chuyện phiếm, gần nghĩa với おしゃべり. Hán Việt (雑談): TẠP ĐÀM.",
+    "level": "N2"
+  },
+  {
+    "id": "y004",
+    "sentence": "うちの犬はとても[かしこい]。",
+    "word": "かしこい",
+    "answer": "頭がいい",
+    "choices": [
+      "頭がいい",
+      "足が速い",
+      "めずらしい",
+      "おとなしい"
+    ],
+    "meaning": "Chú chó nhà tôi rất thông minh.",
+    "explanation": "かしこい: thông minh, khôn ngoan, đồng nghĩa với 頭がいい.",
+    "level": "N2"
+  },
+  {
+    "id": "y005",
+    "sentence": "彼の話はいつも[大げさ]だ。",
+    "word": "大げさ",
+    "answer": "オーバーだ",
+    "choices": [
+      "エネルギーがある",
+      "ユーモアがある",
+      "オープンだ",
+      "オーバーだ"
+    ],
+    "meaning": "Câu chuyện của anh ấy lúc nào cũng phóng đại quá lời.",
+    "explanation": "大げさ: cường điệu, phóng đại, đồng nghĩa với オーバーだ.",
+    "level": "N2"
+  },
+  {
+    "id": "y006",
+    "sentence": "あまり[勝手な]ことは言わないでください。",
+    "word": "勝手な",
+    "answer": "わがままな",
+    "choices": [
+      "わがままな",
+      "うるさい",
+      "消極的な",
+      "情けない"
+    ],
+    "meaning": "Xin đừng nói những điều ích kỷ tùy tiện như thế.",
+    "explanation": "勝手な: tùy tiện, ích kỷ, đồng nghĩa với わがままな. Hán Việt (勝手): THẮNG THỦ.",
+    "level": "N2"
+  },
+  {
+    "id": "y007",
+    "sentence": "あの人は[たびたび]夜遅くに電話をかけてくる。",
+    "word": "たびたび",
+    "answer": "何度も",
+    "choices": [
+      "たまに",
+      "何度も",
+      "たいてい",
+      "突然"
+    ],
+    "meaning": "Người đó thường xuyên gọi điện cho tôi vào đêm muộn.",
+    "explanation": "たびたび: thường xuyên, nhiều lần, đồng nghĩa với 何度も.",
+    "level": "N2"
+  },
+  {
+    "id": "y008",
+    "sentence": "この靴は[ぶかぶか]だ。",
+    "word": "ぶかぶか",
+    "answer": "とても大きい",
+    "choices": [
+      "とても重い",
+      "とても小さい",
+      "とても軽い",
+      "とても大きい"
+    ],
+    "meaning": "Đôi giày này rộng thùng thình.",
+    "explanation": "ぶかぶか: rộng thùng thình, rộng quá cỡ (đặc biệt quần áo, giày dép); gần nghĩa với とても大きい trong ngữ cảnh.",
+    "level": "N2"
+  },
+  {
+    "id": "y009",
+    "sentence": "同じ分野の専門家でも、立場によって[見解]が異なる。",
+    "word": "見解",
+    "answer": "考え方",
+    "choices": [
+      "教え方",
+      "調べ方",
+      "考え方",
+      "決め方"
+    ],
+    "meaning": "Dù là chuyên gia trong cùng lĩnh vực nhưng tùy vào lập trường mà quan điểm lại khác nhau.",
+    "explanation": "見解: quan điểm, cách nhìn nhận, đồng nghĩa với 考え方. Hán Việt (見解): KIẾN GIẢI.",
+    "level": "N2"
+  },
+  {
+    "id": "y010",
+    "sentence": "先週、車を[レンタル]した。",
+    "word": "レンタル",
+    "answer": "借りた",
+    "choices": [
+      "修理した",
+      "借りた",
+      "検査した",
+      "買った"
+    ],
+    "meaning": "Tuần trước tôi đã thuê xe ô tô.",
+    "explanation": "レンタルする: thuê, mượn, đồng nghĩa với 借りた.",
+    "level": "N2"
+  },
+  {
+    "id": "y011",
+    "sentence": "この[ブーム]は長くは続かないだろう。",
+    "word": "ブーム",
+    "answer": "流行",
+    "choices": [
+      "効果",
+      "状態",
+      "流行",
+      "緊張"
+    ],
+    "meaning": "Phong trào này chắc sẽ không kéo dài lâu đâu.",
+    "explanation": "ブーム: trào lưu, cơn sốt, đồng nghĩa với 流行.",
+    "level": "N2"
+  },
+  {
+    "id": "y012",
+    "sentence": "この作業は[慎重に]やってください。",
+    "word": "慎重に",
+    "answer": "十分注意して",
+    "choices": [
+      "急いで",
+      "絶対忘れずに",
+      "静かに",
+      "十分注意して"
+    ],
+    "meaning": "Hãy thực hiện công đoạn này một cách thận trọng.",
+    "explanation": "慎重に: cẩn thận, thận trọng, đồng nghĩa với 十分注意して. Hán Việt (慎重): THẬN TRỌNG.",
+    "level": "N2"
+  },
+  {
+    "id": "y013",
+    "sentence": "シャツが[ちぢんで]しまった。",
+    "word": "ちぢんで",
+    "answer": "小さくなって",
+    "choices": [
+      "小さくなって",
+      "古くなって",
+      "汚れて",
+      "破れて"
+    ],
+    "meaning": "Áo sơ mi bị co lại rồi.",
+    "explanation": "ちぢむ: co lại, ngắn lại, thu nhỏ lại, đồng nghĩa với 小さくなって.",
+    "level": "N2"
+  },
+  {
+    "id": "y014",
+    "sentence": "宿題のレポートは[ほぼ]終わった。",
+    "word": "ほぼ",
+    "answer": "だいたい",
+    "choices": [
+      "すべて",
+      "すぐに",
+      "だいたい",
+      "やっと"
+    ],
+    "meaning": "Bài báo cáo được giao về nhà gần như đã xong.",
+    "explanation": "ほぼ: hầu như, gần như, đồng nghĩa với だいたい.",
+    "level": "N2"
+  },
+  {
+    "id": "y015",
+    "sentence": "来週は天気が[回復する]そうだ。",
+    "word": "回復する",
+    "answer": "よくなる",
+    "choices": [
+      "あまり変わらない",
+      "変わりやすい",
+      "よくなる",
+      "悪くなる"
+    ],
+    "meaning": "Nghe nói tuần sau thời tiết sẽ tốt lên.",
+    "explanation": "天気が回復する: thời tiết trở nên tốt lên, đồng nghĩa với よくなる. Hán Việt (回復): HỒI PHỤC.",
+    "level": "N2"
+  },
+  {
+    "id": "y016",
+    "sentence": "真夏の屋外でずっと仕事をしたら、[くたくた]になった。",
+    "word": "くたくた",
+    "answer": "ひどく疲れた",
+    "choices": [
+      "ひどく疲れた",
+      "のどがかわいた",
+      "お腹が空いた",
+      "汗をかいた"
+    ],
+    "meaning": "Làm việc ngoài trời giữa mùa hè suốt nên tôi mệt rã rời.",
+    "explanation": "くたくた: mệt phờ phạt, mệt rã rời, đồng nghĩa với ひどく疲れた.",
+    "level": "N2"
+  },
+  {
+    "id": "y017",
+    "sentence": "この 10 年で、この島の自然環境は[わずかに]変化した。",
+    "word": "わずかに",
+    "answer": "少し",
+    "choices": [
+      "急に",
+      "ゆっくり",
+      "大きく",
+      "少し"
+    ],
+    "meaning": "Trong 10 năm qua, môi trường tự nhiên của hòn đảo này chỉ thay đổi một chút.",
+    "explanation": "わずかに: chỉ một chút, ít ỏi, đồng nghĩa với 少し.",
+    "level": "N2"
+  },
+  {
+    "id": "y018",
+    "sentence": "田中さんは子供のころから[優秀]だったらしい。",
+    "word": "優秀",
+    "answer": "頭がよかった",
+    "choices": [
+      "頭がよかった",
+      "体が丈夫だった",
+      "話がおもしろかった",
+      "人気があった"
+    ],
+    "meaning": "Nghe nói Tanaka đã rất giỏi từ khi còn nhỏ.",
+    "explanation": "優秀（ユウシュウ）: ưu tú, xuất sắc về năng lực hoặc thành tích; trong các lựa chọn, 頭がよかった là gần nghĩa nhất, dù không hoàn toàn đồng nghĩa. Hán Việt: ƯU TÚ.",
+    "level": "N2"
+  },
+  {
+    "id": "y019",
+    "sentence": "鈴木さんは恥ずかしそうに[うつむいていた]。",
+    "word": "うつむいていた",
+    "answer": "下を向いていた",
+    "choices": [
+      "横を向いていた",
+      "下を向いていた",
+      "頭をかいていた",
+      "鼻をかいていた"
+    ],
+    "meaning": "Suzuki cúi mặt xuống trông có vẻ ngượng ngùng.",
+    "explanation": "うつむいていた: đã cúi mặt xuống; gần nghĩa với 下を向いていた (giữ cùng dạng quá khứ tiếp diễn).",
+    "level": "N2"
+  },
+  {
+    "id": "y020",
+    "sentence": "学生時代の友人が[いきなり]訪ねてきた。",
+    "word": "いきなり",
+    "answer": "とつぜん",
+    "choices": [
+      "つぎつぎ",
+      "やっと",
+      "とつぜん",
+      "いちどに"
+    ],
+    "meaning": "Người bạn thời sinh viên đột ngột đến thăm tôi.",
+    "explanation": "いきなり: bất ngờ, đột ngột, đồng nghĩa với とつぜん.",
+    "level": "N2"
+  },
+  {
+    "id": "y021",
+    "sentence": "この問題は、[ただちに]部長に報告しなければならない。",
+    "word": "ただちに",
+    "answer": "すぐに",
+    "choices": [
+      "あとで",
+      "すぐに",
+      "くわしく",
+      "きちんと"
+    ],
+    "meaning": "Vấn đề này phải lập tức báo cáo cho trưởng phòng.",
+    "explanation": "ただちに: lập tức, ngay tức khắc, đồng nghĩa với すぐに.",
+    "level": "N2"
+  },
+  {
+    "id": "y022",
+    "sentence": "隣の部屋から[奇妙な]音が聞こえる。",
+    "word": "奇妙な",
+    "answer": "変な",
+    "choices": [
+      "変な",
+      "にぎやかな",
+      "大きな",
+      "嫌な"
+    ],
+    "meaning": "Từ phòng bên cạnh nghe thấy âm thanh kì lạ.",
+    "explanation": "奇妙な: kì lạ, kì quái, đồng nghĩa với 変な. Hán Việt (奇妙): KỲ DIỆU.",
+    "level": "N2"
+  },
+  {
+    "id": "y023",
+    "sentence": "明日までに、この資料を[仕上げて]おいてください。",
+    "word": "仕上げて",
+    "answer": "完成させて",
+    "choices": [
+      "出して",
+      "直して",
+      "完成させて",
+      "移動させて"
+    ],
+    "meaning": "Hãy hoàn thiện sẵn tài liệu này trước ngày mai.",
+    "explanation": "仕上げる: hoàn thành, làm xong hoàn thiện, đồng nghĩa với 完成させて.",
+    "level": "N2"
+  },
+  {
+    "id": "y024",
+    "sentence": "[日中]はアルバイトに行っています。",
+    "word": "日中",
+    "answer": "昼間",
+    "choices": [
+      "平日",
+      "休日",
+      "夜間",
+      "昼間"
+    ],
+    "meaning": "Ban ngày tôi đi làm thêm.",
+    "explanation": "日中: ban ngày, thời gian trong ngày, đồng nghĩa với 昼間. Hán Việt (日中): NHẬT TRUNG.",
+    "level": "N2"
+  },
+  {
+    "id": "y025",
+    "sentence": "このタオルとシャツは[しめっている]ね。",
+    "word": "しめっている",
+    "answer": "まだ乾いていない",
+    "choices": [
+      "まだきれいになっていない",
+      "まだ乾いていない",
+      "もうきれいになっている",
+      "もう乾いている"
+    ],
+    "meaning": "Chiếc khăn và áo sơ mi này vẫn còn ẩm nhỉ.",
+    "explanation": "しめっている: ẩm ướt, chưa khô, đồng nghĩa với まだ乾いていない.",
+    "level": "N2"
+  },
+  {
+    "id": "y026",
+    "sentence": "ちょっと[追加したい]データがあります。",
+    "word": "追加したい",
+    "answer": "たしたい",
+    "choices": [
+      "たしたい",
+      "なおしたい",
+      "のせたい",
+      "しらべたい"
+    ],
+    "meaning": "Tôi có một ít dữ liệu muốn bổ sung.",
+    "explanation": "追加する: bổ sung, thêm vào, đồng nghĩa với たしたい. Hán Việt (追加): TRUY GIA.",
+    "level": "N2"
+  },
+  {
+    "id": "y027",
+    "sentence": "その国も今の時期は[そうとう]暑いだろう。",
+    "word": "そうとう",
+    "answer": "かなり",
+    "choices": [
+      "たぶん",
+      "どうせ",
+      "やはり",
+      "かなり"
+    ],
+    "meaning": "Ở nước đó vào thời điểm này chắc cũng khá nóng.",
+    "explanation": "そうとう: tương đối, khá là, đồng nghĩa với かなり.",
+    "level": "N2"
+  },
+  {
+    "id": "y028",
+    "sentence": "少しの間、[じっと]していてください。",
+    "word": "じっと",
+    "answer": "動かないで",
+    "choices": [
+      "見ないで",
+      "話さないで",
+      "使わないで",
+      "動かないで"
+    ],
+    "meaning": "Hãy giữ yên, đừng cử động trong chốc lát.",
+    "explanation": "じっとする: giữ yên, không cử động, đồng nghĩa với 動かないで.",
+    "level": "N2"
+  },
+  {
+    "id": "y029",
+    "sentence": "[あやまった]情報が流れてしまったようだ。",
+    "word": "あやまった",
+    "answer": "正しくない",
+    "choices": [
+      "古い",
+      "正しくない",
+      "秘密の",
+      "必要のない"
+    ],
+    "meaning": "Có vẻ như thông tin sai lệch đã bị lan truyền.",
+    "explanation": "あやまった: nhầm lẫn, sai lầm, không đúng, đồng nghĩa với 正しくない.",
+    "level": "N2"
+  },
+  {
+    "id": "y030",
+    "sentence": "ちょっと手が[かさかさしている]。",
+    "word": "かさかさしている",
+    "answer": "乾いている",
+    "choices": [
+      "汚れている",
+      "冷えている",
+      "乾いている",
+      "痺れている"
+    ],
+    "meaning": "Tay tôi hơi khô ráp.",
+    "explanation": "かさかさしている: khô ráp, khô nẻ, đồng nghĩa với 乾いている.",
+    "level": "N2"
+  },
+  {
+    "id": "y031",
+    "sentence": "できるだけ早く仕事を[済ます]ようにします。",
+    "word": "済ます",
+    "answer": "終える",
+    "choices": [
+      "覚える",
+      "終える",
+      "始める",
+      "教える"
+    ],
+    "meaning": "Tôi sẽ cố gắng hoàn thành công việc càng sớm càng tốt.",
+    "explanation": "済ます: hoàn thành, làm xong, đồng nghĩa với 終える.",
+    "level": "N2"
+  },
+  {
+    "id": "y032",
+    "sentence": "昨日のあの人の態度は[あいまい]だった。",
+    "word": "あいまい",
+    "answer": "はっきりしなかった",
+    "choices": [
+      "ていねいだった",
+      "はっきりしなかった",
+      "りっぱだった",
+      "なさけなかった"
+    ],
+    "meaning": "Thái độ của người đó hôm qua thật mập mờ.",
+    "explanation": "あいまい: mơ hồ, mập mờ, không rõ ràng, đồng nghĩa với はっきりしなかった.",
+    "level": "N2"
+  },
+  {
+    "id": "y033",
+    "sentence": "昨日、学校で[思いがけない]出来事があった。",
+    "word": "思いがけない",
+    "answer": "意外な",
+    "choices": [
+      "おもしろい",
+      "悲しい",
+      "意外な",
+      "ふしぎな"
+    ],
+    "meaning": "Hôm qua ở trường đã xảy ra sự việc bất ngờ ngoài dự tính.",
+    "explanation": "思いがけない: không ngờ, ngoài dự tính, đồng nghĩa với 意外な.",
+    "level": "N2"
+  },
+  {
+    "id": "y034",
+    "sentence": "彼は大学を卒業した後、[みずから]会社を立ち上げた。",
+    "word": "みずから",
+    "answer": "自分で",
+    "choices": [
+      "自分で",
+      "すぐに",
+      "仲間と",
+      "しばらくして"
+    ],
+    "meaning": "Sau khi tốt nghiệp đại học, anh ấy đã tự mình thành lập công ty.",
+    "explanation": "みずから: đích thân, tự bản thân mình, đồng nghĩa với 自分で.",
+    "level": "N2"
+  },
+  {
+    "id": "y035",
+    "sentence": "もう全員[そろいました]か。",
+    "word": "そろいました",
+    "answer": "集まりました",
+    "choices": [
+      "集まりました",
+      "訪ねました",
+      "出発しました",
+      "案内しました"
+    ],
+    "meaning": "Mọi người đã có mặt đầy đủ chưa?",
+    "explanation": "そろう: có mặt đầy đủ, tập hợp đủ; 集まる: tụ họp. Trong câu hỏi này, 集まりました là đáp án gần nghĩa nhất nhưng không nhấn mạnh tính đầy đủ bằng そろいました.",
+    "level": "N2"
+  },
+  {
+    "id": "y036",
+    "sentence": "荷物の重さは[およそ] 5 キロでした。",
+    "word": "およそ",
+    "answer": "だいたい",
+    "choices": [
+      "ぜんぶで",
+      "ぴったり",
+      "だいたい",
+      "それぞれ"
+    ],
+    "meaning": "Hành lý nặng khoảng 5 kg.",
+    "explanation": "およそ: khoảng, đại khái, đồng nghĩa với だいたい.",
+    "level": "N2"
+  },
+  {
+    "id": "y037",
+    "sentence": "もう少し具体的な[プラン]を教えてほしい。",
+    "word": "プラン",
+    "answer": "計画",
+    "choices": [
+      "理由",
+      "情報",
+      "特徴",
+      "計画"
+    ],
+    "meaning": "Tôi muốn bạn cho biết kế hoạch cụ thể hơn chút.",
+    "explanation": "プラン: kế hoạch, dự án, đồng nghĩa với 計画.",
+    "level": "N2"
+  },
+  {
+    "id": "y038",
+    "sentence": "市の経済状況は[依然として]厳しいらしい。",
+    "word": "依然として",
+    "answer": "相変わらず",
+    "choices": [
+      "相変わらず",
+      "思ったとおり",
+      "実際には",
+      "これまでより"
+    ],
+    "meaning": "Nghe nói tình hình kinh tế của thành phố vẫn khó khăn như trước.",
+    "explanation": "依然として: vẫn như cũ, vẫn vậy như trước, đồng nghĩa với 相変わらず. Hán Việt (依然): Y NHIÊN.",
+    "level": "N2"
+  },
+  {
+    "id": "y039",
+    "sentence": "あのときは本当に[必死]だった。",
+    "word": "必死",
+    "answer": "一生懸命だった",
+    "choices": [
+      "危なかった",
+      "一生懸命だった",
+      "緊張した",
+      "恐ろしかった"
+    ],
+    "meaning": "Lúc đó tôi thực sự đã dốc hết sức mình.",
+    "explanation": "必死: quyết tâm, dốc hết sức lực, đồng nghĩa với 一生懸命だった. Hán Việt (必死): TẤT TỬ.",
+    "level": "N2"
+  },
+  {
+    "id": "y040",
+    "sentence": "山の[ふもと]にきれいな湖があります。",
+    "word": "ふもと",
+    "answer": "山の下のほう",
+    "choices": [
+      "山の向こう",
+      "山の上のほう",
+      "山の中間あたり",
+      "山の下のほう"
+    ],
+    "meaning": "Ở chân núi có một hồ nước rất đẹp.",
+    "explanation": "ふもと: chân núi, vùng dưới chân núi; gần nghĩa với 山の下のほう.",
+    "level": "N2"
+  },
+  {
+    "id": "y041",
+    "sentence": "文字のサイズを[そろえて]ください。",
+    "word": "そろえる",
+    "answer": "同じにして",
+    "choices": [
+      "大きくして",
+      "同じにして",
+      "調べて",
+      "教えて"
+    ],
+    "meaning": "Xin hãy điều chỉnh kích thước chữ cho giống nhau.",
+    "explanation": "Đáp án đúng: 同じにして — làm cho giống nhau. そろえる nghĩa là làm cho đồng đều, bằng nhau, tương đương với 「同じにして」.",
+    "level": "N2"
+  },
+  {
+    "id": "y042",
+    "sentence": "中野氏は、古い工場が取り壊されて空いた土地を[買いしめた]そうだ。",
+    "word": "買い占める",
+    "answer": "全部買った",
+    "choices": [
+      "無理に買った",
+      "全部買った",
+      "安く買った",
+      "さっそく買った"
+    ],
+    "meaning": "Nghe nói ông Nakano đã mua thu gom toàn bộ khu đất trống sau khi nhà máy cũ bị phá dỡ.",
+    "explanation": "Đáp án đúng: 全部買った — mua toàn bộ. 買い占める (Hán Việt: MÃI CHIÊM) nghĩa là mua thu gom toàn bộ, gom hàng, tương đương với 「全部買った」.",
+    "level": "N2"
+  },
+  {
+    "id": "y043",
+    "sentence": "出発[間際に]、妹から電話がかかってきた。",
+    "word": "間際",
+    "answer": "直前",
+    "choices": [
+      "直前",
+      "直後",
+      "当日",
+      "前日"
+    ],
+    "meaning": "Ngay trước lúc xuất phát, em gái đã gọi điện thoại tới.",
+    "explanation": "Đáp án đúng: 直前 — ngay trước đó. 間際 (Hán Việt: GIAN TẾ) nghĩa là ngay trước thời điểm sát giờ, tương đương với 「直前」.",
+    "level": "N2"
+  },
+  {
+    "id": "y044",
+    "sentence": "薬を飲んだら[たちまち]痛みが治まった。",
+    "word": "たちまち",
+    "answer": "すぐに",
+    "choices": [
+      "すっかり",
+      "やっと",
+      "すぐに",
+      "たしかに"
+    ],
+    "meaning": "Uống thuốc xong là cơn đau dịu đi ngay lập tức.",
+    "explanation": "Đáp án đúng: すぐに — ngay lập tức. たちまち nghĩa là ngay tức khắc, nhanh chóng, tương đương với 「すぐに」.",
+    "level": "N2"
+  },
+  {
+    "id": "y045",
+    "sentence": "もう[お勘定]は済ましました。",
+    "word": "勘定",
+    "answer": "お金は払いました",
+    "choices": [
+      "料理は注文しました",
+      "店は予約しました",
+      "店員は呼びました",
+      "お金は払いました"
+    ],
+    "meaning": "Tôi đã thanh toán tiền rồi.",
+    "explanation": "Đáp án đúng: お金は払いました — đã trả tiền. お勘定 (Hán Việt: KHÁM ĐỊNH) nghĩa là thanh toán hóa đơn, tương đương với 「お金は払いました」.",
+    "level": "N2"
+  },
+  {
+    "id": "y046",
+    "sentence": "この二つのレポートはテーマが[ことなります]。",
+    "word": "異なる",
+    "answer": "違います",
+    "choices": [
+      "単純です",
+      "似ています",
+      "複雑です",
+      "違います"
+    ],
+    "meaning": "Hai bản báo cáo này khác nhau về chủ đề.",
+    "explanation": "Đáp án đúng: 違います — khác. 異なる (Hán Việt: DỊ) nghĩa là khác biệt, không giống, tương đương với 「違います」.",
+    "level": "N2"
+  },
+  {
+    "id": "y047",
+    "sentence": "二人は[たまたま]会ったらしい。",
+    "word": "たまたま",
+    "answer": "偶然",
+    "choices": [
+      "すぐに",
+      "偶然",
+      "何度も",
+      "さっき"
+    ],
+    "meaning": "Nghe nói hai người họ ngẫu nhiên gặp nhau.",
+    "explanation": "Đáp án đúng: 偶然 — ngẫu nhiên. たまたま nghĩa là tình cờ, ngẫu nhiên, tương đương với 「偶然」 (Hán Việt: NGẪU NHIÊN).",
+    "level": "N2"
+  },
+  {
+    "id": "y048",
+    "sentence": "その発言がうそだという[あきらかな]証拠があります。",
+    "word": "明らか",
+    "answer": "はっきりした",
+    "choices": [
+      "さまざまな",
+      "別の",
+      "新しい",
+      "はっきりした"
+    ],
+    "meaning": "Có bằng chứng rõ ràng cho thấy phát ngôn đó là dối trá.",
+    "explanation": "Đáp án đúng: はっきりした — rõ ràng. 明らか (Hán Việt: MINH) nghĩa là rõ ràng, minh bạch, tương đương với 「はっきりした」.",
+    "level": "N2"
+  },
+  {
+    "id": "y049",
+    "sentence": "できるだけ[用心]したほうがいいですよ。",
+    "word": "用心",
+    "answer": "注意",
+    "choices": [
+      "注意",
+      "努力",
+      "我慢",
+      "遠慮"
+    ],
+    "meaning": "Bạn nên cẩn thận chú ý càng nhiều càng tốt.",
+    "explanation": "Đáp án đúng: 注意 — chú ý, cẩn thận. 用心 (Hán Việt: DỤNG TÂM) nghĩa là cẩn trọng, đề phòng, tương đương với 「注意」.",
+    "level": "N2"
+  },
+  {
+    "id": "y050",
+    "sentence": "会場が急に[そうぞうしく]なった。",
+    "word": "騒々しい",
+    "answer": "うるさく",
+    "choices": [
+      "暗く",
+      "静かに",
+      "うるさく",
+      "寒く"
+    ],
+    "meaning": "Hội trường bỗng nhiên trở nên ồn ào.",
+    "explanation": "Đáp án đúng: うるさく — ồn ào. 騒々しい (Hán Việt: TAO) nghĩa là ồn ào, ầm ĩ, tương đương với 「うるさく」.",
+    "level": "N2"
+  },
+  {
+    "id": "y051",
+    "sentence": "森さんはこの辺りに店を[所有して]いるらしい。",
+    "word": "所有",
+    "answer": "持って",
+    "choices": [
+      "探して",
+      "借りて",
+      "持って",
+      "建てて"
+    ],
+    "meaning": "Nghe nói anh Mori sở hữu một cửa hàng ở khu vực này.",
+    "explanation": "Đáp án đúng: 持って — có, sở hữu. 所有 (Hán Việt: SỞ HỮU) nghĩa là sở hữu, nắm giữ, tương đương với 「持って」.",
+    "level": "N2"
+  },
+  {
+    "id": "y052",
+    "sentence": "佐藤さんは[おそらく]来ないと思う。",
+    "word": "おそらく",
+    "answer": "たぶん",
+    "choices": [
+      "たぶん",
+      "当然",
+      "やはり",
+      "絶対"
+    ],
+    "meaning": "Tôi nghĩ anh Sato có lẽ sẽ không đến.",
+    "explanation": "Đáp án đúng: たぶん — có lẽ. おそらく nghĩa là e rằng, có lẽ, tương đương với 「たぶん」.",
+    "level": "N2"
+  },
+  {
+    "id": "y053",
+    "sentence": "まだ[収納して]いない物がたくさんある。",
+    "word": "収納",
+    "answer": "しまって",
+    "choices": [
+      "集めて",
+      "預けて",
+      "返して",
+      "しまって"
+    ],
+    "meaning": "Vẫn còn nhiều đồ đạc chưa được cất dọn.",
+    "explanation": "Đáp án đúng: しまって — cất giữ, cất dọn. 収納 (Hán Việt: THU NẠP) nghĩa là cất giữ, thu dọn gọn gàng, tương đương với 「しまって」.",
+    "level": "N2"
+  },
+  {
+    "id": "y054",
+    "sentence": "妹は母に似て[小柄]だ。",
+    "word": "小柄",
+    "answer": "体が小さい",
+    "choices": [
+      "声が小さい",
+      "力が弱い",
+      "体が小さい",
+      "心が弱い"
+    ],
+    "meaning": "Em gái tôi giống mẹ, vóc dáng nhỏ nhắn.",
+    "explanation": "Đáp án đúng: 体が小さい — cơ thể nhỏ nhắn. 小柄 (Hán Việt: TIỂU BÍNH) nghĩa là vóc dáng nhỏ bé, tương đương với 「体が小さい」.",
+    "level": "N2"
+  },
+  {
+    "id": "y055",
+    "sentence": "鈴木さんは[無口]だ。",
+    "word": "無口",
+    "answer": "あまり話さない",
+    "choices": [
+      "あまり笑わない",
+      "あまり話さない",
+      "あまり怒らない",
+      "あまり食べない"
+    ],
+    "meaning": "Anh Suzuki là người ít nói.",
+    "explanation": "Đáp án đúng: あまり話さない — ít khi nói chuyện. 無口 (Hán Việt: VÔ KHẨU) nghĩa là kiệm lời, ít nói, tương đương với 「あまり話さない」.",
+    "level": "N2"
+  },
+  {
+    "id": "y056",
+    "sentence": "明日は今日より[やや]涼しくなると思います。",
+    "word": "やや",
+    "answer": "少し",
+    "choices": [
+      "絶対",
+      "もっと",
+      "たぶん",
+      "少し"
+    ],
+    "meaning": "Tôi nghĩ ngày mai thời tiết sẽ mát mẻ hơn một chút so với hôm nay.",
+    "explanation": "Đáp án đúng: 少し — một chút. やや nghĩa là hơi hơi, một chút, tương đương với 「少し」.",
+    "level": "N2"
+  },
+  {
+    "id": "y057",
+    "sentence": "私はこれくらいの[テンポ]の曲が歌いやすいと思う。",
+    "word": "テンポ",
+    "answer": "速さ",
+    "choices": [
+      "速さ",
+      "長さ",
+      "高さ",
+      "明るさ"
+    ],
+    "meaning": "Tôi thấy những bài hát có nhịp độ như thế này thì dễ hát.",
+    "explanation": "Đáp án đúng: 速さ — tốc độ, nhịp độ. テンポ (tempo) nghĩa là nhịp độ, tốc độ nhạc, tương đương với 「速さ」.",
+    "level": "N2"
+  },
+  {
+    "id": "y058",
+    "sentence": "昨日、[妙な]話を聞いた。",
+    "word": "妙",
+    "answer": "変な",
+    "choices": [
+      "うれしい",
+      "変な",
+      "なつかしい",
+      "嫌な"
+    ],
+    "meaning": "Hôm qua tôi đã nghe một câu chuyện kỳ lạ.",
+    "explanation": "Đáp án đúng: 変な — kỳ lạ, kỳ quặc. 妙 (Hán Việt: DIỆU) nghĩa là kỳ lạ, khác thường, tương đương với 「変な」.",
+    "level": "N2"
+  },
+  {
+    "id": "y059",
+    "sentence": "高橋さんは、[ささやくように]話した。",
+    "word": "ささやく",
+    "answer": "小声で",
+    "choices": [
+      "急いで",
+      "ゆっくり",
+      "大声で",
+      "小声で"
+    ],
+    "meaning": "Anh Takahashi nói chuyện như thể đang thì thầm.",
+    "explanation": "Đáp án đúng: 小声で — bằng giọng nhỏ. ささやく nghĩa là nói thầm, thì thầm bằng giọng nhỏ, tương đương với 「小声で」.",
+    "level": "N2"
+  },
+  {
+    "id": "y060",
+    "sentence": "鈴木氏は、[かつて]フランスに住んでいた。",
+    "word": "かつて",
+    "answer": "以前",
+    "choices": [
+      "確か",
+      "主に",
+      "以前",
+      "しばらく"
+    ],
+    "meaning": "Ông Suzuki trước đây đã từng sống ở Pháp.",
+    "explanation": "Đáp án đúng: 以前 — trước đây. かつて nghĩa là đã từng, trước đây, tương đương với 「以前」 (Hán Việt: DĨ TIỀN).",
+    "level": "N2"
+  },
+  {
+    "id": "y061",
+    "sentence": "高橋さんはとても[愉快な]人だ。",
+    "word": "愉快",
+    "answer": "面白い",
+    "choices": [
+      "面白い",
+      "おしゃれな",
+      "親切な",
+      "かわいい"
+    ],
+    "meaning": "Anh Takahashi là một người rất thú vị, vui tính.",
+    "explanation": "Đáp án đúng: 面白い — thú vị, vui vẻ. 愉快 (Hán Việt: DU KHOÁI) nghĩa là vui vẻ, hài hước, tương đương với 「面白い」.",
+    "level": "N2"
+  },
+  {
+    "id": "y062",
+    "sentence": "それは確かに[やむをえない]ことだと思う。",
+    "word": "やむを得ない",
+    "answer": "しかたない",
+    "choices": [
+      "もったいない",
+      "なさけない",
+      "つまらない",
+      "しかたない"
+    ],
+    "meaning": "Tôi nghĩ chuyện đó đúng là không còn cách nào khác.",
+    "explanation": "Đáp án đúng: しかたない — không còn cách nào khác. やむを得ない nghĩa là bất khả kháng, đành chịu, tương đương với 「しかたない」.",
+    "level": "N2"
+  },
+  {
+    "id": "y063",
+    "sentence": "少し[息抜きした]ほうがいいよ。",
+    "word": "息抜き",
+    "answer": "休んだ",
+    "choices": [
+      "待って",
+      "急いだ",
+      "休んだ",
+      "働いた"
+    ],
+    "meaning": "Bạn nên nghỉ ngơi thư giãn một chút thì hơn.",
+    "explanation": "Đáp án đúng: 休んだ — nghỉ ngơi. 息抜き (Hán Việt: TỨC BẠT) nghĩa là xả hơi, nghỉ ngơi xả stress, tương đương với 「休んだ」.",
+    "level": "N2"
+  },
+  {
+    "id": "y064",
+    "sentence": "今日はとても[ついていた]。",
+    "word": "ついてる",
+    "answer": "運がよかった",
+    "choices": [
+      "気分が悪かった",
+      "運が悪かった",
+      "気分がよかった",
+      "運がよかった"
+    ],
+    "meaning": "Hôm nay tôi rất may mắn.",
+    "explanation": "Đáp án đúng: 運がよかった — may mắn. ついてる nghĩa là gặp may, may mắn, tương đương với 「運がよかった」.",
+    "level": "N2"
+  },
+  {
+    "id": "y065",
+    "sentence": "私は[つねに]言葉遣いに気をつけている。",
+    "word": "常に",
+    "answer": "いつも",
+    "choices": [
+      "当然",
+      "いつも",
+      "特に",
+      "できるだけ"
+    ],
+    "meaning": "Tôi luôn luôn chú ý đến cách sử dụng từ ngữ.",
+    "explanation": "Đáp án đúng: いつも — luôn luôn. 常に (Hán Việt: THƯỜNG) nghĩa là luôn luôn, thường xuyên, tương đương với 「いつも」.",
+    "level": "N2"
+  },
+  {
+    "id": "y066",
+    "sentence": "最近は生産が[過剰]であることが問題になっている。",
+    "word": "過剰",
+    "answer": "多すぎる",
+    "choices": [
+      "早すぎる",
+      "少なすぎる",
+      "遅すぎる",
+      "多すぎる"
+    ],
+    "meaning": "Gần đây việc sản xuất dư thừa quá mức đang trở thành vấn đề đáng lo ngại.",
+    "explanation": "Đáp án đúng: 多すぎる — quá nhiều. 過剰 (Hán Việt: QUÁ THẶNG) nghĩa là dư thừa, quá mức, tương đương với 「多すぎる」.",
+    "level": "N2"
+  },
+  {
+    "id": "y067",
+    "sentence": "もし資料に[あやまり]があったら知らせてください。",
+    "word": "誤り",
+    "answer": "間違っているところ",
+    "choices": [
+      "読みにくいところ",
+      "汚れているところ",
+      "わかりにくいところ",
+      "間違っているところ"
+    ],
+    "meaning": "Nếu trong tài liệu có sai sót thì xin hãy thông báo cho tôi.",
+    "explanation": "Đáp án đúng: 間違っているところ — chỗ bị sai. 誤り (Hán Việt: NGỘ) nghĩa là lỗi sai, sai sót, tương đương với 「間違っているところ」.",
+    "level": "N2"
+  },
+  {
+    "id": "y068",
+    "sentence": "うちの子は[臆病]だ。",
+    "word": "臆病",
+    "answer": "何でも怖がる",
+    "choices": [
+      "よく病気をする",
+      "何でも怖がる",
+      "何でも忘れる",
+      "よく泣く"
+    ],
+    "meaning": "Đứa con nhà tôi rất nhát gan.",
+    "explanation": "Đáp án đúng: 何でも怖がる — cái gì cũng sợ. 臆病 (Hán Việt: ỨC BỆNH) nghĩa là nhát gan, nhút nhát, tương đương với 「何でも怖がる」.",
+    "level": "N2"
+  },
+  {
+    "id": "y069",
+    "sentence": "高橋さんなら[とっくに]帰りましたよ。",
+    "word": "とっくに",
+    "answer": "ずっと前に",
+    "choices": [
+      "ずっと前に",
+      "一人で",
+      "あわてて",
+      "何も持たずに"
+    ],
+    "meaning": "Anh Takahashi thì đã về từ lâu lắm rồi đấy.",
+    "explanation": "Đáp án đúng: ずっと前に — từ rất lâu trước đó. とっくに nghĩa là từ lâu rồi, tương đương với 「ずっと前に」.",
+    "level": "N2"
+  },
+  {
+    "id": "y070",
+    "sentence": "あの自転車は弟に[ゆずりました]。",
+    "word": "譲る",
+    "answer": "あげました",
+    "choices": [
+      "貸しました",
+      "もらいました",
+      "あげました",
+      "借りました"
+    ],
+    "meaning": "Chiếc xe đạp đó tôi đã nhượng lại cho em trai.",
+    "explanation": "Đáp án đúng: あげました — cho, nhượng lại. 譲る (Hán Việt: NHƯỢNG) nghĩa là nhường lại, cho lại, tương đương với 「あげました」.",
+    "level": "N2"
+  },
+  {
+    "id": "y071",
+    "sentence": "多くの人が、あの選手のことを今も[記憶して]いる。",
+    "word": "記憶",
+    "answer": "覚えて",
+    "choices": [
+      "心配して",
+      "語って",
+      "覚えて",
+      "応援して"
+    ],
+    "meaning": "Nhiều người cho đến nay vẫn còn ghi nhớ về vận động viên đó.",
+    "explanation": "Đáp án đúng: 覚えて — ghi nhớ. 記憶 (Hán Việt: KÝ ỨC) nghĩa là ký ức, ghi nhớ, tương đương với 「覚えて」.",
+    "level": "N2"
+  },
+  {
+    "id": "y072",
+    "sentence": "中村さんは[不平]ばかり言っている。",
+    "word": "不平",
+    "answer": "文句",
+    "choices": [
+      "文句",
+      "冗談",
+      "うそ",
+      "自慢"
+    ],
+    "meaning": "Anh Nakamura toàn nói những lời bất bình phàn nàn.",
+    "explanation": "Đáp án đúng: 文句 — lời phàn nàn. 不平 (Hán Việt: BẤT BÌNH) nghĩa là bất bình, phàn nàn, tương đương với 「文句」.",
+    "level": "N2"
+  },
+  {
+    "id": "y073",
+    "sentence": "あんなことを言われたら、誰だって[むかつく]よ。",
+    "word": "むかつく",
+    "answer": "怒る",
+    "choices": [
+      "怒る",
+      "驚く",
+      "困る",
+      "怖がる"
+    ],
+    "meaning": "Bị nói như thế thì ai mà chẳng nổi giận chứ.",
+    "explanation": "Đáp án đúng: 怒る — nổi giận. むかつく nghĩa là bực tức, khó chịu, nổi giận, tương đương với 「怒る」.",
+    "level": "N2"
+  },
+  {
+    "id": "y074",
+    "sentence": "高橋さんがあんなに[勝手な]人だとは思わなかった。",
+    "word": "勝手",
+    "answer": "わがままな",
+    "choices": [
+      "いじわるな",
+      "わがままな",
+      "なさけない",
+      "だらしない"
+    ],
+    "meaning": "Tôi không nghĩ anh Takahashi lại là người tự ý, ích kỷ đến thế.",
+    "explanation": "Đáp án đúng: わがままな — ích kỷ, tùy tiện. 勝手 (Hán Việt: THẮNG THỦ) nghĩa là tự ý, tùy tiện, ích kỷ, tương đương với 「わがままな」.",
+    "level": "N2"
+  },
+  {
+    "id": "y075",
+    "sentence": "今回の件は、[まれな]例です。",
+    "word": "まれ",
+    "answer": "ほとんどない",
+    "choices": [
+      "複雑な",
+      "よくある",
+      "ほとんどない",
+      "単純な"
+    ],
+    "meaning": "Sự việc lần này là một trường hợp hiếm có.",
+    "explanation": "Đáp án đúng: ほとんどない — hầu như không có, hiếm. まれ (Hán Việt: HY) nghĩa là hiếm có, ít gặp, tương đương với 「ほとんどない」.",
+    "level": "N2"
+  },
+    {
+    "id": "y076",
+    "sentence": "佐藤氏は、[たびたび]この店を訪れた。",
+    "word": "たびたび",
+    "answer": "何度も",
+    "choices": [
+      "必ず",
+      "ようやく",
+      "偶然",
+      "何度も"
+    ],
+    "meaning": "Ông Sato đã nhiều lần ghé thăm cửa hàng này.",
+    "explanation": "Đáp án đúng: 何度も — nhiều lần. たびたび: thường xuyên, nhiều lần; gần nghĩa với 何度も. 必ず: nhất định | ようやく: cuối cùng, mãi mới | 偶然: tình cờ.",
+    "level": "N2"
+  },
+  {
+    "id": "y077",
+    "sentence": "今日の林氏の発言に皆が[注目した]。",
+    "word": "注目した",
+    "answer": "関心を持った",
+    "choices": [
+      "関心を持った",
+      "疑問を持った",
+      "感動した",
+      "驚いた"
+    ],
+    "meaning": "Mọi người đều chú ý đến phát biểu hôm nay của ông Hayashi.",
+    "explanation": "Đáp án đúng: 関心を持った — quan tâm, để ý. 注目する (Hán Việt: CHÚ MỤC): chú ý, tập trung sự quan tâm; trong ngữ cảnh này gần nghĩa với 関心を持つ. 疑問を持った: nảy sinh thắc mắc | 感動した: cảm động | 驚いた: ngạc nhiên.",
+    "level": "N2"
+  },
+  {
+    "id": "y078",
+    "sentence": "このことは本人に[じかに]伝えてください。",
+    "word": "じかに",
+    "answer": "直接",
+    "choices": [
+      "直接",
+      "あとで",
+      "すべて",
+      "確実に"
+    ],
+    "meaning": "Hãy trực tiếp nói việc này với chính người có liên quan.",
+    "explanation": "Đáp án đúng: 直接 — trực tiếp (Hán Việt: TRỰC TIẾP). じかに: trực tiếp, không qua trung gian. あとで: sau đó | すべて: tất cả | 確実に: một cách chắc chắn.",
+    "level": "N2"
+  },
+  {
+    "id": "y079",
+    "sentence": "もう少しで[衝突する]ところだった。",
+    "word": "衝突する",
+    "answer": "ぶつかる",
+    "choices": [
+      "倒れる",
+      "壊れる",
+      "ぶつかる",
+      "破れる"
+    ],
+    "meaning": "Suýt nữa thì đã xảy ra va chạm.",
+    "explanation": "Đáp án đúng: ぶつかる — va vào, đụng vào. 衝突する (Hán Việt: XUNG ĐỘT): va chạm, đâm vào nhau; trong ngữ cảnh này gần nghĩa với ぶつかる. 倒れる: ngã, đổ | 壊れる: hỏng, vỡ | 破れる: rách.",
+    "level": "N2"
+  },
+  {
+    "id": "y080",
+    "sentence": "高橋さんは、そんな[ひきょう]なやり方はしませんよ。",
+    "word": "ひきょう",
+    "answer": "ずるい",
+    "choices": [
+      "危ない",
+      "ずるい",
+      "厳しい",
+      "しつこい"
+    ],
+    "meaning": "Anh Takahashi sẽ không dùng cách làm gian xảo như thế đâu.",
+    "explanation": "Đáp án đúng: ずるい — gian xảo, chơi không đẹp. ひきょう (卑怯; Hán Việt: TI HIẾP): hèn hạ, không quang minh chính đại; trong ngữ cảnh này gần nghĩa với ずるい. 危ない: nguy hiểm | 厳しい: nghiêm khắc, khắt khe | しつこい: dai dẳng, đeo bám.",
+    "level": "N2"
+  }
 ]

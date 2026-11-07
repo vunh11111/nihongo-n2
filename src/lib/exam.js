@@ -124,7 +124,7 @@ export function buildExam(modeId) {
     } else if (game.kind === "star") {
       buildStarDeck(picked).forEach((q) => items.push({ key: `m${m}-${q.id}`, type: "star", mondai: m, game, q }));
     } else {
-      buildDeck(picked).forEach((q) => items.push({ key: `m${m}-${q.id}`, type: "quiz", mondai: m, game, q }));
+        buildDeck(picked, picked.length, game.keepOrder).forEach((q) => items.push({ key: `m${m}-${q.id}`, type: "quiz", mondai: m, game, q }));
     }
   }
   return items;

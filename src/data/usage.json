@@ -1,1 +1,1128 @@
-[ { "id": "u001", "sentence": "[取材]", "word": "取材", "answer": "あの選手の練習の様子を取材したときは、とても緊張しました。", "choices": [ "学期末試験の範囲を友達に取材しました。", "デパートに買い物に行く前に、営業時間を取材しておこう。", "インターネットは、簡単に地図を取材できるので便利です。", "あの選手の練習の様子を取材したときは、とても緊張しました。" ], "meaning": "取材（しゅざい）: thu thập tin tức, phỏng vấn, lấy đề tài.", "explanation": "取材 dùng cho việc thu thập thông tin, tư liệu, phỏng vấn báo chí/truyền thông (như phỏng vấn vận động viên). Các câu 1, 2, 3 dùng sai (nên dùng 確認, 調べる, 検索).", "level": "N2" }, { "id": "u002", "sentence": "[きっかけ]", "word": "きっかけ", "answer": "友人に写真をほめられたのがきっかけで、本格的に勉強を始めた。", "choices": [ "季節のきっかけは風邪をひきやすい。", "友人に写真をほめられたのがきっかけで、本格的に勉強を始めた。", "その意見に反対するきっかけは、主観的すぎるからだ。", "今回は時間がないので、次のきっかけに訪れようと思う。" ], "meaning": "きっかけ: cớ, động cơ, khởi đầu, dịp (nguyên nhân bắt đầu một hành động/sự việc).", "explanation": "きっかけ chỉ cớ/động cơ khởi đầu một việc gì đó (như được khen ảnh làm động cơ bắt đầu học). Câu 1 dùng 変わリ目, câu 3 dùng 理由, câu 4 dùng 機会/機会.", "level": "N2" }, { "id": "u003", "sentence": "[深刻]", "word": "深刻", "answer": "彼は深刻な悩みをかかえているようだ。", "choices": [ "彼は動物に対して深刻な愛情を持っている。", "家族との時間を深刻に過ごしている。", "彼は深刻な悩みをかかえているようだ。", "テストが近いので、深刻に勉強した。" ], "meaning": "深刻（しんこく）: nghiêm trọng, trầm trọng (dùng cho vấn đề, lo âu, tình hình xấu).", "explanation": "深刻 dùng cho trạng thái lo lắng, vấn đề nghiêm trọng, phức tạp. Câu 1 dùng 深い, câu 2 dùng 大切に, câu 4 dùng 真剣に/一生懸命.", "level": "N2" }, { "id": "u004", "sentence": "[続出]", "word": "続出", "answer": "暑さのせいで気分が悪くなる人が続出した。", "choices": [ "満員電車から乗客が続出した。", "暑さのせいで気分が悪くなる人が続出した。", "最近は、天気の悪い日が続出している。", "薬で治ったと思っていた風邪が続出した。" ], "meaning": "続出（ぞくしゅつ）: liên tiếp xuất hiện, xảy ra dồn dập (thường dùng cho con người hoặc hiện tượng).", "explanation": "続出 dùng khi nhiều người hoặc sự việc liên tiếp xảy ra, xuất hiện. Câu 1 dùng 降りる/出てくる, câu 3 dùng 続く, câu 4 dùng ぶり返す/再発する.", "level": "N2" }, { "id": "u005", "sentence": "[外見]", "word": "外見", "answer": "人を外見で判断するのはよくないことだ。", "choices": [ "人を外見で判断するのはよくないことだ。", "窓の外見をペンキで白く塗った。", "月の外見はでこぼこしている。", "母は怒っている外見だった。" ], "meaning": "外見（がいけん）: vẻ bên ngoài, diện mạo (của con người hoặc đồ vật).", "explanation": "外見 chỉ diện mạo, vẻ bề ngoài của con người hoặc sự vật. Câu 2 dùng 外側/枠, câu 3 dùng 表面, câu 4 dùng 様子/様子.", "level": "N2" }, { "id": "u006", "sentence": "[はずす]", "word": "はずす", "answer": "腕時計をはずして、机の上に置いた。", "choices": [ "歯医者で虫歯をはずしてもらった。", "腕時計をはずして、机の上に置いた。", "家に入る前に、靴の汚れをはずした。", "食事の後、テーブルから皿をはずした。" ], "meaning": "はずす: tháo, gỡ (đồ vật đang đeo/gắn trên người hoặc vật khác).", "explanation": "はずす dùng cho việc tháo đồng hồ, kính, khuy áo... Câu 1 dùng 抜く/治療する, câu 3 dùng 落とす, câu 4 dùng 下げる/片付ける.", "level": "N2" }, { "id": "u007", "sentence": "[普及]", "word": "普及", "answer": "携帯電話は急速に普及してきている。", "choices": [ "携帯電話は急速に普及してきている。", "今、若者の間ではこんなうわさが普及している。", "この病気は人から人へ普及する可能性がある。", "あの大臣の発言は国際問題にまで普及した。" ], "meaning": "普及（ふきゅう）: phổ biến, lan rộng (đồ vật, công nghệ, dịch vụ được sử dụng rộng rãi).", "explanation": "普及 chỉ việc một sản phẩm, thiết bị, dịch vụ được nhân rộng và sử dụng phổ biến. Câu 2 dùng 広まる/広がる, câu 3 dùng 感染する/広がる, câu 4 dùng 発展する/波及する.", "level": "N2" }, { "id": "u008", "sentence": "[注目]", "word": "注目", "answer": "来月の選挙の結果が注目されている。", "choices": [ "きれいな眺めに注目して、時間がたつのを忘れた。", "寝不足で注目が足りないと、仕事でミスが多くなる。", "来月の選挙の結果が注目されている。", "この問題を別の注目から見てみよう。" ], "meaning": "注目（ちゅうもく）: chú ý, quan tâm, theo dõi sát sao.", "explanation": "注目 chỉ sự quan tâm, theo dõi sự kiện/kết quả. Câu 1 dùng 見とれる/見とれて, câu 2 dùng 集中力/注意, câu 4 dùng 視点/角度.", "level": "N2" }, { "id": "u009", "sentence": "[ふさわしい]", "word": "ふさわしい", "answer": "彼は責任感が強く、この仕事のリーダーにふさわしい。", "choices": [ "中川さんの指摘は、いつもふさわしいです。", "彼は責任感が強く、この仕事のリーダーにふさわしい。", "私にふさわしいサイズの帽子がやっと見つかった。", "私、あの人とは性格がふさわしいんです。" ], "meaning": "ふさわしい: thích hợp, phù hợp, xứng đáng (với vai trò, phẩm chất, tư cách).", "explanation": "ふさわしい đi với vai trò, vị trí phù hợp với năng lực/phẩm chất. Câu 1 dùng 適切/もっとも, câu 3 dùng ちょうどいい/ぴったりな, câu 4 dùng 合う.", "level": "N2" }, { "id": "u010", "sentence": "[保つ]", "word": "保つ", "answer": "健康を保つためには、バランスのいい食事と運動が大切だ。", "choices": [ "山田さんは、いつも約束の時間を保つ人てす。", "一人で全部食べないで、私の分も保っておいてください。", "あとで捨てるので、ごみはそのまま保っておいていいですよ。", "健康を保つためには、バランスのいい食事と運動が大切だ。" ], "meaning": "保つ（たもつ）: duy trì, giữ vững (trạng thái, sức khỏe, cân bằng).", "explanation": "保つ có nghĩa là duy trì một trạng thái tốt (như sức khỏe, hòa bình, sự cân bằng). Câu 1 dùng 守る, câu 2 dùng 残す/取っておく, câu 3 dùng 置く.", "level": "N2" }, { "id": "u011", "sentence": "[方針]", "word": "方針", "answer": "教育に関する政府の方針が大きく変わった。", "choices": [ "台風の方針がそれたので、特に被害は出なかった。", "私の今年の方針は漢字を 600 字覚えることだ。", "この料理を作る方針を教えてください。", "教育に関する政府の方針が大きく変わった。" ], "meaning": "方針（ほうしん）: phương châm, chính sách, định hướng hành động (của tổ chức, chính phủ, kế hoạch lớn).", "explanation": "方針 chỉ phương châm, chính sách lớn. Câu 1 dùng 進路/進路, câu 2 dùng 目標, câu 3 dùng 方法/作り方.", "level": "N2" }, { "id": "u012", "sentence": "[範囲]", "word": "範囲", "answer": "明日は広い範囲で強い雨が降るでしょう。", "choices": [ "この町は川によって二つの範囲に分かれている。", "この会社は新しい範囲に進出した。", "明日は広い範囲で強い雨が降るでしょう。", "家から駅までの範囲は 2 キロぐらいだ。" ], "meaning": "範囲（はんい）: phạm vi, khu vực (được giới hạn).", "explanation": "範囲 chỉ vùng, khu vực địa lý hoặc giới hạn nội dung (như phạm vi mưa). Câu 1 dùng 地域/地区, câu 2 dùng 分野, câu 4 dùng 距離.", "level": "N2" }, { "id": "u013", "sentence": "[せめて]", "word": "せめて", "answer": "京都に行くなら、せめて 1 泊はしたい。", "choices": [ "その店のセーターはせめて 1 万円はするだろう。", "今からタクシーに乗っても、せめて 10 時には着けない。", "京都に行くなら、せめて 1 泊はしたい。", "先週のテストは自信がなかったが、せめて 50 点は取れた。" ], "meaning": "せめて: tối thiểu là, ít nhất thì (thể hiện mong muốn tối thiểu).", "explanation": "せめて thể hiện hy vọng/mong muốn mức tối thiểu chấp nhận được. Câu 1 dùng 少なくとも, câu 2 dùng どうしても, câu 4 dùng 何とか/せいぜい.", "level": "N2" }, { "id": "u014", "sentence": "[利益]", "word": "利益", "answer": "この値段で売ったら、店の利益はほとんどない。", "choices": [ "ジョギングは健康の利益になる。", "この値段で売ったら、店の利益はほとんどない。", "かぜ薬を飲んだが、利益が感じられない。", "バスの利益は、新幹線よりも料金が安いことだ。" ], "meaning": "利益（りえき）: lợi nhuận, tiền lời (từ kinh doanh, buôn bán).", "explanation": "利益 chỉ tiền lãi tịnh thu được sau khi trừ chi phí kinh doanh. Câu 1 dùng ため/プラス, câu 3 dùng 効果, câu 4 dùng 利点/利点/メリット.", "level": "N2" }, { "id": "u015", "sentence": "[かなう]", "word": "かなう", "answer": "自分の店を持つという夢が、とうとうかなった。", "choices": [ "苦労がかない、彼は俳優として成功をおさめた。", "天気予報がかない、今日は一日中快晴だった。", "準備を重ねてきたイベントが無事かなった。", "自分の店を持つという夢が、とうとうかなった。" ], "meaning": "かなう: (giấc mơ, nguyện vọng) thành hiện thực, đạt được.", "explanation": "かなう đi với 夢 (giấc mơ), 願い (nguyện vọng) thành hiện thực. Câu 1 dùng 報われる, câu 2 dùng 当たる, câu 3 dùng 成功する/実現する.", "level": "N2" }, { "id": "u016", "sentence": "[世間]", "word": "世間", "answer": "その事件は世間の注目を集めた。", "choices": [ "この映画は動物の世間を描いた作品だ。", "あの政党は、よりよい世間の実現を目指している。", "田中さんは数学の世間では有名だ。", "その事件は世間の注目を集めた。" ], "meaning": "世間（せけん）: xã hội, dư luận, thế間, thiên hạ.", "explanation": "世間 chỉ cộng đồng xã hội nói chung hoặc dư luận công chúng. Câu 1 dùng 世界, câu 2 dùng 社会, câu 3 dùng 業界/分野.", "level": "N2" }, { "id": "u017", "sentence": "[違反]", "word": "違反", "answer": "ルールに違反して退場になった選手が 3 人もいる。", "choices": [ "ルールに違反して退場になった選手が 3 人もいる。", "子供のころは皆、親に違反する時期があるものだ。", "彼の意見に違反する人はあまりいなかった。", "見た目がよくないが、予想に違反しておいしかった。" ], "meaning": "違反（いはん）: vi phạm (luật lệ, quy định, hợp đồng).", "explanation": "違反 chỉ việc vi phạm quy định, luật pháp, quy tắc. Câu 2 dùng 反抗する, câu 3 dùng 反対する, câu 4 dùng 反して.", "level": "N2" }, { "id": "u018", "sentence": "[質素]", "word": "質素", "answer": "無駄なものを買わずに、質素な生活を送っている。", "choices": [ "この文章は質素で、とてもわかりやすい。", "もう少し値段の質素なツアーはありませんか。", "経験は質素でも、やる気がある人を採用したい。", "無駄なものを買わずに、質素な生活を送っている。" ], "meaning": "質素（しっそ）: giản dị, mộc mạc, tiết kiệm (trong lối sống, ăn uống, sinh hoạt).", "explanation": "質素 tả lối sống không lãng phí, đơn sơ giản dị. Câu 1 dùng 簡潔/シンプル, câu 2 dùng 手頃な/安い, câu 3 dùng 浅くても/少なくても.", "level": "N2" }, { "id": "u019", "sentence": "[とっくに]", "word": "とっくに", "answer": "山田さんならとっくに帰りましたよ。", "choices": [ "この辺には、とっくに大きいお寺があった。", "山田さんならとっくに帰りましたよ。", "あの時のことを今ごろ謝ってもとっくに遅いよ。", "さっきから電話がとっくに鳴りっぱなしだ。" ], "meaning": "とっくに: từ lâu rồi, đã... từ lâu (thời gian đã trôi qua khá lâu kể từ khi việc xảy ra).", "explanation": "とっくに chỉ hành動 đã hoàn thành từ lâu trước thời điểm nói. Câu 1 dùng 昔, câu 3 dùng もう, câu 4 dùng ずっと.", "level": "N2" }, { "id": "u020", "sentence": "[受け入れる]", "word": "受け入れる", "answer": "私の大学では毎年大勢の留学生を受け入れています。", "choices": [ "チケットのお申し込みは電話で受け入れています。", "入口でパンフレットを受け入れてから席にお座りください。", "私の大学では毎年大勢の留学生を受け入れています。", "最新の技術を受け入れた製品について説明してもらいました。" ], "meaning": "受け入れる（うけいれる）: tiếp nhận, thu nhận (du học生, ý kiến, đề nghị).", "explanation": "受け入れる dùng cho việc tiếp nhận người (du học sinh, người tị nạn) hoặc chấp nhận ý kiến, điều kiện. Câu 1 dùng 受付する, câu 2 dùng 受け取る, câu 4 dùng 導入する/取り入れる.", "level": "N2" }, { "id": "u021", "sentence": "[とぼしい]", "word": "とぼしい", "answer": "この国は天然資源にとぼしい。", "choices": [ "このスープは塩味がとぼしい。", "この国は天然資源にとぼしい。", "音量がとぼしくて聞こえにくい。", "この商品にはとぼしい需要しかない。" ], "meaning": "とぼしい（乏しい）: nghèo nàn, thiếu sót, khan hiếm (tài nguyên, tri thức, kinh nghiệm).", "explanation": "乏しい chỉ sự thiếu hụt tài nguyên, kinh nghiệm, kiến thức. Câu 1 dùng 薄い, câu 3 dùng 小さくて, câu 4 dùng 少ない.", "level": "N2" }, { "id": "u022", "sentence": "[矛盾]", "word": "矛盾", "answer": "あの人の言ったことは、この前の話と矛盾している。", "choices": [ "山田さんはみんなで決めたことに矛盾している。", "北半球と南半球では夏と冬が矛盾している。", "あの人の言ったことは、この前の話と矛盾している。", "穏やかな彼女がロックを聞くなんて、矛盾している。" ], "meaning": "矛盾（むじゅん）: mâu thuẫn, trái ngược nhau (trong lời nói, tư tưởng, lý luận).", "explanation": "矛盾 chỉ sự không nhất quán, trái ngược logic giữa các lời nói/ý kiến. Câu 1 dùng 反対している, câu 2 dùng 逆になっている, câu 4 dùng 意外だ.", "level": "N2" }, { "id": "u023", "sentence": "[問い合わせる]", "word": "問い合わせる", "answer": "ご質問はこの電話番号にお問い合わせください。", "choices": [ "ご質問はこの電話番号にお問い合わせください。", "街で知らなに人に道を問い合わせられた。", "週末は映画を見に行かないかと、妹に問い合わせた。", "言葉の正確な意味は辞書に問い合わせよう。" ], "meaning": "問い合わせる（といあわせる）: hỏi đáp, liên hệ hỏi thông tin (tới cơ quan, bộ phận tư vấn).", "explanation": "問い合わせる dùng khi hỏi thông tin chính thức từ cơ quan, bộ phận hỗ trợ. Câu 2 dùng 尋ねられた/聞かれた, câu 3 dùng 誘った, câu 4 dùng 調べよう.", "level": "N2" }, { "id": "u024", "sentence": "[交代]", "word": "交代", "answer": "少し疲れたので、友達に運転を交代してもらった。", "choices": [ "時計の電池が切れてしまったので、新しいのに交代した。", "少し疲れたので、友達に運転を交代してもらった。", "用事ができて、待ち合わせの時間を1時から3時に交代してもらった。", "今年の4月に前の会社をやめて、今の会社に交代した。" ], "meaning": "交代（こうたい）: luân phiên, thay ca, đổi người (đảm nhận vị trí/công việc).", "explanation": "交代 chỉ việc đổi người làm nhiệm vụ (như đổi lái xe, thay ca). Câu 1 dùng 交換した, câu 3 dùng 変更してもらった, câu 4 dùng 転職した.", "level": "N2" }, { "id": "u025", "sentence": "[合同]", "word": "合同", "answer": "複数の大学が合同でスポーツ大会を行った。", "choices": [ "複数の大学が合同でスポーツ大会を行った。", "みんなの合同で、イベントの準備は着々と進んでいる。", "三つの市の合同で、県で一番大きな市が誕生した。", "寮ではみんなが合同でシャワールームを使っている。" ], "meaning": "合同（ごうどう）: phối hợp, kết hợp, liên kết (nhiều tổ chức, đơn vị cùng làm).", "explanation": "合同 chỉ việc tập hợp nhiều tổ chức/đoàn thể cùng tổ chức sự kiện. Câu 2 dùng 協力, câu 3 dùng 合併, câu 4 dùng 共同.", "level": "N2" }, { "id": "u026", "sentence": "[廃止]", "word": "廃止", "answer": "その制度は現状に合わなくなったので、先月で廃止された。", "choices": [ "両国が互いに主張を譲らず、会議は予定より早く廃止された。", "時間も遅くなったので、区切りのいいところで作業を廃止した。", "その制度は現状に合わなくなったので、先月で廃止された。", "健康のために、たばこを廃止するよう家族に言われた。" ], "meaning": "廃止（はいし）: bãi bỏ, huỷ bỏ (chế độ, luật lệ, dịch vụ, tập quán).", "explanation": "廃止 chỉ việc ngưng áp dụng/bãi bỏ một chế độ, quy định, dịch vụ. Câu 1 dùng 中止/終了, câu 2 dùng 中断/やめた, câu 4 dùng やめる.", "level": "N2" }, { "id": "u027", "sentence": "[心強い]", "word": "心強い", "answer": "初めてのプレゼンで不安だったが、先輩が一緒だったので心強かった。", "choices": [ "姉は心強くて、どんなにつらいことがあっても涙を見せない。", "初めてのプレゼンで不安だったが、先輩が一緒だったので心強かった。", "アメリカに 10 年住んでいたので、英語はわりと心強いです。", "やると決めたことは最後まであきらめずにやる心強い人間になりたい。" ], "meaning": "心強い（こころづよい）: vững tâm, an tâm, thêm sức mạnh tinh thần (nhờ có hỗ trợ).", "explanation": "心強い tả cảm giác an tâm khi có sự hỗ trợ của ai đó. Câu 1 dùng 精神的に強い, câu 3 dùng 得意です, câu 4 dùng 意志が強い.", "level": "N2" }, { "id": "u028", "sentence": "[さっさと]", "word": "さっさと", "answer": "いつまでもテレビを見てないで、さっさと宿題をしなさい。", "choices": [ "いつまでもテレビを見てないで、さっさと宿題をしなさい。", "雷が鳴り出したと思ったら、さっさと雨が降り出した。", "さっさと着くので、もう少しそこで待っていてください。", "買ってまだ一週間なのに、さっさと壊れた。" ], "meaning": "さっさと: nhanh chóng, mau lẹ, khẩn trương (làm ngay không chần chừ).", "explanation": "さっさと thúc giục hành động làm ngay lập tức, không lãng phí thời gian. Câu 2 dùng ざっと/急に, câu 3 dùng すぐに, câu 4 dùng あっけなく/すぐに.", "level": "N2" }, { "id": "u029", "sentence": "[ふさぐ]", "word": "ふさぐ", "answer": "紙袋に穴があいていたので、セロテープでふさいだ。", "choices": [ "種をまいたら、土でふさいで水をやってください。", "鍋をふたでふさぐと、中の肉に熱が通りやすくなります。", "紙袋に穴があいていたので、セロテープでふさいだ。", "電子レンジで温めるときは、皿をラップでふさいでください。" ], "meaning": "ふさぐ（塞ぐ）: bít, bịt, lấp (lỗ hổng, khe hở, lối đi).", "explanation": "ふさぐ dùng cho việc bịt kín lỗ hổng, vết nứt, bít miệng vết thương/lỗ hổng. Câu 1 dùng かぶせて, câu 2 dùng する/かける, câu 4 dùng かけて.", "level": "N2" }, { "id": "u030", "sentence": "[冷静]", "word": "冷静", "answer": "トラブルが発生したときでも、森さんは慌てずに冷静に対応していた。", "choices": [ "不安定だったわが国の経済状態が、ようやく冷静になってきた。", "トラブルが発生したときでも、森さんは慌てずに冷静に対応していた。", "熱が下がるまで、冷静にしていたほうがいい。", "台風で波が高かった海も、今日はすっかり冷静になった。" ], "meaning": "冷静（れいせい）: bình tĩnh, điềm tĩnh, không rối trí.", "explanation": "冷静 chỉ trạng thái giữ bình tĩnh của con người trước sự cố hay khó khăn. Câu 1 dùng 安定して, câu 3 dùng 安静に, câu 4 dùng 穏やか/静か.", "level": "N2" }, { "id": "u031", "sentence": "[掲示]", "word": "掲示", "answer": "マンションの入り口に、水道工事のお知らせが掲示されていた。", "choices": [ "山田氏は有名な科学者で、いくつもの本に研究論文を掲示している。", "テレビでよく掲示されている洗剤が安くなっていたので、試しに買ってみた。", "最近は名刺に自分の写真を掲示しているビジネスマンも多い。", "マンションの入り口に、水道工事のお知らせが掲示されていた。" ], "meaning": "掲示（けいじ）: niêm yết, treo/dán thông báo (ở nơi công cộng).", "explanation": "掲示 chỉ việc dán/treo bảng thông báo công khai cho nhiều người xem. Câu 1 dùng 掲載/発表, câu 2 dùng 宣伝, câu 3 dùng 載せている/印刷している.", "level": "N2" }, { "id": "u032", "sentence": "[快い]", "word": "快い", "answer": "急な仕事だったが、彼が快く引き受けてくれて助かった。", "choices": [ "要らないパソコンでしたら、快くもらっていきます。", "遠慮しないでいつでも快く遊びに来てください。", "急な仕事だったが、彼が快く引き受けてくれて助かった。", "親友の森さんには、どんな悩みも快く打ち明けられる。" ], "meaning": "快い（こころよい）: vui vẻ, sẵn lòng, dễ chịu (sẵn sàng giúp đỡ/đồng ý).", "explanation": "快く đi với động từ như 引き受ける (sẵn lòng nhận lời). Câu 1 dùng 喜んで, câu 2 dùng 気軽に, câu 4 dùng 安心して.", "level": "N2" }, { "id": "u033", "sentence": "[分野]", "word": "分野", "answer": "セミナーには心理学や言語学の分野から多数の専門家が参加した。", "choices": [ "保証の分野を超えた修理に関しては、費用がかかります。", "明日は朝から冷え込んで、山に近い分野では雪になるそうだ。", "セミナーには心理学や言語学の分野から多数の専門家が参加した。", "小説のこの分野には筆者の実際の体験が書かれている。" ], "meaning": "分野（ぶんや）: lĩnh vực, chuyên môn (học thuật, nghiên cứu, ngành nghề).", "explanation": "分野 chỉ lĩnh vực nghiên cứu, chuyên môn học thuật. Câu 1 dùng 範囲, câu 2 dùng 地域/地方, câu 4 dùng 部分/章.", "level": "N2" }, { "id": "u034", "sentence": "[生き生き]", "word": "生き生き", "answer": "彼は、好きなサッカーをしているときが一番生き生きしている。", "choices": [ "私は体が生き生きしているうちに、あちこち旅行をしたいと思う。", "子供が熱を出したが、薬を飲ませたらだんだん生き生きしてきた。", "彼は、好きなサッカーをしているときが一番生き生きしている。", "記憶が生き生きしているので、今なら間違えずに答えることができる。" ], "meaning": "生き生き（いきいき）: tràn đầy sức sống, năng動, hăng hái.", "explanation": "生き生き tả vẻ mặt, trạng thái con người hăng hái, tràn đầy sinh khí khi làm việc mình thích. Câu 1 dùng 元気な, câu 2 dùng 元気になって, câu 4 dùng はっきりしている.", "level": "N2" }, { "id": "u035", "sentence": "[隔てる]", "word": "隔てる", "answer": "大きな川が二つの市を隔てている。", "choices": [ "この二つの問題は隔てて考えるべきだ。", "大きな川が二つの市を隔てている。", "5 分ほど休憩を隔てて、11 時から再開します。", "試験のときは、隣の人と隔てて座ってください。" ], "meaning": "隔てる（へだてる）: ngăn cách, chia cách (không gian, khoảng cách).", "explanation": "隔てる dùng khi địa hình, sông/vách ngăn chia cách hai khu vực. Câu 1 dùng 分けて/別々に, câu 3 dùng 挟んで, câu 4 dùng 距離を置いて/間をあけて.", "level": "N2" }, { "id": "u036", "sentence": "[補足]", "word": "補足", "answer": "資料には概要しか書かれていないので、少し説明を補足します。", "choices": [ "スープの味が薄かったので、塩を補足しました。", "資料には概要しか書かれていないので、少し説明を補足します。", "新入社員の仕事を補足するのが私の役割です。", "暗い部屋だったので、明るい色の家具を補足しました。" ], "meaning": "補足（ほそく）: bổ sung (thông tin, giải thích thêm cho rõ ràng).", "explanation": "補足 chỉ việc bổ sung thông tin, nội dung bài nói/tài liệu còn thiếu. Câu 1 dùng 足しました, câu 3 dùng フォローする/サポートする, câu 4 dùng 追加しました/置きました.", "level": "N2" }, { "id": "u037", "sentence": "[あわただしい]", "word": "あわただしい", "answer": "山下さんは午前の会議が終わると、昼ご飯も食べずにあわただしく出かけていった。", "choices": [ "最近、寒かったり暑かったり気温の変化があわただしいので、風邪をひく人が多い。", "森さんはあわただしい人で、よく忘れ物をしたり、乗る電車を間違えたりする。", "この町の発展はあわただしく、数年前とは様子がずいぶん変わりました。", "山下さんは午前の会議が終わると、昼ご飯も食べずにあわただしく出かけていった。" ], "meaning": "あわただしい: bận rộn, hối hả, tấp nập (nhiều việc dồn dập).", "explanation": "あわただしい tả trạng thái hành động vội vã, hối hả do không có thời gian. Câu 1 dùng 激しい, câu 2 dùng おっちょこちょいな/慌て者, câu 3 dùng 急激で/目覚ましく.", "level": "N2" }, { "id": "u038", "sentence": "[かすか]", "word": "かすか", "answer": "船に乗って 1 時間たつと、遠くに島がかすかに見えてきた。", "choices": [ "財布の中にかすかなお金があったので、バスで帰った。", "船に乗って 1 時間たつと、遠くに島がかすかに見えてきた。", "今日は天気がいいので、かすかな時間で洗濯物が乾きそうだ。", "私と田中さんは同じ年だが、私のほうが誕生日がかすかに早い。" ], "meaning": "かすか（微か）: mờ nhạt, thoang thoảng, yếu ớt (mắt thấy mờ, tai nghe nhỏ).", "explanation": "かすか chỉ âm thanh, hình ảnh, mùi hương thoang thoảng, mờ nhạt. Câu 1 dùng わずかな, câu 3 dùng 短い, câu 4 dùng 少し.", "level": "N2" }, { "id": "u039", "sentence": "[催促]", "word": "催促", "answer": "家賃を払うのをすっかり忘れていたら、催促の電話がかかってきた。", "choices": [ "30度を超える暑い日には、水分を十分とるように学校でも注意を催促している。", "異文化交流の催促のために、ボランティア団体が毎月イベントを開いている。", "家賃を払うのをすっかり忘れていたら、催促の電話がかかってきた。", "どこからか、おいしそうなにおいがしてきて食欲が催促された。" ], "meaning": "催促（さいそく）: hối thúc, giục giã (yêu cầu thực hiện nghĩa vụ như trả tiền, nộp bài).", "explanation": "催促 dùng khi thúc giục ai đó thực hiện việc trễ hạn (như giục trả tiền nhà, nộp bài). Câu 1 dùng 呼びかけている/注意を促している, câu 2 dùng 促進, câu 4 dùng 刺激された.", "level": "N2" }, { "id": "u040", "sentence": "[ものたりない]", "word": "ものたりない", "answer": "少しうまくなってきたので、初心者向けのクラスだとものたりなくなってきた。", "choices": [ "少しうまくなってきたので、初心者向けのクラスだとものたりなくなってきた。", "クラスメートが転校することになり、みんなものたりなく思っています。", "日本に来たばかりでものたりないでしょうが、すぐに慣れますよ。", "楽しみにしていたパーティーなのに、中止なんて本当にものたりない。" ], "meaning": "ものたりない（物足りない）: chưa thỏa mãn, cảm thấy thiếu sót, chưa đủ phê/đã.", "explanation": "ものたりない tả cảm giác thiếu thiếu cái gì đó để hoàn toàn hài lòng. Câu 2 dùng 残念に, câu 3 dùng 心細い, câu 4 dùng 残念だ/がっかりだ.", "level": "N2" } ]
+[ 
+    { "id": "u001", "sentence": "[取材]", "word": "取材", "answer": "あの選手の練習の様子を取材したときは、とても緊張しました。", "choices": [ "学期末試験の範囲を友達に取材しました。", "デパートに買い物に行く前に、営業時間を取材しておこう。", "インターネットは、簡単に地図を取材できるので便利です。", "あの選手の練習の様子を取材したときは、とても緊張しました。" ], "meaning": "取材（しゅざい）: thu thập tin tức, phỏng vấn, lấy đề tài.", "explanation": "取材 dùng cho việc thu thập thông tin, tư liệu, phỏng vấn báo chí/truyền thông (như phỏng vấn vận động viên). Các câu 1, 2, 3 dùng sai (nên dùng 確認, 調べる, 検索).", "level": "N2" }, { "id": "u002", "sentence": "[きっかけ]", "word": "きっかけ", "answer": "友人に写真をほめられたのがきっかけで、本格的に勉強を始めた。", "choices": [ "季節のきっかけは風邪をひきやすい。", "友人に写真をほめられたのがきっかけで、本格的に勉強を始めた。", "その意見に反対するきっかけは、主観的すぎるからだ。", "今回は時間がないので、次のきっかけに訪れようと思う。" ], "meaning": "きっかけ: cớ, động cơ, khởi đầu, dịp (nguyên nhân bắt đầu một hành động/sự việc).", "explanation": "きっかけ chỉ cớ/động cơ khởi đầu một việc gì đó (như được khen ảnh làm động cơ bắt đầu học). Câu 1 dùng 変わリ目, câu 3 dùng 理由, câu 4 dùng 機会.", "level": "N2" }, { "id": "u003", "sentence": "[深刻]", "word": "深刻", "answer": "彼は深刻な悩みをかかえているようだ。", "choices": [ "彼は動物に対して深刻な愛情を持っている。", "家族との時間を深刻に過ごしている。", "彼は深刻な悩みをかかえているようだ。", "テストが近いので、深刻に勉強した。" ], "meaning": "深刻（しんこく）: nghiêm trọng, trầm trọng (dùng cho vấn đề, lo âu, tình hình xấu).", "explanation": "深刻 dùng cho trạng thái lo lắng, vấn đề nghiêm trọng, phức tạp. Câu 1 dùng 深い, câu 2 dùng 大切に, câu 4 dùng 真剣に/一生懸命.", "level": "N2" }, { "id": "u004", "sentence": "[続出]", "word": "続出", "answer": "暑さのせいで気分が悪くなる人が続出した。", "choices": [ "満員電車から乗客が続出した。", "暑さのせいで気分が悪くなる人が続出した。", "最近は、天気の悪い日が続出している。", "薬で治ったと思っていた風邪が続出した。" ], "meaning": "続出（ぞくしゅつ）: liên tiếp xuất hiện, xảy ra dồn dập (thường dùng cho con người hoặc hiện tượng).", "explanation": "続出 dùng khi nhiều người hoặc sự việc liên tiếp xảy ra, xuất hiện. Câu 1 dùng 降りる/出てくる, câu 3 dùng 続く, câu 4 dùng ぶり返す/再発する.", "level": "N2" }, { "id": "u005", "sentence": "[外見]", "word": "外見", "answer": "人を外見で判断するのはよくないことだ。", "choices": [ "人を外見で判断するのはよくないことだ。", "窓の外見をペンキで白く塗った。", "月の外見はでこぼこしている。", "母は怒っている外見だった。" ], "meaning": "外見（がいけん）: vẻ bên ngoài, diện mạo (của con người hoặc đồ vật).", "explanation": "外見 chỉ diện mạo, vẻ bề ngoài của con người hoặc sự vật. Câu 2 dùng 外側/枠, câu 3 dùng 表面, câu 4 dùng 様子.", "level": "N2" }, { "id": "u006", "sentence": "[はずす]", "word": "はずす", "answer": "腕時計をはずして、机の上に置いた。", "choices": [ "歯医者で虫歯をはずしてもらった。", "腕時計をはずして、机の上に置いた。", "家に入る前に、靴の汚れをはずした。", "食事の後、テーブルから皿をはずした。" ], "meaning": "はずす: tháo, gỡ (đồ vật đang đeo/gắn trên người hoặc vật khác).", "explanation": "はずす dùng cho việc tháo đồng hồ, kính, khuy áo... Câu 1 dùng 抜く/治療する, câu 3 dùng 落とす, câu 4 dùng 下げる/片付ける.", "level": "N2" }, { "id": "u007", "sentence": "[普及]", "word": "普及", "answer": "携帯電話は急速に普及してきている。", "choices": [ "携帯電話は急速に普及してきている。", "今、若者の間ではこんなうわさが普及している。", "この病気は人から人へ普及する可能性がある。", "あの大臣の発言は国際問題にまで普及した。" ], "meaning": "普及（ふきゅう）: phổ biến, lan rộng (đồ vật, công nghệ, dịch vụ được sử dụng rộng rãi).", "explanation": "普及 chỉ việc một sản phẩm, thiết bị, dịch vụ được nhân rộng và sử dụng phổ biến. Câu 2 dùng 広まる/広がる, câu 3 dùng 感染する/広がる, câu 4 dùng 発展する/波及する.", "level": "N2" }, { "id": "u008", "sentence": "[注目]", "word": "注目", "answer": "来月の選挙の結果が注目されている。", "choices": [ "きれいな眺めに注目して、時間がたつのを忘れた。", "寝不足で注目が足りないと、仕事でミスが多くなる。", "来月の選挙の結果が注目されている。", "この問題を別の注目から見てみよう。" ], "meaning": "注目（ちゅうもく）: chú ý, quan tâm, theo dõi sát sao.", "explanation": "注目 chỉ sự quan tâm, theo dõi sự kiện/kết quả. Câu 1 dùng 見とれる/見とれて, câu 2 dùng 集中力/注意, câu 4 dùng 視点/角度.", "level": "N2" }, { "id": "u009", "sentence": "[ふさわしい]", "word": "ふさわしい", "answer": "彼は責任感が強く、この仕事のリーダーにふさわしい。", "choices": [ "中川さんの指摘は、いつもふさわしいです。", "彼は責任感が強く、この仕事のリーダーにふさわしい。", "私にふさわしいサイズの帽子がやっと見つかった。", "私、あの人とは性格がふさわしいんです。" ], "meaning": "ふさわしい: thích hợp, phù hợp, xứng đáng (với vai trò, phẩm chất, tư cách).", "explanation": "ふさわしい đi với vai trò, vị trí phù hợp với năng lực/phẩm chất. Câu 1 dùng 適切/もっとも, câu 3 dùng ちょうどいい/ぴったりな, câu 4 dùng 合う.", "level": "N2" }, { "id": "u010", "sentence": "[保つ]", "word": "保つ", "answer": "健康を保つためには、バランスのいい食事と運動が大切だ。", "choices": [ "山田さんは、いつも約束の時間を保つ人てす。", "一人で全部食べないで、私の分も保っておいてください。", "あとで捨てるので、ごみはそのまま保っておいていいですよ。", "健康を保つためには、バランスのいい食事と運動が大切だ。" ], "meaning": "保つ（たもつ）: duy trì, giữ vững (trạng thái, sức khỏe, cân bằng).", "explanation": "保つ có nghĩa là duy trì một trạng thái tốt (như sức khỏe, hòa bình, sự cân bằng). Câu 1 dùng 守る, câu 2 dùng 残す/取っておく, câu 3 dùng 置く.", "level": "N2" }, { "id": "u011", "sentence": "[方針]", "word": "方針", "answer": "教育に関する政府の方針が大きく変わった。", "choices": [ "台風の方針がそれたので、特に被害は出なかった。", "私の今年の方針は漢字を 600 字覚えることだ。", "この料理を作る方針を教えてください。", "教育に関する政府の方針が大きく変わった。" ], "meaning": "方針（ほうしん）: phương châm, chính sách, định hướng hành động (của tổ chức, chính phủ, kế hoạch lớn).", "explanation": "方針 chỉ phương châm, chính sách lớn. Câu 1 dùng 進路, câu 2 dùng 目標, câu 3 dùng 方法/作り方.", "level": "N2" }, { "id": "u012", "sentence": "[範囲]", "word": "範囲", "answer": "明日は広い範囲で強い雨が降るでしょう。", "choices": [ "この町は川によって二つの範囲に分かれている。", "この会社は新しい範囲に進出した。", "明日は広い範囲で強い雨が降るでしょう。", "家から駅までの範囲は 2 キロぐらいだ。" ], "meaning": "範囲（はんい）: phạm vi, khu vực (được giới hạn).", "explanation": "範囲 chỉ vùng, khu vực địa lý hoặc giới hạn nội dung (như phạm vi mưa). Câu 1 dùng 地域/地区, câu 2 dùng 分野, câu 4 dùng 距離.", "level": "N2" }, { "id": "u013", "sentence": "[せめて]", "word": "せめて", "answer": "京都に行くなら、せめて 1 泊はしたい。", "choices": [ "その店のセーターはせめて 1 万円はするだろう。", "今からタクシーに乗っても、せめて 10 時には着けない。", "京都に行くなら、せめて 1 泊はしたい。", "先週のテストは自信がなかったが、せめて 50 点は取れた。" ], "meaning": "せめて: tối thiểu là, ít nhất thì (thể hiện mong muốn tối thiểu).", "explanation": "せめて thể hiện hy vọng/mong muốn mức tối thiểu chấp nhận được. Câu 1 dùng 少なくとも, câu 2 dùng どうしても, câu 4 dùng 何とか/せいぜい.", "level": "N2" }, { "id": "u014", "sentence": "[利益]", "word": "利益", "answer": "この値段で売ったら、店の利益はほとんどない。", "choices": [ "ジョギングは健康の利益になる。", "この値段で売ったら、店の利益はほとんどない。", "かぜ薬を飲んだが、利益が感じられない。", "バスの利益は、新幹線よりも料金が安いことだ。" ], "meaning": "利益（りえき）: lợi nhuận, tiền lời (từ kinh doanh, buôn bán).", "explanation": "利益 chỉ tiền lãi tịnh thu được sau khi trừ chi phí kinh doanh. Câu 1 dùng ため/プラス, câu 3 dùng 効果, câu 4 dùng 利点/メリット.", "level": "N2" }, { "id": "u015", "sentence": "[かなう]", "word": "かなう", "answer": "自分の店を持つという夢が、とうとうかなった。", "choices": [ "苦労がかない、彼は俳優として成功をおさめた。", "天気予報がかない、今日は一日中快晴だった。", "準備を重ねてきたイベントが無事かなった。", "自分の店を持つという夢が、とうとうかなった。" ], "meaning": "かなう: (giấc mơ, nguyện vọng) thành hiện thực, đạt được.", "explanation": "かなう đi với 夢 (giấc mơ), 願い (nguyện vọng) thành hiện thực. Câu 1 dùng 報われる, câu 2 dùng 当たる, câu 3 dùng 成功する/実現する.", "level": "N2" }, { "id": "u016", "sentence": "[世間]", "word": "世間", "answer": "その事件は世間の注目を集めた。", "choices": [ "この映画は動物の世間を描いた作品だ。", "あの政党は、よりよい世間の実現を目指している。", "田中さんは数学の世間では有名だ。", "その事件は世間の注目を集めた。" ], "meaning": "世間（せけん）: xã hội, dư luận, thế間, thiên hạ.", "explanation": "世間 chỉ cộng đồng xã hội nói chung hoặc dư luận công chúng. Câu 1 dùng 世界, câu 2 dùng 社会, câu 3 dùng 業界/分野.", "level": "N2" }, { "id": "u017", "sentence": "[違反]", "word": "違反", "answer": "ルールに違反して退場になった選手が 3 人もいる。", "choices": [ "ルールに違反して退場になった選手が 3 人もいる。", "子供のころは皆、親に違反する時期があるものだ。", "彼の意見に違反する人はあまりいなかった。", "見た目がよくないが、予想に違反しておいしかった。" ], "meaning": "違反（いはん）: vi phạm (luật lệ, quy định, hợp đồng).", "explanation": "違反 chỉ việc vi phạm quy định, luật pháp, quy tắc. Câu 2 dùng 反抗する, câu 3 dùng 反対する, câu 4 dùng 反して.", "level": "N2" }, { "id": "u018", "sentence": "[質素]", "word": "質素", "answer": "無駄なものを買わずに、質素な生活を送っている。", "choices": [ "この文章は質素で、とてもわかりやすい。", "もう少し値段の質素なツアーはありませんか。", "経験は質素でも、やる気がある人を採用したい。", "無駄なものを買わずに、質素な生活を送っている。" ], "meaning": "質素（しっそ）: giản dị, mộc mạc, tiết kiệm (trong lối sống, ăn uống, sinh hoạt).", "explanation": "質素 tả lối sống không lãng phí, đơn sơ giản dị. Câu 1 dùng 簡潔/シンプル, câu 2 dùng 手頃な/安い, câu 3 dùng 浅くても/少なくても.", "level": "N2" }, { "id": "u019", "sentence": "[とっくに]", "word": "とっくに", "answer": "山田さんならとっくに帰りましたよ。", "choices": [ "この辺には、とっくに大きいお寺があった。", "山田さんならとっくに帰りましたよ。", "あの時のことを今ごろ謝ってもとっくに遅いよ。", "さっきから電話がとっくに鳴りっぱなしだ。" ], "meaning": "とっくに: từ lâu rồi, đã... từ lâu (thời gian đã trôi qua khá lâu kể từ khi việc xảy ra).", "explanation": "とっくに chỉ hành動 đã hoàn thành từ lâu trước thời điểm nói. Câu 1 dùng 昔, câu 3 dùng もう, câu 4 dùng ずっと.", "level": "N2" }, { "id": "u020", "sentence": "[受け入れる]", "word": "受け入れる", "answer": "私の大学では毎年大勢の留学生を受け入れています。", "choices": [ "チケットのお申し込みは電話で受け入れています。", "入口でパンフレットを受け入れてから席にお座りください。", "私の大学では毎年大勢の留学生を受け入れています。", "最新の技術を受け入れた製品について説明してもらいました。" ], "meaning": "受け入れる（うけいれる）: tiếp nhận, thu nhận (du học生, ý kiến, đề nghị).", "explanation": "受け入れる dùng cho việc tiếp nhận người (du học sinh, người tị nạn) hoặc chấp nhận ý kiến, điều kiện. Câu 1 dùng 受付する, câu 2 dùng 受け取る, câu 4 dùng 導入する/取り入れる.", "level": "N2" }, { "id": "u021", "sentence": "[とぼしい]", "word": "とぼしい", "answer": "この国は天然資源にとぼしい。", "choices": [ "このスープは塩味がとぼしい。", "この国は天然資源にとぼしい。", "音量がとぼしくて聞こえにくい。", "この商品にはとぼしい需要しかない。" ], "meaning": "とぼしい（乏しい）: nghèo nàn, thiếu sót, khan hiếm (tài nguyên, tri thức, kinh nghiệm).", "explanation": "乏しい chỉ sự thiếu hụt tài nguyên, kinh nghiệm, kiến thức. Câu 1 dùng 薄い, câu 3 dùng 小さくて, câu 4 dùng 少ない.", "level": "N2" }, { "id": "u022", "sentence": "[矛盾]", "word": "矛盾", "answer": "あの人の言ったことは、この前の話と矛盾している。", "choices": [ "山田さんはみんなで決めたことに矛盾している。", "北半球と南半球では夏と冬が矛盾している。", "あの人の言ったことは、この前の話と矛盾している。", "穏やかな彼女がロックを聞くなんて、矛盾している。" ], "meaning": "矛盾（むじゅん）: mâu thuẫn, trái ngược nhau (trong lời nói, tư tưởng, lý luận).", "explanation": "矛盾 chỉ sự không nhất quán, trái ngược logic giữa các lời nói/ý kiến. Câu 1 dùng 反対している, câu 2 dùng 逆になっている, câu 4 dùng 意外だ.", "level": "N2" }, { "id": "u023", "sentence": "[問い合わせる]", "word": "問い合わせる", "answer": "ご質問はこの電話番号にお問い合わせください。", "choices": [ "ご質問はこの電話番号にお問い合わせください。", "街で知らなに人に道を問い合わせられた。", "週末は映画を見に行かないかと、妹に問い合わせた。", "言葉の正確な意味は辞書に問い合わせよう。" ], "meaning": "問い合わせる（といあわせる）: hỏi đáp, liên hệ hỏi thông tin (tới cơ quan, bộ phận tư vấn).", "explanation": "問い合わせる dùng khi hỏi thông tin chính thức từ cơ quan, bộ phận hỗ trợ. Câu 2 dùng 尋ねられた/聞かれた, câu 3 dùng 誘った, câu 4 dùng 調べよう.", "level": "N2" }, { "id": "u024", "sentence": "[交代]", "word": "交代", "answer": "少し疲れたので、友達に運転を交代してもらった。", "choices": [ "時計の電池が切れてしまったので、新しいのに交代した。", "少し疲れたので、友達に運転を交代してもらった。", "用事ができて、待ち合わせの時間を1時から3時に交代してもらった。", "今年の4月に前の会社をやめて、今の会社に交代した。" ], "meaning": "交代（こうたい）: luân phiên, thay ca, đổi người (đảm nhận vị trí/công việc).", "explanation": "交代 chỉ việc đổi người làm nhiệm vụ (như đổi lái xe, thay ca). Câu 1 dùng 交換した, câu 3 dùng 変更してもらった, câu 4 dùng 転職した.", "level": "N2" }, { "id": "u025", "sentence": "[合同]", "word": "合同", "answer": "複数の大学が合同でスポーツ大会を行った。", "choices": [ "複数の大学が合同でスポーツ大会を行った。", "みんなの合同で、イベントの準備は着々と進んでいる。", "三つの市の合同で、県で一番大きな市が誕生した。", "寮ではみんなが合同でシャワールームを使っている。" ], "meaning": "合同（ごうどう）: phối hợp, kết hợp, liên kết (nhiều tổ chức, đơn vị cùng làm).", "explanation": "合同 chỉ việc tập hợp nhiều tổ chức/đoàn thể cùng tổ chức sự kiện. Câu 2 dùng 協力, câu 3 dùng 合併, câu 4 dùng 共同.", "level": "N2" }, { "id": "u026", "sentence": "[廃止]", "word": "廃止", "answer": "その制度は現状に合わなくなったので、先月で廃止された。", "choices": [ "両国が互いに主張を譲らず、会議は予定より早く廃止された。", "時間も遅くなったので、区切りのいいところで作業を廃止した。", "その制度は現状に合わなくなったので、先月で廃止された。", "健康のために、たばこを廃止するよう家族に言われた。" ], "meaning": "廃止（はいし）: bãi bỏ, huỷ bỏ (chế độ, luật lệ, dịch vụ, tập quán).", "explanation": "廃止 chỉ việc ngưng áp dụng/bãi bỏ một chế độ, quy định, dịch vụ. Câu 1 dùng 中止/終了, câu 2 dùng 中断/やめた, câu 4 dùng やめる.", "level": "N2" }, { "id": "u027", "sentence": "[心強い]", "word": "心強い", "answer": "初めてのプレゼンで不安だったが、先輩が一緒だったので心強かった。", "choices": [ "姉は心強くて、どんなにつらいことがあっても涙を見せない。", "初めてのプレゼンで不安だったが、先輩が一緒だったので心強かった。", "アメリカに 10 年住んでいたので、英語はわりと心強いです。", "やると決めたことは最後まであきらめずにやる心強い人間になりたい。" ], "meaning": "心強い（こころづよい）: vững tâm, an tâm, thêm sức mạnh tinh thần (nhờ có hỗ trợ).", "explanation": "心強い tả cảm giác an tâm khi có sự hỗ trợ của ai đó. Câu 1 dùng 精神的に強い, câu 3 dùng 得意です, câu 4 dùng 意志が強い.", "level": "N2" }, { "id": "u028", "sentence": "[さっさと]", "word": "さっさと", "answer": "いつまでもテレビを見てないで、さっさと宿題をしなさい。", "choices": [ "いつまでもテレビを見てないで、さっさと宿題をしなさい。", "雷が鳴り出したと思ったら、さっさと雨が降り出した。", "さっさと着くので、もう少しそこで待っていてください。", "買ってまだ一週間なのに、さっさと壊れた。" ], "meaning": "さっさと: nhanh chóng, mau lẹ, khẩn trương (làm ngay không chần chừ).", "explanation": "さっさと thúc giục hành động làm ngay lập tức, không lãng phí thời gian. Câu 2 dùng ざっと/急に, câu 3 dùng すぐに, câu 4 dùng あっけなく/すぐに.", "level": "N2" }, { "id": "u029", "sentence": "[ふさぐ]", "word": "ふさぐ", "answer": "紙袋に穴があいていたので、セロテープでふさいだ。", "choices": [ "種をまいたら、土でふさいで水をやってください。", "鍋をふたでふさぐと、中の肉に熱が通りやすくなります。", "紙袋に穴があいていたので、セロテープでふさいだ。", "電子レンジで温めるときは、皿をラップでふさいでください。" ], "meaning": "ふさぐ（塞ぐ）: bít, bịt, lấp (lỗ hổng, khe hở, lối đi).", "explanation": "ふさぐ dùng cho việc bịt kín lỗ hổng, vết nứt, bít miệng vết thương/lỗ hổng. Câu 1 dùng かぶせて, câu 2 dùng する/かける, câu 4 dùng かけて.", "level": "N2" }, { "id": "u030", "sentence": "[冷静]", "word": "冷静", "answer": "トラブルが発生したときでも、森さんは慌てずに冷静に対応していた。", "choices": [ "不安定だったわが国の経済状態が、ようやく冷静になってきた。", "トラブルが発生したときでも、森さんは慌てずに冷静に対応していた。", "熱が下がるまで、冷静にしていたほうがいい。", "台風で波が高かった海も、今日はすっかり冷静になった。" ], "meaning": "冷静（れいせい）: bình tĩnh, điềm tĩnh, không rối trí.", "explanation": "冷静 chỉ trạng thái giữ bình tĩnh của con người trước sự cố hay khó khăn. Câu 1 dùng 安定して, câu 3 dùng 安静に, câu 4 dùng 穏やか/静か.", "level": "N2" }, { "id": "u031", "sentence": "[掲示]", "word": "掲示", "answer": "マンションの入り口に、水道工事のお知らせが掲示されていた。", "choices": [ "山田氏は有名な科学者で、いくつもの本に研究論文を掲示している。", "テレビでよく掲示されている洗剤が安くなっていたので、試しに買ってみた。", "最近は名刺に自分の写真を掲示しているビジネスマンも多い。", "マンションの入り口に、水道工事のお知らせが掲示されていた。" ], "meaning": "掲示（けいじ）: niêm yết, treo/dán thông báo (ở nơi công cộng).", "explanation": "掲示 chỉ việc dán/treo bảng thông báo công khai cho nhiều người xem. Câu 1 dùng 掲載/発表, câu 2 dùng 宣伝, câu 3 dùng 載せている/印刷している.", "level": "N2" }, { "id": "u032", "sentence": "[快い]", "word": "快い", "answer": "急な仕事だったが、彼が快く引き受けてくれて助かった。", "choices": [ "要らないパソコンでしたら、快くもらっていきます。", "遠慮しないでいつでも快く遊びに来てください。", "急な仕事だったが、彼が快く引き受けてくれて助かった。", "親友の森さんには、どんな悩みも快く打ち明けられる。" ], "meaning": "快い（こころよい）: vui vẻ, sẵn lòng, dễ chịu (sẵn sàng giúp đỡ/đồng ý).", "explanation": "快く đi với động từ như 引き受ける (sẵn lòng nhận lời). Câu 1 dùng 喜んで, câu 2 dùng 気軽に, câu 4 dùng 安心して.", "level": "N2" }, { "id": "u033", "sentence": "[分野]", "word": "分野", "answer": "セミナーには心理学や言語学の分野から多数の専門家が参加した。", "choices": [ "保証の分野を超えた修理に関しては、費用がかかります。", "明日は朝から冷え込んで、山に近い分野では雪になるそうだ。", "セミナーには心理学や言語学の分野から多数の専門家が参加した。", "小説のこの分野には筆者の実際の体験が書かれている。" ], "meaning": "分野（ぶんや）: lĩnh vực, chuyên môn (học thuật, nghiên cứu, ngành nghề).", "explanation": "分野 chỉ lĩnh vực nghiên cứu, chuyên môn học thuật. Câu 1 dùng 範囲, câu 2 dùng 地域/地方, câu 4 dùng 部分/章.", "level": "N2" }, { "id": "u034", "sentence": "[生き生き]", "word": "生き生き", "answer": "彼は、好きなサッカーをしているときが一番生き生きしている。", "choices": [ "私は体が生き生きしているうちに、あちこち旅行をしたいと思う。", "子供が熱を出したが、薬を飲ませたらだんだん生き生きしてきた。", "彼は、好きなサッカーをしているときが一番生き生きしている。", "記憶が生き生きしているので、今なら間違えずに答えることができる。" ], "meaning": "生き生き（いきいき）: tràn đầy sức sống, năng動, hăng hái.", "explanation": "生き生き tả vẻ mặt, trạng thái con người hăng hái, tràn đầy sinh khí khi làm việc mình thích. Câu 1 dùng 元気な, câu 2 dùng 元気になって, câu 4 dùng はっきりしている.", "level": "N2" }, { "id": "u035", "sentence": "[隔てる]", "word": "隔てる", "answer": "大きな川が二つの市を隔てている。", "choices": [ "この二つの問題は隔てて考えるべきだ。", "大きな川が二つの市を隔てている。", "5 分ほど休憩を隔てて、11 時から再開します。", "試験のときは、隣の人と隔てて座ってください。" ], "meaning": "隔てる（へだてる）: ngăn cách, chia cách (không gian, khoảng cách).", "explanation": "隔てる dùng khi địa hình, sông/vách ngăn chia cách hai khu vực. Câu 1 dùng 分けて/別々に, câu 3 dùng 挟んで, câu 4 dùng 距離を置いて/間をあけて.", "level": "N2" }, { "id": "u036", "sentence": "[補足]", "word": "補足", "answer": "資料には概要しか書かれていないので、少し説明を補足します。", "choices": [ "スープの味が薄かったので、塩を補足しました。", "資料には概要しか書かれていないので、少し説明を補足します。", "新入社員の仕事を補足するのが私の役割です。", "暗い部屋だったので、明るい色の家具を補足しました。" ], "meaning": "補足（ほそく）: bổ sung (thông tin, giải thích thêm cho rõ ràng).", "explanation": "補足 chỉ việc bổ sung thông tin, nội dung bài nói/tài liệu còn thiếu. Câu 1 dùng 足しました, câu 3 dùng フォローする/サポートする, câu 4 dùng 追加しました/置きました.", "level": "N2" }, { "id": "u037", "sentence": "[あわただしい]", "word": "あわただしい", "answer": "山下さんは午前の会議が終わると、昼ご飯も食べずにあわただしく出かけていった。", "choices": [ "最近、寒かったり暑かったり気温の変化があわただしいので、風邪をひく人が多い。", "森さんはあわただしい人で、よく忘れ物をしたり、乗る電車を間違えたりする。", "この町の発展はあわただしく、数年前とは様子がずいぶん変わりました。", "山下さんは午前の会議が終わると、昼ご飯も食べずにあわただしく出かけていった。" ], "meaning": "あわただしい: bận rộn, hối hả, tấp nập (nhiều việc dồn dập).", "explanation": "あわただしい tả trạng thái hành động vội vã, hối hả do không có thời gian. Câu 1 dùng 激しい, câu 2 dùng おっちょこちょいな/慌て者, câu 3 dùng 急激で/目覚ましく.", "level": "N2" }, { "id": "u038", "sentence": "[かすか]", "word": "かすか", "answer": "船に乗って 1 時間たつと、遠くに島がかすかに見えてきた。", "choices": [ "財布の中にかすかなお金があったので、バスで帰った。", "船に乗って 1 時間たつと、遠くに島がかすかに見えてきた。", "今日は天気がいいので、かすかな時間で洗濯物が乾きそうだ。", "私と田中さんは同じ年だが、私のほうが誕生日がかすかに早い。" ], "meaning": "かすか（微か）: mờ nhạt, thoang thoảng, yếu ớt (mắt thấy mờ, tai nghe nhỏ).", "explanation": "かすか chỉ âm thanh, hình ảnh, mùi hương thoang thoảng, mờ nhạt. Câu 1 dùng わずかな, câu 3 dùng 短い, câu 4 dùng 少し.", "level": "N2" }, { "id": "u039", "sentence": "[催促]", "word": "催促", "answer": "家賃を払うのをすっかり忘れていたら、催促の電話がかかってきた。", "choices": [ "30度を超える暑い日には、水分を十分とるように学校でも注意を催促している。", "異文化交流の催促のために、ボランティア団体が毎月イベントを開いている。", "家賃を払うのをすっかり忘れていたら、催促の電話がかかってきた。", "どこからか、おいしそうなにおいがしてきて食欲が催促された。" ], "meaning": "催促（さいそく）: hối thúc, giục giã (yêu cầu thực hiện nghĩa vụ như trả tiền, nộp bài).", "explanation": "催促 dùng khi thúc giục ai đó thực hiện việc trễ hạn (như giục trả tiền nhà, nộp bài). Câu 1 dùng 呼びかけている/注意を促している, câu 2 dùng 促進, câu 4 dùng 刺激された.", "level": "N2" }, { "id": "u040", "sentence": "[ものたりない]", "word": "ものたりない", "answer": "少しうまくなってきたので、初心者向けのクラスだとものたりなくなってきた。", "choices": [ "少しうまくなってきたので、初心者向けのクラスだとものたりなくなってきた。", "クラスメートが転校することになり、みんなものたりなく思っています。", "日本に来たばかりでものたりないでしょうが、すぐに慣れますよ。", "楽しみにしていたパーティーなのに、中止なんて本当にものたりない。" ], "meaning": "ものたりない（物足りない）: chưa thỏa mãn, cảm thấy thiếu sót, chưa đủ phê/đã.", "explanation": "ものたりない tả cảm giác thiếu thiếu cái gì đó để hoàn toàn hài lòng. Câu 2 dùng 残念に, câu 3 dùng 心細い, câu 4 dùng 残念だ/がっかりだ.", "level": "N2" },
+  {
+    "id": "u041",
+    "sentence": "[頑丈]",
+    "word": "頑丈",
+    "answer": "このいすはとても頑丈で、少しくらい乱暴に扱っても壊れません。",
+    "choices": [
+      "石川さんは頑丈で、なかなか意見を変えない。",
+      "重要な書類は必ず金庫に入れて、頑丈に管理してください。",
+      "このいすはとても頑丈で、少しくらい乱暴に扱っても壊れません。",
+      "A社との間には頑丈な信頼関係があるので安心です。"
+    ],
+    "meaning": "頑丈（がんじょう）: bền bỉ, chắc chắn (đồ vật, cơ thể).",
+    "explanation": "頑丈 dùng cho đồ vật chắc chắn, khó hỏng hoặc cơ thể khỏe mạnh vạm vỡ. Câu 1 dùng 頑固, câu 2 dùng 厳重, câu 4 dùng 強固.",
+    "level": "N2"
+  },
+  {
+    "id": "u042",
+    "sentence": "[畳む]",
+    "word": "畳む",
+    "answer": "この上着は小さく畳むことができるので、旅行に持っていくのに便利だ。",
+    "choices": [
+      "青木さんは、小さな紙を器用に畳んで鶴を作った。",
+      "この上着は小さく畳むことができるので、旅行に持っていくのに便利だ。",
+      "髪が長いと首の周りが暑いので、夏はいつも髪を畳んでいます。",
+      "中川さんは腕を畳んで、何か考えているようだった。"
+    ],
+    "meaning": "畳む（たたむ）: gấp, gập (quần áo, chăn màng, ô...).",
+    "explanation": "畳む dùng gập/gấp vải, quần áo, dù... Xếp giấy làm hạc dùng 折る (câu 1), bó tóc dùng 結ぶ (câu 3), khoanh tay dùng 組み (câu 4).",
+    "level": "N2"
+  },
+  {
+    "id": "u043",
+    "sentence": "[合図]",
+    "word": "合図",
+    "answer": "スタートの合図で、選手たちは一斉に走り出した。",
+    "choices": [
+      "スタートの合図で、選手たちは一斉に走り出した。",
+      "ガス会社から、器具の点検を来月行うという合図があった。",
+      "山道に何か小さな動物が歩いたような合図があった。",
+      "種をまいたところを忘れないように、合図をつけておいた。"
+    ],
+    "meaning": "合図（あいず）: hiệu lệnh, tín hiệu.",
+    "explanation": "合図 là tín hiệu, hiệu lệnh ra dấu bằng hành động, âm thanh, ánh sáng. Câu 2 dùng 連絡/お知らせ, câu 3 dùng 痕跡/形跡, câu 4 dùng 目印.",
+    "level": "N2"
+  },
+  {
+    "id": "u044",
+    "sentence": "[こつこつ]",
+    "word": "こつこつ",
+    "answer": "資格をとるために、この一年間、毎日こつこつと勉強をしてきた。",
+    "choices": [
+      "何度も説明を聞いていたら、こつこつとわかってきた。",
+      "料理が熱くて、舌をやけどしそうなので、こつこつと食べた。",
+      "朝は涼しかったが、昼になってこつこつと気温が上がり始めた。",
+      "資格をとるために、この一年間、毎日こつこつと勉強をしてきた。"
+    ],
+    "meaning": "こつこつ: kiên trì, từng chút một, cần cù nhẫn nại.",
+    "explanation": "こつこつ chỉ sự nỗ lực kiên trì, tích tiểu thành đại. Câu 1 dùng だんだん/徐々に, câu 2 dùng 少しずつ, câu 3 dùng 徐々に/じわじわ.",
+    "level": "N2"
+  },
+  {
+    "id": "u045",
+    "sentence": "[縮む]",
+    "word": "縮む",
+    "answer": "洗濯機でセーターを洗ったら、縮んで着られなくなった。",
+    "choices": [
+      "箱を積み重ねておいたら、重さで一番下の箱が縮んでいた。",
+      "この鉛筆はもう縮んでいて、ちょっと書きづらい。",
+      "洗濯機でセーターを洗ったら、縮んで着られなくなった。",
+      "建て替えて、家は広くなったが、庭が縮んでしまった。"
+    ],
+    "meaning": "縮む（ちぢむ）: co lại, rút lại (vải vóc, chiều dài, kích thước).",
+    "explanation": "縮む dùng cho vải vóc bị co rút do giặt hoặc khoảng cách/chiều dài bị thu hẹp. Câu 1 dùng つぶれていた, câu 2 dùng 短くなって, câu 4 dùng 狭くなって.",
+    "level": "N2"
+  },
+  {
+    "id": "u046",
+    "sentence": "[会見]",
+    "word": "会見",
+    "answer": "社長は会見を開き、記者からの質問に一つ一つ丁寧に答えた。",
+    "choices": [
+      "来週、アルバイトの会見があるので、持っていく履歴書を用意した。",
+      "社長は会見を開き、記者からの質問に一つ一つ丁寧に答えた。",
+      "昨夜、高校の同級生の集まりがあり、10年振りに会見を楽しんだ。",
+      "駅の近くを歩いていたら声をかけられて、テレビ番組の会見を受けた。"
+    ],
+    "meaning": "会見（かいけん）: họp báo, phỏng vấn báo chí.",
+    "explanation": "会見 là cuộc họp báo công bố thông tin cho báo giới. Câu 1 dùng 面接, câu 3 dùng 再会, câu 4 dùng インタビュー/取材.",
+    "level": "N2"
+  },
+  {
+    "id": "u047",
+    "sentence": "[支持]",
+    "word": "支持",
+    "answer": "田中市長は市民の安全を一番に考えるので、多くの支持を集めている。",
+    "choices": [
+      "私は、息子がサッカーの試合に出るときは必ず会場へ支持しに行く。",
+      "建物内部の撮影は禁止されているが、今回は特別に支持を得ることができた。",
+      "田中市長は市民の安全を一番に考えるので、多くの支持を集めている。",
+      "久しぶりに中学校を訪ねたら、先生方から温かく支持されてうれしかった。"
+    ],
+    "meaning": "支持（しじ）: sự ủng hộ, hậu thuẫn.",
+    "explanation": "支持 dùng cho việc ủng hộ chính sách, tư tưởng, nhà chính trị. Câu 1 dùng 応援, câu 2 dùng 許可, câu 4 dùng 歓迎.",
+    "level": "N2"
+  },
+  {
+    "id": "u048",
+    "sentence": "[妥当]",
+    "word": "妥当",
+    "answer": "品質に比べて値段が高いと言う人もいるが、私は妥当な金額だと思う。",
+    "choices": [
+      "品質に比べて値段が高いと言う人もいるが、私は妥当な金額だと思う。",
+      "風邪気味だったので、今日の会議が中止になったのは、私には妥当だった。",
+      "旅行の日は雨の予報だったが、きれいに晴れて、妥当な天気になった。",
+      "この曲は、歌詞が今の私の気持ちに妥当なので、最近よく聞いている。"
+    ],
+    "meaning": "妥当（だとう）: hợp lý, thỏa đáng.",
+    "explanation": "妥当 chỉ sự hợp lý, phù hợp (mức giá, đánh giá). Câu 2 dùng 幸い/助かった, câu 3 dùng 絶好の, câu 4 dùng ぴったり.",
+    "level": "N2"
+  },
+  {
+    "id": "u049",
+    "sentence": "[言い訳]",
+    "word": "言い訳",
+    "answer": "西さんは仕事で失敗すると必ず言い訳をするので、上司からよく思われていない。",
+    "choices": [
+      "重要な提案なので会議できちんと言い訳をしたが、結局、賛成を得られなかった。",
+      "学生が質問すると、中村先生はいつも熱心に言い訳をしてくれる。",
+      "西さんは仕事で失敗すると必ず言い訳をするので、上司からよく思われていない。",
+      "診察室で医者からあしたの検査内容について言い訳をしてもらった。"
+    ],
+    "meaning": "言い訳（いいわけ）: bào chữa, biện hộ.",
+    "explanation": "言い訳 là phân thanh minh, bào chữa lỗi sai của mình. Câu 1 dùng 説明/主張, câu 2 dùng 解説/説明, câu 4 dùng 説明.",
+    "level": "N2"
+  },
+  {
+    "id": "u050",
+    "sentence": "[手軽]",
+    "word": "手軽",
+    "answer": "この運動は、道具もいらず自宅で手軽にできるので、人気がある。",
+    "choices": [
+      "この運動は、道具もいらず自宅で手軽にできるので、人気がある。",
+      "参加者全員がお互いを知るために、一分ずつ手軽な自己紹介を行った。",
+      "結婚式の後のパーティーには手軽な服装で来てください。",
+      "昨日の試合は手軽に勝てると思ったのに、意外に苦戦した。"
+    ],
+    "meaning": "手軽（てがる）: tiện lợi, đơn giản, dễ dàng.",
+    "explanation": "手軽 chỉ công việc/hoạt động làm nhanh chóng, tiện lợi, không tốn công. Câu 2 dùng 簡単な, câu 3 dùng ラフな/カジュアルな, câu 4 dùng 簡単に/楽に.",
+    "level": "N2"
+  },
+  {
+    "id": "u051",
+    "sentence": "[温暖]",
+    "word": "温暖",
+    "answer": "この地方は温暖で暮らしやすく、野菜や果物などの農産物も豊富だ。",
+    "choices": [
+      "佐藤さんはいつも厳しいが、本当はとても温暖な性格の人だ。",
+      "冷めるとおいしくないので、なるべく温暖なうちにお召し上がりください。",
+      "この地方は温暖で暮らしやすく、野菜や果物などの農産物も豊富だ。",
+      "エアコンをつけたら、部屋の中が温暖になって眠くなってきた。"
+    ],
+    "meaning": "温暖（おんだん）: ấm áp (khí hậu, thời tiết).",
+    "explanation": "温暖 chỉ thời tiết, khí hậu ấm áp. Câu 1 dùng 温厚, câu 2 dùng 温かい, câu 4 dùng 暖かく.",
+    "level": "N2"
+  },
+  {
+    "id": "u052",
+    "sentence": "[振り向く]",
+    "word": "振り向く",
+    "answer": "だれかに後ろから呼ばれたので振り向いたら、課長だった。",
+    "choices": [
+      "だれかに後ろから呼ばれたので振り向いたら、課長だった。",
+      "道を渡るときは、左右を振り向いて車が来ないことを確認しよう。",
+      "だれかが空を指さしたので、近くにいた人たちが一斉に上を振り向いた。",
+      "森さんは私を見ると、恥ずかしそうに下を振り向いたまま顔を上げなかった。"
+    ],
+    "meaning": "振り向く（ふりむく）: ngoảnh lại, ngoái nhìn đằng sau.",
+    "explanation": "振り向く là ngoảnh đầu nhìn ra phía sau. Câu 2 dùng 確認して/見て, câu 3 dùng 見上げて, câu 4 dùng うつむいた/下を向いた.",
+    "level": "N2"
+  },
+  {
+    "id": "u053",
+    "sentence": "[用途]",
+    "word": "用途",
+    "answer": "本来の用途ではないが、この容器は花瓶にしてもいいと思う。",
+    "choices": [
+      "新しい趣味を始めるため、時間の用途を工夫することにした。",
+      "会社での私の用途は、新入社員の指導をすることだ。",
+      "鈴木さんの才能は、多くの用途に生かされるだろう。",
+      "本来の用途ではないが、この容器は花瓶にしてもいいと思う。"
+    ],
+    "meaning": "用途（ようと）: công dụng, mục đích sử dụng.",
+    "explanation": "用途 chỉ mục đích sử dụng đồ vật. Câu 1 dùng 使い道/活用, câu 2 dùng 役割, câu 3 dùng 分野.",
+    "level": "N2"
+  },
+  {
+    "id": "u054",
+    "sentence": "[甘やかす]",
+    "word": "甘やかす",
+    "answer": "林さんは、ずっと親に甘やかされて育ったせいか、わがままで困る。",
+    "choices": [
+      "今年のA社の就職試験は、昨年より内容が甘やかされている。",
+      "林さんは、ずっと親に甘やかされて育ったせいか、わがままで困る。",
+      "ひどくなったら大変だから、風邪を甘やかされないほうがいいですよ。",
+      "今日は、いつもより多めに砂糖を入れて、コーヒーを甘やかした。"
+    ],
+    "meaning": "甘やかす（あまやかす）: chiều chuộng, nuông chiều.",
+    "explanation": "甘やかす là nuông chiều trẻ nhỏ/con cái. Câu 1 dùng 易しくなっている, câu 3 dùng 甘く見ない, câu 4 dùng 甘くした.",
+    "level": "N2"
+  },
+  {
+    "id": "u055",
+    "sentence": "[行方]",
+    "word": "行方",
+    "answer": "この写真の二人は事件に関係があるらしいが、まだ行方が分からない。",
+    "choices": [
+      "この写真の二人は事件に関係があるらしいが、まだ行方が分からない。",
+      "慌てていたので、行方を確かめずにバスに乗ってしまった。",
+      "交差点を右に曲がると、行方に黒い高層ビルが見えた。",
+      "日曜日の私の行方はいつも決まっていて、近くの喫茶店か図書館だ。"
+    ],
+    "meaning": "行方（ゆくえ）: tung tích, hướng đi, vị trí hiện tại.",
+    "explanation": "行方 chỉ hành tung, vị trí hiện tại của đối tượng đang tìm kiếm/mất tích. Câu 2 dùng 行き先, câu 3 dùng 前方, câu 4 dùng 行く場所.",
+    "level": "N2"
+  },
+  {
+    "id": "u056",
+    "sentence": "[作成]",
+    "word": "作成",
+    "answer": "今週中に会議の資料を作成しておいてください。",
+    "choices": [
+      "外国語の練習のために、話す機会を多く作成している。",
+      "今週中に会議の資料を作成しておいてください。",
+      "この地域で作成された果物はとてもおいしい。",
+      "友人と共同で新しい会社を作成することにした。"
+    ],
+    "meaning": "作成（さくせい）: lập, soạn thảo, tạo ra (tài liệu, văn bản).",
+    "explanation": "作成 dùng cho văn bản, tài liệu, hồ sơ, kế hoạch. Câu 1 dùng 作っている, câu 3 dùng 栽培された/生産された, câu 4 dùng 設立する.",
+    "level": "N2"
+  },
+  {
+    "id": "u057",
+    "sentence": "[いったん]",
+    "word": "いったん",
+    "answer": "部長は外出先から会社にいったん戻ったが、すぐにまた出かけた。",
+    "choices": [
+      "私はまだ海外にいったんも行ったことがないので、いつか行きたいと思っている。",
+      "彼とはずいぶん前にいったんしか会っていないが、顔も名前もよく覚えている。",
+      "部長は外出先から会社にいったん戻ったが、すぐにまた出かけた。",
+      "学生のころは、友人と1週間にいったん映画を見に行った。"
+    ],
+    "meaning": "いったん（一旦）: tạm thời một lúc.",
+    "explanation": "いったん diễn tả hành động tạm dừng/tạm làm trong chốc lát rồi tiếp tục. Câu 1 dùng 一度も, câu 2 dùng 一度, câu 4 dùng 一回/一度.",
+    "level": "N2"
+  },
+  {
+    "id": "u058",
+    "sentence": "[思いつく]",
+    "word": "思いつく",
+    "answer": "このアイディアは仕事中ではなく、散歩しているときに思いついた。",
+    "choices": [
+      "今は大変だが、将来成功している自分の姿を思いつくと、頑張ろうと思える。",
+      "このアイディアは仕事中ではなく、散歩しているときに思いついた。",
+      "佐藤さんに初めて会ったとき、この人とは親友になれそうだと思いついた。",
+      "この写真を見ると、いつも学生時代のことを思いついて、同級生に会いたくなる。"
+    ],
+    "meaning": "思いつく（おもいつく）: nảy ra (ý tưởng, phương án).",
+    "explanation": "思いつく là bỗng nhiên nghĩ ra ý tưởng hay giải pháp. Câu 1 dùng 想像すると, câu 3 dùng 感じた, câu 4 dùng 思い出して.",
+    "level": "N2"
+  },
+  {
+    "id": "u059",
+    "sentence": "[中断]",
+    "word": "中断",
+    "answer": "雨が強くなって試合が中断されているが、恐らく再開は難しいだろう。",
+    "choices": [
+      "参加の希望者が集まらないので、来週のイベントは中断されることになった。",
+      "この山には、曲がって枯れた木や中断した木がたくさんある。",
+      "林さんは今勤めている会社を中断して、別の会社に転職するらしい。",
+      "雨が強くなって試合が中断されているが、恐らく再開は難しいだろう。"
+    ],
+    "meaning": "中断（ちゅうだん）: gián đoạn, tạm ngưng giữa chừng.",
+    "explanation": "中断 là tạm dừng việc đang diễn ra giữa chừng để làm tiếp sau. Câu 1 dùng 中止, câu 2 dùng 折れた, câu 3 dùng 辞めて/退職して.",
+    "level": "N2"
+  },
+  {
+    "id": "u060",
+    "sentence": "[たくましい]",
+    "word": "たくましい",
+    "answer": "両親は今までどんな苦労にも負けずに、たくましく生きてきた。",
+    "choices": [
+      "両親は今までどんな苦労にも負けずに、たくましく生きてきた。",
+      "このひもは細くてすぐ切れそうなので、もっとたくましいのが欲しい。",
+      "森さんは仕事の経験がたくましいので、上司から信頼されている。",
+      "昼になって急に日ざしがたくましくなったので、帽子をかぶった。"
+    ],
+    "meaning": "たくましい: kiên cường, phong độ, vạm vỡ.",
+    "explanation": "たくましい tả cơ thể vạm vỡ hoặc tinh thần kiên cường, dẻo dai trước khó khăn. Câu 2 dùng 丈夫な/太い, câu 3 dùng 豊富な, câu 4 dùng 強く.",
+    "level": "N2"
+  },
+  {
+    "id": "u061",
+    "sentence": "[頂上]",
+    "word": "頂上",
+    "answer": "山に登り始めて 5 時間ぐらいして、ようやく頂上に着いた。",
+    "choices": [
+      "この星は、夏の夜 12 時ごろ、空の頂上のあたりに見える。",
+      "山に登り始めて 5 時間ぐらいして、ようやく頂上に着いた。",
+      "この家の 2 階の部屋は、頂上にも窓がついているので、とても明るい。",
+      "本棚がいっぱいになってしまい、本棚の頂上にも本を置いている。"
+    ],
+    "meaning": "頂上（ちょうじょう）: đỉnh, chóp (núi, đồi).",
+    "explanation": "頂上 chỉ đỉnh núi, đỉnh ngọn đồi. Câu 1 dùng 真上/頭上, câu 3 dùng 天井, câu 4 dùng 一番上/てっぺん.",
+    "level": "N2"
+  },
+  {
+    "id": "u062",
+    "sentence": "[節約]",
+    "word": "節約",
+    "answer": "私の会社では、紙や郵送費を節約するため、資料はすべてメールで送っている。",
+    "choices": [
+      "駅に向かう道路の渋滞を節約するため、道の幅を広げる工事が行われている。",
+      "美術館の中は、かびが発生して絵が傷まないように、温度や湿度を節約しています。",
+      "試験が近くなってきたので、アルバイトの仕事を少し節約することにした。",
+      "私の会社では、紙や郵送費を節約するため、資料はすべてメールで送っている。"
+    ],
+    "meaning": "節約（せつやく）: tiết kiệm (tiền bạc, tài nguyên, năng lượng).",
+    "explanation": "節約 là hạn chế lãng phí tiền bạc, tài nguyên, giấy tờ... Câu 1 dùng 解消/緩和, câu 2 dùng 管理/調節, câu 3 dùng 減らす.",
+    "level": "N2"
+  },
+  {
+    "id": "u063",
+    "sentence": "[分解]",
+    "word": "分解",
+    "answer": "機械の調子が悪かったので、分解して部品の点検をした。",
+    "choices": [
+      "機械の調子が悪かったので、分解して部品の点検をした。",
+      "すいかを買ってきたが、大きくて冷蔵庫に入らなかったので、四つに分解した。",
+      "細かいお金がなかったので、近くの店で千円札を分解してもらった。",
+      "急ぎの仕事が入ったので、三人で分解して進めることにした。"
+    ],
+    "meaning": "分解（ぶんかい）: tháo rời, phân giải (máy móc, chi tiết).",
+    "explanation": "分解 chỉ việc tháo rời linh kiện máy móc, cấu trúc phức tạp. Câu 2 dùng 切り分けた, câu 3 dùng 両替して, câu 4 dùng 分担して.",
+    "level": "N2"
+  },
+  {
+    "id": "u064",
+    "sentence": "[略す]",
+    "word": "略す",
+    "answer": "時間がないので、詳しい説明は略して、要点だけお話しします。",
+    "choices": [
+      "時間がないので、詳しい説明は略して、要点だけお話しします。",
+      "合計で１万円以上ご購入の場合、送料は略します。",
+      "健康のために、砂糖を略したジャムを使っています。",
+      "このオフィスは、壁を略して、開放感のあるデザインにしました。"
+    ],
+    "meaning": "略す（りゃくす）: lược bớt, viết tắt, tóm tắt.",
+    "explanation": "略す là bỏ qua chi tiết, làm ngắn gọn. Câu 2 dùng 無料にします/免除します, câu 3 dùng 控えた/不使用の, câu 4 dùng なくして.",
+    "level": "N2"
+  },
+  {
+    "id": "u065",
+    "sentence": "[覆う]",
+    "word": "覆う",
+    "answer": "公園に続く並木道はすっかり落ち葉で覆われていた。",
+    "choices": [
+      "私のうちは、周りを高層マンションに覆われていて、日当たりが悪い。",
+      "優勝した森選手は大勢の記者に覆われてインタビューを受けていた。",
+      "公園に続く並木道はすっかり落ち葉で覆われていた。",
+      "部屋が暑いのか、中島さんの顔は汗で覆われていた。"
+    ],
+    "meaning": "覆う（おおう）: bao phủ, che phủ.",
+    "explanation": "覆う là phủ kín bề mặt. Câu 1 dùng 囲まれて, câu 2 dùng 囲まれて, câu 4 dùng 汗だくになっていた/汗でいっぱいだった.",
+    "level": "N2"
+  },
+  {
+    "id": "u066",
+    "sentence": "[保存]",
+    "word": "保存",
+    "answer": "この食品は必ず冷蔵庫で保存してください。",
+    "choices": [
+      "将来のためにお金は保存したほうがいいですよ。",
+      "食堂に早く着いたので、後から来る友達の席を保存しておいた。",
+      "この食品は必ず冷蔵庫で保存してください。",
+      "山登りは長時間の運動なので、体力を保存しないと後半が大変だ。"
+    ],
+    "meaning": "保存（ほぞん）: bảo quản, lưu trữ.",
+    "explanation": "保存 chỉ việc giữ thực phẩm, dữ liệu, hiện vật ở trạng thái tốt. Câu 1 dùng 貯金/蓄え, câu 2 dùng 確保, câu 4 dùng 温存.",
+    "level": "N2"
+  },
+  {
+    "id": "u067",
+    "sentence": "[鈍い]",
+    "word": "鈍い",
+    "answer": "疲れているのか、彼はいつもより動きが鈍い。",
+    "choices": [
+      "私は数学が苦手で、計算がとても鈍い。",
+      "今日は仕事が暇で、時間がたつのが鈍く感じられた。",
+      "彼は仕事が鈍いが、その分丁寧だ。",
+      "疲れているのか、彼はいつもより動きが鈍い。"
+    ],
+    "meaning": "鈍い（にぶい）: chậm chạp, cùn, đần đẫn.",
+    "explanation": "鈍い dùng cho phản ứng/chuyển động chậm chạp hoặc dao cùn. Câu 1 dùng 遅い, câu 2 dùng 遅く, câu 3 dùng 遅い.",
+    "level": "N2"
+  },
+  {
+    "id": "u068",
+    "sentence": "[日課]",
+    "word": "日課",
+    "answer": "健康のため、毎朝３0分体操することを日課にしている。",
+    "choices": [
+      "停留所でバスの日課を見ると、次の発車時刻は２0分後だった。",
+      "今日は売り上げが 10万円以上あったので、日課が達成できた。",
+      "朝 9時までに出社することが会社の日課で決まっている。",
+      "健康のため、毎朝３0分体操することを日課にしている。"
+    ],
+    "meaning": "日課（にっか）: công việc hằng ngày, thói quen hằng ngày.",
+    "explanation": "日課 là việc cố định làm mỗi ngày. Câu 1 dùng 時刻表, câu 2 dùng 目標, câu 3 dùng 規則/就業規則.",
+    "level": "N2"
+  },
+  {
+    "id": "u069",
+    "sentence": "[多彩]",
+    "word": "多彩",
+    "answer": "高橋氏は、小説家や画家として多彩な活動を行っている。",
+    "choices": [
+      "高橋氏は、小説家や画家として多彩な活動を行っている。",
+      "今夜は空に星が多彩に輝いていて、とてもきれいです。",
+      "文章にあいまいな表現を使うと、読者が多彩な理解をするだろう。",
+      "木村さんには生活全般において多彩にお世話になりました。"
+    ],
+    "meaning": "多彩（たさい）: đa dạng, phong phú.",
+    "explanation": "多彩 chỉ sự đa dạng tài năng, hoạt động phong phú. Câu 2 dùng きらきら, câu 3 dùng 様々な/多様な, câu 4 dùng 大変/いろいろ.",
+    "level": "N2"
+  },
+  {
+    "id": "u070",
+    "sentence": "[乗り継ぐ]",
+    "word": "乗り継ぐ",
+    "answer": "バスと電車を乗り継いで、やっと目的地に着いた。",
+    "choices": [
+      "居眠りをして、降りるつもりだった駅を乗り継いでしまった。",
+      "疲れたので友達に運転を乗り継いでもらった。",
+      "バスと電車を乗り継いで、やっと目的地に着いた。",
+      "朝はたくさんの人が電車を乗り継ぐので、ドアの近くに立っていると大変だ。"
+    ],
+    "meaning": "乗り継ぐ（のりつぐ）: đổi xe, quá cảnh (chuyển phương tiện giữa chừng).",
+    "explanation": "乗り継ぐ là đổi sang phương tiện giao thông khác để đi tiếp. Câu 1 dùng 乗り過ごして, câu 2 dùng 代わって, câu 4 dùng 乗り降りする/乗り込む.",
+    "level": "N2"
+  },
+  {
+    "id": "u071",
+    "sentence": "[特殊]",
+    "word": "特殊",
+    "answer": "バスを運転するためには特殊な免許が必要だ。",
+    "choices": [
+      "その日は夏なのに特殊な寒さだった。",
+      "自分で育てた野菜を食べるのは特殊な喜びがある。",
+      "母は誕生日など、特殊な日にはとても豪華な料理を作ってくれる。",
+      "バスを運転するためには特殊な免許が必要だ。"
+    ],
+    "meaning": "特殊（とくしゅ）: đặc biệt, đặc thù.",
+    "explanation": "特殊 chỉ thuộc tính đặc thù khác biệt với thông thường. Câu 1 dùng 異常な/特別解な, câu 2 dùng 格別な/特別な, câu 3 dùng 特別な.",
+    "level": "N2"
+  },
+  {
+    "id": "u072",
+    "sentence": "[素材]",
+    "word": "素材",
+    "answer": "このお店は素材の味を生かした料理で有名です。",
+    "choices": [
+      "プラスチックは石油を素材に作られている。",
+      "このお店は素材の味を生かした料理で有名です。",
+      "いろいろな情報を集めて、判断の素材にする。",
+      "故障の素材になったものを探さなくてはいけない。"
+    ],
+    "meaning": "素材（そざい）: nguyên liệu, chất liệu.",
+    "explanation": "素材 dùng cho nguyên liệu món ăn, chất liệu tự nhiên. Câu 1 dùng 原料, câu 3 dùng 材料, câu 4 dùng 原因.",
+    "level": "N2"
+  },
+  {
+    "id": "u073",
+    "sentence": "[しみる]",
+    "word": "しみる",
+    "answer": "煙が目にしみで、涙が止まらなくなった。",
+    "choices": [
+      "飛んできたボールが頭にしみて、けがをした。",
+      "煙が目にしみで、涙が止まらなくなった。",
+      "食べすぎで、ベルトがお腹にしみて苦しい。",
+      "料理をしているときに包丁の先が指にしみて、少し血が出た。"
+    ],
+    "meaning": "しみる（染みる・刺みる）: ngấm, buốt, rát.",
+    "explanation": "しみる là cảm giác cay/rät mắt do khói, ngấm vết thương, buốt răng. Câu 1 dùng 当たって, câu 3 dùng 食い込んで/きつくて, câu 4 dùng 刺さって.",
+    "level": "N2"
+  },
+  {
+    "id": "u074",
+    "sentence": "[充満]",
+    "word": "充満",
+    "answer": "部屋に食べ物の強いにおいが充満していたので、窓を開けた。",
+    "choices": [
+      "この図書館は、あらゆる分野の本が充満していて、とても便利だ。",
+      "このコンサートは人気があって、常に観客が充満している。",
+      "部屋に食べ物の強いにおいが充満していたので、窓を開けた。",
+      "夢が充満している子どもたちが大好きで、小学校の教師になった。"
+    ],
+    "meaning": "充満（じゅうまん）: tràn ngập, đầy ắp (khí, mùi hương, khói).",
+    "explanation": "充満 dùng khi khí, khói, mùi hương tràn ngập trong không gian kín. Câu 1 dùng 揃っていて/充実していて, câu 2 dùng 満員だ/あふれている, câu 4 dùng あふれている.",
+    "level": "N2"
+  },
+  {
+    "id": "u075",
+    "sentence": "[めくる]",
+    "word": "めくる",
+    "answer": "この小説は面白くて、次のページをめくるのが楽しみだった。",
+    "choices": [
+      "この小説は面白くて、次のページをめくるのが楽しみだった。",
+      "汗をかいたので、タオルを水でぬらし、きつくめくって体をふいた。",
+      "封筒に書類を入れ、開かないように丁寧にのりでめくっておいた。",
+      "そのドアは押すのではなく手前にめくらないと開きませんよ。"
+    ],
+    "meaning": "めくる: lật (trang sách, lịch, chăn).",
+    "explanation": "めくる là lật trang sách, lật tờ lịch, lật chăn. Câu 2 dùng しぼって, câu 3 dùng はっておいた/とめておいた, câu 4 dùng 引かないと.",
+    "level": "N2"
+  },
+  {
+    "id": "u076",
+    "sentence": "[引用]",
+    "word": "引用",
+    "answer": "レポートで、新聞記事を引用する。",
+    "choices": [
+      "プレゼンがうまい先輩のやり方を引用する。",
+      "大きな川から水を引用する。",
+      "レポートで、新聞記事を引用する。",
+      "ほかの人のお金を引用してはいけない。"
+    ],
+    "meaning": "引用（いんよう）: trích dẫn (văn bản, bài viết, câu nói).",
+    "explanation": "引用 là trích dẫn văn bản của người khác vào bài viết của mình. Câu 1 dùng 参考にする/真似する, câu 2 dùng 引く/引き込む, câu 4 dùng 無断で使う.",
+    "level": "N2"
+  },
+  {
+    "id": "u077",
+    "sentence": "[ほっと]",
+    "word": "ほっと",
+    "answer": "なくしたと思っていた大事な本が見つかって、ほっとした。",
+    "choices": [
+      "ほっと気づいたら、ポケットの中のかぎがなかった。",
+      "会議中にほっと書いていたら、上司に注意された。",
+      "好きな人に話しかけられて、ほっと顔が赤くなった。",
+      "なくしたと思っていた大事な本が見つかって、ほっとした。"
+    ],
+    "meaning": "ほっと: nhẹ nhõm, trút được gánh nặng.",
+    "explanation": "ほっと đi với する chỉ cảm giác nhẹ nhõm. Câu 1 dùng ふと, câu 2 dùng ぼんやり, câu 3 dùng ぽっと.",
+    "level": "N2"
+  },
+  {
+    "id": "u078",
+    "sentence": "[展開]",
+    "word": "展開",
+    "answer": "この漫画は、ストーリーの展開が面白い。",
+    "choices": [
+      "高橋教授は、この島で生物の展開の歴史を調べている。",
+      "この漫画は、ストーリーの展開が面白い。",
+      "好きなことをしているときは、時間の展開が早い。",
+      "池田選手はとても強く、５年連続で決勝戦への展開を決めている。"
+    ],
+    "meaning": "展開（てんかい）: triển khai, diên tiến (cốt truyện, tình tiết, quy mô).",
+    "explanation": "展開 dùng cho diễn tiến của câu chuyện, kịch bản, tình hình. Câu 1 dùng 進化, câu 3 dùng 経過/進み, câu 4 dùng 進出.",
+    "level": "N2"
+  },
+  {
+    "id": "u079",
+    "sentence": "[妥当]",
+    "word": "妥当",
+    "answer": "品質に比べて値段が高いと言う人もいるが、私は妥当な金額だと思う。",
+    "choices": [
+      "品質に比べて値段が高いと言う人もいるが、私は妥当な金額だと思う。",
+      "風邪気味だったので、今日の会議が中止になったのは、私には妥当だった。",
+      "旅行の日は雨の予報だったが、きれいに晴れて、妥当な天気になった。",
+      "この曲は、歌詞が今の私の気持ちに妥当なので、最近よく聞いている。"
+    ],
+    "meaning": "妥当（だとう）: thỏa đáng, hợp lý.",
+    "explanation": "妥当 là đánh giá hợp lý, thích đáng. Câu 2 dùng 幸いだった/助かった, câu 3 dùng 絶好の, câu 4 dùng ぴったり.",
+    "level": "N2"
+  },
+  {
+    "id": "u080",
+    "sentence": "[かばう]",
+    "word": "かばう",
+    "answer": "弟が両親にしかられていたので、「すごく反省してたよ」と言って、弟をかばった。",
+    "choices": [
+      "この団体は、海岸の清掃など、環境をかばう活動をしている。",
+      "この鳥は法律でかばわれていて、捕まえたり飼ったりすることは禁止されている。",
+      "弟が両親にしかられていたので、「すごく反省してたよ」と言って、弟をかばった。",
+      "開発した新技術をかばうため、関連する情報を厳重に管理している。"
+    ],
+    "meaning": "かばう（庇う）: bao bọc, bênh vực, bảo vệ.",
+    "explanation": "かばう dùng cho việc bênh vực người khác hoặc che chắn giùm ai đó. Câu 1 dùng 守る/保護する, câu 2 dùng 保護されていて, câu 4 dùng 守る/保護する.",
+    "level": "N2"
+  },
+  {
+    "id": "u081",
+    "sentence": "[栽培]",
+    "word": "栽培",
+    "answer": "この畑では、農薬を使わずに野菜を栽培しています。",
+    "choices": [
+      "両親は牧場で牛を栽培して、チーズを作っています。",
+      "私は今、生まれて半年の赤ちゃんを栽培しています。",
+      "庭で見つけた虫の卵を栽培して、観察日記を書いた。",
+      "この畑では、農薬を使わずに野菜を栽培しています。"
+    ],
+    "meaning": "栽培（さいばい）: trồng trọt (cây cối, rau củ).",
+    "explanation": "栽培 dùng cho việc trồng trọt cây cối, nông sản. Bò dùng 飼育/飼育する (câu 1), bé dùng 育てる/養育する (câu 2), trứng sâu dùng 観察/飼育 (câu 3).",
+    "level": "N2"
+  },
+  {
+    "id": "u082",
+    "sentence": "[急激]",
+    "word": "急激",
+    "answer": "新しい駅ができて、市の人口が急激に増加している。",
+    "choices": [
+      "イベントの開催日が近くなり、準備が急激に進められている。",
+      "新しい駅ができて、市の人口が急激に増加している。",
+      "このパンは非常に人気があり、朝8時に開店すると急激に売れていく。",
+      "松田選手が現れると、ファンの人たちが急激に取り囲んだ。"
+    ],
+    "meaning": "急激（きゅうげき）: đột biến, đột ngột, tăng/giảm nhanh chóng.",
+    "explanation": "急激 chỉ sự biến đổi tăng/giảm số liệu một cách đột ngột. Câu 1 dùng 急ピッチで/急速に, câu 3 dùng 飛ぶように, câu 4 dùng 一斉に.",
+    "level": "N2"
+  },
+  {
+    "id": "u083",
+    "sentence": "[漏れる]",
+    "word": "漏れる",
+    "answer": "水道管に穴があいているのか、水が漏れてきている。",
+    "choices": [
+      "ジュースを注ぎすぎて、コップから漏れてしまった。",
+      "転んでしまって、ひざから血が漏れてきた。",
+      "水道管に穴があいているのか、水が漏れてきている。",
+      "悲しい映画を見たせいで、涙が漏れてきた。"
+    ],
+    "meaning": "漏れる（もれる）: rò rỉ, chảy ra ngoài.",
+    "explanation": "漏れる là nước, khí rò rỉ qua khe hở hay lỗ thủng. Câu 1 dùng あふれて, câu 2 dùng 出て, câu 4 dùng こぼれて.",
+    "level": "N2"
+  },
+  {
+    "id": "u084",
+    "sentence": "[傾向]",
+    "word": "傾向",
+    "answer": "最近では、家族がばらばらに食事をする傾向がある。",
+    "choices": [
+      "ファッション誌によると、今年は黄色が傾向するそうだ。",
+      "最近では、家族がばらばらに食事をする傾向がある。",
+      "姉は日本文学の研究に傾向している。",
+      "この坂は傾向がきつくて、自転車だとつらい。"
+    ],
+    "meaning": "傾向（けいこう）: khuynh hướng, xu hướng.",
+    "explanation": "傾向 là xu hướng diễn biến của xã hội/hiện tượng. Câu 1 dùng 流行する, câu 3 dùng 傾倒している, câu 4 dùng 傾斜.",
+    "level": "N2"
+  },
+  {
+    "id": "u085",
+    "sentence": "[さっさと]",
+    "word": "さっさと",
+    "answer": "いつまでもテレビを見てないで、さっさと宿題をしなさい。",
+    "choices": [
+      "いつまでもテレビを見てないで、さっさと宿題をしなさい。",
+      "雷が鳴り出したと思ったら、さっさと雨が降り出した。",
+      "さっさと着くので、もう少しそこで待っていてください。",
+      "買ってまだ一週間なのに、さっさと壊れた。"
+    ],
+    "meaning": "さっさと: nhanh chóng, khẩn trương.",
+    "explanation": "さっさと thúc giục làm nhanh không trì hoãn. Câu 2 dùng どっと/急に, câu 3 dùng すぐに, câu 4 dùng あっけなく/もう.",
+    "level": "N2"
+  },
+  {
+    "id": "u086",
+    "sentence": "[発達]",
+    "word": "発達",
+    "answer": "交通が発達したことにより、人々の生活が便利になった。",
+    "choices": [
+      "息子は中学生になって急に身長が発達し、すぐに私を追い越した。",
+      "交通が発達したことにより、人々の生活が便利になった。",
+      "この店は昨年度からサービスの発達に努め、客数を増やした。",
+      "庭に植えたトマトの発達がよく、おいしそうな赤い実がたくさんとれた。"
+    ],
+    "meaning": "発達（はったつ）: phát triển, mở rộng (giao thông, xã hội, thể chất, trí tuệ).",
+    "explanation": "発達 dùng cho sự phát triển của hệ thống giao thông, kỹ thuật, thể chất, trí tuệ. Câu 1 dùng 伸びて, câu 3 dùng 向上, câu 4 dùng 生育.",
+    "level": "N2"
+  },
+  {
+    "id": "u087",
+    "sentence": "[きっかけ]",
+    "word": "きっかけ",
+    "answer": "今回の事件をきっかけに、市民の防犯に対する意識が高まった。",
+    "choices": [
+      "今回は都合が悪いのですが、次のきっかけにはぜひ出席したいと思います。",
+      "大学では言語学を専攻し、漢字のきっかけについて研究している。",
+      "今回の事件をきっかけに、市民の防犯に対する意識が高まった。",
+      "この事業に反対するきっかけは、環境への悪影響が予想されるからだ。"
+    ],
+    "meaning": "きっかけ: cớ, động lực, khởi đầu, nhân dịp.",
+    "explanation": "きっかけ chỉ cớ hoặc sự kiện khởi đầu dẫn đến sự thay đổi. Câu 1 dùng 機会, câu 2 dùng 成り立ち, câu 4 dùng 理由.",
+    "level": "N2"
+  },
+  {
+    "id": "u088",
+    "sentence": "[引退]",
+    "word": "引退",
+    "answer": "鈴木選手は去年引退し、家族で海外に移住したそうだ。",
+    "choices": [
+      "ひどい風邪を引いてしまい、明日のスピーチ大会は引退するしかない。",
+      "試験が近いのでアルバイトを引退し、勉強に専念することにした。",
+      "鈴木選手は去年引退し、家族で海外に移住したそうだ。",
+      "A社との面接に合格したが、引退して別の会社に入社した。"
+    ],
+    "meaning": "引退（いんたい）: giải nghệ, rút lui khỏi sự nghiệp/thể thao.",
+    "explanation": "引退 dùng khi giải nghệ, rút khỏi vị trí thi đấu hoặc chức vụ chính thức. Câu 1 dùng 辞退, câu 2 dùng 辞めて, câu 4 dùng 辞退して.",
+    "level": "N2"
+  },
+  {
+    "id": "u089",
+    "sentence": "[順調]",
+    "word": "順調",
+    "answer": "このパソコンは発売以来、順調に売り上げを伸ばし、人気商品になった。",
+    "choices": [
+      "佐藤先生はどんな質問に対しても順調に答えてくれる。",
+      "今日は朝からのどが痛くて、食べ物を順調に飲み込めない。",
+      "雨で道路が滑りやすくなっていたので、順調に転んでしまった。",
+      "このパソコンは発売以来、順調に売り上げを伸ばし、人気商品になった。"
+    ],
+    "meaning": "順調（じゅんちょう）: thuận lợi, trôi chảy.",
+    "explanation": "順調 chỉ sự tiến triển thuận lợi không gặp trở ngại. Câu 1 dùng 丁寧に, câu 2 dùng スムーズに, câu 3 dùng 見事に.",
+    "level": "N2"
+  },
+  {
+    "id": "u090",
+    "sentence": "[生じる]",
+    "word": "生じる",
+    "answer": "海外の生活では、習慣の違いから誤解が生じることがある。",
+    "choices": [
+      "海外の生活では、習慣の違いから誤解が生じることがある。",
+      "この果物は温暖な気候の地域を中心に生じている。",
+      "新しい技術が生じたおかげで、生産量が大幅に増加した。",
+      "この大学からは有名な研究者が多く生じている。"
+    ],
+    "meaning": "生じる（しょうじる）: phát sinh, nảy sinh (vấn đề, hiểu lầm, kết quả).",
+    "explanation": "生じる dùng cho sự nảy sinh, phát sinh vấn đề, mâu thuẫn, lỗi sai. Câu 2 dùng 栽培されている, câu 3 dùng 開発された, câu 4 dùng 輩出されている.",
+    "level": "N2"
+  },
+  {
+    "id": "u091",
+    "sentence": "[延長]",
+    "word": "延長",
+    "answer": "予定の時間内に結論が出ず、会議が 1 時間延長されることになった。",
+    "choices": [
+      "悪天候で列車が運転をやめたため、旅行の出発が三日後に延長された。",
+      "初めの設計では 2 階建てだったが、3 階建ての家に延長することにした。",
+      "予定の時間内に結論が出ず、会議が 1 時間延長されることになった。",
+      "電車の中で居眠りをして、降りる駅を一駅延長してしまった。"
+    ],
+    "meaning": "延長（えんちょう）: kéo dài (thời gian, quãng đường).",
+    "explanation": "延長 chỉ việc kéo dài thời gian cuộc họp, trận đấu hoặc tuyến đường. Câu 1 dùng 延期, câu 2 dùng 増築, câu 4 dùng 乗り過ごして.",
+    "level": "N2"
+  },
+  {
+    "id": "u092",
+    "sentence": "[さびる]",
+    "word": "さびる",
+    "answer": "この鉄の棒はずっと家の外に置いてあったので、さびて茶色くなっている。",
+    "choices": [
+      "暑いところに生ものをずっと置いておいたら、さびて臭くなった。",
+      "昨夜は雨が相当降ったらしく、普段はきれいな川の水がさびて濁っている。",
+      "鉢に植えた植物に水をやるのを忘れていたら、花がさびてしまった。",
+      "この鉄の棒はずっと家の外に置いてあったので、さびて茶色くなっている。"
+    ],
+    "meaning": "さびる（錆びる）: gỉ sét (kim loại).",
+    "explanation": "さびる tả kim loại bị gỉ sét. Câu 1 dùng 腐って, câu 2 dùng 泥で, câu 3 dùng 枯れて.",
+    "level": "N2"
+  },
+  {
+    "id": "u093",
+    "sentence": "[目上]",
+    "word": "目上",
+    "answer": "勉強会に参加した社員がすべて目上だったので、新人の私はとても緊張した。",
+    "choices": [
+      "勉強会に参加した社員がすべて目上だったので、新人の私はとても緊張した。",
+      "この店で一番値段が高く目上の商品は、店の奥にある棚に並べられていた。",
+      "高校時代、鈴木さんはとても優秀で、成績はいつも学年で目上だった。",
+      "あの若さで金賞を受賞した伊藤さんは、本当に目上の人だと思う。"
+    ],
+    "meaning": "目上（めうえ）: bề trên, cấp trên, người lớn tuổi hơn.",
+    "explanation": "目上 chỉ người có cấp bậc, tuổi tác hoặc vị thế cao hơn mình. Câu 2 dùng 高級な, câu 3 dùng 上位, câu 4 dùng 優秀な.",
+    "level": "N2"
+  },
+  {
+    "id": "u094",
+    "sentence": "[大げさ]",
+    "word": "大げさ",
+    "answer": "あの人は小さなことを大げさに言うので、そのまま信じないほうがいい。",
+    "choices": [
+      "息子の誕生日に料理を作りすぎてしまい、大げさに余ってしまった。",
+      "天気予報によると、明日は今日より大げさに気温が下がるらしい。",
+      "努力した結果、試験の成績が大げさに伸びて、先生に褒められた。",
+      "あの人は小さなことを大げさに言うので、そのまま信じないほうがいい。"
+    ],
+    "meaning": "大げさ（おおげさ）: khoa trương, phóng đại, làm quá lên.",
+    "explanation": "大げさ chỉ lời nói hoặc hành vi phóng đại, làm quá vấn đề. Câu 1 dùng 大幅に/大量に, câu 2 dùng かなり, câu 3 dùng 大幅に.",
+    "level": "N2"
+  },
+  {
+    "id": "u095",
+    "sentence": "[反省]",
+    "word": "反省",
+    "answer": "今回の企画では、私の準備不足で周りに迷惑をかけたことをとても反省しています。",
+    "choices": [
+      "発表の原稿を全部覚えたのに、緊張のせいでどんなに反省しても全く思い出せない。",
+      "今回の企画では、私の準備不足で周りに迷惑をかけたことをとても反省しています。",
+      "祖父はいつも若いころの思い出を懐かしそうに反省して私に話してくれる。",
+      "この機械の使い方を忘れないように、もう一度最初から反省しておきましょう。"
+    ],
+    "meaning": "反省（はんせい）: kiểm điểm, nhìn nhận lại lỗi sai.",
+    "explanation": "反省 là tự kiểm điểm, nhận thức về lỗi sai của bản thân. Câu 1 dùng 思い出そうとしても, câu 3 dùng 振り返って, câu 4 dùng 確認.",
+    "level": "N2"
+  },
+  {
+    "id": "u096",
+    "sentence": "[破れる]",
+    "word": "破れる",
+    "answer": "大きな箱を無理に紙袋に入れたら、袋の端が破れてしまった。",
+    "choices": [
+      "強い風が吹いたせいで、庭の木の枝が何本も破れてしまった。",
+      "大きな箱を無理に紙袋に入れたら、袋の端が破れてしまった。",
+      "落としても破れないように、プラスチックのコップを買った。",
+      "生ものは破れないように冷蔵庫に入れて保存してください。"
+    ],
+    "meaning": "破れる（やぶれる）: rách, rách rời (giấy, túi, quần áo).",
+    "explanation": "破れる dùng cho giấy, túi, vải bị rách. Câu 1 dùng 折れて, câu 3 dùng 割れないように, câu 4 dùng 傷まないように.",
+    "level": "N2"
+  },
+  {
+    "id": "u097",
+    "sentence": "[限定]",
+    "word": "限定",
+    "answer": "このパンは販売数を 20 個に限定しているので、すぐに売り切れてしまう。",
+    "choices": [
+      "乗車したら、切符にある座席番号を確認して、限定された席に座ってください。",
+      "今日は少し寒くなったので、エアコンの温度を高めに限定した。",
+      "まだ計画が不十分なのに、実行できると限定するのは早すぎると思う。",
+      "このパンは販売数を 20 個に限定しているので、すぐに売り切れてしまう。"
+    ],
+    "meaning": "限定（げんてい）: giới hạn, giới hạm số lượng/đối tượng.",
+    "explanation": "限定 chỉ việc giới hạn phạm vi, số lượng, đối tượng. Câu 1 dùng 指定された, câu 2 dùng 設定した, câu 3 dùng 断定する.",
+    "level": "N2"
+  },
+  {
+    "id": "u098",
+    "sentence": "[いっせいに]",
+    "word": "いっせいに",
+    "answer": "演奏が終わると、観客は舞台に向かっていっせいに大きな拍手を送った。",
+    "choices": [
+      "卒業の日に撮った記念写真には、同じクラスの生徒がいっせいに写っている。",
+      "公園で小さな子どもたちがいっせいに遊んでいる様子は、とてもかわいらしい。",
+      "明日は家族でいっせいにめいの結婚式に招待されているので、とても楽しみだ。",
+      "演奏が終わると、観客は舞台に向かっていっせいに大きな拍手を送った。"
+    ],
+    "meaning": "いっせいに（一斉に）: đồng loạt, cùng một lúc.",
+    "explanation": "いっせいに tả nhiều người cùng thực hiện một hành動 tại một thời điểm. Câu 1 dùng 全員, câu 2 dùng 楽しそうに, câu 3 dùng 全員で.",
+    "level": "N2"
+  },
+  {
+    "id": "u099",
+    "sentence": "[散らかす]",
+    "word": "散らかす",
+    "answer": "部屋を掃除しても、子どもがすぐに本やおもちゃを散らかしてしまう。",
+    "choices": [
+      "部屋を掃除しても、子どもがすぐに本やおもちゃを散らかしてしまう。",
+      "このビデオは長いので、一度に見ないで何回かに散らかして見よう。",
+      "山下さんはいつも、香水のにおいを散らかしながら歩いている。",
+      "講演が始まる前に、来場者一人一人に資料を散らかしてください。"
+    ],
+    "meaning": "散らかす（ちらかす）: làm bừa bãi, vứt lung tung.",
+    "explanation": "散らかす là bày bừa, làm mất trật tự đồ đạc. Câu 2 dùng 分けて, câu 3 dùng 漂わせながら, câu 4 dùng 配って.",
+    "level": "N2"
+  },
+  {
+    "id": "u100",
+    "sentence": "[論争]",
+    "word": "論争",
+    "answer": "二人はその問題について論争を繰り返しているが、いまだに決着がつかない。",
+    "choices": [
+      "全員の面接が終わったので、試験官は論争のため別室に移った。",
+      "前田さんは私が言うことにいちいち論争するので、やりにくくて困る。",
+      "二人はその問題について論争を繰り返しているが、いまだに決着がつかない。",
+      "私が両親に論争すると、二人は静かに聞き、的確にアドバイスしてくれた。"
+    ],
+    "meaning": "論争（ろんそう）: tranh luận, tranh cãi gay gắt.",
+    "explanation": "論争 chỉ cuộc tranh luận lý lẽ gay gắt giữa hai bên. Câu 1 dùng 協議, câu 2 dùng 反論する, câu 4 dùng 相談すると.",
+    "level": "N2"
+  },
+  {
+    "id": "u101",
+    "sentence": "[役目]",
+    "word": "役目",
+    "answer": "部下に仕事を教えるのは課長の役目の一つだ。",
+    "choices": [
+      "次の公演で、私は医者の役目を演じる。",
+      "健康のために、毎朝散歩することが役目になっている。",
+      "池田さんが今日の掃除の役目だ。",
+      "部下に仕事を教えるのは課長の役目の一つだ。"
+    ],
+    "meaning": "役目（やくめ）: nhiệm vụ, trách nhiệm, vai trò.",
+    "explanation": "役目 chỉ trách nhiệm, nhiệm vụ gắn liền với chức vụ hay công việc. Câu 1 dùng 役, câu 2 dùng 習慣, câu 3 dùng 担当.",
+    "level": "N2"
+  },
+  {
+    "id": "u102",
+    "sentence": "[最寄り]",
+    "word": "最寄り",
+    "answer": "最寄りの店までは、歩いて 30 分だ。",
+    "choices": [
+      "最寄りの店までは、歩いて 30 分だ。",
+      "彼女は私の最寄りの友達だ。",
+      "最寄りの試験は来月にある。",
+      "電車の中で最寄りの人に足を踏まれた。"
+    ],
+    "meaning": "最寄り（もより）: nơi gần nhất, địa điểm lân cận.",
+    "explanation": "最寄り chỉ nhà ga, cửa hàng... ở vị trí gần nhất xung quanh. Câu 2 dùng 一番親しい, câu 3 dùng 直近の, câu 4 dùng 隣の.",
+    "level": "N2"
+  },
+  {
+    "id": "u103",
+    "sentence": "[解約]",
+    "word": "解約",
+    "answer": "１年の留学を終えて国へ帰るので、銀行の口座を解約した。",
+    "choices": [
+      "大臣は、内容に誤りがあったと述べ、昨日の発言を解約した。",
+      "１年の留学を終えて国へ帰るので、銀行の口座を解約した。",
+      "やむをえない理由により、A 社との面会を解約した。",
+      "あの会社は今年は赤字を解約することができた。"
+    ],
+    "meaning": "解約（かいやく）: hủy hợp đồng, hủy tài khoản.",
+    "explanation": "解約 chỉ việc chấm dứt hợp đồng dịch vụ, bảo hiểm, tài khoản ngân hàng. Câu 1 dùng 撤回した, câu 3 dùng キャンセルした, câu 4 dùng 解消する.",
+    "level": "N2"
+  },
+  {
+    "id": "u104",
+    "sentence": "[演説]",
+    "word": "演説",
+    "answer": "首相は昨日の国会での演説で、経済対策を最優先するとの決意を述べた。",
+    "choices": [
+      "卒業生代表の森さんは卒業式での演説で、先生方への感謝の気持ちを述べた。",
+      "首相は昨日の国会での演説で、経済対策を最優先するとの決意を述べた。",
+      "決勝進出が決まった中島選手は試合後の演説で、必ず優勝すると述べた。",
+      "A 社の社長は記者会見の演説で、今後の事業方針について述べた。"
+    ],
+    "meaning": "演説（えんぜつ）: diễn thuyết, phát biểu trước công chúng (chính trị, sự kiện quan trọng).",
+    "explanation": "演説 dùng cho bài phát biểu chính trị, lập trường công khai trước đám đông. Câu 1 dùng 答辞/スピーチ, câu 3 dùng インタビュー, câu 4 dùng 発表.",
+    "level": "N2"
+  },
+  {
+    "id": "u105",
+    "sentence": "[きっぱり]",
+    "word": "きっぱり",
+    "answer": "鈴木さんは石川さんからのデートの誘いをきっぱり断った。",
+    "choices": [
+      "めがねをかけると、遠くの物もきっぱり見えるようになる。",
+      "このラーメンはもう何度も食べたので、きっぱり飽きてしまった。",
+      "鈴木さんは石川さんからのデートの誘いをきっぱり断った。",
+      "昔のことはなかなかきっぱり思い出せない。"
+    ],
+    "meaning": "きっぱり: dứt khoát, thẳng thừng.",
+    "explanation": "きっぱり chỉ thái độ dứt khoát, rõ ràng (nhất là khi từ chối). Câu 1 dùng はっきり, câu 2 dùng すっかり, câu 4 dùng はっきり.",
+    "level": "N2"
+  },
+  {
+    "id": "u106",
+    "sentence": "[廃止]",
+    "word": "廃止",
+    "answer": "あの銀行は ATM手数料無料のサービスを廃止するそうだ。",
+    "choices": [
+      "予想以上のコストがかかることがわかり、新製品の開発を廃止した。",
+      "石川さんは毎日ジョッギングすることを廃止したらしい。",
+      "ほかの人に話すことで、不安を廃止できることもある。",
+      "あの銀行は ATM手数料無料のサービスを廃止するそうだ。"
+    ],
+    "meaning": "廃止（はいし）: bãi bỏ, bãi miễn, hủy bỏ (chế độ, dịch vụ, hệ thống).",
+    "explanation": "廃止 chỉ việc bãi bỏ một quy định, dịch vụ hay chế độ đã áp dụng. Câu 1 dùng 中止した, câu 2 dùng やめた, câu 3 dùng 解消.",
+    "level": "N2"
+  },
+  {
+    "id": "u107",
+    "sentence": "[初歩]",
+    "word": "初歩",
+    "answer": "３年前に英語を初歩から始め、今では自由に話せるようになった。",
+    "choices": [
+      "３年前に英語を初歩から始め、今では自由に話せるようになった。",
+      "バスケットボールの試合で、初歩から大量の点を取られた。",
+      "今日は暑さはまだほんの初歩で、これからますます暑くなっていくだろう。",
+      "兄とのけんかの初歩は、くだらないことだった。"
+    ],
+    "meaning": "初歩（しょほ）: vỡ lòng, sơ cấp, kiến thức cơ bản.",
+    "explanation": "初歩 chỉ mức độ vỡ lòng, cơ bản nhất khi mới học một môn gì. Câu 2 dùng 序盤, câu 3 dùng 序の口, câu 4 dùng きっかけ.",
+    "level": "N2"
+  },
+  {
+    "id": "u108",
+    "sentence": "[だらしない]",
+    "word": "だらしない",
+    "answer": "先月までは、仕事もしないで遊んでばかりのだらしない生活をしていた。",
+    "choices": [
+      "昨日から作ったスープは塩がたりなかったのか、とてもだらしない味だった。",
+      "この公園は管理する人がいないので、あちこち草だらしなく生えている。",
+      "知識がだらしなかったせいで、間違ったことを人に教えてしまった。",
+      "先月までは、仕事もしないで遊んでばかりのだらしない生活をしていた。"
+    ],
+    "meaning": "だらしない: lôi nhôi, buông thả, không cẩn thận, cẩu thả.",
+    "explanation": "だらしない tả lối sống buông thả, tác phong luộm thuộm. Câu 1 dùng 物足りない, câu 2 dùng 茂っている, câu 3 dùng 不十分だった.",
+    "level": "N2"
+  },
+  {
+    "id": "u109",
+    "sentence": "[即座に]",
+    "word": "即座に",
+    "answer": "先生は学生からの質問に即座に答えた。",
+    "choices": [
+      "駅に着くと即座に友人たちも来た。",
+      "さっきまで晴れていたのに、即座に雲が出てきた。",
+      "先生は学生からの質問に即座に答えた。",
+      "一月になってから即座に仕事が忙しくなった。"
+    ],
+    "meaning": "即座に（そくざに）: ngay lập tức, ngay tại chỗ.",
+    "explanation": "即座に chỉ việc phản ứng hoặc đưa ra câu trả lời ngay tức khắc tại chỗ. Câu 1 dùng すぐに, câu 2 dùng 急に, câu 4 dùng 急に.",
+    "level": "N2"
+  },
+  {
+    "id": "u110",
+    "sentence": "[尽きる]",
+    "word": "尽きる",
+    "answer": "森さんと会うのは久しぶりだったので、いくら話しても話が尽きなかった。",
+    "choices": [
+      "あしたで定期券の期限が尽きるので、新しいのを買いに行った。",
+      "森さんと会うのは久しぶりだったので、いくら話しても話が尽きなかった。",
+      "木村選手は、けがのせいで連続出場の記録が尽きてしまった。",
+      "この作家の絵は好きなので、展示会が尽きないうちにもう一度見に来たい。"
+    ],
+    "meaning": "尽きる（つきる）: cạn kiệt, hết, chấm dứt.",
+    "explanation": "尽きる dùng khi cạn kiệt tài nguyên, hết câu chuyện, kiệt sức. Câu 1 dùng 切れる, câu 3 dùng 途絶えて, câu 4 dùng 終わらない.",
+    "level": "N2"
+  },
+  {
+    "id": "u111",
+    "sentence": "[初期]",
+    "word": "初期",
+    "answer": "この建物は有名な建築物で、明治時代の初期に建てられました。",
+    "choices": [
+      "曲の初期の部分を聞いただけ、題名が何かわかりました。",
+      "この建物は有名な建築物で、明治時代の初期に建てられました。",
+      "池田選手は、試合の初期では負けていたが、最後には勝つことができた。",
+      "今日は朝から雲に覆われ、初期は雨だったが、途中から雪に変わった。"
+    ],
+    "meaning": "初期（しょき）: thời kỳ đầu, giai đoạn đầu (của một thời đại, giai đoạn lịch sử, căn bệnh...).",
+    "explanation": "初期 chỉ giai đoạn đầu của một thời đại, sự kiện lịch sử hoặc giai đoạn phát triển. Câu 1 dùng 初め, câu 3 dùng 序盤/前半, câu 4 dùng 初め/はじめは.",
+    "level": "N2"
+  },
+  {
+    "id": "u112",
+    "sentence": "[打ち明ける]",
+    "word": "打ち明ける",
+    "answer": "ずっと秘密にしていたことを友達に打ち明けた。",
+    "choices": [
+      "仕事でわからないことがあれば、彼が何でも打ち明けてくれます。",
+      "谷口さんが戻ってきたら、伝言を打ち明けておいてもらえますか。",
+      "大事な情報はすぐに上司に打ち明けましょう。",
+      "ずっと秘密にしていたことを友達に打ち明けた。"
+    ],
+    "meaning": "打ち明ける（うちあける）: tâm sự, thổ lộ, bộc bạch (bí mật, nỗi lòng).",
+    "explanation": "打ち明ける là thổ lộ, giải bày bí mật hay tâm sự chất chứa trong lòng. Câu 1 dùng 教えてくれます, câu 2 dùng 伝えて, câu 3 dùng 報告しましょう/共有しましょう.",
+    "level": "N2"
+  },
+  {
+    "id": "u113",
+    "sentence": "[欠陥]",
+    "word": "欠陥",
+    "answer": "先月発表された車のブレーキに欠陥が見つかり、販売が中止された。",
+    "choices": [
+      "あの人の欠陥は、自分に都合の悪いことがあるとうそをつくことだ。",
+      "眼鏡のレンズを硬い布でふいたら、欠陥がついてしまった。",
+      "先月発表された車のブレーキに欠陥が見つかり、販売が中止された。",
+      "このサービスを利用することの欠陥は費用が非常にかかることだ。"
+    ],
+    "meaning": "欠陥（けっかん）: khuyết tật, lỗi, sai sót kỹ thuật (sản phẩm, hệ thống, thiết kế).",
+    "explanation": "欠陥 chỉ lỗi, hỏng hóc hay nhược điểm mang tính kỹ thuật của sản phẩm, thiết bị, hệ thống. Câu 1 dùng 欠点/短所, câu 2 dùng 傷, câu 4 dùng デメリット/難点.",
+    "level": "N2"
+  },
+  {
+    "id": "u114",
+    "sentence": "[引退]",
+    "word": "引退",
+    "answer": "これまで多くの名作を残した映画監督が、今回限りで引退することを発表した。",
+    "choices": [
+      "山本さんは去年入学したばかりの大学を引退し、別の大学を受験するらしい。",
+      "これまで多くの名作を残した映画監督が、今回限りで引退することを発表した。",
+      "この書店はもうすぐ商店街から引退し、駅前のビルの中で店を始めるらしい。",
+      "中村選手は前大会でのけがが回復せず、次の試合への出場を引退した。"
+    ],
+    "meaning": "引退（いんたい）: giải nghệ, rút lui khỏi sự nghiệp/sân đấu/vị trí chính thức.",
+    "explanation": "引退 chỉ việc chấm dứt sự nghiệp hoặc rút khỏi công việc/thể thao đỉnh cao. Câu 1 dùng 中退し, câu 3 dùng 撤退し/移転し, câu 4 dùng 辞退した.",
+    "level": "N2"
+  },
+  {
+    "id": "u115",
+    "sentence": "[ぎっしり]",
+    "word": "ぎっしり",
+    "answer": "大きな箱に本がぎっしり詰まっている。",
+    "choices": [
+      "大きな箱に本がぎっしり詰まっている。",
+      "ジュースがコップにぎっしり入っている。",
+      "少し太ったせいで、ズボンがぎっしりしている。",
+      "朝の電車はいつも人でぎっしりしている。"
+    ],
+    "meaning": "ぎっしり: chật nén, nhồi nhét đầy ắp (không còn khoảng trống).",
+    "explanation": "ぎっしり đi với 詰まっている/入っている chỉ việc xếp nén đầy ắp trong không gian chứa. Câu 2 dùng なみなみ, câu 3 dùng きつくなって, câu 4 dùng 混雑している/いっぱいだ.",
+    "level": "N2"
+  }
+]

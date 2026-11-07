@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <section className="home">
       <h1>NIHONGO <span>N2</span></h1>
-      <p className="sub">Luyện thi JLPT N2 theo từng mondai - chọn một trò chơi để bắt đầu</p>
+      <p className="sub">Tổng hợp toàn bộ đề thi JLPT N2 từ 2010-2026</p>
       <div className="random">
         <button className="btn primary big" onClick={playRandom}>🎲 Chơi ngẫu nhiên</button>
         <Link className="btn big exam-link" to="/thi-thu">📝 Thi thử như đề thật</Link>
@@ -21,7 +21,7 @@ export default function Home() {
             {g.mondai && <small>Mondai {g.mondai}</small>}
             <b>{g.title}</b>
             <span>{g.desc}</span>
-            <em>{g.questions.length} {g.unit ?? "câu"} trong database</em>
+            <em>{g.questions.length} {g.unit ?? "câu"}</em>
           </Link>
         ))}
       </div>

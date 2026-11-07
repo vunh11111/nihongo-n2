@@ -102,7 +102,12 @@ export default function ExamQuestion({ item, items, answer, answers, onAnswer, r
           {q.after}
         </span>
       )}
-      {q.word && <span lang="ja">{q.word}{q.reading ? `（${q.reading}）` : ""}</span>}
+      {(q.word || q.han_viet) && (
+        <span>
+          {q.word && <span lang="ja">{q.word}{q.reading ? `（${q.reading}）` : ""}</span>}
+          {q.han_viet && <span className="hanviet" lang="vi">{q.han_viet}</span>}
+        </span>
+      )}
       {q.grammar && <span lang="ja" className="grammar">{q.grammar}</span>}
       {q.meaning && <span>{q.meaning}</span>}
       {q.explanation && <span className="explain">{q.explanation}</span>}

@@ -9,7 +9,7 @@ const TYPE_LABEL = { prefix: "Tiền tố 接頭語", suffix: "Hậu tố 接尾
 export default function QuizGame({ game }) {
   const navigate = useNavigate();
   const [round, setRound] = useState(0);
-  const deck = useMemo(() => buildDeck(game.questions, game.roundSize), [game, round]);
+  const deck = useMemo(() => buildDeck(game.questions, game.roundSize, game.keepOrder), [game, round]);
   const [index, setIndex] = useState(0);
   const [picked, setPicked] = useState(null);
   const [score, setScore] = useState(0);
@@ -119,7 +119,12 @@ export default function QuizGame({ game }) {
         {answered && (
           <>
             <b className={correct ? "ok" : "bad"}>{correct ? "Chính xác!" : `Chưa đúng. Đáp án: ${q.answer}`}</b>
-            {q.word && <span lang="ja">{q.word}{q.reading ? `（${q.reading}）` : ""}</span>}
+            {(q.word || q.han_viet) && (
+              <span>
+                {q.word && <span lang="ja">{q.word}{q.reading ? `（${q.reading}）` : ""}</span>}
+                {q.han_viet && <span className="hanviet" lang="vi">{q.han_viet}</span>}
+              </span>
+            )}
             {q.grammar && <span lang="ja" className="grammar">{q.grammar}</span>}
             <span>{q.meaning}</span>
             {q.explanation && <span className="explain">{q.explanation}</span>}

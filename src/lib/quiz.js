@@ -18,11 +18,12 @@ export function parseSentence(sentence) {
   return m ? { before: m[1], target: m[2], after: m[3] } : { before: sentence, target: "", after: "" };
 }
 
-// Tạo bộ đề cho 1 lượt chơi: xáo thứ tự câu, lấy tối đa `size` câu, xáo thứ tự 4 đáp án
-export function buildDeck(questions, size = questions.length) {
+// Tạo bộ đề cho 1 lượt chơi: xáo thứ tự câu, lấy tối đa `size` câu.
+// Thứ tự 4 đáp án: mặc định xáo ngẫu nhiên; nếu keepOrder = true thì giữ đúng thứ tự trong `choices`
+export function buildDeck(questions, size = questions.length, keepOrder = false) {
   return shuffle(questions)
     .slice(0, size)
-    .map((q) => ({ ...q, options: shuffle(q.choices) }));
+    .map((q) => ({ ...q, options: keepOrder ? [...q.choices] : shuffle(q.choices) }));
 }
 
 // Xáo 4 mảnh câu của trò Hái sao, đảm bảo thứ tự hiển thị khác thứ tự đúng

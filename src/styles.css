@@ -171,3 +171,7 @@ mark { background: rgba(244, 180, 0, .18); color: #fff; border-bottom: 3px solid
 .check { font-size: 14px; display: flex; align-items: center; gap: 6px; cursor: pointer; }
 .review-item .meta .ok { color: #6ee7a0; font-weight: 700; }
 .review-item .meta .bad { color: #ff8a80; font-weight: 700; }
+
+
+/* ===== Hán Việt (hiện cạnh từ vựng ở phần phản hồi) ===== */
+.hanviet { display: inline-block; margin-left: 10px; padding: 1px 10px; border-radius: 20px; background: rgba(244, 180, 0, .18); color: var(--gold); font-size: 13px; font-weight: 700; letter-spacing: .04em; vertical-align: middle; }
