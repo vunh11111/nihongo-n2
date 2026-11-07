@@ -2,7 +2,7 @@
   {
     "id": "g001",
     "sentence": "このレストランは、客の予算[ ]いくつかのコースを用意してくれる。",
-    "answer": "に応じ゙て",
+    "answer": "に応じて",
     "choices": ["に比べて", "に先立って", "に応じて", "に向けて"],
     "grammar": "～に応じて",
     "meaning": "Nhà hàng này chuẩn bị sẵn một số thực đơn tùy theo ngân sách của khách hàng.",
