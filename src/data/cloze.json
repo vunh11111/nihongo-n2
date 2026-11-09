@@ -1,2 +1,1479 @@
 [ { "id": "z001", "passages": [ { "text": "テレビや雑誌では、よく「血液型性格判断」が取り上げられます。これは、血液型によって性格が決まっている、言い換えれば、血液型がわかれば大体の性格もわかるという [1] です。\nその血液型性格判断によると、人の性格は、A型、B型、O型、AB型の血液型ごとに決まっているのだそうです。しかし、この世界には何十億もの人が [2]。\n血液型は親から子への遺伝によって、4種類のうち、どの型になるかが決まります。つまり、[3] は生まれてから死ぬまで、変わることはほぼありません。一方、（性格）はどうでしょうか。（性格）に関して言えば、子どものときは我慢が苦手だった子が、成長とともに我慢できるようになるといったことも少なくないでしょう。\nまた、ある調査によると、自分の血液型がどんな性格かということを聞いて、知らないうちに自分の性格がその性格に近づいてしまっているということもあるそうです。「私はA型だから、こういう性格なんだ」という思い込みで、性格が作られている可能性も否定できないというのです。[4]、性格と血液型に関係はあると言えるかもしれませんが、それは血液型で性格が決まるということではありませんでした。\nこう考えると、やはり、血液型によって性格がたった4種類に分けられるとは [5]。" } ], "translation": "Trên truyền hình và tạp chí, 'bói tính cách qua nhóm máu' rất hay được đề cập. Điều này có nghĩa là tính cách được quyết định bởi nhóm máu, hay nói cách khác, nếu biết nhóm máu thì sẽ biết được đại thể tính cách. Theo kiểu bói nhóm máu này, tính cách con người được cho là quyết định theo từng nhóm máu A, B, O, AB. Tuy nhiên, thế giới này có hàng tỷ người, liệu có thể phân loại tính cách con người chỉ vào 4 nhóm hay không? Nhóm máu do di truyền từ cha mẹ sang con mà quyết định. Tức là, nhóm máu hầu như không thay đổi từ khi sinh ra cho đến khi chết. Mặt khác, tính cách thì sao? Nói về tính cách, không ít trường hợp khi còn nhỏ không biết chịu đựng nhưng khi lớn lên lại có thể chịu đựng được. Ngoài ra, theo một khảo sát, khi nghe nói nhóm máu của mình có tính cách thế nào, con người ta vô tình dần trở nên giống tính cách đó. Không thể phủ nhận khả năng tính cách được tạo ra do định kiến 'vì tôi là nhóm máu A nên có tính cách này'. Nếu điều đó là sự thật, có thể nói giữa tính cách và nhóm máu có mối liên hệ, nhưng điều đó không có nghĩa là nhóm máu quyết định tính cách. Suy nghĩ như vậy, quả nhiên không thể nói rằng tính cách con người chỉ được chia thành 4 loại theo nhóm máu.", "questions": [ { "id": "z001-1", "choices": [ "点", "もの", "場合", "結果" ], "answer": "もの", "explanation": "Dùng というもの để định nghĩa hoặc giải thích bản chất là cái hay điều như vậy." }, { "id": "z001-2", "choices": [ "いるわけですから／できたのではないかと考えます", "いるわけですから／できるのかと疑問に思います", "いるからこそ／疑問に思われなかったのです", "いるからこそ／できなかったのだと考えられます" ], "answer": "いるわけですから／できるのかと疑問に思います", "explanation": "Vế đầu nêu thực tế vì có hàng tỷ người (いるわけですから) và vế sau đặt câu hỏi nghi vấn liệu có thể phân loại được không (できるのかと疑問に思います)." }, { "id": "z001-3", "choices": [ "a 性格／b 血液型／c 血液型", "a 性格／b 血液型／c 性格", "a 血液型／b 性格／c 性格", "a 血液型／b 性格／c 血液型" ], "answer": "a 血液型／b 性格／c 性格", "explanation": "Vế a chỉ cái không đổi từ sinh đến chết là nhóm máu (血液型), vế b và c đặt vấn đề đối lập là tính cách (性格)." }, { "id": "z001-4", "choices": [ "それが本当ならば", "それと比べても", "そうあるべきなので", "それが前提でなかったら" ], "answer": "それが本当ならば", "explanation": "Giả định Nếu điều đó là sự thật (それが本当ならば) nối tiếp giả thuyết tính cách bị ảnh hưởng bởi tâm lý ở câu trước." }, { "id": "z001-5", "choices": [ "言われてこなかったのです", "言われていないでしょう", "言えないことはないのです", "言えないのではないでしょうか" ], "answer": "言えないのではないでしょうか", "explanation": "Diễn đạt quan điểm kết luận mang tính phủ định nhẹ nhàng hoặc nghi vấn phản biện chẳng phải là không thể nói như vậy sao (言えないのではないでしょうか)." } ], "level": "N2" }, { "id": "z002", "passages": [ { "text": "春が訪れ、過ごしやすい季節になりました。しかし最近、[1] 花粉症に悩まされる人が増えています。春は花粉症の季節でもあるのです。\n花粉症とは何でしょうか。花粉症は花粉に対するアレルギー反応で、アレルギー体質の人は花粉症になりやすいといわれています。花粉は体にとって有害なものではありません。\nしかし、花粉症になりやすい人の体に花粉が入ると、体は花粉を侵入者だと思って、花粉に対してガードマンのような働きをする「抗体」を作り出します。この「抗体」が蓄積されて一定の水準になると、花粉を追い出すためにくしゃみや鼻水などのアレルギー症状が現れます。そのくしゃみや鼻水によって花粉を追い出そうとするのです。[2]、花粉に対して体が過剰に反応して症状が出るのが花粉症というわけです。\n花粉が多く飛ぶ季節を快適に過ごすために、花粉症の人は規則正しい生活をして、体調管理に努め、とにかく花粉に接しないようにしなければなりません。外出時には、マスクやメガネで花粉が体に入るのを防ぎ、帰宅時には服に付いた花粉を落としてから、家に [3]。\n実は、今花粉症ではない人も、今後症状が現れる可能性があります。花粉症にならないようにするためには、花粉症の人と同じようになるべく花粉に接しないことが重要です。生活空間に花粉を持ち込まないようにしてください。いつ誰が花粉症になっても不思議ではありません。誰も自分には関係がないとは言えないもの、それが [4] です。\n花粉症の人もそうではない人も、春は過ごし方に少し [5]。" } ], "translation": "Mùa xuân đã đến, thời tiết trở nên dễ chịu. Tuy nhiên gần đây, vào mùa này số người bị dị ứng phấn hoa hành hạ đang tăng lên. Mùa xuân cũng chính là mùa dị ứng phấn hoa. Dị ứng phấn hoa là gì? Đó là phản ứng dị ứng đối với phấn hoa, những người có cơ địa dị ứng được cho là dễ bị dị ứng phấn hoa. Phấn hoa vốn không phải là chất有害 đối với cơ thể. Tuy nhiên, khi phấn hoa đi vào cơ thể người dễ bị dị ứng, cơ thể xem phấn hoa là kẻ xâm nhập và tạo ra 'kháng thể' đóng vai trò như bảo vệ đối với phấn hoa. Khi '抗体' này tích tụ đến một mức nhất định, các triệu chứng dị ứng như hắt hơi, chảy mũi xuất hiện để tống phấn hoa ra ngoài. Cơ thể cố gắng đẩy phấn hoa ra bằng phản ứng hắt hơi, chảy mũi đó. Như vậy, dị ứng phấn hoa chính là việc cơ thể phản ứng quá mức với phấn hoa dẫn đến phát bệnh. Để trải qua mùa phấn hoa bay một cách thoải mái, người bị dị ứng cần sinh hoạt điều độ, chú ý quản lý sức khỏe, và bằng mọi giá không tiếp xúc với phấn hoa. Khi ra ngoài, dùng khẩu trang, kính để ngăn phấn hoa vào cơ thể, khi về nhà cần phủi sạch phấn hoa trên quần áo rồi mới vào nhà. Thực ra, những người hiện chưa bị dị ứng phấn hoa cũng có khả năng xuất hiện triệu chứng trong tương lai. Để không bị dị ứng phấn hoa, việc hạn chế tiếp xúc với phấn hoa nhiều nhất có thể giống như người đã bị dị ứng là rất quan trọng. Hãy tránh mang phấn hoa vào không gian sống. Bất kỳ ai, bất kỳ lúc nào bị dị ứng phấn hoa cũng không có gì lạ. Thứ mà không ai có thể nói là không liên quan đến mình, đó chính là dị ứng phấn hoa. Dù là người bị dị ứng phấn hoa hay không, vào mùa xuân hãy thử chú意 một chút trong cách sinh hoạt.", "questions": [ { "id": "z002-1", "choices": [ "そういう", "それの", "この季節に", "この夏に" ], "answer": "この季節に", "explanation": "Chỉ thời gian vào mùa này (この季節に) tương ứng với mùa xuân đang được nhắc đến." }, { "id": "z002-2", "choices": [ "このように", "いっぽうで", "ちなみに", "それどころか" ], "answer": "このように", "explanation": "Dùng このように (như vậy/bằng cách này) để tóm kết cơ chế dị ứng đã giải thích ở các câu trước." }, { "id": "z002-3", "choices": [ "入ってあげるのでしょう", "入れてあげましょう", "入れるのでしょう", "入りましょう" ], "answer": "入りましょう", "explanation": "Đưa ra lời khuyên hoặc kêu gọi hành động hãy đi vào nhà (入りましょう) sau khi đã phủi sạch phấn hoa." }, { "id": "z002-4", "choices": [ "規則", "有害", "花粉症", "抗体" ], "answer": "花粉症", "explanation": "Danh từ chủ đề của cả bài văn chính là bệnh dị ứng phấn hoa (花粉症)." }, { "id": "z002-5", "choices": [ "気をつけてみたらどうでしょうか", "気をつけた方がいいのでしょうか", "きをつけているそうです", "気をつければよかったです" ], "answer": "気をつけてみたらどうでしょうか", "explanation": "Mẫu đưa ra đề xuất hoặc gợi ý nhẹ nhàng cho người đọc thử chú意 xem sao (気をつけてみたらどうでしょうか)." } ], "level": "N2" }, { "id": "z003", "passages": [ { "text": "鉄道ファンとは、鉄道が好きで鉄道に関することを趣味にしている人たちのことだ。鉄道ファンは単に「鉄」と言われたりもする。日本では、これまでは「鉄」といえば男性だと思われていたが、近年は女性のファンが急増しているらしい。\nところで、彼ら鉄道ファンたちは [1] 趣味を楽しんでいるのだろうか。\n一言で鉄道ファンといってもその趣味の内容は多種多様だ。知識、電車に乗るのが好きな「鉄」は「乗り鉄」というように、それぞれその内容に対応した呼び名がある。\n「乗り鉄」[2]、写真を撮るのが好きな「撮り鉄」、車両や鉄道がある風景を描く「描き鉄」、鉄道の模型が好きな「模型鉄」などだ。\nある 40 代の「乗り鉄」の女性は鉄道の魅力を [3] 語る。「窓の外の風景をながめていると旅の気分が味わえるし、車と違って座っているだけで目的地に着けるのがいい」。\n「模型鉄」である 30 代の男性は、模型の魅力について「車両の形を見ているだけでうっとり。本物は買えないけど模型なら買えるし」と説明する。\nまた、最近急増している女性ファンには「ママ鉄」も多い。電車を見たがる子どもを連れて電車を見に行くうち、自分も鉄道ファンになってしまったという人たちだ。[4] の特徴は、他の「鉄」とは異なり、ホームではなく、電車が見えるところにある公園やレストランなど、子どもと一緒にゆっくり過ごせる場所で電車を見るという点である。\n鉄道ファンにはいろいろなタイプがあり、楽しみ方も [5]。" } ], "translation": "Fan đường sắt là những người thích đường sắt và lấy những việc liên quan đến đường sắt làm sở thích. Fan đường sắt còn đơn thuần được gọi là 'Tetsu' (sắt). Ở Nhật Bản, trước đây khi nói đến 'Tetsu' người ta thường nghĩ là nam giới, nhưng những năm gần đây số lượng fan nữ dường như đang tăng nhanh. Nhân tiện, những fan đường sắt này thưởng thức sở thích của họ như thế nào? Dù gọi chung là fan đường sắt nhưng nội dung sở thích của họ rất đa dạng. Và đối với người thích đi tàu thì gọi là 'Nori-tetsu', mỗi nội dung sở thích đều có tên gọi tương ứng. Bên cạnh 'Nori-tetsu', còn có 'Tori-tetsu' thích chụp ảnh, 'Kaki-tetsu' thích vẽ toa tàu và cảnh vật có đường sắt, 'Mokei-tetsu' thích mô hình tàu... Một phụ nữ tầm 40 tuổi thuộc nhóm 'Nori-tetsu' nói về sức hút của đường sắt như sau: 'Khi ngắm cảnh qua cửa sổ, tôi cảm nhận được không khí chuyến đi, khác với ô tô, chỉ cần ngồi yên là tới nơi thật tuyệt'. Một nam giới tầm 30 tuổi thuộc nhóm 'Mokei-tetsu' giải thích về sức hút mô hình: 'Chỉ nhìn hình dáng toa tàu thôi đã say đắm. Bản thật không mua được nhưng mô hình thì mua được'. Ngoài ra, trong số fan nữ tăng nhanh gần đây còn có nhiều 'Mama-tetsu'. Đó là những người khi dắt con thích xem tàu đi ngắm tàu, rồi chính mình cũng trở thành fan đường sắt từ lúc nào không hay. Đặc trưng của họ khác với các 'Tetsu' khác ở chỗ họ không xem tàu ở sân ga mà xem ở công viên hay nhà hàng có thể nhìn thấy tàu - nơi có thể thong thả ở cùng con. Fan đường sắt có nhiều kiểu khác nhau và cách thưởng thức cũng đa dạng.", "questions": [ { "id": "z003-1", "choices": [ "それほど", "どのように", "それでも", "どちらの" ], "answer": "どのように", "explanation": "Từ hỏi thưởng thức như thế nào (どのように) mở đầu câu hỏi chuyển tiếp chủ đề." }, { "id": "z003-2", "choices": [ "にかわって", "によって", "のうえ", "のほか" ], "answer": "のほか", "explanation": "Mẫu のほか (bên cạnh/ngoài ra) dùng để liệt kê thêm các nhóm sở thích khác." }, { "id": "z003-3", "choices": [ "こう", "そう", "同様に", "以上のように" ], "answer": "こう", "explanation": "Phó từ chỉ định こう (như sau) dẫn dắt câu trích dẫn lời nói ngay phía sau." }, { "id": "z003-4", "choices": [ "鉄道ファン", "女性ファン", "彼女たち", "大人たち" ], "answer": "彼女たち", "explanation": "Đại từ 彼女たち (họ/các cô ấy) thay thế cho nhóm Mama-tetsu vừa đề cập ở câu trước." }, { "id": "z003-5", "choices": [ "さまざまだ", "さまざまだと言われた", "さまざまである点だ", "さまざまだと思われている" ], "answer": "さまざまだ", "explanation": "Tính từ さまざまだ (đa dạng) đứng cuối câu khẳng định kết luận của bài văn." } ], "level": "N2" }, 
-{ "id": "z004", "passages": [ { "text": "もし家を建てるなら、どんな家がいいですか。もちろん長く住める家がいいですよね。日本で町を見渡してみると、頑丈そうな建物が並んでいます。ところが、ある調査によると日本の家の平均寿命は、英国 77 年、米国 55 年に比べて短く 30 年ほどだそうです。[1] 結果になったのでしょうか。\n原因の一つに、戦後の日本の特殊な住宅事情があるようです。第二次世界大戦後、日本では、家不足が深刻だったため、質より量を優先させて家が作られました。しかし、経済が成長して生活に余裕が生まれると、人々はより質の高い家を求めるようになります。そこで、それまでの家は次々に [2] そうです。その結果、町には、今のような頑丈そうな質の高い住宅が立ち並ぶことになったのです。\nまた、日本人の住宅観も原因として [3]。日本には、家はそこに住む家族に合わせて建てた家も、子供が成人して独立してしまうと、夫婦二人だけの生活には合わなくなります。そのため、年をとった夫婦のために住むのに適した家へと建て替えるのです。そんなふうに家族の形が変わったとき、今まで住んでいた家を建て替えることも少なくないそうです。\n[4]、日本では家を建て替えることが多いために、家の平均寿命が短いという調査結果になったのだと思います。平均寿命 30 年というのは、30 年で壊れてしまうという意味ではないのです。もし皆さんが、自分のために、家族のために、日本で家を建てるなら…。どんな [5]。" } ], "translation": "Nếu xây nhà, bạn muốn một ngôi nhà thế nào? Dĩ nhiên là một ngôi nhà có thể ở lâu dài đúng không. Khi nhìn quanh các thị trấn ở Nhật Bản, những tòa nhà kiên cố nằm san sát nhau. Tuy nhiên, theo một khảo sát, tuổi thọ trung bình của nhà ở Nhật Bản chỉ khoảng 30 năm, ngắn hơn so với 77 năm ở Anh và 55 năm ở Mỹ. Tại sao lại ra kết quả như thế này? Một trong những nguyên nhân có lẽ là tình hình nhà ở đặc thù sau chiến tranh của Nhật Bản. Sau Thế chiến II, tình trạng thiếu nhà ở Nhật Bản rất nghiêm trọng nên nhà cửa được xây dựng ưu tiên số lượng hơn chất lượng. Tuy nhiên, khi kinh tế phát triển và cuộc sống dư dả hơn, người ta bắt đầu đòi hỏi nhà có chất lượng cao hơn. Thế là, những ngôi nhà trước đó lần lượt bị đập đi xây lại. Kết quả là trên thị trấn mọc lên những ngôi nhà chất lượng cao kiên cố như hiện nay. Ngoài ra, quan niệm về nhà ở của người Nhật cũng được xem là nguyên nhân. Ở Nhật Bản có suy nghĩ nhà cửa được xây dựng phù hợp với gia đình sống ở đó, nhưng khi con cái trưởng thành ra ở riêng thì ngôi nhà không còn phù hợp với cuộc sống chỉ có hai vợ chồng. Vì vậy, người ta xây lại nhà phù hợp cho vợ chồng lớn tuổi ở. Khi hình thái gia đình thay đổi như vậy, việc xây lại ngôi nhà đang ở không phải là hiếm. Tóm lại, tôi nghĩ vì ở Nhật việc xây lại nhà xảy ra nhiều nên mới có kết quả khảo sát tuổi thọ trung bình của nhà ngắn. Tuổi thọ trung bình 30 năm không có nghĩa là sau 30 năm nhà sẽ hỏng. Nếu các bạn xây nhà ở Nhật cho bản thân, cho gia đình..., các bạn sẽ xây ngôi nhà thế nào?", "questions": [ { "id": "z004-1", "choices": [ "なぜこのような", "なぜあのような", "果してどのような", "はたしてそのような" ], "answer": "なぜこのような", "explanation": "Câu hỏi đặt vấn đề lý do xuất hiện kết quả này: Tại sao lại ra kết quả như thế này (なぜこのような)." }, { "id": "z004-2", "choices": [ "建て替えていく", "建て替えさせていた", "建て替えさせられてい", "建て替えられていった" ], "answer": "建て替えられていった", "explanation": "Thể bị動 và hướng chuyển biến lịch sử: đã lần lượt được xây lại (建て替えられていった)." }, { "id": "z004-3", "choices": [ "思われます", "わかります", "考えられます", "調べられます" ], "answer": "考えられます", "explanation": "Mẫu として考えられます dùng để đưa ra giả thuyết hoặc nguyên nhân được xem xét." }, { "id": "z004-4", "choices": [ "ところで", "つまり", "なぜなら", "もちろん" ], "answer": "つまり", "explanation": "Liên từ つまり (tóm lại) dùng để tổng kết lại nguyên nhân đã phân tích ở các đoạn trên." }, { "id": "z004-5", "choices": [ "家を建てたのですか", "家に住めたのですか", "家を建てますか", "家に住めますか" ], "answer": "家を建てますか", "explanation": "Câu hỏi giả定 hướng tới người đọc: bạn sẽ xây ngôi nhà thế nào (家を建てますか)." } ], "level": "N2" }, { "id": "z005", "passages": [ { "text": "飲食店には、夜だけでなく昼も営業して、ランチメニューを出しているところも多い。このランチメニュー、たいていは夜に比べると手ごろな価格に設定されている。[1]、夜はパスタだけで1,200円ぐらいする店でも昼はパスタにスープとサラダがついて980円といったものや、夜はコース料理が5,000円以上する店でも昼は1,000円前後になるといったものだ。\nこの昼と夜の価格差は一体、何によるものなのだろうか。安いからといって、料理人が手を抜いているとか、安い材料を使っているとか、そういったことは [2] ない。味が落ちれば悪い評判が立ち、夜の営業にも悪影響を与えてしまう。\nランチメニューを安くできる理由は単純明快だ。\n飲食店に限らず、店を経営していくためには、材料費、光熱費、店員の給料などさまざまなコストがかかるが、そのコストをおさえられれば、商品の価格を下げても利益は上げることができる。[3]、メニューをいくつかに絞るという方法で、コストをおさえているケースが多い。メニューが少なければ、準備や調理に手間がかからず、多くの料理人を働かせる必要もない。そのため、安くすることができると [4]。\nコストをおさえて、安いランチメニューでも飲食店は利益を上げている。また、安くておいしいランチを食べた客が店を気に入り、夜も店を訪れる可能性もある。飲食店にとって、利益が上げられ、さらに客も獲得できるランチは、「おいしい」[5]。" } ], "translation": "Nhiều quán ăn không chỉ mở cửa buổi tối mà còn kinh doanh cả ban ngày và phục vụ thực đơn ăn trưa (lunch menu). Thực đơn ăn trưa này hầu hết được ấn định giá mềm hơn so với buổi tối. Chẳng hạn, ở quán mà buổi tối chỉ đĩa mì pasta đã khoảng 1.200 yên thì ban ngày mì pasta kèm súp và salad chỉ 980 yên, hay ở quán buổi tối bữa ăn theo suất (course) hơn 5.000 yên thì ban ngày chỉ khoảng 1.000 yên. Sự chênh lệch giá giữa ngày và đêm này rốt cuộc là do đâu? Tuy giá rẻ nhưng việc đầu bếp làm qua loa hay dùng nguyên liệu rẻ tiền hoàn toàn không có chuyện đó. Nếu vị dở đi thì tiếng xấu đồn xa, gây ảnh hưởng xấu tới cả việc kinh doanh buổi tối. Lý do có thể giảm giá thực đơn ăn trưa rất đơn giản và rõ ràng. Không chỉ quán ăn, để kinh doanh một cửa hàng cần nhiều chi phí như nguyên liệu, điện nước, lương nhân viên..., nhưng nếu đè thấp được chi phí đó thì dù hạ giá sản phẩm vẫn thu được lợi nhuận. Trong trường hợp ăn trưa, có nhiều trường hợp cắt giảm chi phí bằng cách thu hẹp thực đơn còn vài món. Nếu ít món thì không tốn công chuẩn bị hay nấu nướng, cũng không cần thuê nhiều đầu bếp. Vì vậy có thể hiểu là làm rẻ đi được. Nhờ cắt giảm chi phí, dù thực đơn ăn trưa rẻ nhưng quán ăn vẫn tạo ra lợi nhuận. Ngoài ra, khách ăn trưa rẻ và ngon thấy thích quán thì có khả năng sẽ ghé quán cả buổi tối. Đối với quán ăn, bữa trưa vừa mang lại lợi nhuận vừa thu hút được khách hàng quả là bữa ăn 'béo bở'.", "questions": [ { "id": "z005-1", "choices": [ "ただし", "それに", "あるいは", "たとえば" ], "answer": "たとえば", "explanation": "Từ liên kết たとえば (chẳng hạn/ví dụ) dẫn dắt các ví dụ cụ thể về giá ăn trưa so với ăn tối." }, { "id": "z005-2", "choices": [ "意外では", "間違いでは", "だから", "もちろん" ], "answer": "間違いでは", "explanation": "Mẫu 間違いではない (hoàn toàn không phải suy đoán sai lầm như vậy)." }, { "id": "z005-3", "choices": [ "次の場合", "その店の場合", "ランチの場合", "夜の営業の場合" ], "answer": "ランチの場合", "explanation": "Cụm ランチの場合 (trong trường hợp bữa ăn trưa) xác định phạm vi đối tượng đang phân tích." }, { "id": "z005-4", "choices": [ "いうわけだ", "いう点か", "いうくらいだ", "いうからか" ], "answer": "いうわけだ", "explanation": "Mẫu というわけだ (có nghĩa là/chính là vì thế) dùng để giải thích kết luận nguyên nhân." }, { "id": "z005-5", "choices": [ "ランチではあったか", "ランチなのである", "ランチではないだろう", "ランチではないのではないか" ], "answer": "ランチなのである", "explanation": "Cách kết thúc câu khẳng định mang tính nhấn mạnh kết luận của tác giả: chính là bữa trưa (ランチなのである)." } ], "level": "N2" }, { "id": "z006", "passages": [ { "text": "冬の寒さも緩み、春の陽気が感じられるようになってきました。春は花の季節。サクラをはじめ、ウメやモモなど多くの木々が花を咲かせます。\nところで、これらの花は、なぜ春に一斉に咲くのでしょう。花なんて暖かくなれば咲くものだと [1]。確かに、気温の上昇も重要です。ただ、皆さんは、春に花を咲かせる木がいつその準備をしているかご存じですか。[2]、開花する前の年の夏には、すでに花となる芽（花芽）が作られ、花を咲かせる準備ができているのです。そう考えると、春まで待って一斉に咲くというのは不思議ではありませんか。一体どういう仕組みなのでしょう。\nサクラやウメなどの木は夏に、成長を抑える休眠物質を葉で作ります。それが花芽にたまると、葉が落ち、花芽は「休眠」という期間に入ります。[3] 花芽は成長しません。休眠から目覚めるには、一定の低温期間を経験することが必要です。「一定の低温期間」とはどれくらいかというと、それは花によって違うことがわかっています。例えば、サクラのソメイヨシノでは、5 度前後の気温が約 900 時間 [4]。そして休眠から目覚めると、成長を抑えていた休眠物質が減り始めます。それがなくなると成長が再開し、春になって、1 日の平均気温が 12～13 度になると開花するのです。\n春に一斉に咲く花の仕組み、[5]。冬の間、私たちは寒さが去るのを待つばかりですが、春に咲く花のためには、その寒さは必要なものなのです。" } ], "translation": "Cái lạnh mùa đông đã dịu bớt, không khí ấm áp của mùa xuân bắt đầu cảm nhận được. Mùa xuân là mùa của hoa. Bắt đầu từ hoa anh đào, nhiều loài cây như mai, đào... đua nhau nở hoa. Nhân tiện, tại sao những loài hoa này lại đồng loạt nở vào mùa xuân? Có thể bạn nghĩ rằng hoa thì cứ ấm áp lên là nở thôi. Đúng là nhiệt độ tăng lên cũng rất quan trọng. Tuy nhiên, các bạn có biết cây nở hoa vào mùa xuân chuẩn bị cho việc đó từ khi nào không? Thực ra, vào mùa hè của năm trước khi nở hoa, những mầm hoa (nụ hoa) đã được tạo ra và việc chuẩn bị nở hoa đã sẵn sàng. Suy nghĩ như vậy, việc chúng chờ đến mùa xuân mới đồng loạt nở chẳng phải rất kỳ diệu sao? Rốt cuộc là theo cơ chế như thế nào? Các loại cây như anh đào, mai vào mùa hè tạo ra chất ức chế sinh trưởng ở lá. Khi chất đó tích tụ ở mầm hoa, lá sẽ rụng và mầm hoa đi vào giai段 gọi là 'ngủ đông'. Trong giai đoạn này mầm hoa không phát triển. Để thức dậy sau khi ngủ đông, chúng cần trải qua một khoảng thời gian nhiệt độ thấp nhất định. 'Khoảng thời gian nhiệt độ thấp nhất định' là bao lâu thì tùy thuộc vào từng loài hoa. Chẳng hạn, với hoa anh đào Somei Yoshino, người ta biết rằng cần khoảng 900 giờ ở nhiệt độ khoảng 5 độ C. Và khi thức dậy sau ngủ đông, chất ức chế sinh trưởng bắt đầu giảm đi. Khi chất đó biến mất, sự phát triển được khôi phục, và khi mùa xuân đến, nhiệt độ trung bình ngày đạt 12-13 độ C thì hoa nở. Cơ chế hoa đồng loạt nở vào mùa xuân, bạn đã hiểu rõ rồi chứ? Trong suốt mùa đông, chúng ta chỉ chờ đợi cái lạnh qua đi, nhưng đối với những bông hoa nở vào mùa xuân, cái lạnh đó lại là điều cần thiết.", "questions": [ { "id": "z006-1", "choices": [ "思うせいです", "思うかもしれません", "思うほどです", "思うことにしました" ], "answer": "思うかもしれません", "explanation": "Mẫu đưa ra giả định về suy nghĩ thông thường của người đọc: có thể bạn nghĩ là (思うかもしれません)." }, { "id": "z006-2", "choices": [ "また", "こうして", "実は", "一方" ], "answer": "実は", "explanation": "Từ 実は (thực ra) dùng để tiết lộ một sự thật bất ngờ trái với suy nghĩ thông thường." }, { "id": "z006-3", "choices": [ "この期間は", "あの期間では", "これくらいの期間では", "あれくらいの期間は" ], "answer": "この期間は", "explanation": "Cụm この期間は (trong khoảng thời gian này) chỉ giai đoạn ngủ đông vừa đề cập." }, { "id": "z006-4", "choices": [ "必要かどうか調査されます", "必要かどうか明らかになります", "必要だとされています", "必要だと気づかされます" ], "answer": "必要だとされています", "explanation": "Mẫu とされている (được cho là/được xác định là): được cho là cần khoảng 900 giờ." }, { "id": "z006-5", "choices": [ "ご存じでしょうか", "ご存じだったのですね", "おわかりいただけるのですね", "おわかりいただけましたか" ], "answer": "おわかりいただけましたか", "explanation": "Câu hỏi tương tác kết thúc giải thích: bạn đã hiểu rõ chưa (おわかりいただけましたか)." } ], "level": "N2" }, { "id": "z007", "passages": [ { "text": "日本食というと米の印象が強く、私は、日本人は米を一日三食食べていると思っていた。ところが日本に来てみると、[1] ので驚いた。\nある調査によると、1960 年の日本の米の消費量は一人当たり年間約 120 キロだったが、2010 年は約 60 キロだったという。この 50 年で米の消費量が半減したわけだ。けれども、50 年で一日の食事の回数や総量が半減する [2]。では、どのような事情で米の消費量が半減したのか。\nそれにはいくつか [3] があるようだ。その中で私が取り上げたいのは、食の多様化だ。1965 年ごろから日本では様々な食物を輸入するようになり、米以外にパンなどを主食としてよく食べるようになった。また、1960 年から 2010 年の 50 年で、肉の消費量は約 5 倍に、乳製品は約 4 倍に増えた。こうした変化の中で、相対的に米の消費量が減少したのだろう。\n食の多様化自体は、食卓が豊かになるのだし悪いことではない。[4]、食の多様化に伴う問題も起きているようだ。日本では昔から米や野菜がよく食べられてきたため、日本人の体はそれらの消化に適しており、肉や乳製品の消化が苦手だという。食の変化によって病気になる人も増えているそうだ。日本人が守ってきた伝統的な食文化は、日本人の健康を支えていたのだ。\n私の国の食文化も私たちの健康を支えてくれていたのだろうか。日本に来て、その土地に生きる人と食文化とのつながりについて [5]。" } ], "translation": "Nói đến món ăn Nhật là ấn tượng về gạo rất mạnh, tôi cứ nghĩ người Nhật ăn cơm mỗi ngày ba bữa. Tuy nhiên khi đến Nhật Bản, tôi đã giật mình vì không phải như vậy. Theo một khảo sát, lượng tiêu thụ gạo của Nhật Bản năm 1960 khoảng 120 kg/người/năm, nhưng đến năm 2010 chỉ còn khoảng 60 kg. Trong 50 năm qua lượng tiêu thụ gạo đã giảm một nửa. Tuy nhiên, không thể nghĩ rằng số bữa ăn hay tổng lượng ăn trong một ngày lại giảm một nửa trong 50 năm. Vậy do hoàn cảnh nào mà lượng tiêu thụ gạo lại giảm một nửa? Có vẻ như có một vài lý do. Trong đó điều tôi muốn đề cập là sự đa dạng hóa ẩm thực. Từ khoảng năm 1965, Nhật Bản bắt đầu nhập khẩu nhiều loại thực phẩm khác nhau, ngoài cơm ra người ta thường ăn bánh mì làm món ăn chính. Ngoài ra, trong 50 năm từ 1960 đến 2010, lượng tiêu thụ thịt tăng khoảng 5 lần, sản phẩm từ sữa tăng khoảng 4 lần. Trong sự thay đổi đó, lượng tiêu thụ gạo giảm tương đối. Bản thân việc đa dạng hóa ẩm thực giúp bàn ăn phong phú hơn và không phải điều xấu. Tuy nhiên, có vẻ cũng nảy sinh những vấn đề đi kèm với sự đa dạng hóa ẩm thực. Ở Nhật Bản từ xưa gạo và rau đã được ăn nhiều nên cơ thể người Nhật thích hợp với việc tiêu hóa chúng, còn việc tiêu hóa thịt và sữa thì kém hơn. Nghe nói số người bị bệnh do thay đổi ẩm thực cũng tăng lên. Văn hóa ẩm thực truyền thống mà người Nhật giữ gìn vốn đã chống đỡ cho sức khỏe của người Nhật. Văn hóa ẩm thực của nước tôi phải chăng cũng từng chống đỡ cho sức khỏe của chúng tôi? Đến Nhật Bản, tôi đã bị làm cho suy nghĩ về mối liên hệ giữa con người sống trên mảnh đất đó và văn hóa ẩm thực.", "questions": [ { "id": "z007-1", "choices": [ "これではなかった", "それではなかった", "そうではなかった", "こうでもなかった" ], "answer": "そうではなかった", "explanation": "Cụm そうではなかった (không phải như vậy) chỉ sự trái ngược với suy nghĩ trước đó." }, { "id": "z007-2", "choices": [ "とは思えない", "としか思えない", "とも思われる", "とさえ思う" ], "answer": "とは思えない", "explanation": "Mẫu とは思えない (không thể nghĩ rằng/khó mà tin rằng) phủ định một khả năng vô lý." }, { "id": "z007-3", "choices": [ "条件", "証拠", "基礎", "理由" ], "answer": "理由", "explanation": "Danh từ 理由 (lý do/nguyên nhân) trả lời cho câu hỏi lý do tại sao lượng tiêu thụ gạo giảm." }, { "id": "z007-4", "choices": [ "例えば", "そのうえ", "だが", "そこで" ], "answer": "だが", "explanation": "Liên từ だが (nhưng/tuy nhiên) chuyển hướng sang mặt đối lập/vấn đề bất lợi." }, { "id": "z007-5", "choices": [ "考えたのだろう", "考えさせられた", "考えさせていたのだろう", "考えられていた" ], "answer": "考えさせられた", "explanation": "Thể sai khiến bị動 考えさせられた (bị làm cho phải suy nghĩ/khiến tôi phải suy nghĩ) thể hiện trải nghiệm nhận thức của bản thân tác giả." } ], "level": "N2" }, { "id": "z008", "passages": [ { "text": "今日も新宿駅前でティッシュをもらった。小さな袋の中に 10 枚ほどのティッシュが入っていて、ポケットなどに入れて持ち歩けるポケットティッシュだ。\n新宿や渋谷などの大きな駅を出て少し歩くと、ポケットティッシュを配っている人にあちこちで [1]。彼らが配るのは、ティッシュペーパーでもあり広告でもある。受け取るティッシュの袋には、旅行会社の名前が印刷されていたり、美容院や居酒屋の広告の紙が入っていたりする。最初は無料で配っているとは知らなかったので、渡されたときは驚いた。\nティッシュペーパーが日本で使われるようになったのは、1950 年代。その十数年後、[2] が広告宣伝用に配るためのポケットティッシュを開発した。そして、1970 年ごろにそれを道で配り始めた会社があり、それ以来、ポケットティッシュを道で配ることが定着していったらしい。\n確かに、ポケットティッシュは優れた宣伝グッズだ。まず、道で直接配るから、歩いている人の性別・年齢を見て、渡すことができる。個人情報を集めなくても、宣伝したい相手に宣伝できる効果的な [3]。また、ティッシュなら実用的で、ちらしだけよりも受け取ってもらいやすいし、使うたびに広告を見てもらえるという利点もある。\n[4]、私はポケットティッシュの広告を見て行動を起こしたことはない。もらう広告には全く興味がないが、無料だからついもらってしまい、たまっていく一方だ。だから、帰国したら友達に配りたい。日本文化の一つとして [5]。" } ], "translation": "Hôm nay tôi lại nhận được khăn giấy ở trước ga Shinjuku. Đó là loại khăn giấy bỏ túi gồm khoảng 10 tờ trong một túi nhỏ, có thể bỏ vào túi mang theo. Đi bộ một chút ra khỏi các ga lớn như Shinjuku hay Shibuya, ta bắt gặp người phát khăn giấy bỏ túi ở khắp nơi. Thứ họ phát vừa là khăn giấy vừa là quảng cáo. Trên túi khăn giấy nhận được có in tên công ty du lịch, hoặc có tờ quảng cáo tiệm làm tóc, quán nhậu... Lúc đầu tôi không biết họ phát miễn phí nên khi được đưa cho đã rất ngạc nhiên. Khăn giấy tissue bắt đầu được sử dụng ở Nhật từ những năm 1950. Mười mấy năm sau, một công ty đã phát triển khăn giấy bỏ túi để phát làm quảng cáo. Và đến khoảng năm 1970 có công ty bắt đầu phát nó trên đường, từ đó việc phát khăn giấy bỏ túi trên đường dường như đã trở thành thói quen phổ biến. Quả thực, khăn giấy bỏ túi là vật phẩm quảng cáo tuyệt vời. Trước hết, vì phát trực tiếp trên đường nên có thể nhìn giới tính, độ tuổi người đi đường để đưa. Có thể nói đó là phương pháp hiệu quả để quảng cáo tới đúng đối tượng mong muốn mà không cần thu thập thông tin cá nhân. Ngoài ra, khăn giấy lại thực dụng, dễ nhận hơn là chỉ có tờ rơi, và có lợi điểm là mỗi lần sử dụng người ta lại nhìn thấy quảng cáo. Tuy nhiên, tôi chưa từng vì nhìn quảng cáo trên khăn giấy bỏ túi mà hành động. Dù hoàn toàn không có hứng thú với quảng cáo nhận được, nhưng vì miễn phí nên tôi cứ vô tinh nhận, khiến chúng cứ chất đống lên. Vì vậy khi về nước tôi muốn phát cho bạn bè. Tôi định sẽ giới thiệu nó như một nét văn hóa của Nhật Bản.", "questions": [ { "id": "z008-1", "choices": [ "出会う", "出会ったのか", "出会うこともあった", "出会うはずだった" ], "answer": "出会う", "explanation": "Động từ 出会う (bắt gặp/gặp) ở thì hiện tại miêu tả hiện tượng quen thuộc diễn ra thường xuyên." }, { "id": "z008-2", "choices": [ "その会社", "ある会社", "彼らの会社", "こういう会社" ], "answer": "ある会社", "explanation": "Cụm ある会社 (một công ty nào đó) dùng khi giới thiệu một đối tượng mới lần đầu xuất hiện trong văn bản." }, { "id": "z008-3", "choices": [ "方法にするべきだ", "方法だと言える", "方法になりかねない", "方法があるに違いない" ], "answer": "方法だと言える", "explanation": "Mẫu と言える (có thể nói là): có thể nói là phương pháp hiệu quả." }, { "id": "z008-4", "choices": [ "むしろ", "要するに", "したがって", "とはいえ" ], "answer": "とはいえ", "explanation": "Liên từ とはいえ (mặc dù nói là vậy/tuy nhiên) chuyển hướng sang trải nghiệm thực tế phản bác lại lợi ích quảng cáo." }, { "id": "z008-5", "choices": [ "紹介されたわけだ", "ご紹介したからだ", "紹介しようと思う", "紹介されるのだと思う" ], "answer": "紹介しようと思う", "explanation": "Mẫu thể ý định しようと思う (dự định làm gì): tôi định sẽ giới thiệu." } ], "level": "N2" } ]
+{ "id": "z004", "passages": [ { "text": "もし家を建てるなら、どんな家がいいですか。もちろん長く住める家がいいですよね。日本で町を見渡してみると、頑丈そうな建物が並んでいます。ところが、ある調査によると日本の家の平均寿命は、英国 77 年、米国 55 年に比べて短く 30 年ほどだそうです。[1] 結果になったのでしょうか。\n原因の一つに、戦後の日本の特殊な住宅事情があるようです。第二次世界大戦後、日本では、家不足が深刻だったため、質より量を優先させて家が作られました。しかし、経済が成長して生活に余裕が生まれると、人々はより質の高い家を求めるようになります。そこで、それまでの家は次々に [2] そうです。その結果、町には、今のような頑丈そうな質の高い住宅が立ち並ぶことになったのです。\nまた、日本人の住宅観も原因として [3]。日本には、家はそこに住む家族に合わせて建てた家も、子供が成人して独立してしまうと、夫婦二人だけの生活には合わなくなります。そのため、年をとった夫婦のために住むのに適した家へと建て替えるのです。そんなふうに家族の形が変わったとき、今まで住んでいた家を建て替えることも少なくないそうです。\n[4]、日本では家を建て替えることが多いために、家の平均寿命が短いという調査結果になったのだと思います。平均寿命 30 年というのは、30 年で壊れてしまうという意味ではないのです。もし皆さんが、自分のために、家族のために、日本で家を建てるなら…。どんな [5]。" } ], "translation": "Nếu xây nhà, bạn muốn một ngôi nhà thế nào? Dĩ nhiên là một ngôi nhà có thể ở lâu dài đúng không. Khi nhìn quanh các thị trấn ở Nhật Bản, những tòa nhà kiên cố nằm san sát nhau. Tuy nhiên, theo một khảo sát, tuổi thọ trung bình của nhà ở Nhật Bản chỉ khoảng 30 năm, ngắn hơn so với 77 năm ở Anh và 55 năm ở Mỹ. Tại sao lại ra kết quả như thế này? Một trong những nguyên nhân có lẽ là tình hình nhà ở đặc thù sau chiến tranh của Nhật Bản. Sau Thế chiến II, tình trạng thiếu nhà ở Nhật Bản rất nghiêm trọng nên nhà cửa được xây dựng ưu tiên số lượng hơn chất lượng. Tuy nhiên, khi kinh tế phát triển và cuộc sống dư dả hơn, người ta bắt đầu đòi hỏi nhà có chất lượng cao hơn. Thế là, những ngôi nhà trước đó lần lượt bị đập đi xây lại. Kết quả là trên thị trấn mọc lên những ngôi nhà chất lượng cao kiên cố như hiện nay. Ngoài ra, quan niệm về nhà ở của người Nhật cũng được xem là nguyên nhân. Ở Nhật Bản có suy nghĩ nhà cửa được xây dựng phù hợp với gia đình sống ở đó, nhưng khi con cái trưởng thành ra ở riêng thì ngôi nhà không còn phù hợp với cuộc sống chỉ có hai vợ chồng. Vì vậy, người ta xây lại nhà phù hợp cho vợ chồng lớn tuổi ở. Khi hình thái gia đình thay đổi như vậy, việc xây lại ngôi nhà đang ở không phải là hiếm. Tóm lại, tôi nghĩ vì ở Nhật việc xây lại nhà xảy ra nhiều nên mới có kết quả khảo sát tuổi thọ trung bình của nhà ngắn. Tuổi thọ trung bình 30 năm không có nghĩa là sau 30 năm nhà sẽ hỏng. Nếu các bạn xây nhà ở Nhật cho bản thân, cho gia đình..., các bạn sẽ xây ngôi nhà thế nào?", "questions": [ { "id": "z004-1", "choices": [ "なぜこのような", "なぜあのような", "果してどのような", "はたしてそのような" ], "answer": "なぜこのような", "explanation": "Câu hỏi đặt vấn đề lý do xuất hiện kết quả này: Tại sao lại ra kết quả như thế này (なぜこのような)." }, { "id": "z004-2", "choices": [ "建て替えていく", "建て替えさせていた", "建て替えさせられてい", "建て替えられていった" ], "answer": "建て替えられていった", "explanation": "Thể bị動 và hướng chuyển biến lịch sử: đã lần lượt được xây lại (建て替えられていった)." }, { "id": "z004-3", "choices": [ "思われます", "わかります", "考えられます", "調べられます" ], "answer": "考えられます", "explanation": "Mẫu として考えられます dùng để đưa ra giả thuyết hoặc nguyên nhân được xem xét." }, { "id": "z004-4", "choices": [ "ところで", "つまり", "なぜなら", "もちろん" ], "answer": "つまり", "explanation": "Liên từ つまり (tóm lại) dùng để tổng kết lại nguyên nhân đã phân tích ở các đoạn trên." }, { "id": "z004-5", "choices": [ "家を建てたのですか", "家に住めたのですか", "家を建てますか", "家に住めますか" ], "answer": "家を建てますか", "explanation": "Câu hỏi giả定 hướng tới người đọc: bạn sẽ xây ngôi nhà thế nào (家を建てますか)." } ], "level": "N2" }, { "id": "z005", "passages": [ { "text": "飲食店には、夜だけでなく昼も営業して、ランチメニューを出しているところも多い。このランチメニュー、たいていは夜に比べると手ごろな価格に設定されている。[1]、夜はパスタだけで1,200円ぐらいする店でも昼はパスタにスープとサラダがついて980円といったものや、夜はコース料理が5,000円以上する店でも昼は1,000円前後になるといったものだ。\nこの昼と夜の価格差は一体、何によるものなのだろうか。安いからといって、料理人が手を抜いているとか、安い材料を使っているとか、そういったことは [2] ない。味が落ちれば悪い評判が立ち、夜の営業にも悪影響を与えてしまう。\nランチメニューを安くできる理由は単純明快だ。\n飲食店に限らず、店を経営していくためには、材料費、光熱費、店員の給料などさまざまなコストがかかるが、そのコストをおさえられれば、商品の価格を下げても利益は上げることができる。[3]、メニューをいくつかに絞るという方法で、コストをおさえているケースが多い。メニューが少なければ、準備や調理に手間がかからず、多くの料理人を働かせる必要もない。そのため、安くすることができると [4]。\nコストをおさえて、安いランチメニューでも飲食店は利益を上げている。また、安くておいしいランチを食べた客が店を気に入り、夜も店を訪れる可能性もある。飲食店にとって、利益が上げられ、さらに客も獲得できるランチは、「おいしい」[5]。" } ], "translation": "Nhiều quán ăn không chỉ mở cửa buổi tối mà còn kinh doanh cả ban ngày và phục vụ thực đơn ăn trưa (lunch menu). Thực đơn ăn trưa này hầu hết được ấn định giá mềm hơn so với buổi tối. Chẳng hạn, ở quán mà buổi tối chỉ đĩa mì pasta đã khoảng 1.200 yên thì ban ngày mì pasta kèm súp và salad chỉ 980 yên, hay ở quán buổi tối bữa ăn theo suất (course) hơn 5.000 yên thì ban ngày chỉ khoảng 1.000 yên. Sự chênh lệch giá giữa ngày và đêm này rốt cuộc là do đâu? Tuy giá rẻ nhưng việc đầu bếp làm qua loa hay dùng nguyên liệu rẻ tiền hoàn toàn không có chuyện đó. Nếu vị dở đi thì tiếng xấu đồn xa, gây ảnh hưởng xấu tới cả việc kinh doanh buổi tối. Lý do có thể giảm giá thực đơn ăn trưa rất đơn giản và rõ ràng. Không chỉ quán ăn, để kinh doanh một cửa hàng cần nhiều chi phí như nguyên liệu, điện nước, lương nhân viên..., nhưng nếu đè thấp được chi phí đó thì dù hạ giá sản phẩm vẫn thu được lợi nhuận. Trong trường hợp ăn trưa, có nhiều trường hợp cắt giảm chi phí bằng cách thu hẹp thực đơn còn vài món. Nếu ít món thì không tốn công chuẩn bị hay nấu nướng, cũng không cần thuê nhiều đầu bếp. Vì vậy có thể hiểu là làm rẻ đi được. Nhờ cắt giảm chi phí, dù thực đơn ăn trưa rẻ nhưng quán ăn vẫn tạo ra lợi nhuận. Ngoài ra, khách ăn trưa rẻ và ngon thấy thích quán thì có khả năng sẽ ghé quán cả buổi tối. Đối với quán ăn, bữa trưa vừa mang lại lợi nhuận vừa thu hút được khách hàng quả là bữa ăn 'béo bở'.", "questions": [ { "id": "z005-1", "choices": [ "ただし", "それに", "あるいは", "たとえば" ], "answer": "たとえば", "explanation": "Từ liên kết たとえば (chẳng hạn/ví dụ) dẫn dắt các ví dụ cụ thể về giá ăn trưa so với ăn tối." }, { "id": "z005-2", "choices": [ "意外では", "間違いでは", "だから", "もちろん" ], "answer": "間違いでは", "explanation": "Mẫu 間違いではない (hoàn toàn không phải suy đoán sai lầm như vậy)." }, { "id": "z005-3", "choices": [ "次の場合", "その店の場合", "ランチの場合", "夜の営業の場合" ], "answer": "ランチの場合", "explanation": "Cụm ランチの場合 (trong trường hợp bữa ăn trưa) xác định phạm vi đối tượng đang phân tích." }, { "id": "z005-4", "choices": [ "いうわけだ", "いう点か", "いうくらいだ", "いうからか" ], "answer": "いうわけだ", "explanation": "Mẫu というわけだ (có nghĩa là/chính là vì thế) dùng để giải thích kết luận nguyên nhân." }, { "id": "z005-5", "choices": [ "ランチではあったか", "ランチなのである", "ランチではないだろう", "ランチではないのではないか" ], "answer": "ランチなのである", "explanation": "Cách kết thúc câu khẳng định mang tính nhấn mạnh kết luận của tác giả: chính là bữa trưa (ランチなのである)." } ], "level": "N2" }, { "id": "z006", "passages": [ { "text": "冬の寒さも緩み、春の陽気が感じられるようになってきました。春は花の季節。サクラをはじめ、ウメやモモなど多くの木々が花を咲かせます。\nところで、これらの花は、なぜ春に一斉に咲くのでしょう。花なんて暖かくなれば咲くものだと [1]。確かに、気温の上昇も重要です。ただ、皆さんは、春に花を咲かせる木がいつその準備をしているかご存じですか。[2]、開花する前の年の夏には、すでに花となる芽（花芽）が作られ、花を咲かせる準備ができているのです。そう考えると、春まで待って一斉に咲くというのは不思議ではありませんか。一体どういう仕組みなのでしょう。\nサクラやウメなどの木は夏に、成長を抑える休眠物質を葉で作ります。それが花芽にたまると、葉が落ち、花芽は「休眠」という期間に入ります。[3] 花芽は成長しません。休眠から目覚めるには、一定の低温期間を経験することが必要です。「一定の低温期間」とはどれくらいかというと、それは花によって違うことがわかっています。例えば、サクラのソメイヨシノでは、5 度前後の気温が約 900 時間 [4]。そして休眠から目覚めると、成長を抑えていた休眠物質が減り始めます。それがなくなると成長が再開し、春になって、1 日の平均気温が 12～13 度になると開花するのです。\n春に一斉に咲く花の仕組み、[5]。冬の間、私たちは寒さが去るのを待つばかりですが、春に咲く花のためには、その寒さは必要なものなのです。" } ], "translation": "Cái lạnh mùa đông đã dịu bớt, không khí ấm áp của mùa xuân bắt đầu cảm nhận được. Mùa xuân là mùa của hoa. Bắt đầu từ hoa anh đào, nhiều loài cây như mai, đào... đua nhau nở hoa. Nhân tiện, tại sao những loài hoa này lại đồng loạt nở vào mùa xuân? Có thể bạn nghĩ rằng hoa thì cứ ấm áp lên là nở thôi. Đúng là nhiệt độ tăng lên cũng rất quan trọng. Tuy nhiên, các bạn có biết cây nở hoa vào mùa xuân chuẩn bị cho việc đó từ khi nào không? Thực ra, vào mùa hè của năm trước khi nở hoa, những mầm hoa (nụ hoa) đã được tạo ra và việc chuẩn bị nở hoa đã sẵn sàng. Suy nghĩ như vậy, việc chúng chờ đến mùa xuân mới đồng loạt nở chẳng phải rất kỳ diệu sao? Rốt cuộc là theo cơ chế như thế nào? Các loại cây như anh đào, mai vào mùa hè tạo ra chất ức chế sinh trưởng ở lá. Khi chất đó tích tụ ở mầm hoa, lá sẽ rụng và mầm hoa đi vào giai段 gọi là 'ngủ đông'. Trong giai đoạn này mầm hoa không phát triển. Để thức dậy sau khi ngủ đông, chúng cần trải qua một khoảng thời gian nhiệt độ thấp nhất định. 'Khoảng thời gian nhiệt độ thấp nhất định' là bao lâu thì tùy thuộc vào từng loài hoa. Chẳng hạn, với hoa anh đào Somei Yoshino, người ta biết rằng cần khoảng 900 giờ ở nhiệt độ khoảng 5 độ C. Và khi thức dậy sau ngủ đông, chất ức chế sinh trưởng bắt đầu giảm đi. Khi chất đó biến mất, sự phát triển được khôi phục, và khi mùa xuân đến, nhiệt độ trung bình ngày đạt 12-13 độ C thì hoa nở. Cơ chế hoa đồng loạt nở vào mùa xuân, bạn đã hiểu rõ rồi chứ? Trong suốt mùa đông, chúng ta chỉ chờ đợi cái lạnh qua đi, nhưng đối với những bông hoa nở vào mùa xuân, cái lạnh đó lại là điều cần thiết.", "questions": [ { "id": "z006-1", "choices": [ "思うせいです", "思うかもしれません", "思うほどです", "思うことにしました" ], "answer": "思うかもしれません", "explanation": "Mẫu đưa ra giả định về suy nghĩ thông thường của người đọc: có thể bạn nghĩ là (思うかもしれません)." }, { "id": "z006-2", "choices": [ "また", "こうして", "実は", "一方" ], "answer": "実は", "explanation": "Từ 実は (thực ra) dùng để tiết lộ một sự thật bất ngờ trái với suy nghĩ thông thường." }, { "id": "z006-3", "choices": [ "この期間は", "あの期間では", "これくらいの期間では", "あれくらいの期間は" ], "answer": "この期間は", "explanation": "Cụm この期間は (trong khoảng thời gian này) chỉ giai đoạn ngủ đông vừa đề cập." }, { "id": "z006-4", "choices": [ "必要かどうか調査されます", "必要かどうか明らかになります", "必要だとされています", "必要だと気づかされます" ], "answer": "必要だとされています", "explanation": "Mẫu とされている (được cho là/được xác định là): được cho là cần khoảng 900 giờ." }, { "id": "z006-5", "choices": [ "ご存じでしょうか", "ご存じだったのですね", "おわかりいただけるのですね", "おわかりいただけましたか" ], "answer": "おわかりいただけましたか", "explanation": "Câu hỏi tương tác kết thúc giải thích: bạn đã hiểu rõ chưa (おわかりいただけましたか)." } ], "level": "N2" }, { "id": "z007", "passages": [ { "text": "日本食というと米の印象が強く、私は、日本人は米を一日三食食べていると思っていた。ところが日本に来てみると、[1] ので驚いた。\nある調査によると、1960 年の日本の米の消費量は一人当たり年間約 120 キロだったが、2010 年は約 60 キロだったという。この 50 年で米の消費量が半減したわけだ。けれども、50 年で一日の食事の回数や総量が半減する [2]。では、どのような事情で米の消費量が半減したのか。\nそれにはいくつか [3] があるようだ。その中で私が取り上げたいのは、食の多様化だ。1965 年ごろから日本では様々な食物を輸入するようになり、米以外にパンなどを主食としてよく食べるようになった。また、1960 年から 2010 年の 50 年で、肉の消費量は約 5 倍に、乳製品は約 4 倍に増えた。こうした変化の中で、相対的に米の消費量が減少したのだろう。\n食の多様化自体は、食卓が豊かになるのだし悪いことではない。[4]、食の多様化に伴う問題も起きているようだ。日本では昔から米や野菜がよく食べられてきたため、日本人の体はそれらの消化に適しており、肉や乳製品の消化が苦手だという。食の変化によって病気になる人も増えているそうだ。日本人が守ってきた伝統的な食文化は、日本人の健康を支えていたのだ。\n私の国の食文化も私たちの健康を支えてくれていたのだろうか。日本に来て、その土地に生きる人と食文化とのつながりについて [5]。" } ], "translation": "Nói đến món ăn Nhật là ấn tượng về gạo rất mạnh, tôi cứ nghĩ người Nhật ăn cơm mỗi ngày ba bữa. Tuy nhiên khi đến Nhật Bản, tôi đã giật mình vì không phải như vậy. Theo một khảo sát, lượng tiêu thụ gạo của Nhật Bản năm 1960 khoảng 120 kg/người/năm, nhưng đến năm 2010 chỉ còn khoảng 60 kg. Trong 50 năm qua lượng tiêu thụ gạo đã giảm một nửa. Tuy nhiên, không thể nghĩ rằng số bữa ăn hay tổng lượng ăn trong một ngày lại giảm một nửa trong 50 năm. Vậy do hoàn cảnh nào mà lượng tiêu thụ gạo lại giảm một nửa? Có vẻ như có một vài lý do. Trong đó điều tôi muốn đề cập là sự đa dạng hóa ẩm thực. Từ khoảng năm 1965, Nhật Bản bắt đầu nhập khẩu nhiều loại thực phẩm khác nhau, ngoài cơm ra người ta thường ăn bánh mì làm món ăn chính. Ngoài ra, trong 50 năm từ 1960 đến 2010, lượng tiêu thụ thịt tăng khoảng 5 lần, sản phẩm từ sữa tăng khoảng 4 lần. Trong sự thay đổi đó, lượng tiêu thụ gạo giảm tương đối. Bản thân việc đa dạng hóa ẩm thực giúp bàn ăn phong phú hơn và không phải điều xấu. Tuy nhiên, có vẻ cũng nảy sinh những vấn đề đi kèm với sự đa dạng hóa ẩm thực. Ở Nhật Bản từ xưa gạo và rau đã được ăn nhiều nên cơ thể người Nhật thích hợp với việc tiêu hóa chúng, còn việc tiêu hóa thịt và sữa thì kém hơn. Nghe nói số người bị bệnh do thay đổi ẩm thực cũng tăng lên. Văn hóa ẩm thực truyền thống mà người Nhật giữ gìn vốn đã chống đỡ cho sức khỏe của người Nhật. Văn hóa ẩm thực của nước tôi phải chăng cũng từng chống đỡ cho sức khỏe của chúng tôi? Đến Nhật Bản, tôi đã bị làm cho suy nghĩ về mối liên hệ giữa con người sống trên mảnh đất đó và văn hóa ẩm thực.", "questions": [ { "id": "z007-1", "choices": [ "これではなかった", "それではなかった", "そうではなかった", "こうでもなかった" ], "answer": "そうではなかった", "explanation": "Cụm そうではなかった (không phải như vậy) chỉ sự trái ngược với suy nghĩ trước đó." }, { "id": "z007-2", "choices": [ "とは思えない", "としか思えない", "とも思われる", "とさえ思う" ], "answer": "とは思えない", "explanation": "Mẫu とは思えない (không thể nghĩ rằng/khó mà tin rằng) phủ định một khả năng vô lý." }, { "id": "z007-3", "choices": [ "条件", "証拠", "基礎", "理由" ], "answer": "理由", "explanation": "Danh từ 理由 (lý do/nguyên nhân) trả lời cho câu hỏi lý do tại sao lượng tiêu thụ gạo giảm." }, { "id": "z007-4", "choices": [ "例えば", "そのうえ", "だが", "そこで" ], "answer": "だが", "explanation": "Liên từ だが (nhưng/tuy nhiên) chuyển hướng sang mặt đối lập/vấn đề bất lợi." }, { "id": "z007-5", "choices": [ "考えたのだろう", "考えさせられた", "考えさせていたのだろう", "考えられていた" ], "answer": "考えさせられた", "explanation": "Thể sai khiến bị動 考えさせられた (bị làm cho phải suy nghĩ/khiến tôi phải suy nghĩ) thể hiện trải nghiệm nhận thức của bản thân tác giả." } ], "level": "N2" }, { "id": "z008", "passages": [ { "text": "今日も新宿駅前でティッシュをもらった。小さな袋の中に 10 枚ほどのティッシュが入っていて、ポケットなどに入れて持ち歩けるポケットティッシュだ。\n新宿や渋谷などの大きな駅を出て少し歩くと、ポケットティッシュを配っている人にあちこちで [1]。彼らが配るのは、ティッシュペーパーでもあり広告でもある。受け取るティッシュの袋には、旅行会社の名前が印刷されていたり、美容院や居酒屋の広告の紙が入っていたりする。最初は無料で配っているとは知らなかったので、渡されたときは驚いた。\nティッシュペーパーが日本で使われるようになったのは、1950 年代。その十数年後、[2] が広告宣伝用に配るためのポケットティッシュを開発した。そして、1970 年ごろにそれを道で配り始めた会社があり、それ以来、ポケットティッシュを道で配ることが定着していったらしい。\n確かに、ポケットティッシュは優れた宣伝グッズだ。まず、道で直接配るから、歩いている人の性別・年齢を見て、渡すことができる。個人情報を集めなくても、宣伝したい相手に宣伝できる効果的な [3]。また、ティッシュなら実用的で、ちらしだけよりも受け取ってもらいやすいし、使うたびに広告を見てもらえるという利点もある。\n[4]、私はポケットティッシュの広告を見て行動を起こしたことはない。もらう広告には全く興味がないが、無料だからついもらってしまい、たまっていく一方だ。だから、帰国したら友達に配りたい。日本文化の一つとして [5]。" } ], "translation": "Hôm nay tôi lại nhận được khăn giấy ở trước ga Shinjuku. Đó là loại khăn giấy bỏ túi gồm khoảng 10 tờ trong một túi nhỏ, có thể bỏ vào túi mang theo. Đi bộ một chút ra khỏi các ga lớn như Shinjuku hay Shibuya, ta bắt gặp người phát khăn giấy bỏ túi ở khắp nơi. Thứ họ phát vừa là khăn giấy vừa là quảng cáo. Trên túi khăn giấy nhận được có in tên công ty du lịch, hoặc có tờ quảng cáo tiệm làm tóc, quán nhậu... Lúc đầu tôi không biết họ phát miễn phí nên khi được đưa cho đã rất ngạc nhiên. Khăn giấy tissue bắt đầu được sử dụng ở Nhật từ những năm 1950. Mười mấy năm sau, một công ty đã phát triển khăn giấy bỏ túi để phát làm quảng cáo. Và đến khoảng năm 1970 có công ty bắt đầu phát nó trên đường, từ đó việc phát khăn giấy bỏ túi trên đường dường như đã trở thành thói quen phổ biến. Quả thực, khăn giấy bỏ túi là vật phẩm quảng cáo tuyệt vời. Trước hết, vì phát trực tiếp trên đường nên có thể nhìn giới tính, độ tuổi người đi đường để đưa. Có thể nói đó là phương pháp hiệu quả để quảng cáo tới đúng đối tượng mong muốn mà không cần thu thập thông tin cá nhân. Ngoài ra, khăn giấy lại thực dụng, dễ nhận hơn là chỉ có tờ rơi, và có lợi điểm là mỗi lần sử dụng người ta lại nhìn thấy quảng cáo. Tuy nhiên, tôi chưa từng vì nhìn quảng cáo trên khăn giấy bỏ túi mà hành động. Dù hoàn toàn không có hứng thú với quảng cáo nhận được, nhưng vì miễn phí nên tôi cứ vô tinh nhận, khiến chúng cứ chất đống lên. Vì vậy khi về nước tôi muốn phát cho bạn bè. Tôi định sẽ giới thiệu nó như một nét văn hóa của Nhật Bản.", "questions": [ { "id": "z008-1", "choices": [ "出会う", "出会ったのか", "出会うこともあった", "出会うはずだった" ], "answer": "出会う", "explanation": "Động từ 出会う (bắt gặp/gặp) ở thì hiện tại miêu tả hiện tượng quen thuộc diễn ra thường xuyên." }, { "id": "z008-2", "choices": [ "その会社", "ある会社", "彼らの会社", "こういう会社" ], "answer": "ある会社", "explanation": "Cụm ある会社 (một công ty nào đó) dùng khi giới thiệu một đối tượng mới lần đầu xuất hiện trong văn bản." }, { "id": "z008-3", "choices": [ "方法にするべきだ", "方法だと言える", "方法になりかねない", "方法があるに違いない" ], "answer": "方法だと言える", "explanation": "Mẫu と言える (có thể nói là): có thể nói là phương pháp hiệu quả." }, { "id": "z008-4", "choices": [ "むしろ", "要するに", "したがって", "とはいえ" ], "answer": "とはいえ", "explanation": "Liên từ とはいえ (mặc dù nói là vậy/tuy nhiên) chuyển hướng sang trải nghiệm thực tế phản bác lại lợi ích quảng cáo." }, { "id": "z008-5", "choices": [ "紹介されたわけだ", "ご紹介したからだ", "紹介しようと思う", "紹介されるのだと思う" ], "answer": "紹介しようと思う", "explanation": "Mẫu thể ý định しようと思う (dự định làm gì): tôi định sẽ giới thiệu." } ], "level": "N2" },
+  {
+    "id": "z009",
+    "passages": [
+      {
+        "text": "田舎にキャンプに行ったとき、夜空には無数の星があり、本当にきれいでした。毎晩あんな空が見たいと思っても、私の街では月しか見えません。都会で星は見られないのでしょうか。(東京・14 歳女子)\n\n回答\n都会で星が見えないのは、夜の街の照明が空気中のちりなどに当たって起こる「光害」という公害によるものです。「『光害』と言われても、夜は照明なしで生活できないから、都会で星を見るのはあきらめよう」とあなたは[1]。\nしかし、あきらめる前に少し考えてみてください。照明の登場で夜も明るくなり、人々の生活は安全で便利になりましたが、都会の夜の明るさは必要以上だと思いませんか。また、[2]を受けているのは人間だけです。昼は明るく、夜は暗いという自然のリズムがくずれ、植物や動物に大きな影響を与えています。\n夜、照明を使わなければ、光害はなくなります。[3]、東京のような大都会で夜にまったく照明を使わずに生活するのは現実的に不可能です。そこで、照明を目的に合わせて適切に使うことが、光害対策として重要になります。すでに現在、環境省が定めた光害対策の方針の下、道を照らすなら上方向に光がもれないようにするなどの取り組みが[4]。\n私たちも不要な照明はすぐに消すなど、常に適切な量の光を使おうと意識して行動していく必要があります。時間はかかるかもしれませんが、あなたの街でもキャンプの夜に見たような星が見られるように[5]。"
+      }
+    ],
+    "translation": "Khi đi cắm trại ở vùng quê, trên bầu trời đêm có muôn vàn vì sao thật đẹp. Dù rất muốn mỗi đêm đều được ngắm bầu trời như thế, nhưng ở thành phố của tôi chỉ nhìn thấy mặt trăng. Phải chăng ở đô thị không thể ngắm sao?\nTrả lời:\nViệc không nhìn thấy sao ở đô thị là do một loại ô nhiễm gọi là “ô nhiễm ánh sáng”, xảy ra khi đèn chiếu sáng ban đêm ở thành phố chiếu vào bụi bẩn trong không khí. Bạn có thể nghĩ rằng: “Dù nói là ô nhiễm ánh sáng nhưng ban đêm không thể sống thiếu đèn được, nên đành từ bỏ việc ngắm sao ở đô thị thôi”.\nNhưng trước khi từ bỏ, hãy thử suy nghĩ một chút. Dù sự xuất hiện của đèn chiếu sáng giúp ban đêm trở nên sáng sủa, cuộc sống con người an toàn và tiện lợi hơn, nhưng bạn có nghĩ rằng độ sáng ban đêm ở đô thị là vượt quá mức cần thiết không? Ngoài ra, chỉ có con người là nhận được ân huệ đó. Nhịp điệu tự nhiên ban ngày sáng ban đêm tối bị phá vỡ, gây ảnh hưởng lớn đến thực vật và động vật.\nNếu ban đêm không dùng đèn chiếu sáng thì ô nhiễm ánh sáng sẽ biến mất. Tuy nhiên, việc sống mà hoàn toàn không dùng đèn chiếu sáng vào ban đêm ở một đô thị lớn như Tokyo là điều không thể về mặt thực tế. Do đó, việc sử dụng ánh sáng phù hợp với mục đích trở nên quan trọng như một biện pháp ứng phó với ô nhiễm ánh sáng. Hiện nay, theo định hướng phòng chống ô nhiễm ánh sáng của Bộ Môi trường, các nỗ lực như làm cho ánh sáng không bị rò rỉ lên phía trên khi chiếu sáng đường phố đang được thực hiện.\nChúng ta cũng cần có ý thức hành động luôn sử dụng lượng ánh sáng phù hợp như tắt ngay những đèn không cần thiết. Dù có thể mất thời gian, nhưng hy vọng rằng ở thành phố của bạn cũng sẽ có thể nhìn thấy những vì sao như đã thấy trong đêm cắm trại.",
+    "questions": [
+      {
+        "id": "z009-1",
+        "choices": [
+          "思うかもしれません",
+          "思ってはいけません",
+          "思わねばなりません",
+          "思わなくてもいいです"
+        ],
+        "answer": "思うかもしれません",
+        "explanation": "V-る + かもしれない diễn đạt phán đoán hoặc khả năng: Có thể bạn sẽ nghĩ như vậy.\n\nNghĩa các lựa chọn:\n1) 思うかもしれません: có thể sẽ nghĩ — ĐÚNG.\n2) 思ってはいけません: không được nghĩ — Sai.\n3) 思わねばなりません: buộc phải nghĩ — Sai.\n4) 思わなくてもいいです: không cần phải nghĩ — Sai."
+      },
+      {
+        "id": "z009-2",
+        "choices": [
+          "どちらも影響",
+          "あのような害",
+          "こちらの照明",
+          "その恩恵"
+        ],
+        "answer": "その恩恵",
+        "explanation": "指示詞 「その恩恵」 chỉ sự tiện lợi và an toàn của ánh sáng đã được nhắc đến ở câu trước.\n\nNghĩa các lựa chọn:\n1) どちらも影響: cả hai đều ảnh hưởng — Sai.\n2) あのような害: tác hại như thế — Sai.\n3) こちらの照明: ánh sáng/đèn chiếu ở phía này — Sai.\n4) その恩恵: lợi ích/ân huệ đó — ĐÚNG."
+      },
+      {
+        "id": "z009-3",
+        "choices": [
+          "つまり",
+          "とはいえ",
+          "ところで",
+          "しかも"
+        ],
+        "answer": "とはいえ",
+        "explanation": "接続詞 「とはいえ」 (tuy nhiên / mặc dù nói là như vậy) biểu thị sự đối lập giữa lý thuyết và thực tế.\n\nNghĩa các lựa chọn:\n1) つまり: nói cách khác, tức là — Sai.\n2) とはいえ: tuy nói vậy — ĐÚNG.\n3) ところで: nhân tiện, chuyển chủ đề — Sai.\n4) しかも: hơn nữa — Sai."
+      },
+      {
+        "id": "z009-4",
+        "choices": [
+          "行われるためです",
+          "行われています",
+          "行われるという点です",
+          "行われているとします"
+        ],
+        "answer": "行われています",
+        "explanation": "V-ている diễn tả trạng thái/hành động đang được thực hiện ở hiện tại.\n\nNghĩa các lựa chọn:\n1) 行われるためです: bởi vì được tiến hành — Sai.\n2) 行われています: đang được tiến hành — ĐÚNG.\n3) 行われるという点です: điểm đáng nói là được tiến hành — Sai.\n4) 行われているとします: cho rằng đang được tiến hành — Sai."
+      },
+      {
+        "id": "z009-5",
+        "choices": [
+          "なると言えるでしょうか",
+          "なっているとよかったのです",
+          "なるといいですね",
+          "なってほしかったのでしょう"
+        ],
+        "answer": "なるといいですね",
+        "explanation": "～といいですね diễn đạt lời chúc hoặc hy vọng điều tốt đẹp sẽ xảy ra.\n\nNghĩa các lựa chọn:\n1) なると言えるでしょうか: liệu có thể nói là sẽ trở thành không? — Sai.\n2) なっているとよかったのです: giá mà đã trở thành như vậy thì tốt — Sai.\n3) なるといいですね: hy vọng sẽ trở thành như vậy — ĐÚNG.\n4) なってほしかったのでしょう: có lẽ đã mong muốn nó trở thành như vậy — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z010",
+    "passages": [
+      {
+        "text": "日本の「大人」\nチャンエディー\n商品名や商品の説明などで「大人の旅」「大人のパスタ」「大人のピアノ教室」といった表現をよく目にする。「大人」とあるが、成人用ではなく年齢制限はない。とすると、こうした表現で使われている「大人」とは[1]を指しているのだろうか。気になって調べてみた。\nある旅行会社は、「大人の旅」を企画している。これは、高級な旅館に泊まったり、時間をかけて旅行したり[2]。私はずっと、旅行会社が企画するのは低価格で短時間に多くの観光地に行く忙しい旅行というイメージを持っていたが、「大人の旅」は違っていた。\nまた、先日読んだ記事によると、「大人のパスタ」というのは、素材にこだわった商品らしい。価値があれば価格はあまり気にしないという人を対象として開発された。だから、良い素材を使うことによって多少価格が高くなっても[3]。\n駅にはられていた「大人のピアノ教室」のポスターで募集していた生徒は、昔習っていたピアノをまた習いたいという人や、仕事や家事以外に何か趣味を見つけたいという人だった。\n[4]経済的、時間的、精神的に余裕がある人が「大人」なのだろう。私は、旅行はお金をかけないで行きたいし、食事は質より量だ。勉強とアルバイトで精いっぱいだから、何かを習う余裕もない。「大人」の価値観がわからない私は、まだ「大人」ではなさそうだ。「大人」の商品の価値がわかるようになったら、「大人」に[5]。"
+      }
+    ],
+    "translation": "“Người lớn” ở Nhật Bản\nChan Eddie\nTôi thường thấy các cụm từ như “chuyến đi cho người lớn”, “mì pasta cho người lớn”, “lớp học piano cho người lớn” trong tên sản phẩm hay quảng cáo. Dù có chữ “người lớn” nhưng không phải chỉ dành cho người trưởng thành và cũng không giới hạn độ tuổi. Vậy thì chữ “người lớn” dùng trong các biểu đạt này chỉ những người như thế nào? Vì tò mò nên tôi đã thử tìm hiểu.\nMột công ty du lịch đang lên kế hoạch cho “chuyến đi cho người lớn”. Đây là kiểu chuyến đi ở tại nhà trọ cao cấp hay dành thời gian đi du lịch thong thả. Tôi từng luôn có ấn tượng rằng các chuyến đi do công ty du lịch lên kế hoạch là những chuyến đi bận rộn giá rẻ đi nhiều điểm tham quan trong thời gian ngắn, nhưng “chuyến đi cho người lớn” thì khác.\nNgoài ra, theo một bài báo tôi đọc gần đây, “mì pasta cho người lớn” hình như là sản phẩm chú trọng vào nguyên liệu. Nó được phát triển hướng tới những người nếu thấy có giá trị thì không quá bận tâm đến giá cả. Vì vậy, bằng việc dùng nguyên liệu tốt, dù giá có cao hơn một chút thì nghe nói cũng không thành vấn đề.\nHọc viên được tuyển trên áp phích “lớp học piano cho người lớn” dán ở ga là những người muốn học lại piano đã từng học ngày xưa, hay những người muốn tìm một sở thích nào đó ngoài công việc và việc nhà.\nTóm lại, có lẽ người có sự dư dả về kinh tế, thời gian và tinh thần mới là “người lớn”. Tôi thì muốn đi du lịch không tốn tiền, ăn uống thì trọng lượng hơn chất. Vì đã dốc hết sức cho việc học và làm thêm nên tôi cũng không có thời gian dư dả để học thêm cái gì. Một người chưa hiểu được giá trị quan của “người lớn” như tôi có vẻ vẫn chưa phải là “người lớn”. Khi đã hiểu được giá trị của các sản phẩm dành cho “người lớn”, có lẽ lúc đó tôi mới có thể trở thành “người lớn”.",
+    "questions": [
+      {
+        "id": "z010-1",
+        "choices": [
+          "ここまで",
+          "そういう大人",
+          "どのような人",
+          "それ以下"
+        ],
+        "answer": "どのような人",
+        "explanation": "Dùng 「どのような人」 để đặt câu hỏi nghi vấn về đối tượng người như thế nào.\n\nNghĩa các lựa chọn:\n1) ここまで: đến mức này — Sai.\n2) そういう大人: người lớn như vậy — Sai.\n3) どのような人: người như thế nào — ĐÚNG.\n4) それ以下: thấp hơn mức đó — Sai."
+      },
+      {
+        "id": "z010-2",
+        "choices": [
+          "するものだ",
+          "するつもりだ",
+          "するほうだ",
+          "するべきだ"
+        ],
+        "answer": "するものだ",
+        "explanation": "V-る + ものだ diễn tả bản chất hoặc đặc điểm thông thường của sự việc.\n\nNghĩa các lựa chọn:\n1) するものだ: vốn thường là/lẽ thường là làm — ĐÚNG.\n2) するつもりだ: dự định làm — Sai.\n3) するほうだ: thuộc kiểu thường làm — Sai.\n4) するべきだ: nên/phải làm — Sai."
+      },
+      {
+        "id": "z010-3",
+        "choices": [
+          "問題ないかどうかだ",
+          "問題ないということだ",
+          "問題ないとするだろうか",
+          "問題ないのだと思っていた"
+        ],
+        "answer": "問題ないということだ",
+        "explanation": "～ということだ truyền đạt thông tin nghe nói từ bài báo đã đọc.\n\nNghĩa các lựa chọn:\n1) 問題ないかどうかだ: là có vấn đề hay không — Sai.\n2) 問題ないということだ: có nghĩa là không có vấn đề — ĐÚNG.\n3) 問題ないとするだろうか: liệu có cho rằng không có vấn đề không — Sai.\n4) 問題ないのだと思っていた: đã nghĩ rằng không có vấn đề — Sai."
+      },
+      {
+        "id": "z010-4",
+        "choices": [
+          "しかも",
+          "ただし",
+          "要するに",
+          "するべきだ"
+        ],
+        "answer": "要するに",
+        "explanation": "接続詞 「要するに」 (tóm lại) dùng để tổng kết lại ý chính từ các ví dụ phía trên.\n\nNghĩa các lựa chọn:\n1) しかも: hơn nữa — Sai.\n2) ただし: tuy nhiên, với điều kiện là — Sai.\n3) 要するに: tóm lại, nói ngắn gọn — ĐÚNG.\n4) するべきだ: nên/phải làm — Sai."
+      },
+      {
+        "id": "z010-5",
+        "choices": [
+          "なれるはずだった",
+          "なりたくなってきた",
+          "なるわけではない",
+          "なれるのかもしれない"
+        ],
+        "answer": "なれるのかもしれない",
+        "explanation": "V-れる + のかもしれない diễn tả phán đoán khả năng có thể xảy ra trong tương lai.\n\nNghĩa các lựa chọn:\n1) なれるはずだった: đáng lẽ có thể trở thành — Sai.\n2) なりたくなってきた: dần dần bắt đầu muốn trở thành — Sai.\n3) なるわけではない: không có nghĩa là sẽ trở thành — Sai.\n4) なれるのかもしれない: có lẽ có thể trở thành — ĐÚNG."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z011",
+    "passages": [
+      {
+        "text": "「のぼり」\nシルバ ジョゼ\nそれを見たのは、日本に着いた日、空港からホテルへバスで向かっているときだった。高さは[1]。青い布に白い字で「夏祭り」と書かれた大きな長方形の旗が道路沿いに一定間隔で何本も立っていたのだ。初めて見る、面白い光景だった。\nこのとき、「この旗は何だ?」と思った。しかし、街を歩くと、あちこちに似たような旗があり、それらを見ているうちに、「これは広告だ。」と気づいた。旗にはそれぞれ、「お弁当」、「食べ放題」、「本日特売日」といった短い言葉が書かれている。[2]旗も色が派手で高さがあり、1 本でもよく目立つ。そのため自然と目が行く。また、何本か同じ旗が並んで立っていると、まるで一つの大きな看板のように見える。さらに、旗はどこにでも簡単に立てられるから、街のあちこちで[3]。私はこの旗に強い関心を持った。\n[4]、この旗は「のぼり」というそうだ。サイズは縦 180 センチ、横 60 センチのものが多い。布の上部と片方の端に棒が通してあり、風が吹かなくても見えるようになっている。今の形ののぼりは、600 年ぐらい前にはすでにあり、当時は戦いで自分の軍と敵の軍とを見分けるために使われていたらしい。時代は変わり、今はそのような目的で使われることはない。だが、今も、情報を一瞬ではっきりと伝えたいときにのぼりを使うのは[5]。のぼりの特徴をとらえ、広告に応用した発想に感心した。"
+      }
+    ],
+    "translation": "“Cờ Nobori”\nSilva Jose\nLần đầu tiên tôi nhìn thấy nó là vào ngày đến Nhật Bản, khi đang đi xe buýt từ sân bay về khách sạn. Chiều cao có lẽ khoảng 2 mét. Những lá cờ hình chữ nhật lớn màu xanh lam có chữ màu trắng ghi “Lễ hội mùa hè” được dựng liên tiếp theo khoảng cách nhất định dọc theo con đường. Đó là một cảnh tượng thú vị lần đầu tôi nhìn thấy.\nLúc đó tôi nghĩ: “Lá cờ này là gì vậy?”. Nhưng khi đi dạo quanh thành phố, thấy những lá cờ tương tự ở khắp nơi, trong lúc ngắm nhìn tôi đã nhận ra: “Đây là quảng cáo”. Trên mỗi lá cờ có ghi những từ ngắn gọn như “Cơm hộp”, “Ăn thỏa thích”, “Ngày giảm giá hôm nay”. Những lá cờ như thế này có màu sắc sặc sỡ và chiều cao, nên dù chỉ 1 cây cũng rất nổi bật. Vì vậy mắt tự nhiên sẽ chú ý tới. Ngoài ra, khi nhiều lá cờ giống nhau được dựng xếp hàng, chúng trông như một tấm biển quảng cáo lớn. Hơn nữa, vì cờ có thể dựng dễ dàng ở bất kỳ đâu nên đang được sử dụng ở khắp nơi trong thành phố. Tôi đã dành sự quan tâm mạnh mẽ đến lá cờ này.\nSau khi tìm hiểu, nghe nói lá cờ này được gọi là “Nobori”. Kích thước phổ biến là chiều dài 180 cm, chiều rộng 60 cm. Một cây sào được luồn qua phần trên và một mép của dải vải, giúp cờ vẫn có thể nhìn rõ ngay cả khi không có gió. Dạng cờ nobori như hiện tại đã có từ khoảng 600 năm trước, và nghe nói thời đó nó được dùng trong chiến trận để phân biệt quân mình và quân địch. Thời đại đã thay đổi, ngày nay nó không còn được dùng cho mục đích đó nữa. Nhưng ngày nay, việc dùng cờ nobori khi muốn truyền đạt thông tin một cách rõ ràng trong khoảnh khắc hình như vẫn không thay đổi. Tôi rất khâm phục ý tưởng nắm bắt đặc trưng của cờ nobori và ứng dụng vào quảng cáo.",
+    "questions": [
+      {
+        "id": "z011-1",
+        "choices": [
+          "２メートルくらいだっただろうか",
+          "２メートルくらいだったものなのか",
+          "２メートルくらいだと言われたそうだ",
+          "２メートルくらいだと思われていたことだ"
+        ],
+        "answer": "２メートルくらいだっただろうか",
+        "explanation": "～だろうか diễn tả sự phỏng đoán, tự hỏi hoặc ước lượng của bản thân.\n\nNghĩa các lựa chọn:\n1) ２メートルくらいだっただろうか: không biết có khoảng 2 mét hay chăng — ĐÚNG.\n2) ２メートルくらいだったものなのか: liệu đã từng khoảng 2 mét hay sao — Sai.\n3) ２メートルくらいだと言われたそうだ: nghe nói được cho là khoảng 2 mét — Sai.\n4) ２メートルくらいだと思われていたことだ: điều từng được cho là khoảng 2 mét — Sai."
+      },
+      {
+        "id": "z011-2",
+        "choices": [
+          "このように",
+          "あのように",
+          "どの",
+          "そちらの"
+        ],
+        "answer": "このように",
+        "explanation": "指示詞 「このように」 (như thế này) liên kết với nội dung miêu tả loại cờ ở câu trước.\n\nNghĩa các lựa chọn:\n1) このように: như thế này — ĐÚNG.\n2) あのように: như thế kia — Sai.\n3) どの: nào — Sai.\n4) そちらの: ở phía đó/của phía đó — Sai."
+      },
+      {
+        "id": "z011-3",
+        "choices": [
+          "使われている",
+          "使っていく",
+          "使おう",
+          "使わせる"
+        ],
+        "answer": "使われている",
+        "explanation": "Thể bị động/trạng thái 「使われている」 diễn tả việc cờ đang được sử dụng rộng rãi.\n\nNghĩa các lựa chọn:\n1) 使われている: được sử dụng — ĐÚNG.\n2) 使っていく: sẽ tiếp tục sử dụng — Sai.\n3) 使おう: hãy/cùng sử dụng — Sai.\n4) 使わせる: bắt/cho phép sử dụng — Sai."
+      },
+      {
+        "id": "z011-4",
+        "choices": [
+          "以上から",
+          "旗といえば",
+          "しかしながら",
+          "調べてみたところ"
+        ],
+        "answer": "調べてみたところ",
+        "explanation": "V-てみたところ: sau khi thử tìm hiểu thì phát hiện/biết được thông tin.\n\nNghĩa các lựa chọn:\n1) 以上から: từ những điều trên — Sai.\n2) 旗といえば: nói đến lá cờ thì — Sai.\n3) しかしながら: tuy nhiên — Sai.\n4) 調べてみたところ: sau khi thử tìm hiểu thì — ĐÚNG."
+      },
+      {
+        "id": "z011-5",
+        "choices": [
+          "変わらないこともない",
+          "変わらないようだ",
+          "変えないでおきたい",
+          "変えなければならない"
+        ],
+        "answer": "変わらないようだ",
+        "explanation": "～ようだ diễn đạt sự phán đoán dựa trên thực tế quan sát được.\n\nNghĩa các lựa chọn:\n1) 変わらないこともない: không phải là không thay đổi — Sai.\n2) 変わらないようだ: có vẻ không thay đổi — ĐÚNG.\n3) 変えないでおきたい: muốn cứ để nguyên, không thay đổi — Sai.\n4) 変えなければならない: buộc phải thay đổi — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z012",
+    "passages": [
+      {
+        "text": "すしを載せた皿が、客席沿いに設置された台の上を通って次々に流れていく。回転ずしの店で、目の前を通り過ぎるおいしそうなすしを見ていると、どれも食べたくなる。つい食べ過ぎてしまうという人も[1]。回転ずしで 1 回に食べる量の平均は一人約 10 皿だという。すし 1 つのご飯の量が約20グラムで、普通、回転ずしでは1皿にすしが2つ載っているから、約400グラムもご飯を食べていることになる。茶わん 1 杯分のご飯の量が約 150 グラムだとすると、[2]。回転ずしでたくさん食べてしまうのはなぜなのか。\nこんな[3]。すしが好きな人たちにすしを食べてもらう。まずは、すしの皿を台に載せて流さず、1 皿ずつ注文してすしを食べる。別の日に今度は、流れているすしの皿を取ってすしを食べる。[4]、流れているときに食べた量は、そうでないときの約 1.5 倍になったという。\n心理学の専門家によると、これは「目の前に流れてくる」ことの効果らしい。すしが目の前に流れてくると、意識しなくても目に入り、あれもこれも食べたいと思ってしまう。また、人間は、目の前で動いている食べ物を見ると目で追って手に入れようとする性質を持っており、それも思わず皿を取ってしまう原因の一つだということだ。\n回転ずしでたくさん食べてしまうのには、納得の理由があったのだ。回転ずしの店に行ったとき、食べ過ぎてしまうのは[5]。"
+      }
+    ],
+    "translation": "Những đĩa sushi được đặt trên băng chuyền chạy dọc theo chỗ ngồi lần lượt trôi qua. Ở quán sushi băng chuyền, khi nhìn những đĩa sushi trông ngon lành trôi qua trước mắt, đĩa nào ta cũng muốn ăn. Có lẽ người trót ăn quá nhiều cũng đông.\nNghe nói lượng ăn trung bình 1 lần ở quán sushi băng chuyền là khoảng 10 đĩa mỗi người. Lượng cơm của 1 miếng sushi là khoảng 20 gam, thường 1 đĩa sushi có 2 miếng nên tính ra đã ăn tới khoảng 400 gam cơm. Nếu lượng cơm trong 1 bát khoảng 150 gam thì tức là đã ăn từ 2 bát trở lên. Tại sao ở quán sushi băng chuyền người ta lại ăn nhiều như vậy?\nCó một thực nghiệm thế này. Cho những người thích sushi ăn sushi. Đầu tiên, không để đĩa sushi lên băng chuyền chạy mà gọi từng đĩa một để ăn. Vào một ngày khác, lần này lấy các đĩa sushi đang chạy trên băng chuyền để ăn. Kết quả là, lượng ăn khi sushi đang chạy gấp khoảng 1,5 lần so với khi không chạy.\nTheo các chuyên gia tâm lý học, đây hình như là hiệu ứng của việc “trôi qua trước mắt”. Khi sushi trôi qua trước mắt, dù không cố ý nó cũng lọt vào tầm mắt khiến ta muốn ăn cái này cái kia. Ngoài ra, con người có bản tính khi nhìn thấy thức ăn đang chuyển động trước mắt sẽ dõi theo và muốn lấy được nó, đó cũng là một trong những nguyên nhân khiến ta vô thức lấy đĩa sushi.\nViệc ăn nhiều ở quán sushi băng chuyền hóa ra có lý do rất thuyết phục. Khi đến quán sushi băng chuyền, việc ăn quá nhiều có lẽ là điều khó tránh khỏi.",
+    "questions": [
+      {
+        "id": "z012-1",
+        "choices": [
+          "多かったのか",
+          "多いのではないか",
+          "多ければいい",
+          "多くてよかった"
+        ],
+        "answer": "多いのではないか",
+        "explanation": "～ではないか diễn đạt sự suy đoán nghi vấn nhẹ nhàng: Có lẽ là nhiều.\n\nNghĩa các lựa chọn:\n1) 多かったのか: không biết có nhiều hay không — Sai.\n2) 多いのではないか: có lẽ là nhiều chăng — ĐÚNG.\n3) 多ければいい: nhiều thì tốt — Sai.\n4) 多くてよかった: may mà đã nhiều — Sai."
+      },
+      {
+        "id": "z012-2",
+        "choices": [
+          "2 杯分以上だ",
+          "2 杯分以上でもおかしくない",
+          "2 杯分以上だからだ",
+          "2 杯分以上でなければいけない"
+        ],
+        "answer": "2 杯分以上だ",
+        "explanation": "Khẳng định kết quả của phép tính logic: tức là hơn 2 bát cơm.\n\nNghĩa các lựa chọn:\n1) 2 杯分以上だ: là hơn/phần tương đương ít nhất 2 bát — ĐÚNG.\n2) 2 杯分以上でもおかしくない: dù từ 2 bát trở lên cũng không có gì lạ — Sai.\n3) 2 杯分以上だからだ: bởi vì là từ 2 bát trở lên — Sai.\n4) 2 杯分以上でなければいけない: phải từ 2 bát trở lên — Sai."
+      },
+      {
+        "id": "z012-3",
+        "choices": [
+          "実験だといえる",
+          "実験だとしている",
+          "実験がある",
+          "実験になる"
+        ],
+        "answer": "実験がある",
+        "explanation": "Dùng cấu trúc 「実験がある」 để giới thiệu một cuộc thực nghiệm.\n\nNghĩa các lựa chọn:\n1) 実験だといえる: có thể nói là một cuộc thí nghiệm — Sai.\n2) 実験だとしている: cho rằng đó là một cuộc thí nghiệm — Sai.\n3) 実験がある: có một cuộc thí nghiệm — ĐÚNG.\n4) 実験になる: trở thành một cuộc thí nghiệm — Sai."
+      },
+      {
+        "id": "z012-4",
+        "choices": [
+          "つまり",
+          "すると",
+          "ところが",
+          "一方で"
+        ],
+        "answer": "すると",
+        "explanation": "接続詞 「すると」 (ngay sau đó / kết quả là) diễn tả kết quả thu được sau khi tiến hành thực nghiệm.\n\nNghĩa các lựa chọn:\n1) つまり: nói cách khác, tức là — Sai.\n2) すると: sau đó; thế thì; kết quả là — ĐÚNG.\n3) ところが: thế nhưng — Sai.\n4) 一方で: mặt khác — Sai."
+      },
+      {
+        "id": "z012-5",
+        "choices": [
+          "避けたいに決まっている",
+          "避けるべきだった",
+          "避けられたかもしれない",
+          "避けられないのだろう"
+        ],
+        "answer": "避けられないのだろう",
+        "explanation": "～のだろう diễn đạt sự phán đoán kết luận: Có lẽ là điều không thể tránh khỏi.\n\nNghĩa các lựa chọn:\n1) 避けたいに決まっている: chắc chắn là muốn tránh — Sai.\n2) 避けるべきだった: đáng lẽ nên tránh — Sai.\n3) 避けられたかもしれない: có lẽ đã có thể tránh được — Sai.\n4) 避けられないのだろう: có lẽ không thể tránh khỏi — ĐÚNG."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z013",
+    "passages": [
+      {
+        "text": "25 時\nロベズ エドガー\n先日、サッカーの日本代表が海外で試合を行い、その試合が深夜にテレビで生中継された。生中継が始まる前に、放送は何時からか確認しようとインターネットで調べて驚いた。あるサイトに「金曜 25 時放送」と書いてあったのだ。一日は[1]。知人に聞いて、「金曜 25 時」というのは土曜の午前 1 時のことだと知った。[2]「25 時」のような表現は、店の営業時間の掲示などでも見るという。なぜ、午前 1 時を「25 時」と表現するのだろうか。\n表現を使い始めたのはテレビ局だとする説が有力だ。日本の多くのテレビ局では、朝 4 時前後に一日の放送が始まり、そこからの 24 時間を一日と考える。つまり、テレビ局にとっては、夜の 0 時が一日の終わりではない。22 時、23時ときたら、その次は0時ではなく24時で、午前1時は25時なのである。このようにして「25 時」という表現が[3]。\n現代の日本社会は夜型化が進み、午前0時を過ぎても活動している人が多い。だから、午前0時を過ぎても「今日」は続く。[4]、「起きてから寝るまでが今日」だと考えれば、翌日の午前1時ではなく、その日の 25 時と表現したほうが的確かもしれない。私も、土曜の午前 1 時に見た番組は金曜の夜に見たという感じがするので、金曜 25 時と考えたほうが実際の感覚に近い気もする。生活の夜型化と「寝るまでが今日」という考え方が、24 時間しかない一日に「25 時」を[5]。"
+      }
+    ],
+    "translation": "25 giờ\nLopez Edgar\nVừa rồi, đội tuyển bóng đá quốc gia Nhật Bản có trận đấu ở nước ngoài và trận đấu đó được phát sóng trực tiếp trên truyền hình vào đêm muộn. Trước khi buổi phát sóng trực tiếp bắt đầu, tôi tìm hiểu trên internet để xác định xem phát sóng từ mấy giờ và đã rất ngạc nhiên. Một trang web ghi là “phát sóng lúc 25 giờ thứ Sáu”. Một ngày chẳng phải là 24 giờ sao? Hỏi người quen, tôi mới biết “25 giờ thứ Sáu” có nghĩa là 1 giờ sáng thứ Bảy. Người ta nói rằng biểu đạt như “25 giờ” cũng xuất hiện ở bảng giờ mở cửa của các cửa hàng. Tại sao lại biểu đạt 1 giờ sáng là “25 giờ”?\nThuyết cho rằng đài truyền hình là nơi bắt đầu dùng biểu đạt này là có căn cứ nhất. Ở nhiều đài truyền hình Nhật Bản, một ngày phát sóng bắt đầu vào khoảng 4 giờ sáng, và 24 giờ tính từ mốc đó được xem là một ngày. Tức là, đối với đài truyền hình, 0 giờ đêm không phải là thời điểm kết thúc một ngày. Sau 22 giờ, 23 giờ thì tiếp theo không phải là 0 giờ mà là 24 giờ, và 1 giờ sáng chính là 25 giờ. Nghe nói biểu đạt “25 giờ” đã được sinh ra như thế.\nXã hội Nhật Bản hiện đại đang ngày càng thức khuya hơn, nhiều người vẫn hoạt động dù đã qua 0 giờ đêm. Do đó, dù qua 0 giờ đêm thì “hôm nay” vẫn tiếp tục. Tuy nhiên, nếu nghĩ rằng “từ khi thức dậy cho đến khi đi ngủ là hôm nay”, thì việc biểu đạt là 25 giờ ngày hôm đó có lẽ chính xác hơn là 1 giờ sáng ngày hôm sau. Bản thân tôi cũng có cảm giác chương trình xem lúc 1 giờ sáng thứ Bảy là xem vào đêm thứ Sáu, nên tôi thấy việc nghĩ là 25 giờ thứ Sáu gần với cảm giác thực tế hơn. Việc lối sống chuyển sang thức khuya và tư tưởng “cho đến khi đi ngủ là hôm nay” có lẽ đã tạo ra thêm “25 giờ” vào một ngày vốn chỉ có 24 giờ.",
+    "questions": [
+      {
+        "id": "z013-1",
+        "choices": [
+          "24 時間なのか",
+          "24 時間ではないのか",
+          "24 時間といえるか",
+          "24 時間だっただろうか"
+        ],
+        "answer": "24 時間ではないのか",
+        "explanation": "～ではないのか dùng để diễn tả sự thắc mắc/ngạc nhiên tự hỏi: Chẳng phải một ngày là 24 giờ sao?\n\nNghĩa các lựa chọn:\n1) 24 時間なのか: có phải là 24 giờ không — Sai.\n2) 24 時間ではないのか: chẳng phải là 24 giờ hay sao — ĐÚNG.\n3) 24 時間といえるか: có thể gọi là 24 giờ không — Sai.\n4) 24 時間だっただろうか: không biết có phải đã là 24 giờ không — Sai."
+      },
+      {
+        "id": "z013-2",
+        "choices": [
+          "こういう",
+          "それ以外の",
+          "同じ",
+          "次のような"
+        ],
+        "answer": "こういう",
+        "explanation": "指示詞 「こういう」 (loại biểu đạt như thế này) chỉ cách gọi 25 giờ ở đoạn trước.\n\nNghĩa các lựa chọn:\n1) こういう: như thế này/loại như thế này — ĐÚNG.\n2) それ以外の: ngoài điều đó ra — Sai.\n3) 同じ: giống nhau — Sai.\n4) 次のような: như sau — Sai."
+      },
+      {
+        "id": "z013-3",
+        "choices": [
+          "生まれることになっている",
+          "生まれたとしよう",
+          "生まれたといわれていた",
+          "生まれたらしい"
+        ],
+        "answer": "生まれたらしい",
+        "explanation": "～らしい dùng để truyền đạt lại thông tin nghe nói hoặc phán đoán có căn cứ.\n\nNghĩa các lựa chọn:\n1) 生まれることになっている: được định sẵn sẽ ra đời — Sai.\n2) 生まれたとしよう: hãy giả sử đã ra đời — Sai.\n3) 生まれたといわれていた: từng được nói là đã ra đời — Sai.\n4) 生まれたらしい: có vẻ/nghe nói đã ra đời — ĐÚNG."
+      },
+      {
+        "id": "z013-4",
+        "choices": [
+          "ただ",
+          "一方",
+          "確かに",
+          "それでも"
+        ],
+        "answer": "確かに",
+        "explanation": "接続詞 「確かに」 (quả thực là / đúng là) thừa nhận một thực tế trước khi đưa ra nhận định tiếp theo.\n\nNghĩa các lựa chọn:\n1) ただ: chỉ; tuy nhiên — Sai.\n2) 一方: mặt khác — Sai.\n3) 確かに: quả thực, đúng là — ĐÚNG.\n4) それでも: dù vậy — Sai."
+      },
+      {
+        "id": "z013-5",
+        "choices": [
+          "作ったからだ",
+          "作ったのだろう",
+          "作ったこともある",
+          "作ったほどだ"
+        ],
+        "answer": "作ったのだろう",
+        "explanation": "～のだろう diễn đạt sự phán đoán/kết luận nguyên nhân của người viết.\n\nNghĩa các lựa chọn:\n1) 作ったからだ: là vì đã tạo ra — Sai.\n2) 作ったのだろう: có lẽ đã tạo ra — ĐÚNG.\n3) 作ったこともある: cũng đã từng tạo ra — Sai.\n4) 作ったほどだ: đến mức đã tạo ra — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z014",
+    "passages": [
+      {
+        "text": "インターネットや携帯電話で使われる「絵文字」。文字の中に顔のマークなどを入れて気持ちや状況を表すもので、メッセージをやり取りするときに[1]。\n絵文字は日本で生まれ、世界中に広がった。[2]、英語でもそのまま「Emoji」と呼ばれている。\nでは、世界で最初の絵文字はいつ、どのようにして生まれたのだろうか。\n[3]、1990 年代の後半に日本の携帯電話会社が開発したものだ。当時の携帯電話は画面が小さく、一度に送信できる文字数にも制限があった。そこで、短い文章でも自分の気持ちを伝えられるようにと、ハートマークなどの絵文字が作られた。\n携帯電話会社は、絵文字に[4]。文字だけでは伝わりにくい感情を簡単に表現できるとして、絵文字はすぐに若者を中心に人気を集めた。\n言葉が違っても、絵文字を使えば気持ちが通じ合える。[5]、絵文字は国や文化的背景を超えて、世界中で使われるようになったのだろう。"
+      }
+    ],
+    "translation": "“Biểu tượng cảm xúc (Emoji)” được dùng trên internet và điện thoại di động. Đó là việc chèn các biểu tượng khuôn mặt hay ký hiệu vào trong văn bản để thể hiện cảm xúc và tình huống, có lẽ bạn cũng sử dụng khi trao đổi tin nhắn.\nEmoji sinh ra ở Nhật Bản và lan rộng ra toàn thế giới. Trái lại, ngay cả trong tiếng Anh nó cũng được gọi nguyên văn là “Emoji”.\nVậy thì, Emoji đầu tiên trên thế giới đã ra đời từ khi nào và như thế nào?\nThực ra, nó do một công ty điện thoại di động Nhật Bản phát triển vào nửa sau những năm 1990. Điện thoại thời đó màn hình nhỏ và số lượng ký tự có thể gửi cùng lúc cũng bị giới hạn. Vì vậy, các Emoji như hình trái tim đã được tạo ra để có thể truyền tải cảm xúc của mình dù trong văn bản ngắn.\nCác công ty điện thoại di động coi Emoji là điểm nổi bật khi sử dụng. Với lý do có thể dễ dàng thể hiện cảm xúc vốn khó truyền đạt chỉ bằng chữ viết, Emoji đã nhanh chóng thu hút sự yêu thích chủ yếu từ giới trẻ.\nDù ngôn ngữ có khác nhau, nếu dùng Emoji thì tình cảm vẫn có thể thông thấu lẫn nhau. Chính vì vậy, Emoji chắc chắn đã vượt qua rào cản quốc gia và nền tảng văn hóa để được sử dụng trên toàn thế giới.",
+    "questions": [
+      {
+        "id": "z014-1",
+        "choices": [
+          "ご存じなわけだ",
+          "ご存じだろうか",
+          "ご存じのようだ",
+          "ご存じだからだろう"
+        ],
+        "answer": "ご存じだろうか",
+        "explanation": "「ご存じだろうか」 là câu hỏi tu từ mở đầu bài viết để gợi sự chú ý của người đọc.\n\nNghĩa các lựa chọn:\n1) ご存じなわけだ: hóa ra là biết — Sai.\n2) ご存じだろうか: liệu bạn có biết không? — ĐÚNG.\n3) ご存じのようだ: có vẻ như biết — Sai.\n4) ご存じだからだろう: có lẽ là vì biết — Sai."
+      },
+      {
+        "id": "z014-2",
+        "choices": [
+          "それに",
+          "しかし",
+          "または",
+          "それどころか"
+        ],
+        "answer": "それどころか",
+        "explanation": "接続詞 「それどころか」 (trái lại / không những thế) dùng để nhấn mạnh sự lan rộng của Emoji.\n\nNghĩa các lựa chọn:\n1) それに: thêm vào đó — Sai.\n2) しかし: nhưng, tuy nhiên — Sai.\n3) または: hoặc là — Sai.\n4) それどころか: không những thế/trái lại (tùy ngữ cảnh) — ĐÚNG."
+      },
+      {
+        "id": "z014-3",
+        "choices": [
+          "作成者が理解したのは",
+          "日本で考えられたのが",
+          "ここに生み出したのは",
+          "こうして生まれたのが"
+        ],
+        "answer": "こうして生まれたのが",
+        "explanation": "Cụm 「こうして生まれたのが」 liên kết với câu hỏi ở đoạn trước về nguồn gốc ra đời của Emoji.\n\nNghĩa các lựa chọn:\n1) 作成者が理解したのは: điều mà người tạo ra đã hiểu là — Sai.\n2) 日本で考えられたのが: điều được nghĩ ra ở Nhật là — Sai.\n3) ここに生み出したのは: điều đã tạo ra ở đây là — Sai.\n4) こうして生まれたのが: thứ ra đời theo cách này là — ĐÚNG."
+      },
+      {
+        "id": "z014-4",
+        "choices": [
+          "使用されている",
+          "使用した点だ",
+          "使用していける",
+          "使用したいものだ"
+        ],
+        "answer": "使用した点だ",
+        "explanation": "Danh từ 「～点だ」 dùng để nêu rõ đặc điểm/nguyên nhân được đề cập.\n\nNghĩa các lựa chọn:\n1) 使用されている: đang được sử dụng — Sai.\n2) 使用した点だ: điểm đã sử dụng — ĐÚNG.\n3) 使用していける: có thể tiếp tục sử dụng — Sai.\n4) 使用したいものだ: muốn sử dụng — Sai."
+      },
+      {
+        "id": "z014-5",
+        "choices": [
+          "結果として表れるかもしれない",
+          "結果のはずだった",
+          "結果に違いない",
+          "結果でなければなかった"
+        ],
+        "answer": "結果に違いない",
+        "explanation": "～に違いない diễn tả sự khẳng định/phán đoán chắc chắn của tác giả.\n\nNghĩa các lựa chọn:\n1) 結果として表れるかもしれない: có thể biểu hiện thành kết quả — Sai.\n2) 結果のはずだった: đáng lẽ là kết quả — Sai.\n3) 結果に違いない: chắc chắn là kết quả — ĐÚNG.\n4) 結果でなければなかった: nếu không phải kết quả thì đã không... (cấu trúc không tự nhiên) — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z015",
+    "passages": [
+      {
+        "text": "高齢化社会におけるスポーツ\n105 歳の日本人男性が、陸上競技の 100 メートルで世界記録を出した。2015 年に行われたある陸上の世界大会でのことだ。\n「マスターズ」と呼ばれる[1]。日本ではまだあまり知られていないが、スポーツをいくつになっても楽しむことを目的とした大会で、陸上、水泳、テニスなど様々な競技の大会が世界中で開催されている。陸上の大会では通常5歳ごとに分けられたクラスで同年代と競う。そのため、体力が落ちて若いころのように走れなくても対等に競うことができる。つまり、105 歳の男性が出した世界記録は、彼が参加したクラスにおける世界記録[2]。\nある調査によると、マスターズに参加している高齢者は心と体の健康を維持しているという。運動は心に活気を生み、記録という目標は生活の中で感じる不安やストレスを少なくするそうだ。\n心も体も元気な高齢者の多い社会は、高齢化社会の一つの理想である。マスターズに参加する高齢者が増えれば、この理想に近づくことができる。[3]、マスターズの存在が影響を与えるのは、参加者にとどまらない。参加者以外の高齢者も、同年代が記録を目指す姿を目にすることで、体を動かすきっかけや心の活力が得られるに違いない。[4]、マスターズが広く知られる必要がある。\nテレビなどで目にする機会が増えるといい。いつまでも心身ともに元気でいられる[5]。その社会の実現に向けて、マスターズの今後の発展が期待される。"
+      }
+    ],
+    "translation": "Thể thao trong xã hội hóa lão\nMột cụ ông người Nhật 105 tuổi đã lập kỷ lục thế giới ở cự ly 100m điền kinh. Đó là tại một giải đấu điền kinh thế giới diễn ra vào năm 2015.\nCó một giải đấu được gọi là “Masters”. Ở Nhật Bản giải đấu này vẫn chưa được biết đến rộng rãi, nhưng đây là giải đấu với mục đích giúp mọi người thưởng thức thể thao dù ở bất kỳ độ tuổi nào, các giải đấu nhiều môn thi như điền kinh, bơi lội, quần vợt được tổ chức trên toàn thế giới. Trong giải điền kinh, thông thường các vận động viên cạnh tranh với những người cùng độ tuổi trong các nhóm phân chia theo mỗi 5 tuổi. Do đó, dù thể lực giảm sút không thể chạy như thời trẻ thì vẫn có thể cạnh tranh bình đẳng. Tóm lại, kỷ lục thế giới mà cụ ông 105 tuổi lập được là kỷ lục thế giới ở nhóm tuổi mà cụ tham gia.\nTheo một khảo sát, người cao tuổi tham gia Masters giữ gìn được sức khỏe cả về thể chất lẫn tinh thần. Vận động tạo ra sức sống cho tâm hồn, và mục tiêu kỷ lục giúp giảm bớt lo âu cũng như căng thẳng trong cuộc sống.\nMột xã hội có nhiều người cao tuổi khỏe mạnh cả tinh thần lẫn thể chất là một lý tưởng của xã hội hóa lão. Nếu người cao tuổi tham gia Masters tăng lên thì có thể tiến gần hơn đến lý tưởng này. Hơn nữa, sự tồn tại của Masters không chỉ ảnh hưởng đến những người tham gia. Những người cao tuổi khác ngoài người tham gia chắc chắn cũng có được động lực vận động và sức sống tâm hồn khi nhìn thấy những người cùng độ tuổi hướng tới kỷ lục. Để đạt được điều đó, Masters cần được biết đến rộng rãi.\nHy vọng cơ hội nhìn thấy trên truyền hình sẽ tăng lên. Hướng tới việc thực hiện một xã hội mà mọi người đều có thể khỏe mạnh cả thể chất lẫn tinh thần mãi mãi, sự phát triển trong tương lai của Masters rất được kỳ vọng.",
+    "questions": [
+      {
+        "id": "z015-1",
+        "choices": [
+          "大会はある",
+          "大会がある",
+          "大会はあるのか",
+          "大会があるのか"
+        ],
+        "answer": "大会がある",
+        "explanation": "Dùng 「大会がある」 để giới thiệu sự tồn tại của giải đấu Masters.\n\nNghĩa các lựa chọn:\n1) 大会はある: giải đấu thì có — Sai.\n2) 大会がある: có một giải đấu — ĐÚNG.\n3) 大会はあるのか: liệu có giải đấu không? — Sai.\n4) 大会があるのか: liệu có một giải đấu không? — Sai."
+      },
+      {
+        "id": "z015-2",
+        "choices": [
+          "というわけだ",
+          "と言えないこともない",
+          "というだけではない",
+          "と言ってもいいぐらいだ"
+        ],
+        "answer": "というわけだ",
+        "explanation": "「というわけだ」 (tức là / kết luận là) dùng để rút ra kết luận giải thích ở câu trước.\n\nNghĩa các lựa chọn:\n1) というわけだ: nghĩa là/kết luận là như vậy — ĐÚNG.\n2) と言えないこともない: cũng không hẳn là không thể nói — Sai.\n3) というだけではない: không chỉ có nghĩa là — Sai.\n4) と言ってもいいぐらいだ: có thể nói là gần như — Sai."
+      },
+      {
+        "id": "z015-3",
+        "choices": [
+          "とすると",
+          "とはいえ",
+          "さらに",
+          "このように"
+        ],
+        "answer": "さらに",
+        "explanation": "接続詞 「さらに」 (hơn nữa) dùng để bổ sung thêm ý nghĩa tác động của giải đấu.\n\nNghĩa các lựa chọn:\n1) とすると: nếu giả sử như vậy — Sai.\n2) とはいえ: tuy nói vậy — Sai.\n3) さらに: hơn nữa — ĐÚNG.\n4) このように: như thế này — Sai."
+      },
+      {
+        "id": "z015-4",
+        "choices": [
+          "そうやって",
+          "そうなったら",
+          "それでも",
+          "それには"
+        ],
+        "answer": "それには",
+        "explanation": "「それには」 (để đạt được điều đó thì...) nêu ra điều kiện cần thiết.\n\nNghĩa các lựa chọn:\n1) そうやって: bằng cách đó — Sai.\n2) そうなったら: nếu trở thành như vậy — Sai.\n3) それでも: dù vậy — Sai.\n4) それには: để làm được điều đó — ĐÚNG."
+      },
+      {
+        "id": "z015-5",
+        "choices": [
+          "社会",
+          "社会だ",
+          "社会とは",
+          "社会だから"
+        ],
+        "answer": "社会",
+        "explanation": "Danh từ 「社会」 đóng vai trò bổ ngữ cho cụm 「その社会の実現に向けて」 ở câu tiếp theo.\n\nNghĩa các lựa chọn:\n1) 社会: xã hội — ĐÚNG.\n2) 社会だ: là xã hội — Sai.\n3) 社会とは: xã hội là gì/là... — Sai.\n4) 社会だから: bởi vì là xã hội — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z016",
+    "passages": [
+      {
+        "text": "◇質問◇\n鳥はなぜ飛べるのですか。人間も翼をつけたら、飛べますか。（草太 小３）\n\n◇回答◇\n空を飛ぶためには体が軽いことが大切です。[1]、空を飛ぶ鳥は、体や翼の大きさのわりには、体がとても軽くできているのです。例えば、コンドルという鳥は、翼の長さ（左右の翼を広げたときの翼の先から先までの長さ）が３ｍほどもありますが、体重は 10～15 ㎏しかありません。鳥が重そうに見えるのは、羽が膨らんでいるからで、本当はとても細い体をしています。そして、鳥の骨は細く、骨の中はトンネルのような空洞の状態になっているため、軽いのです。でも草太君は、もしかしたら「それなら人間は、体重に合わせて大きい翼をつければいい。」と思うかもしれませんね。では、翼はどのくらいの[2]。ある説によると、体重60㎏の人間が飛ぶのに必要な翼の長さは、約34ｍだそうです。長さ 10ｍの大型バスを３台並べたときの長さよりも長いわけです。[3]は人間にはとても動かせませんよね。鳥が体のわりに大きな翼を動かせるのは、胸の筋肉が大変発達しているからです。鳥の胸の筋肉は、体重の約 35％を占めると言われています。そのため、鳥は翼を強く動かすことができるのです。そのほかにも、鳥の体は表面の羽がなめらかで、空気の抵抗を受けにくい形になっています。[4]、鳥は、単に翼があるから飛べるのではなく、いろいろな点で体全体が飛ぶのに最適な構造になっていることがわかりますね。鳥は飛ぶために進化してきたのです。残念ながら、人間は、翼をつけただけでは飛ぶのは[5]。"
+      }
+    ],
+    "translation": "◇ Câu hỏi ◇\nTại sao chim lại bay được? Con người nếu gắn thêm cánh vào thì có bay được không? (Sota, lớp 3)\n\n◇ Trả lời ◇\nĐể bay trên không thì việc cơ thể nhẹ là rất quan trọng. Thực ra, loài chim bay trên không có cơ thể rất nhẹ so với kích thước cơ thể và đôi cánh của chúng. Ví dụ, loài chim kền kền có chiều dài sải cánh (khoảng cách từ đầu cánh này sang đầu cánh kia khi giang rộng) lên tới khoảng 3m, nhưng trọng lượng cơ thể chỉ có 10–15 kg. Chim trông có vẻ nặng nề là vì lông của chúng xù ra, chứ thực ra cơ thể chúng rất nhỏ gầy. Và xương của chim mỏng, bên trong xương có trạng thái rỗng như đường hầm nên rất nhẹ. Nhưng Sota có lẽ sẽ nghĩ: “Nếu vậy thì con người chỉ cần gắn đôi cánh to phù hợp với trọng lượng cơ thể là được”. Vậy thì, cần một đôi cánh dài khoảng bao nhiêu? Theo một giả thuyết, chiều dài đôi cánh cần thiết để một người nặng 60 kg bay được là khoảng 34m. Dài hơn cả 3 chiếc xe buýt cỡ lớn dài 10m xếp nối tiếp nhau. Đôi cánh lớn như thế thì con người không thể nào cử động được đúng không. Chim có thể cử động đôi cánh lớn so me cơ thể là vì cơ ngực của chúng rất phát triển. Người ta nói cơ ngực của chim chiếm khoảng 35% trọng lượng cơ thể. Do đó, chim có thể quạt cánh rất mạnh. Ngoài ra, bề mặt lông của chim mịn màng và có hình dạng ít chịu lực cản của không khí. Nhìn lại như thế này, chúng ta thấy rằng chim không phải chỉ vì có cánh mà bay được, mà ở nhiều điểm toàn bộ cơ thể chúng có cấu trúc tối ưu cho việc bay. Chim đã tiến hóa để bay. Rất tiếc, con người nếu chỉ gắn thêm cánh thì việc bay có vẻ là rất khó.",
+    "questions": [
+      {
+        "id": "z016-1",
+        "choices": [
+          "一方",
+          "実は",
+          "ところが",
+          "なぜなら"
+        ],
+        "answer": "実は",
+        "explanation": "接続詞 「実は」 (thực ra) dùng để đưa ra giải thích bổ sung thực tế.\n\nNghĩa các lựa chọn:\n1) 一方: mặt khác — Sai.\n2) 実は: thực ra — ĐÚNG.\n3) ところが: thế nhưng — Sai.\n4) なぜなら: bởi vì — Sai."
+      },
+      {
+        "id": "z016-2",
+        "choices": [
+          "長さがあるのでしょう",
+          "長さになりましたか",
+          "長さだと言いましたか",
+          "長さが要るのでしょう"
+        ],
+        "answer": "長さが要るのでしょう",
+        "explanation": "「～長さが要るのでしょう」 đặt câu hỏi ước lượng độ dài cần thiết.\n\nNghĩa các lựa chọn:\n1) 長さがあるのでしょう: liệu có độ dài hay không — Sai.\n2) 長さになりましたか: đã trở thành độ dài bao nhiêu? — Sai.\n3) 長さだと言いましたか: đã nói là độ dài bao nhiêu? — Sai.\n4) 長さが要るのでしょう: cần độ dài bao nhiêu nhỉ? — ĐÚNG."
+      },
+      {
+        "id": "z016-3",
+        "choices": [
+          "翼",
+          "そんなに大きな翼",
+          "こっちの翼",
+          "あのような大きな翼"
+        ],
+        "answer": "そんなに大きな翼",
+        "explanation": "指示詞 「そんなに大きな翼」 chỉ đôi cánh khổng lồ dài 34m vừa đề cập ở phía trên.\n\nNghĩa các lựa chọn:\n1) 翼: đôi cánh — Sai.\n2) そんなに大きな翼: đôi cánh lớn đến như vậy — ĐÚNG.\n3) こっちの翼: đôi cánh phía này — Sai.\n4) あのような大きな翼: đôi cánh lớn như thế kia — Sai."
+      },
+      {
+        "id": "z016-4",
+        "choices": [
+          "それに対して",
+          "最近に述べたように",
+          "こうして見てみると",
+          "最後の結論から"
+        ],
+        "answer": "こうして見てみると",
+        "explanation": "「こうして見てみると」 (nhìn lại như thế này) dùng để tổng kết các căn cứ/bằng chứng đã liệt kê.\n\nNghĩa các lựa chọn:\n1) それに対して: ngược lại/đối với điều đó — Sai.\n2) 最近に述べたように: như đã trình bày gần đây — Sai.\n3) こうして見てみると: khi nhìn lại/xem xét như thế này — ĐÚNG.\n4) 最後の結論から: xét từ kết luận cuối cùng — Sai."
+      },
+      {
+        "id": "z016-5",
+        "choices": [
+          "難しそうです",
+          "難しいからです",
+          "難しくなってきたらしいです",
+          "難しくなってしまうためです"
+        ],
+        "answer": "難しそうです",
+        "explanation": "「～難しそうです」 diễn đạt phán đoán đánh giá: có vẻ như là rất khó.\n\nNghĩa các lựa chọn:\n1) 難しそうです: có vẻ khó — ĐÚNG.\n2) 難しいからです: bởi vì khó — Sai.\n3) 難しくなってきたらしいです: nghe nói đã dần trở nên khó khăn — Sai.\n4) 難しくなってしまうためです: bởi vì cuối cùng sẽ trở nên khó khăn — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z017",
+    "passages": [
+      {
+        "text": "仕事、買い物、遊びに行くとき、誰でも必ずお世話になるものがある。[1]だ。当たり前の様に存在し、多くの人に利用されているが、様々な工夫がされていることはあまり知られていない。\n例えば、高速道路や大きな道路の多くで雨水が道路上にたまりにくい設計になっていることは[2]。道路表面に小さな無数の穴があり、水が舗装の下に抜けるという仕組みだ。高速道路で雨の日に事故が多かった地点も、この舗装にした後、雨の日の事故が約 80％減少したという。\n[3]、寒い地域では雪や氷が原因でスリップ事故が多発する。そのため、雪や氷を砕く機能をもった道路が開発されている。粒状のゴムなど、柔軟性のある小さな素材を道路に埋め込み、車の重みで道路をわずかに変形させて雪や氷を砕く。カーブや坂道などをそういう舗装にすれば、道路に雪や氷が密着するのを防ぐことができ、スリップの危険性が減る。\n道路表面の温度を下げる[4]。道路は太陽に熱せられ、夏は特に熱くなりやすい。そこで、太陽光線の吸収を防ぐ物質を表面に塗ることで温度上昇を抑えている。この舗装により、道路の温度は最大 10 度以上も下がる。人やペットが歩く公園や歩道にぴったりだ。\nこれら以外にも、様々な機能の道路が日々開発され、利用されている。道路の違いは見た目にはよくわからないかもしれない。しかし、人々がより安全で快適に暮らせるよう、足元で[5]。"
+      }
+    ],
+    "translation": "Khi đi làm, đi mua sắm, hay đi chơi, ai cũng chắc chắn cần nhờ đến một thứ. Đó chính là đường xá. Dù tồn tại như một điều hiển nhiên và được nhiều người sử dụng, nhưng ít ai biết rằng có rất nhiều cải tiến đã được áp dụng cho nó.\nVí dụ, liệu bạn có biết rằng nhiều đường cao tốc và đường lớn được thiết kế để nước mưa khó đọng lại trên mặt đường? Trên bề mặt đường có vô số lỗ nhỏ, nước sẽ thoát xuống dưới lớp nhựa đường. Nghe nói tại những điểm trên đường cao tốc từng xảy ra nhiều tai nạn vào ngày mưa, sau khi áp dụng lớp nhựa đường này, số tai nạn ngày mưa đã giảm khoảng 80%.\nNgoài ra, ở những vùng lạnh giá, các vụ tai nạn trượt bánh do tuyết và băng xảy ra rất nhiều. Vì vậy, người ta đã phát triển loại đường có chức năng làm vỡ tuyết và băng. Những vật liệu nhỏ có tính linh hoạt như cao su dạng hạt được chèn vào mặt đường, trọng lượng của xe làm mặt đường biến dạng nhẹ để làm vỡ tuyết và băng. Nếu lát đường ở các đoạn đường cong hay đoạn dốc bằng loại nhựa đó, có thể ngăn tuyết và băng bám chặt vào mặt đường, giảm nguy cơ trượt bánh.\nCũng có thể thấy cải tiến giúp hạ nhiệt độ bề mặt đường. Đường bị mặt trời thiêu nóng nên mùa hè rất dễ trở nên quá nóng. Do đó, người ta sơn lên bề mặt chất ngăn hấp thụ tia nắng mặt trời để hạn chế tăng nhiệt độ. Nhờ lớp nhựa đường này, nhiệt độ mặt đường giảm tối đa hơn 10 độ. Rất phù hợp cho công viên và vỉa hè nơi người và thú cưng đi dạo.\nNgoài những điều này, các loại đường với nhiều chức năng đa dạng vẫn đang được phát triển và sử dụng hàng ngày. Sự khác biệt của mặt đường có thể khó nhận biết bằng mắt thường. Tuy nhiên, dưới chân chúng ta, chúng vẫn đang âm thầm hỗ trợ để mọi người có thể sinh sống an toàn và thoải mái hơn.",
+    "questions": [
+      {
+        "id": "z017-1",
+        "choices": [
+          "道路",
+          "ある道路",
+          "その道路",
+          "こんな道路"
+        ],
+        "answer": "道路",
+        "explanation": "Danh từ 「道路」 (đường xá) là chủ đề chính được giới thiệu và giải thích trong toàn bộ bài viết.\n\nNghĩa các lựa chọn:\n1) 道路: đường xá — ĐÚNG.\n2) ある道路: một con đường nào đó — Sai.\n3) その道路: con đường đó — Sai.\n4) こんな道路: loại đường như thế này — Sai."
+      },
+      {
+        "id": "z017-2",
+        "choices": [
+          "ご存じだ",
+          "ご存じのようだ",
+          "ご存じだろうか",
+          "ご存じなのだろう"
+        ],
+        "answer": "ご存じだろうか",
+        "explanation": "Cụm 「ご存じだろうか」 (liệu bạn có biết?) là câu hỏi gợi mở để thu hút sự chú ý của người đọc.\n\nNghĩa các lựa chọn:\n1) ご存じだ: biết — Sai.\n2) ご存じのようだ: có vẻ biết — Sai.\n3) ご存じだろうか: liệu bạn có biết — ĐÚNG.\n4) ご存じなのだろう: chắc là biết — Sai."
+      },
+      {
+        "id": "z017-3",
+        "choices": [
+          "また",
+          "すると",
+          "こうして",
+          "したがって"
+        ],
+        "answer": "また",
+        "explanation": "接続詞 「また」 (ngoài ra / bên cạnh đó) dùng để bổ sung thêm một tính năng/cải tiến mới của đường.\n\nNghĩa các lựa chọn:\n1) また: ngoài ra/bên cạnh đó — ĐÚNG.\n2) すると: ngay sau đó — Sai.\n3) こうして: như thế này — Sai.\n4) したがって: do đó — Sai."
+      },
+      {
+        "id": "z017-4",
+        "choices": [
+          "工夫だと言える",
+          "工夫も考えられる",
+          "工夫と思われる",
+          "工夫も見られる"
+        ],
+        "answer": "工夫も見られる",
+        "explanation": "Cụm 「～工夫も見られる」 (cũng thấy có cải tiến...) nêu lên thực tế quan sát được.\n\nNghĩa các lựa chọn:\n1) 工夫だと言える: có thể nói là cải tiến — Sai.\n2) 工夫も考えられる: cải tiến cũng có thể suy đoán — Sai.\n3) 工夫と思われる: được cho là cải tiến — Sai.\n4) 工夫も見られる: cũng thấy có cải tiến — ĐÚNG."
+      },
+      {
+        "id": "z017-5",
+        "choices": [
+          "支えてくれているはずだった",
+          "支えてくれているわけだ",
+          "支えてくれているからだった",
+          "支えてくれているおかげだ"
+        ],
+        "answer": "支えてくれているわけだ",
+        "explanation": "Cấu trúc 「～わけだ」 (tức là/hóa ra là...) dùng để kết luận và giải thích ý nghĩa thực sự ở cuối bài.\n\nNghĩa các lựa chọn:\n1) 支えてくれているはずだった: đáng lẽ đã hỗ trợ — Sai.\n2) 支えてくれているわけだ: hóa ra là đang hỗ trợ — ĐÚNG.\n3) 支えてくれているからだった: bởi vì đã hỗ trợ — Sai.\n4) 支えてくれているおかげだ: nhờ vào việc hỗ trợ — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z018",
+    "passages": [
+      {
+        "text": "今も昔も、子供たちに親しまれている折り紙。そんな身近な折り紙が今、「折り紙工学」という学問となっている。一例を[1]。折り紙の「折って畳むこと」と「畳んだものを広げること」を利用した研究がある。大きなものを小さくし、それを簡単に元の大きさに戻す方法として、折るだけで形や大きさが変えられる折り紙が注目されたのだ。ただ折って小さくするのなら、新聞を折り畳むように何回も折ればいい。しかしそれでは、広げるときに、畳んだ分の回数だけ開くことになる。\n[2]、一気に元の大きさに戻せる折り方を開発するために研究が重ねられた。その結果何回折った後でも、折り畳んだ状態から両端を引っ張るだけで、元の平面に戻すことができる方法にたどり着いたのである。\nこの折り方を[3]、人工衛星に用いる「太陽電池パネル」などの装置が作られている。装置を宇宙へ運ぶロケットの容量には限界があり、装置は小さくしなければならない。だからといって分割して部品にすると、宇宙空間で組み立てる技術が必要となる。ここに研究の成果が生かされる。開発された折り方を使えば、装置を折り畳んで小さくすることができ、宇宙空間に出たときには簡単に[4]。\n伝統的な遊びが宇宙で使われる最新技術につながっている。子供と折り紙で遊びながらこのような科学の話を[5]。折り紙を通して、宇宙工学や技術開発の分野にも興味を持つかもしれない。"
+      }
+    ],
+    "translation": "Dù là xưa hay nay, nghệ thuật gấp giấy Origami vẫn luôn gắn bó thân thiết với trẻ em. Thứ Origami gần gũi như vậy nay đã trở thành một ngành khoa học gọi là “kỹ thuật Origami”. Xin nêu một ví dụ. Có nghiên cứu tận dụng việc “gấp lại” và “mở ra” của Origami. Như một phương pháp làm cho vật lớn trở nên nhỏ gọn rồi dễ dàng đưa về kích thước ban đầu, Origami với khả năng thay đổi hình dạng và kích thước chỉ bằng cách gấp đã thu hút sự chú ý. Nếu chỉ đơn thuần gấp cho nhỏ lại thì chỉ cần gấp nhiều lần như gấp tờ báo là được. Tuy nhiên làm như vậy thì khi mở ra sẽ phải mở đúng bằng số lần đã gấp.\nVì vậy, các nghiên cứu đã được tiến hành liên tục để phát triển cách gấp có thể đưa về kích thước ban đầu trong một lần. Kết quả là dù gấp bao nhiêu lần đi nữa, từ trạng thái gấp nhỏ chỉ cần kéo hai đầu là có thể trở về mặt phẳng ban đầu.\nỨng dụng cách gấp này, các thiết bị như “tấm pin mặt trời” dùng cho vệ tinh nhân tạo đã được chế tạo. Dung tích của tên lửa chở thiết bị vào vũ trụ có hạn nên thiết bị phải được làm nhỏ gọn. Dù vậy nếu chia nhỏ thành các linh kiện thì lại cần kỹ thuật lắp ráp trong không gian vũ trụ. Chính tại đây thành quả nghiên cứu đã được phát huy. Nếu dùng cách gấp đã phát triển, thiết bị có thể gấp nhỏ lại và khi ra ngoài vũ trụ có thể mở ra một cách dễ dàng.\nTrò chơi truyền thống đã kết nối với công nghệ mới nhất dùng trong vũ trụ. Vừa chơi Origami với trẻ em vừa nói những câu chuyện khoa học thế này cũng không tồi, biết đâu thông qua Origami trẻ sẽ hứng thú với các lĩnh vực kỹ thuật vũ trụ hay phát triển công nghệ.",
+    "questions": [
+      {
+        "id": "z018-1",
+        "choices": [
+          "挙げている",
+          "挙げようとする",
+          "挙げよう",
+          "挙げるだろう"
+        ],
+        "answer": "挙げよう",
+        "explanation": "Cụm 「一例を挙げよう」 (tôi xin đưa ra một ví dụ) là cách diễn đạt tự nhiên khi trình bày dẫn chứng.\n\nNghĩa các lựa chọn:\n1) 挙げている: đang đưa ra — Sai.\n2) 挙げようとする: định đưa ra — Sai.\n3) 挙げよう: hãy đưa ra / xin đưa ra — ĐÚNG.\n4) 挙げるだろう: có lẽ đưa ra — Sai."
+      },
+      {
+        "id": "z018-2",
+        "choices": [
+          "ただし",
+          "しかも",
+          "そこで",
+          "かえって"
+        ],
+        "answer": "そこで",
+        "explanation": "接続詞 「そこで」 (do đó / vì vậy) nối tiếp lý do ở câu trước với hướng giải quyết nghiên cứu.\n\nNghĩa các lựa chọn:\n1) ただし: tuy nhiên — Sai.\n2) しかも: hơn nữa — Sai.\n3) そこで: do đó/vì vậy — ĐÚNG.\n4) かえって: ngược lại — Sai."
+      },
+      {
+        "id": "z018-3",
+        "choices": [
+          "活用して",
+          "活用するほかに",
+          "活用するまで",
+          "活用したにもかかわらず"
+        ],
+        "answer": "活用して",
+        "explanation": "V-て dùng để chỉ phương thức: tận dụng cách gấp này để chế tạo thiết bị.\n\nNghĩa các lựa chọn:\n1) 活用して: tận dụng/ứng dụng — ĐÚNG.\n2) 活用するほかに: ngoài việc ứng dụng — Sai.\n3) 活用するまで: cho đến khi ứng dụng — Sai.\n4) 活用したにもかかわらず: mặc dù đã ứng dụng — Sai."
+      },
+      {
+        "id": "z018-4",
+        "choices": [
+          "広げられるというのか",
+          "広げられるかのようだ",
+          "広げられるのだろうか",
+          "広げられるというわけだ"
+        ],
+        "answer": "広げられるというわけだ",
+        "explanation": "「～というわけだ」 (nghĩa là có thể mở ra dễ dàng) kết luận giải thích lợi ích của công nghệ.\n\nNghĩa các lựa chọn:\n1) 広げられるというのか: nghe nói mở ra được sao — Sai.\n2) 広げられるかのようだ: cứ như là mở ra được — Sai.\n3) 広げられるのだろうか: liệu có mở ra được không — Sai.\n4) 広げられるというわけだ: nghĩa là có thể mở ra được — ĐÚNG."
+      },
+      {
+        "id": "z018-5",
+        "choices": [
+          "してみたがらない",
+          "してみるのも悪くない",
+          "してみそうない",
+          "してみても始まらない"
+        ],
+        "answer": "してみるのも悪くない",
+        "explanation": "「～のも悪くない」 (thử làm điều đó cũng không tồi) đưa ra lời gợi ý nhẹ nhàng.\n\nNghĩa các lựa chọn:\n1) してみたがらない: không muốn thử — Sai.\n2) してみるのも悪くない: thử làm cũng không tồi — ĐÚNG.\n3) してみそうない: không có vẻ thử — Sai.\n4) してみても始まらない: thử cũng chẳng giải quyết được gì — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z019",
+    "passages": [
+      {
+        "text": "夏休みに、友達に誘われて打ち水のイベントに参加しました。私はそのとき初めて打ち水というものを知りました。打ち水は、暑さ対策として道路や庭、玄関先などに水をまくという、日本に昔から伝わる生活の知恵です。もともとは各家庭で行うものでしたが、節電や地球温暖化対策として打ち水のイベントを企画する自治体なども[1]。\n打ち水をすると、確かに涼しく感じました。[2]、気分の問題ではないかとも思いました。打ち水によって実際に気温は下がるのでしょうか。\n調べてみたら、打ち水の効果を調べた実際結果を紹介している記事がありました。その記事によると、水をまいたところの気温が 2 度下がったということでした。これは水の性質によるものです。水は気体になるときに、周囲の熱を吸収します。水をまいたところの地面の熱は気体と一緒に逃げていき、気温が[3]。しかも、地面の温度は、水が蒸発しきった後も１時間は下がったままだったとも書かれていました。\n打ち水の効果を十分に得るには、朝か夕方に日陰にまくこともポイントのようです。そうすることで水がすぐに蒸発せず、温度の下がった状態が持続します。私が参加したイベントも夕方からだったので、なぜだろうと思っていましたが、[4]あったのだと知って、なるほどと思いました。\n打ち水の効果は、科学的に説明できるものでした。だから昔から今まで打ち水の文化が続いているのだと[5]。"
+      }
+    ],
+    "translation": "Vào kỳ nghỉ hè, tôi được bạn rủ tham gia sự kiện tưới nước giải nhiệt Uchimizu. Lúc đó tôi mới lần đầu biết đến khái niệm Uchimizu. Uchimizu là trí tuệ dân gian truyền lại từ xưa ở Nhật Bản, đó là việc tưới nước lên đường xá, sân vườn hay trước cửa nhà để chống nóng. Vốn dĩ đây là việc làm của từng gia đình, nhưng nghe nói các chính quyền địa phương lên kế hoạch tổ chức sự kiện Uchimizu như một biện pháp tiết kiệm điện và chống biến đổi khí hậu cũng đang tăng lên.\nKhi tưới nước xong, quả thực tôi cảm thấy mát mẻ hơn. Tuy nhiên, tôi cũng nghĩ liệu đó có phải chỉ là cảm giác hay không. Liệu việc tưới nước có thực sự làm giảm nhiệt độ không?\nKhi tìm hiểu, tôi thấy bài báo giới thiệu kết quả nghiên cứu thực tế về hiệu quả của Uchimizu. Theo bài báo đó, nhiệt độ ở nơi được tưới nước đã giảm 2 độ. Điều này là do tính chất của nước. Khi chuyển sang thể khí, nước sẽ hấp thụ nhiệt xung quanh. Nhiệt lượng trên mặt đất nơi tưới nước sẽ thoát đi cùng hơi nước, chính vì vậy mà nhiệt độ giảm xuống. Hơn nữa, bài báo cũng viết rằng nhiệt độ mặt đất vẫn duy trì mức giảm trong 1 giờ ngay cả sau khi nước đã bay hơi hết.\nĐể đạt hiệu quả tối đa của Uchimizu, điểm mấu chốt có vẻ là tưới vào bóng râm lúc sáng sớm hoặc chiều muộn. Làm như vậy nước không bị bay hơi ngay và trạng thái hạ nhiệt sẽ kéo dài. Sự kiện tôi tham gia cũng bắt đầu từ chiều muộn, lúc đầu tôi thắc mắc tại sao nhưng khi biết có lý do như vậy tôi đã thấu hiểu.\nHiệu quả của Uchimizu hoàn toàn có thể giải thích bằng khoa học. Vì vậy tôi hoàn toàn bị thuyết phục rằng văn hóa Uchimizu đã được duy trì từ xưa cho đến tận ngày nay.",
+    "questions": [
+      {
+        "id": "z019-1",
+        "choices": [
+          "増えたとします",
+          "増えたためです",
+          "増えてしまいます",
+          "増えているそうです"
+        ],
+        "answer": "増えているそうです",
+        "explanation": "「～増えているそうです」 dùng để truyền đạt thông tin nghe nói rằng số lượng chính quyền địa phương tổ chức sự kiện đang tăng lên.\n\nNghĩa các lựa chọn:\n1) 増えたとします: giả sử là đã tăng — Sai.\n2) 増えたためです: là vì đã tăng — Sai.\n3) 増えてしまいます: lỡ tăng mất — Sai.\n4) 増えているそうです: nghe nói là đang tăng — ĐÚNG."
+      },
+      {
+        "id": "z019-2",
+        "choices": [
+          "ただ",
+          "それに",
+          "つまり",
+          "それどころか"
+        ],
+        "answer": "ただ",
+        "explanation": "接続詞 「ただ」 (tuy nhiên / có điều là) dùng để chuyển ý đưa ra nghi vấn cá nhân.\n\nNghĩa các lựa chọn:\n1) ただ: tuy nhiên/có điều là — ĐÚNG.\n2) それに: hơn nữa — Sai.\n3) つまり: tóm lại — Sai.\n4) それどころか: trái lại — Sai."
+      },
+      {
+        "id": "z019-3",
+        "choices": [
+          "下がるところです",
+          "下がる一方でした",
+          "下がるというわけです",
+          "下がることがありました"
+        ],
+        "answer": "下がるというわけです",
+        "explanation": "「～というわけです」 (nghĩa là / chính vì vậy mà nhiệt độ giảm) giải thích nguyên lý lý do khoa học.\n\nNghĩa các lựa chọn:\n1) 下がるところです: sắp sửa giảm — Sai.\n2) 下がる一方でした: chỉ toàn giảm — Sai.\n3) 下がるというわけです: chính vì vậy mà nhiệt độ giảm — ĐÚNG.\n4) 下がることがありました: đã từng giảm — Sai."
+      },
+      {
+        "id": "z019-4",
+        "choices": [
+          "ある理由が",
+          "そのような理由が",
+          "どの理由も",
+          "あんな理由も"
+        ],
+        "answer": "そのような理由が",
+        "explanation": "指示詞 「そのような理由が」 (lý do như vậy) dùng để chỉ lý do tưới nước bóng râm vào buổi chiều vừa được giải thích.\n\nNghĩa các lựa chọn:\n1) ある理由が: có một lý do — Sai.\n2) そのような理由が: lý do như vậy — ĐÚNG.\n3) どの理由も: bất kỳ lý do nào — Sai.\n4) あんな理由も: lý do như thế kia — Sai."
+      },
+      {
+        "id": "z019-5",
+        "choices": [
+          "納得させられました",
+          "納得したのでしょう",
+          "納得させてほしかったです",
+          "納得してもらえました"
+        ],
+        "answer": "納得させられました",
+        "explanation": "Thể bị động 「～納得させられました」 (tôi hoàn toàn bị thuyết phục) diễn tả sự thấu hiểu sâu sắc của người viết.\n\nNghĩa các lựa chọn:\n1) 納得させられました: tôi hoàn toàn bị thuyết phục — ĐÚNG.\n2) 納得したのでしょう: có lẽ đã thuyết phục — Sai.\n3) 納得させてほしかったです: đã muốn được thuyết phục — Sai.\n4) 納得してもらえました: đã được người khác thuyết phục — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z020",
+    "passages": [
+      {
+        "text": "初めて正確な日本地図を作成した人物として知られる伊能忠敬は、1745年、上総国(今の千葉県)に生まれた。優れた経営者だった忠敬だが、50歳を前に仕事をやめ、興味があった星や暦について高橋至時のもとで[1]。19歳も年下の至時を忠敬は敬い、熱心に勉強した。\n当時の学者たちの関心は、地球の直径を知ることにあった。江戸(今の東京)から蝦夷地(今の北海道)までの距離は当時はまだわからなかったが、それが[2]正確に直径が計算できると知った忠敬は、蝦夷地へ行くことを願う。しかし、蝦夷地に行くには国の許可が必要だった。至時は、蝦夷地の地図作成を理由に国の許可をとり、忠敬を担当にする。[3]、忠敬55歳のとき、地図作りの旅が始まった。\n昼間は測って歩き、夜は星を観察して昼間測った数値を修正する日々が続いた。完成した蝦夷地の地図は国から高く評価され、忠敬は東日本の地図作成も[4]。地図作成の旅は順調に終わったが、完成前、忠敬を支え続けた至時が病気で亡くなってしまう。一番の理解者である至時を失い、忠敬はひどく落ち込んだ。だが、悲しみに耐え、さらに命じられた西日本の地図作成にも取り組む。旅を終え、完成に向けて作業の最終段階に入っていた1818年、忠敬は73歳で人生の幕を閉じた。作業は弟子たちが続け、1821年、日本全国の地図が完成した。\n忠敬は自分に大きな仕事ができたのはすべて至時先生のおかげだと書き残している。歴史に残る[5]は、二人の信頼関係によって、誕生したのである。"
+      }
+    ],
+    "translation": "Ino Tadataka, người được biết đến là người đầu tiên tạo ra bản đồ Nhật Bản chính xác, sinh năm 1745 tại tỉnh Kazusa (tỉnh Chiba ngày nay). Dù là một nhà kinh doanh giỏi, nhưng ở tuổi trước 50 Tadataka đã nghỉ việc và bắt đầu học về ngôi sao và lịch pháp mà ông quan tâm dưới sự hướng dẫn của Takahashi Yoshitoki. Tadataka rất tôn trọng Yoshitoki dù kém ông tới 19 tuổi và học tập rất chăm chỉ.\nMối quan tâm của các học giả thời đó là biết được đường kính của Trái Đất. Khoảng cách từ Edo (Tokyo ngày nay) đến Ezo (Hokkaido ngày nay) thời đó chưa ai biết, nhưng khi biết rằng nếu biết được khoảng cách đó thì có thể tính chính xác đường kính, Tadataka mong muốn đi đến Ezo. Tuy nhiên để đi Ezo cần có sự cho phép của triều đình. Yoshitoki đã lấy lý do làm bản đồ Ezo để xin phép triều đình và giao cho Tadataka đảm nhận. Nhờ vậy, khi Tadataka 55 tuổi, chuyến đi làm bản đồ đã bắt đầu.\nBan ngày vừa đi vừa đo đạc, ban đêm quan sát các vì sao để chỉnh sửa các con số đo được ban ngày, những ngày như vậy nối tiếp nhau. Bản đồ Ezo hoàn thành được triều đình đánh giá rất cao, và Tadataka lại được giao làm bản đồ Đông Nhật Bản. Chuyến đi làm bản đồ kết thúc thuận lợi, nhưng trước khi hoàn thành, Yoshitoki người luôn hỗ trợ Tadataka đã qua đời vì bệnh tật. Mất đi người thấu hiểu mình nhất, Tadataka vô cùng suy sụp. Nhưng nén đau thương, ông tiếp tục đảm nhận làm bản đồ Tây Nhật Bản được giao tiếp theo. Sau khi kết thúc chuyến đi và bước vào giai đoạn cuối hoàn thiện năm 1818, Tadataka đã khép lại cuộc đời ở tuổi 73. Công việc được các học trò tiếp tục và năm 1821, bản đồ toàn quốc Nhật Bản đã hoàn thành.\nTadataka để lại lời viết rằng việc mình làm được sự nghiệp lớn tất cả là nhờ thầy Yoshitoki. Bản đồ Nhật Bản lưu danh lịch sử được ra đời chính nhờ mối quan hệ tin tưởng giữa hai con người.",
+    "questions": [
+      {
+        "id": "z020-1",
+        "choices": [
+          "学んだばかりだ",
+          "学ぼうと思っている",
+          "学び始めた",
+          "学ぶところだった"
+        ],
+        "answer": "学び始めた",
+        "explanation": "V-เริ่ม 「学び始めた」 (bắt đầu học) diễn tả mốc khởi đầu việc học tập với thầy Yoshitoki.\n\nNghĩa các lựa chọn:\n1) 学んだばかりだ: vừa mới học — Sai.\n2) 学ぼうと思っている: đang định học — Sai.\n3) 学び始めた: đã bắt đầu học — ĐÚNG.\n4) 学ぶところだった: suýt nữa thì học — Sai."
+      },
+      {
+        "id": "z020-2",
+        "choices": [
+          "わかって",
+          "わかれば",
+          "わかるため",
+          "わかったことで"
+        ],
+        "answer": "わかれば",
+        "explanation": "Mẫu câu điều kiện 「～わかれば」 (nếu biết được... thì có thể tính toán chính xác).\n\nNghĩa các lựa chọn:\n1) わかって: hiểu/biết — Sai.\n2) わかれば: nếu biết được — ĐÚNG.\n3) わかるため: để biết — Sai.\n4) わかったことで: nhờ biết được — Sai."
+      },
+      {
+        "id": "z020-3",
+        "choices": [
+          "また",
+          "しかも",
+          "ところが",
+          "こうして"
+        ],
+        "answer": "こうして",
+        "explanation": "接続詞 「こうして」 (như thế này / bằng cách này) dùng để tóm kết quá trình dẫn đến khởi đầu chuyến đi.\n\nNghĩa các lựa chọn:\n1) また: ngoài ra — Sai.\n2) しかも: hơn nữa — Sai.\n3) ところが: thế nhưng — Sai.\n4) こうして: như thế này/bằng cách này — ĐÚNG."
+      },
+      {
+        "id": "z020-4",
+        "choices": [
+          "命じられることとなる",
+          "命じられたことになる",
+          "命じられることもある",
+          "命じられたことである"
+        ],
+        "answer": "命じられることとなる",
+        "explanation": "Cụm 「～こととなる」 diễn tả sự việc chuyển biến dẫn đến kết quả được giao phó trọng trách mới.\n\nNghĩa các lựa chọn:\n1) 命じられることとなる: dẫn đến việc được giao phó — ĐÚNG.\n2) 命じられたことになる: coi như là đã được giao — Sai.\n3) 命じられることもある: cũng có lúc được giao — Sai.\n4) 命じられたことである: là việc đã được giao — Sai."
+      },
+      {
+        "id": "z020-5",
+        "choices": [
+          "これ",
+          "あるもの",
+          "日本地図",
+          "そういう地図"
+        ],
+        "answer": "日本地図",
+        "explanation": "Danh từ 「日本地図」 (bản đồ Nhật Bản) là sản phẩm lịch sử vĩ đại được nhắc đến ở câu trước.\n\nNghĩa các lựa chọn:\n1) これ: cái này — Sai.\n2) あるもの: một thứ nào đó — Sai.\n3) 日本地図: bản đồ Nhật Bản — ĐÚNG.\n4) そういう地図: loại bản đồ như vậy — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z021",
+    "passages": [
+      {
+        "text": "私はロボット工学を専攻しています。将来は医療分野でのロボット活用に関わる仕事をするのが夢です。今は「ロボット・セラピー」というものに興味があります。最近、介護の現場で注目されているものですが、みなさん、[1]。\n「アニマル・セラピー」なら聞いたことのある人も多いかもしれません。動物と触れ合うことで穏やかな気持ちになり、ストレスが減るなどの医療効果で知られています。しかし、実際に介護施設などで動物を飼おうとすると、アレルギーや世話の問題など、難しい面もあります。[2]、アニマル・セラピーに替わるものとして、最近、ロボット・セラピーが注目されるようになりました。\nロボット・セラピーのロボットには動物型、赤ちゃん型などがあり、それらに共通するのはコミュニケーションが可能だということです。どの型のロボットも、感覚機能を持っており、触れ合う人の様子や周囲の状況を判断して、様々な感情を表現することができます。例えば、だっこされたり、なでられたりすると、可愛い声を出して喜んだり、気持ち良さそうな表情をしたりします。こういったロボットとの触れ合いによって、精神的安定やコミュニケーション能力の改善などの効果が[3]。\n私が今学んでいるのはロボット工学の基礎です。将来こういったロボットの研究、開発に参加するために、これからも勉強を続けます。そして、医療分野に[4]。"
+      }
+    ],
+    "translation": "Tôi đang theo học chuyên ngành Robot học. Ước mơ tương lai của tôi là làm công việc liên quan đến ứng dụng robot trong lĩnh vực y tế. Hiện tại tôi rất quan tâm đến “Robot trị liệu”. Gần đây nó đang thu hút sự chú ý tại các cơ sở chăm sóc điều dưỡng, liệu mọi người có biết đến nó không?\nNếu là “Động vật trị liệu” (Animal Therapy) có lẽ nhiều người đã từng nghe tới. Nó được biết đến với các hiệu quả y tế như giúp tinh thần trở nên bình tĩnh và giảm căng thẳng khi tiếp xúc với động vật. Tuy nhiên khi định nuôi động vật thực tế ở các cơ sở điều dưỡng thì cũng có những mặt khó khăn như dị ứng hay vấn đề chăm sóc. Do đó, như một phương pháp thay thế cho trị liệu bằng động vật, gần đây Robot trị liệu đã bắt đầu được chú ý.\nRobot dùng trong Robot trị liệu có dạng động vật, dạng em bé, điểm chung của chúng là có thể giao tiếp. Robot ở bất kỳ dạng nào cũng có chức năng cảm giác, có thể đánh giá dáng vẻ người tương tác và tình hình xung quanh để thể hiện các cảm xúc đa dạng. Ví dụ khi được bế hay vuốt ve, nó sẽ phát ra giọng nói đáng yêu tỏ ra vui mừng hoặc biểu cảm có vẻ rất dễ chịu. Nhờ sự tương tác với robot như vậy, nghe nói có thể thu được các hiệu quả như ổn định tinh thần và cải thiện khả năng giao tiếp.\nNhững gì tôi đang học hiện tại là nền tảng của Robot học. Để tham gia vào nghiên cứu và phát triển loại robot này trong tương lai, tôi sẽ tiếp tục học tập. Và tôi muốn có thể đóng góp cho lĩnh vực y tế.",
+    "questions": [
+      {
+        "id": "z021-1",
+        "choices": [
+          "ご存知でしょう",
+          "ご存知だと思います",
+          "ご存知でしょうか",
+          "ご存知だと思いますか"
+        ],
+        "answer": "ご存知でしょうか",
+        "explanation": "「ご存知でしょうか」 (liệu quý vị có biết không?) là câu hỏi kính ngữ lịch sự dùng để tương tác với khán giả khi diễn thuyết.\n\nNghĩa các lựa chọn:\n1) ご存知でしょう: chắc là biết — Sai.\n2) ご存知だと思います: tôi nghĩ là biết — Sai.\n3) ご存知でしょうか: liệu quý vị có biết không — ĐÚNG.\n4) ご存知だと思いますか: quý vị có nghĩ là biết không — Sai."
+      },
+      {
+        "id": "z021-2",
+        "choices": [
+          "そこで",
+          "そのうえ",
+          "それなのに",
+          "そういえば"
+        ],
+        "answer": "そこで",
+        "explanation": "接続詞 「そこで」 (do đó / vì vậy) dùng để nối khó khăn đã nêu với giải pháp thay thế.\n\nNghĩa các lựa chọn:\n1) そこで: do đó/vì vậy — ĐÚNG.\n2) そのうえ: hơn nữa — Sai.\n3) それなのに: thế mà — Sai.\n4) そういえば: nhắc mới nhớ — Sai."
+      },
+      {
+        "id": "z021-3",
+        "choices": [
+          "得られる点です",
+          "得られてもかまいません",
+          "得られるのだそうです",
+          "得られなければなりません"
+        ],
+        "answer": "得られるのだそうです",
+        "explanation": "「～のだそうです」 (nghe nói là đạt được...) truyền đạt lại kiến thức/nghiên cứu đã tìm hiểu.\n\nNghĩa các lựa chọn:\n1) 得られる点です: là điểm đạt được — Sai.\n2) 得られてもかまいません: có đạt được cũng không sao — Sai.\n3) 得られるのだそうです: nghe nói là có thể đạt được — ĐÚNG.\n4) 得られなければなりません: bắt buộc phải đạt được — Sai."
+      },
+      {
+        "id": "z021-4",
+        "choices": [
+          "試してもいいですか",
+          "試したらいいのでしょうか",
+          "貢献できるようにしています",
+          "貢献できるようになりたいです"
+        ],
+        "answer": "貢献できるようになりたいです",
+        "explanation": "「～たいです」 diễn tả nguyện vọng ước mơ cá nhân muốn đóng góp cho ngành y tế trong tương lai.\n\nNghĩa các lựa chọn:\n1) 試してもいいですか: thử có được không — Sai.\n2) 試したらいいのでしょうか: nên thử thế nào — Sai.\n3) 貢献できるようにしています: đang cố gắng đóng góp — Sai.\n4) 貢献できるようになりたいです: muốn có thể đóng góp — ĐÚNG."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z022",
+    "passages": [
+      {
+        "text": "毎日の生活の中で、天気予報は欠かせない情報の一つだ。着る服を選ぶときも、休日の予定を立てるときも、天気が[1]、毎朝天気予報をチェックしている人も多いだろう。\nそんな天気予報を活用した新たな取り組みが始まっている。気象情報から食品の高度な需要予測を行い、「食品ロス」、つまり、まだ食べられるのに捨てられてしまう食品を減らすというものだ。\n食品の中には、天候や気温に需要が大きく左右されるものも多い。需要予測を誤り、過剰に生産してしまうと、それだけ多くの食品ロスが生じてしまう。\n[2]、政府は、気象データと POS データ(何が、いつ、いくつ、いくらで売れたのかを示す販売情報)から高度な需要予測を行い、製造や販売の各社に提供する取り組みを始めた。[3]、食品ロスを減らせるばかりではない。食品が無駄に捨てられることが少なくなるため、その処理の過程で発生する二酸化炭素を減らすこともできる。\nまず、長期保存ができず気象状況が売り上げに大きく影響する「豆腐」と、特定の季節に需要が集中する「麺つゆ」に絞って実験が行われた。その結果、食品ロスを 20~30%減らせることがわかった。現在は、対象商品を拡大しながら、人工知能も取り入れ、さらに高度な需要予測が可能になってきているという。このように、私たちの生活に欠かせない気象情報は、食品ロス問題の解決にも役立っているのである。\n今後、より大きな成果が[4]。"
+      }
+    ],
+    "translation": "Trong cuộc sống hàng ngày, dự báo thời tiết là một trong những thông tin không thể thiếu. Dù là khi chọn quần áo mặc hay khi lên kế hoạch cho ngày nghỉ, việc thời tiết có đáng bận tâm hay không luôn quan trọng. Có lẽ nhiều người mỗi sáng đều kiểm tra dự báo thời tiết.\nMột nỗ lực mới ứng dụng dự báo thời tiết như vậy đang được bắt đầu. Đó là việc dự báo cầu thực phẩm mức độ cao từ thông tin khí tượng để giảm “lãng phí thực phẩm”, tức là thực phẩm vẫn còn ăn được nhưng lại bị vứt bỏ.\nTrong các loại thực phẩm, có nhiều loại mà nhu cầu bị ảnh hưởng lớn bởi thời tiết và nhiệt độ. Nếu dự báo nhu cầu sai và sản xuất dư thừa thì sẽ phát sinh lượng lãng phí thực phẩm lớn tương ứng.\nVì vậy, chính phủ đã bắt đầu nỗ lực dự báo nhu cầu mức độ cao từ dữ liệu khí tượng và dữ liệu POS (thông tin bán hàng cho biết cái gì được bán khi nào, bao nhiêu cái và giá bao nhiêu) rồi cung cấp cho các công ty sản xuất và bán hàng. Hiệu quả của nó không chỉ dừng lại ở việc giảm lãng phí thực phẩm. Vì việc thực phẩm bị vứt bỏ lãng phí giảm đi nên cũng có thể giảm lượng khí CO2 phát sinh trong quá trình xử lý đó.\nNỗ lực này ban đầu đã tiến hành thử nghiệm tập trung vào “đậu phụ” vốn không bảo quản được lâu và tình hình khí tượng ảnh hưởng lớn đến doanh số, cùng với “nước dùng men-tsuyu” vốn nhu cầu tập trung vào mùa nhất định. Kết quả cho thấy đã giảm được 20–30% lãng phí thực phẩm. Nghe nói hiện nay người ta đang vừa mở rộng sản phẩm đối tượng vừa đưa trí tuệ nhân tạo vào để có thể dự báo nhu cầu mức độ cao hơn nữa. Như vậy, thông tin khí tượng không thể thiếu trong cuộc sống chúng ta cũng đang giúp ích cho việc giải quyết vấn đề lãng phí thực phẩm.\nTrong tương lai, thành quả lớn hơn có vẻ sẽ được kỳ vọng.",
+    "questions": [
+      {
+        "id": "z022-1",
+        "choices": [
+          "気になるもの",
+          "気になるだけ",
+          "気になるかどうか",
+          "気になるかのよう"
+        ],
+        "answer": "気になるかどうか",
+        "explanation": "「～かどうか」 (có bận tâm hay không) diễn tả sự quan tâm đến thời tiết khi chuẩn bị quần áo hay kế hoạch.\n\nNghĩa các lựa chọn:\n1) 気になるもの: thứ đáng bận tâm — Sai.\n2) 気になるだけ: chỉ bận tâm — Sai.\n3) 気になるかどうか: có bận tâm hay không — ĐÚNG.\n4) 気になるかのよう: như thể bận tâm — Sai."
+      },
+      {
+        "id": "z022-2",
+        "choices": [
+          "なお",
+          "たとえば",
+          "そこで",
+          "ところが"
+        ],
+        "answer": "そこで",
+        "explanation": "接続詞 「そこで」 (vì vậy / do đó) dùng để đưa ra giải pháp ứng phó cho vấn đề vừa nêu.\n\nNghĩa các lựa chọn:\n1) なお: ngoài ra — Sai.\n2) たとえば: ví dụ — Sai.\n3) そこで: vì vậy/do đó — ĐÚNG.\n4) ところが: thế nhưng — Sai."
+      },
+      {
+        "id": "z022-3",
+        "choices": [
+          "この取り組みは",
+          "そういった取り組みも",
+          "あのような取り組みは",
+          "どちらの取り組みも"
+        ],
+        "answer": "この取り組みは",
+        "explanation": "指示詞 「この取り組みは」 chỉ chính dự án nỗ lực vừa được đề cập ở đoạn trước.\n\nNghĩa các lựa chọn:\n1) この取り組みは: nỗ lực này — ĐÚNG.\n2) そういった取り組みも: nỗ lực loại đó cũng — Sai.\n3) あのような取り組みは: nỗ lực như thế kia — Sai.\n4) どちらの取り組みも: cả hai nỗ lực — Sai."
+      },
+      {
+        "id": "z022-4",
+        "choices": [
+          "期待できるからだ",
+          "期待できそうだ",
+          "期待できるはずだった",
+          "期待できればよかった"
+        ],
+        "answer": "期待できそうだ",
+        "explanation": "「～期待できそうだ」 (có vẻ sẽ được kỳ vọng) diễn tả sự suy đoán triển vọng tích cực trong tương lai.\n\nNghĩa các lựa chọn:\n1) 期待できるからだ: là vì có thể kỳ vọng — Sai.\n2) 期待できそうだ: có vẻ sẽ được kỳ vọng — ĐÚNG.\n3) 期待できるはずだった: đáng lẽ đã kỳ vọng — Sai.\n4) 期待できればよかった: giá mà kỳ vọng được — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z023",
+    "passages": [
+      {
+        "text": "今回、留学生センターで行われた文化体験のテーマは「落語」だった。落語は日本の伝統的な芸能の一つだ。着物を着た落語家が舞台に正座したまま、一人で何役も演じ、語って聞かせる。たいていは、面白く、おかしい話だ。私の国には演劇はあるが、落語のようなものはない。\n私は、文化体験が落語だと知って、実はがっかりした。以前、ある落語を授業で読んだが、あまり面白いと[1]。話をただ聞いているのは退屈だろうと思ったし、聞き取れるかどうかも不安だった。\n[2]、落語を聞いている間、私はよく笑った。落語家の動作や声の出し方は本当に面白くて、場面の様子もよくわかった。しぐさや話し方を変えて、親と子供など二役以上を一人で演じ、会話を進める。座ったまま体を揺らして歩いている様子を見せ、家から店に移動したことを表す。食事の動作は、本当に何かを食べているようだった。\n文化体験が終わったとき、落語の印象がすっかり変わっていた。落語とは、落語家の動作と語りを同時に[3]。私は、話の細部は理解できていなかったかもしれない。しかし、落語家の動作と語りを通して、登場人物の性格や暮らしが感じられた。それに、映像や音楽や踊りがなくても、生き生きと話を伝え、人を笑わせられる落語家の表現力にも感動した。\n落語には、怖い話や感動的な話もあるそうだ。落語家は[4]をするのだろうか。ぜひいろいろな落語を聞いてみたい。"
+      }
+    ],
+    "translation": "Lần này, chủ đề trải nghiệm văn hóa tổ chức tại trung tâm lưu học sinh là “Rakugo”. Rakugo là một trong những nghệ thuật biểu diễn truyền thống của Nhật Bản. Nghệ sĩ Rakugo mặc Kimono ngồi quỳ chân trên sân khấu, một mình đóng nhiều vai và kể chuyện cho khán giả nghe. Hầu hết là những câu chuyện hài hước, buồn cười. Ở nước tôi có kịch nghệ nhưng không có hình thức giống như Rakugo.\nKhi biết trải nghiệm văn hóa là Rakugo, thực ra tôi đã thất vọng. Trước đây tôi từng đọc một bài Rakugo trong giờ học nhưng vì tôi không nghĩ nó thú vị nên tôi cho rằng việc chỉ ngồi nghe kể chuyện sẽ rất nhàm chán, và cũng lo lắng không biết có nghe hiểu được không.\nTuy nhiên trong lúc nghe Rakugo, tôi đã cười rất nhiều. Động tác và cách cất giọng của nghệ sĩ Rakugo thực sự rất thú vị, và tôi hiểu rõ tình tiết khung cảnh. Bằng cách thay đổi cử chỉ và giọng nói, một mình thể hiện từ hai vai trở lên như cha mẹ và con cái để dẫn dắt hội thoại. Vừa ngồi vừa lắc lư cơ thể thể hiện hình ảnh đang đi bộ để biểu thị việc di chuyển từ nhà đến cửa hàng. Động tác ăn uống trông như đang thật sự ăn cái gì đó.\nKhi buổi trải nghiệm văn hóa kết thúc, ấn tượng của tôi về Rakugo đã hoàn toàn thay đổi. Rakugo hóa ra là thứ mà ta thưởng thức đồng thời cả động tác lẫn lời kể của nghệ sĩ Rakugo. Có thể tôi chưa hiểu được chi tiết câu chuyện. Tuy nhiên thông qua động tác và lời kể của nghệ sĩ Rakugo, tôi đã cảm nhận được tính cách và cuộc sống của các nhân vật. Hơn nữa tôi cũng cảm động trước năng lực biểu cảm của nghệ sĩ Rakugo khi không cần hình ảnh, âm nhạc hay điệu múa mà vẫn truyền tải câu chuyện sống động và làm người nghe bật cười.\nNghe nói Rakugo cũng có những câu chuyện đáng sợ hay xúc động. Không biết nghệ sĩ Rakugo sẽ thể hiện loại biểu cảm thế nào? Tôi nhất định muốn nghe thử nhiều bài Rakugo khác nhau.",
+    "questions": [
+      {
+        "id": "z023-1",
+        "choices": [
+          "思えなかったまでだ",
+          "思えなかったほどだ",
+          "思えなかっただけだ",
+          "思えなかったからだ"
+        ],
+        "answer": "思えなかったからだ",
+        "explanation": "「～からだ」 (là vì...) giải thích lý do cho cảm giác thất vọng và lo lắng nhàm chán trước đó.\n\nNghĩa các lựa chọn:\n1) 思えなかったまでだ: chỉ là không thể nghĩ — Sai.\n2) 思えなかったほどだ: đến mức không thể nghĩ — Sai.\n3) 思えなかっただけだ: chỉ là không thể nghĩ — Sai.\n4) 思えなかったからだ: là vì không thể nghĩ — ĐÚNG."
+      },
+      {
+        "id": "z023-2",
+        "choices": [
+          "しかも",
+          "すなわち",
+          "ところが",
+          "したがって"
+        ],
+        "answer": "ところが",
+        "explanation": "接続詞 「ところが」 (thế nhưng / tuy nhiên) dùng để chuyển ý đối lập giữa dự đoán ban đầu và thực tế trải nghiệm.\n\nNghĩa các lựa chọn:\n1) しかも: hơn nữa — Sai.\n2) すなわち: tức là — Sai.\n3) ところが: thế nhưng — ĐÚNG.\n4) したがって: do đó — Sai."
+      },
+      {
+        "id": "z023-3",
+        "choices": [
+          "楽しむものなのだ",
+          "楽しむはずなのだ",
+          "楽しむようにするのだ",
+          "楽しむことになったのだ"
+        ],
+        "answer": "楽しむものなのだ",
+        "explanation": "「～ものなのだ」 (là thứ mà ta thưởng thức...) diễn tả bản chất thực sự của nghệ thuật Rakugo.\n\nNghĩa các lựa chọn:\n1) 楽しむものなのだ: là thứ thưởng thức — ĐÚNG.\n2) 楽しむはずなのだ: chắc chắn là thưởng thức — Sai.\n3) 楽しむようにするのだ: cố gắng thưởng thức — Sai.\n4) 楽しむことになったのだ: đã được quyết định thưởng thức — Sai."
+      },
+      {
+        "id": "z023-4",
+        "choices": [
+          "どんな表現",
+          "その表現",
+          "表現",
+          "こういう表現"
+        ],
+        "answer": "どんな表現",
+        "explanation": "Từ nghi vấn 「どんな表現」 (loại biểu cảm/thể hiện như thế nào) đặt câu hỏi thể hiện sự tò mò của người viết.\n\nNghĩa các lựa chọn:\n1) どんな表現: biểu hiện như thế nào — ĐÚNG.\n2) その表現: biểu hiện đó — Sai.\n3) 表現: biểu hiện — Sai.\n4) こういう表現: biểu hiện như thế này — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z024",
+    "passages": [
+      {
+        "text": "誰もが安全に、そして快適に暮らせる街をつくるため、各自治体はさまざまな取り組みを行っている。特に都市部において、駅周辺の整備は重要な課題となる。\n今回取り上げるのは、自転車の[1]。多くの駅には駐輪場が設置されているが、スペースには限りがある。駐輪場を利用できない人が多くなると、道路や歩道など許可されていない場所に置かれる自転車が増え、車両や歩行者の通行の妨げになってしまう。\nそこで有効になるのが地下空間の利用だ。地下に駐輪場があること自体はそれほど珍しくない。だが最近では、新しいタイプの地下駐輪場も見られる。それは、地下に駐輪場が[2]。全自動式の地下駐輪場なのだ。自転車だけを運ぶエレベーターが設置されており、地上で自転車をエレベーターに乗せてボタンを押すと、機械によって地下の駐輪スペースへと運ばれる。そして、機械が判断して空いている場所へ収納してくれる。取り出すときも、暗証番号を入力すれば、機械が地上へ運んできてくれる。\n[3]にはさまざまなメリットがある。たとえば、出し入れの手軽さだ。荷物が多い人や子供連れにとっては、駐輪場の中を移動せずに自転車を取り出せるというのは非常に便利だ。また、人が出入りしないので、盗難の心配もない。\n駐輪場不足を解決し、より快適で安全な街に[4]全自動式の地下駐輪場の設置は有効な手段の 1つだといえる。今後も増えていきそうだ。"
+      }
+    ],
+    "translation": "Để tạo nên một thành phố nơi ai cũng có thể sống an toàn và thoải mái, các chính quyền địa phương đang thực hiện nhiều nỗ lực khác nhau. Đặc biệt ở khu vực đô thị, việc chỉnh trang xung quanh ga là một đề tài quan trọng.\nĐiều được đưa ra thảo luận lần này là vấn đề đỗ xe đạp. Nhiều ga có bố trí bãi đỗ xe đạp, nhưng không gian thì có hạn. Khi số người không thể sử dụng bãi đỗ xe đạp tăng lên, số xe đạp để ở những nơi không được phép như lòng đường hay vỉa hè sẽ tăng theo, gây cản trở giao thông của xe cơ giới và người đi bộ.\nKhi đó, việc tận dụng không gian ngầm trở nên hiệu quả. Bản thân việc có bãi đỗ xe đạp dưới lòng đất không phải là điều quá hiếm hoi. Tuy nhiên gần đây cũng xuất hiện loại bãi đỗ xe đạp ngầm kiểu mới. Đó không chỉ đơn thuần là bãi đỗ xe được xây dựng dưới lòng đất, mà là bãi đỗ xe đạp ngầm hoàn toàn tự động. Thang máy chỉ dành cho xe đạp được lắp đặt, khi đặt xe đạp vào thang máy trên mặt đất và bấm nút, máy móc sẽ vận chuyển xe đến không gian đỗ dưới lòng đất. Sau đó máy móc tự đánh giá và cất vào chỗ trống. Khi lấy xe ra cũng vậy, chỉ cần nhập mật mã là máy móc sẽ mang xe lên mặt đất.\nLoại bãi đỗ xe đạp như thế này có nhiều ưu điểm. Ví dụ như sự tiện lợi khi cất và lấy xe. Đối với người mang nhiều hành lý hay đi cùng trẻ em, việc lấy xe đạp ra mà không cần di chuyển bên trong bãi đỗ là vô cùng tiện lợi. Ngoài ra vì con người không ra vào nên cũng không lo bị trộm cắp.\nĐể giải quyết tình trạng thiếu bãi đỗ xe đạp và tạo nên thành phố thoải mái, an toàn hơn, việc lắp đặt bãi đỗ xe đạp ngầm hoàn toàn tự động có thể nói là một phương tiện hiệu quả. Có vẻ như mô hình này sẽ tiếp tục tăng lên trong tương lai.",
+    "questions": [
+      {
+        "id": "z024-1",
+        "choices": [
+          "問題だろう",
+          "問題である",
+          "問題とのことだ",
+          "問題ではないか"
+        ],
+        "answer": "問題である",
+        "explanation": "「問題である」 (là vấn đề...) khẳng định đối tượng thảo luận chính của bài viết.\n\nNghĩa các lựa chọn:\n1) 問題だろう: có lẽ là vấn đề — Sai.\n2) 問題である: là vấn đề — ĐÚNG.\n3) 問題とのことだ: nghe nói là vấn đề — Sai.\n4) 問題ではないか: chẳng phải là vấn đề sao — Sai."
+      },
+      {
+        "id": "z024-2",
+        "choices": [
+          "つくられているにすぎない",
+          "つくられているに違いない",
+          "つくられているといってもよい",
+          "つくられているというだけではない"
+        ],
+        "answer": "つくられているというだけではない",
+        "explanation": "「～というだけではない」 (không chỉ đơn thuần là...) dẫn dắt sang tính năng hoàn toàn tự động độc đáo hơn.\n\nNghĩa các lựa chọn:\n1) つくられているにすぎない: chỉ là được tạo ra — Sai.\n2) つくられているに違いない: chắc chắn được tạo ra — Sai.\n3) つくられているといってもよい: có thể nói là được tạo ra — Sai.\n4) つくられているというだけではない: không chỉ đơn thuần là được tạo ra — ĐÚNG."
+      },
+      {
+        "id": "z024-3",
+        "choices": [
+          "駐輪場",
+          "ある駐輪場",
+          "このような駐輪場",
+          "そこの駐輪場"
+        ],
+        "answer": "このような駐輪場",
+        "explanation": "指示詞 「このような駐輪場」 (loại bãi đỗ xe đạp như thế này) chỉ bãi đỗ xe đạp ngầm tự động vừa miêu tả.\n\nNghĩa các lựa chọn:\n1) 駐輪場: bãi đỗ xe đạp — Sai.\n2) ある駐輪場: một bãi đỗ xe đạp — Sai.\n3) このような駐輪場: bãi đỗ xe đạp như thế này — ĐÚNG.\n4) そこの駐輪場: bãi đỗ xe đạp ở đó — Sai."
+      },
+      {
+        "id": "z024-4",
+        "choices": [
+          "しても",
+          "するために",
+          "なったように",
+          "なってはじめて"
+        ],
+        "answer": "するために",
+        "explanation": "「～するために」 (để làm cho...) chỉ mục đích tạo nên thành phố an toàn thoải mái hơn.\n\nNghĩa các lựa chọn:\n1) しても: dù làm — Sai.\n2) するために: để làm — ĐÚNG.\n3) なったように: như thể đã trở thành — Sai.\n4) なってはじめて: chỉ sau khi trở thành — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z025",
+    "passages": [
+      {
+        "text": "現代の人は座りすぎたとよく言われます。皆がずっと席に座ってパソコンで作業をしているという職場も珍しくないのではないでしょうか。座りすぎがさまざまな体の不調の原因になるという研究報告も[1]。座りすぎは、日本人の4人に1人が抱えているという腰の痛みの原因にもなると考えられています。\n座っている姿勢は体にあまり負担がかかっていないと思うかもしれません。[2]、座り方によっては、実は立っているときの2倍もの負担が腰にかかるのだそうです。座っている時間が長くなるほど、腰への負担も大きくなり、それが腰痛につながります。かといって、ずっと立ったまま仕事をするというのも現実的ではありません。長時間立っていると、足に疲れがたまってしまうという問題もあります。大切なのは、[3]姿勢を長く続けないことです。理想は30分に一回、少なくとも1時間に一回は立って、少し動くのがいいとされています。\n実際に、仕事中に時々立って動くようにしてみた人の多くが、腰痛の改善や疲れを感じにくいといった効果を感じているようです。座りっぱなしを避け、時々立って体を動かすことは、気軽にできる腰痛対策であり、仕事中の集中力維持にもつながります。職場で座っている時間が長い人は、この方法を[4]。"
+      }
+    ],
+    "translation": "Người hiện đại thường được cho là ngồi quá nhiều. Những nơi làm việc mà mọi người ngồi suốt ở ghế làm việc với máy tính cũng không phải là hiếm. Báo cáo nghiên cứu cho thấy việc ngồi quá nhiều là nguyên nhân gây ra nhiều tình trạng bất ổn thể chất. Người ta cho rằng ngồi quá nhiều cũng là nguyên nhân gây đau lưng mà cứ 4 người Nhật thì có 1 người gặp phải.\nTư thế ngồi có vẻ như không gây nhiều gánh nặng cho cơ thể., tùy thuộc vào cách ngồi, thực tế gánh nặng lên lưng gấp đôi so với khi đứng. Thời gian ngồi càng lâu thì gánh nặng lên lưng càng lớn, dẫn đến đau lưng. Nói vậy nhưng làm việc ở tư thế đứng liên tục cũng không thực tế. Đứng thời gian dài còn có vấn đề mệt mỏi tích tụ ở chân. Điều quan trọng là không duy trì một tư thế quá lâu. Lý tưởng là 30 phút một lần, tối thiểu 1 giờ một lần nên đứng dậy vận động một chút.\nThực tế, nhiều người thử thỉnh thoảng đứng dậy vận động trong lúc làm việc cho biết họ cảm nhận được hiệu quả như giảm đau lưng và ít cảm thấy mệt mỏi hơn. Tránh ngồi liên tục và thỉnh thoảng đứng dậy vận động cơ thể là biện pháp phòng chống đau lưng dễ thực hiện, đồng thời giúp duy trì sự tập trung trong công việc. Những người thường xuyên ngồi lâu tại nơi làm việc nên thử áp dụng cách này.",
+    "questions": [
+      {
+        "id": "z025-1",
+        "choices": [
+          "増えそうでした",
+          "増えてきました",
+          "増えていきました",
+          "増えたところでした"
+        ],
+        "answer": "増えてきました",
+        "explanation": "V-てくる diễn tả một xu hướng/sự thay đổi bắt đầu từ quá khứ và tiếp diễn đến hiện tại (ngày càng tăng lên).\n\nNghĩa các lựa chọn:\n1) 増えそうでした: có vẻ sắp tăng — Sai.\n2) 増えてきました: đã và đang tăng lên — ĐÚNG.\n3) 増えていきました: đã tăng dần đi — Sai.\n4) 増えたところでした: vừa mới tăng xong — Sai."
+      },
+      {
+        "id": "z025-2",
+        "choices": [
+          "つまり",
+          "しかも",
+          "ところが",
+          "というのは"
+        ],
+        "answer": "ところが",
+        "explanation": "接続詞 「ところが」 (tuy nhiên / thế nhưng) biểu thị sự đối lập giữa suy nghĩ thông thường và thực tế trái ngược.\n\nNghĩa các lựa chọn:\n1) つまり: tóm lại — Sai.\n2) しかも: hơn nữa — Sai.\n3) ところが: tuy nhiên/thế nhưng — ĐÚNG.\n4) というのは: lý do là vì — Sai."
+      },
+      {
+        "id": "z025-3",
+        "choices": [
+          "同じ",
+          "違う",
+          "この",
+          "以下の"
+        ],
+        "answer": "同じ",
+        "explanation": "Tính từ 「同じ」 (giống nhau / cùng một) nhấn mạnh việc không nên giữ nguyên cùng một tư thế quá lâu.\n\nNghĩa các lựa chọn:\n1) 同じ: cùng một/giống nhau — ĐÚNG.\n2) 違う: khác nhau — Sai.\n3) この: này — Sai.\n4) 以下の: dưới đây — Sai."
+      },
+      {
+        "id": "z025-4",
+        "choices": [
+          "試してみてもいいですか",
+          "試してみたらいいのでしょうか",
+          "試してみればよかったですか",
+          "試してはいかがでしょうか"
+        ],
+        "answer": "試してはいかがでしょうか",
+        "explanation": "Mẫu câu đưa ra lời khuyên lịch sự 「～てはいかがでしょうか」 (bạn thử làm xem sao).\n\nNghĩa các lựa chọn:\n1) 試してみてもいいですか: tôi thử có được không — Sai.\n2) 試してみたらいいのでしょうか: nên thử thế nào — Sai.\n3) 試してみればよかったですか: giá mà đã thử — Sai.\n4) 試してはいかがでしょうか: bạn thử xem sao — ĐÚNG."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z026",
+    "passages": [
+      {
+        "text": "「香道」とは、香りを楽しむ日本の伝統文化です。私は、友人が香道の体験ができる教室に誘ってくれたのをきっかけに、初めて香道のことを知りました。私は普段から香水などで香りを楽しんでいるので、香道の体験も楽しむことができました。\n香道は、「香木」と呼ばれる木の破片を熱し、その香りを楽しみます。「香木」[1]そのような名前の木がもともと存在するわけではありません。いくつかの種類の木の中で、様々な自然条件のもとで、年月の経過によって香りを発生させるようになった木をそう呼びます。人工的に生産できないため、大変貴重なものと[2]。\n香道には600年以上の歴史がありますが、その存在はあまり知られていません。数に限りがある香木は、香道が広まり需要が増えすぎればなくなるおそれもあります。[3]、香道ではあまり多くの弟子を受け入れませんでした。香道がよく知られていないのは、そういった事情もあるそうです。\n香道では、香りをかいで、じっくりと味わうことを「香りを聞く」と言います。香りに心を傾けて聞くことを基本に、香りを聞きながら古典文学を鑑賞したり、どれがどの香木の香りかを当てて楽しんだりもします。\n繊細な香りを心の中でゆっくり味わうことを通して、私は「香りを聞く」という意味がわかったような気がしました。香水のように手軽ではありませんが、このような香りの楽しみ方も[4]。"
+      }
+    ],
+    "translation": "“Hương đạo” là văn hóa truyền thống Nhật Bản thưởng thức hương thơm. Nhân dịp một người bạn rủ tôi đến lớp học trải nghiệm hương đạo, lần đầu tiên tôi mới biết về hương đạo. Vì bình thường tôi vẫn thưởng thức hương thơm bằng nước hoa nên tôi cũng đã rất thích thú khi trải nghiệm hương đạo.\nHương đạo là việc làm nóng mảnh gỗ gọi là “Gỗ trầm (Kouboku)” để thưởng thức hương thơm của nó. Dù gọi là “Gỗ trầm”, không phải vốn dĩ có loại cây mang tên như vậy. Trong số nhiều loại cây, những cây do trải qua nhiều năm tháng dưới các điều kiện tự nhiên đa dạng mà phát ra hương thơm sẽ được gọi như vậy. Vì không thể sản xuất nhân tạo nên nó được xem là vật vô cùng quý giá.\nHương đạo có lịch sử hơn 600 năm nhưng sự tồn tại của nó lại ít được biết đến. Gỗ trầm có số lượng hạn chế nên nếu hương đạo lan rộng và nhu cầu tăng quá mức thì có nguy cơ sẽ cạn kiệt. Vì vậy, hương đạo không nhận quá nhiều đệ tử. Việc hương đạo không được biết đến rộng rãi nghe nói cũng có lý do như vậy.\nTrong hương đạo, việc ngửi và thưởng thức thong thả hương thơm được gọi là “Lắng nghe hương thơm”. Lấy việc dốc lòng lắng nghe hương thơm làm nền tảng, vừa lắng nghe hương thơm người ta vừa thưởng thức văn học cổ điển, hay đoán xem đâu là hương thơm của loại gỗ trầm nào.\nThông qua việc từ từ thưởng thức hương thơm tinh tế trong lòng, tôi cảm thấy như mình đã hiểu được ý nghĩa của cụm từ “Lắng nghe hương thơm”. Tuy không tiện lợi như nước hoa, nhưng tôi nghĩ cách thưởng thức hương thơm như thế này cũng là một điều rất tuyệt vời.",
+    "questions": [
+      {
+        "id": "z026-1",
+        "choices": [
+          "のように",
+          "のほかに",
+          "といっても",
+          "であっても"
+        ],
+        "answer": "といっても",
+        "explanation": "Mẫu câu 「～といっても」 (dù nói là... nhưng) dùng để giải thích rõ hơn, tránh hiểu lầm.\n\nNghĩa các lựa chọn:\n1) のように: giống như — Sai.\n2) のほかに: ngoài ra — Sai.\n3) といっても: dù nói là — ĐÚNG.\n4) であっても: cho dù là — Sai."
+      },
+      {
+        "id": "z026-2",
+        "choices": [
+          "しておきます",
+          "されています",
+          "しておく点です",
+          "されている点です"
+        ],
+        "answer": "されています",
+        "explanation": "Thể bị động/đánh giá chung 「～されています」 (được xem là / được đánh giá là...).\n\nNghĩa các lựa chọn:\n1) しておきます: làm sẵn — Sai.\n2) されています: được xem là — ĐÚNG.\n3) しておく点です: là điểm làm sẵn — Sai.\n4) されている点です: là điểm được làm — Sai."
+      },
+      {
+        "id": "z026-3",
+        "choices": [
+          "一方",
+          "ちなみに",
+          "ところが",
+          "そのため"
+        ],
+        "answer": "そのため",
+        "explanation": "接続詞 「そのため」 (vì vậy / do đó) chỉ mối quan hệ nguyên nhân - kết quả.\n\nNghĩa các lựa chọn:\n1) 一方: mặt khác — Sai.\n2) ちなみに: nhân tiện — Sai.\n3) ところが: thế nhưng — Sai.\n4) そのため: vì vậy/do đó — ĐÚNG."
+      },
+      {
+        "id": "z026-4",
+        "choices": [
+          "いいものだと思います",
+          "いいと思ったのでしょう",
+          "よかったはずです",
+          "よかったのではありませんか"
+        ],
+        "answer": "いいものだと思います",
+        "explanation": "Cụm 「～いいものだと思います」 thể hiện suy nghĩ cảm nhận cá nhân của tác giả sau trải nghiệm.\n\nNghĩa các lựa chọn:\n1) いいものだと思います: tôi nghĩ là điều tuyệt vời — ĐÚNG.\n2) いいと思ったのでしょう: có lẽ đã nghĩ là tốt — Sai.\n3) よかったはずです: chắc chắn đã tốt — Sai.\n4) よかったのではありませんか: chẳng phải đã tốt sao — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z027",
+    "passages": [
+      {
+        "text": "温泉の正しい入り方\n疲れを感じたとき、温泉に行きたくなるという人も多いのではないでしょうか。ただ、温泉に入って、元気になるどころか逆に疲れてしまったという声を聞くことも少なくありません。[1]、温泉は入り方を間違えると体に負担をかけてしまうのです。\n体に負担をかけないためにまずしてほしいのは、お湯に入る前に丁寧に「かけ湯」をすることです。心臓から遠い足先などから温泉のお湯をゆっくり、たっぷりかけていきましょう。「かけ湯」には、お湯の温度や温泉の成分に体を慣れさせるといった重要な役割があります。お湯に入る前には必ず「かけ湯」を[2]。\nそして、お湯に入っている時間にも注意が必要です。お湯に入っている時間は、ぬるく感じるお湯でも20分程度、熱いお湯なら3～5分程度にするのが良いと言われています。また、1日に何度も温泉に入るのもあまり良くありません。1日に1、2回、多くても3回程度にしておきましょう。\n温泉の成分が肌に負担を[3]。ですから、刺激の強い酸性の温泉に入ったときや、肌への刺激が強いと感じたときは、最後に温泉ではないお湯や水を体にかけ、肌に残った温泉の成分を流しましょう。なお、肌への刺激が強くなければ、流さないほうが温泉の成分が肌に残るのでおすすめです。\nせっかく疲れをとり温泉に行ったのに、[4]もったいないですよね。正しい入り方で日ごろの疲れがとれますように。"
+      }
+    ],
+    "translation": "Cách tắm suối nước nóng đúng cách\nKhi cảm thấy mệt mỏi, chắc có nhiều người muốn đi tắm suối nước nóng. Tuy nhiên, cũng không ít người cho biết thay vì khỏe ra thì ngược lại họ lại cảm thấy mệt mỏi hơn sau khi tắm. Thực ra, nếu tắm suối nước nóng sai cách sẽ gây gánh nặng cho cơ thể.\nĐể không gây gánh nặng cho cơ thể, điều đầu tiên bạn nên làm là xối nước rửa chân tay (Kakeyu) cẩn thận trước khi vào bồn tắm. Hãy xối từ từ và nhiều nước suối nước nóng từ đầu ngón chân xa tim nhất. Kakeyu có vai trò quan trọng giúp cơ thể quen với nhiệt độ nước và thành phần suối nước nóng. Trước khi vào bồn tắm hãy luôn nhớ dội nước rửa sạch.\nNgoài ra, thời gian ngâm mình trong bồn tắm cũng cần lưu ý. Thời gian ngâm tắm được cho là khoảng 20 phút đối với nước ấm nhẹ, và khoảng 3–5 phút đối với nước nóng. Việc tắm suối nước nóng nhiều lần trong ngày cũng không tốt. Một ngày chỉ nên tắm 1–2 lần, nhiều nhất là 3 lần.\nCũng có trường hợp thành phần suối nước nóng gây kích ứng cho da. Do đó khi tắm ở suối nước nóng có tính axit mạnh hoặc khi cảm thấy kích ứng da mạnh, cuối cùng hãy dội nước thường hoặc nước lên người để rửa sạch thành phần suối nước nóng còn bám trên da. Nếu kích ứng da không mạnh thì không nên rửa vì giữ lại thành phần suối nước nóng trên da sẽ tốt hơn.\nĐã cất công đi tắm suối nước nóng để xả mệt mỏi mà lại bị mệt thêm thì thật lãng phí đúng không. Hy vọng với cách tắm đúng bạn sẽ xua tan được mệt mỏi hàng ngày.",
+    "questions": [
+      {
+        "id": "z027-1",
+        "choices": [
+          "実は",
+          "一方で",
+          "しかも",
+          "ちなみに"
+        ],
+        "answer": "実は",
+        "explanation": "接続詞 「実は」 (thực ra) dùng để tiết lộ nguyên nhân thực sự đằng sau hiện tượng mệt mỏi.\n\nNghĩa các lựa chọn:\n1) 実は: thực ra — ĐÚNG.\n2) 一方で: mặt khác — Sai.\n3) しかも: hơn nữa — Sai.\n4) ちなみに: nhân tiện — Sai."
+      },
+      {
+        "id": "z027-2",
+        "choices": [
+          "するからです",
+          "するのでしょう",
+          "するつもりです",
+          "するようにしてください"
+        ],
+        "answer": "するようにしてください",
+        "explanation": "Mẫu câu khuyên bảo/yêu cầu người đọc làm gì: 「～ようにしてください」 (hãy cố gắng làm...).\n\nNghĩa các lựa chọn:\n1) するからです: bởi vì làm — Sai.\n2) するのでしょう: có lẽ làm — Sai.\n3) するつもりです: dự định làm — Sai.\n4) するようにしてください: hãy cố gắng làm — ĐÚNG."
+      },
+      {
+        "id": "z027-3",
+        "choices": [
+          "かけたとします",
+          "かけることもあります",
+          "かけたと思います",
+          "かけることにあります"
+        ],
+        "answer": "かけることもあります",
+        "explanation": "Cụm 「～かけることもあります」 (cũng có khi gây ra...) diễn tả khả năng có thể xảy ra.\n\nNghĩa các lựa chọn:\n1) かけたとします: giả sử đã gây ra — Sai.\n2) かけることもあります: cũng có khi gây ra — ĐÚNG.\n3) かけたと思います: tôi nghĩ đã gây ra — Sai.\n4) かけることにあります: nằm ở việc gây ra — Sai."
+      },
+      {
+        "id": "z027-4",
+        "choices": [
+          "疲れてしまい",
+          "疲れてしまったのが",
+          "疲れてしまっては",
+          "疲れてしまうばかりで"
+        ],
+        "answer": "疲れてしまっては",
+        "explanation": "Mẫu câu điều kiện giả định 「V-てしまっては」 (nếu lỡ mệt mỏi thì... thì thật lãng phí).\n\nNghĩa các lựa chọn:\n1) 疲れてしまい: lỡ mệt mỏi — Sai.\n2) 疲れてしまったのが: việc lỡ mệt mỏi — Sai.\n3) 疲れてしまっては: nếu lỡ mệt mỏi thì — ĐÚNG.\n4) 疲れてしまうばかりで: chỉ toàn mệt mỏi — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z028",
+    "passages": [
+      {
+        "text": "紅葉の異変\nサリム ソフィア\n私は日本の秋の景色が好きです。秋になって紅葉が始まり、緑だった葉が黄色やオレンジ、赤に変わると、とてもきれいでした。秋の紅葉は、日本の四季の変化を感じさせてくれるものです。\nですが、先日テレビで、[1]のピークを迎える時期が年々遅くなっているというニュースを見ました。中には、1月になってからピークを迎えたところもあるそうで、驚きました。温暖化によって平均気温が上昇していることが大きな原因だそうです。私は、夏が過ぎて気温が下がってくれば、必ず紅葉が始まると思っていました。[2]、そうではありませんでした。紅葉には、条件となる気温の変化がありました。\n葉の変色が始まるのは、1日の最低気温が大体8度以下になってからです。秋になっても、最低気温が一定の気温まで下がらなければ、紅葉は[3]。その後、さらに寒くなり、5～6度まで下がると、紅葉が一気に進みます。また、5度以下の日が続くと、最も美しい紅葉が見られるといわれています。\n紅葉に起きている異変を知り、このまま温暖化が進むと、日本の秋の景色が変わってしまう可能性もあるのではないかと思いました。もしかしたら、紅葉自体が見られなくなる日も来るかもしれません。紅葉を通して、温暖化が身近な問題であることをより強く[4]。"
+      }
+    ],
+    "translation": "Bất thường của lá đỏ mùa thu\nSalim Sophia\nTôi rất thích cảnh sắc mùa thu Nhật Bản. Khi mùa thu đến, lá đỏ bắt đầu chuyển màu, những chiếc lá màu xanh chuyển sang vàng, cam và đỏ trông vô cùng đẹp mắt. Lá đỏ mùa thu làm tôi cảm nhận được sự thay đổi bốn mùa của Nhật Bản.\nTuy nhiên, với lá đỏ mùa thu như vậy, vừa rồi tôi xem tin tức trên tivi thấy bảo thời điểm lá đỏ đạt đỉnh rực rỡ nhất đang ngày càng trễ hơn qua từng năm. Nghe nói có nơi đến tận tháng 1 mới đạt đỉnh làm tôi rất ngạc nhiên. Nghe nói nguyên nhân lớn là do biến đổi khí hậu khiến nhiệt độ trung bình tăng lên. Tôi từng nghĩ hễ qua mùa hè nhiệt độ giảm xuống thì lá đỏ nhất định sẽ bắt đầu. Thế nhưng không phải như vậy. Lá đỏ có điều kiện thay đổi nhiệt độ riêng.\nViệc lá bắt đầu đổi màu là từ khi nhiệt độ thấp nhất trong ngày xuống dưới khoảng 8 độ C. Dù sang thu nhưng nếu nhiệt độ thấp nhất không hạ xuống mức nhiệt độ nhất định thì lá đỏ sẽ không bắt đầu. Sau đó trời lạnh hơn xuống 5–6 độ C thì lá đỏ sẽ chuyển biến nhanh chóng. Người ta cũng nói rằng nếu những ngày dưới 5 độ C kéo dài thì sẽ ngắm được lá đỏ đẹp nhất.\nBiết được sự bất thường đang diễn ra với lá đỏ, tôi nghĩ nếu tình trạng biến đổi khí hậu cứ tiếp diễn thì cảnh sắc mùa thu Nhật Bản có khả năng sẽ thay đổi. Biết đâu ngày mà bản thân lá đỏ cũng không còn nhìn thấy nữa sẽ tới. Thông qua lá đỏ, tôi đã cảm nhận sâu sắc hơn rằng biến đổi khí hậu là một vấn đề rất gần gũi.",
+    "questions": [
+      {
+        "id": "z028-1",
+        "choices": [
+          "そこの紅葉",
+          "そんな紅葉",
+          "そちら",
+          "紅葉"
+        ],
+        "answer": "そんな紅葉",
+        "explanation": "指示詞 「そんな紅葉」 (lá đỏ như thế) nhắc lại hiện tượng lá đỏ vừa miêu tả ở đoạn trước.\n\nNghĩa các lựa chọn:\n1) そこの紅葉: lá đỏ ở đó — Sai.\n2) そんな紅葉: lá đỏ như thế — ĐÚNG.\n3) そちら: phía đó — Sai.\n4) 紅葉: lá đỏ — Sai."
+      },
+      {
+        "id": "z028-2",
+        "choices": [
+          "結局",
+          "確かに",
+          "しかし",
+          "つまり"
+        ],
+        "answer": "しかし",
+        "explanation": "接続詞 「しかし」 (thế nhưng / tuy nhiên) nối tiếp quan điểm suy nghĩ sai lầm ban đầu với thực tế.\n\nNghĩa các lựa chọn:\n1) 結局: rốt cuộc — Sai.\n2) 確かに: quả thực — Sai.\n3) しかし: thế nhưng/tuy nhiên — ĐÚNG.\n4) つまり: tóm lại — Sai."
+      },
+      {
+        "id": "z028-3",
+        "choices": [
+          "始まらないのです",
+          "始まらないためです",
+          "始まらないのでしょうか",
+          "始まらないためでしょうか"
+        ],
+        "answer": "始まらないのです",
+        "explanation": "Dạng khẳng định giải thích thực tế 「～始まらないのです」 (thì lá đỏ sẽ không bắt đầu).\n\nNghĩa các lựa chọn:\n1) 始まらないのです: sẽ không bắt đầu — ĐÚNG.\n2) 始まらないためです: là vì không bắt đầu — Sai.\n3) 始まらないのでしょうか: liệu có không bắt đầu không — Sai.\n4) 始まらないためでしょうか: có phải vì không bắt đầu không — Sai."
+      },
+      {
+        "id": "z028-4",
+        "choices": [
+          "感じているからだと思います",
+          "感じられるところだと思います",
+          "感じさせることができました",
+          "感じるようになりました"
+        ],
+        "answer": "感じるようになりました",
+        "explanation": "Mẫu câu 「～感じるようになりました」 diễn tả sự thay đổi trạng thái nhận thức: tôi đã bắt đầu cảm nhận sâu sắc hơn.\n\nNghĩa các lựa chọn:\n1) 感じているからだと思います: tôi nghĩ là vì đang cảm nhận — Sai.\n2) 感じられるところだと思います: tôi nghĩ là chỗ cảm nhận được — Sai.\n3) 感じさせることができました: đã có thể làm cho cảm nhận — Sai.\n4) 感じるようになりました: tôi đã bắt đầu cảm nhận — ĐÚNG."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z029",
+    "passages": [
+      {
+        "text": "農業ボランティア\nゴメス フランシスコ\n半年前、私は友達に誘われて、働き手が足りない農家を手伝う「農業ボランティア」を始めた。過去にごみ拾いなどのボランティアはしたことがあったが、農業ボランティアのことは友達に聞くまで知らなかった。私は日本でいろいろな経験をしたいと思っていたので、参加することにした。\n私を手伝っているのは南さんという農家だ。40代のご夫婦がトマトやキャベツなど、いろいろな野菜を作っている。農作業は初めての経験だったが、農業は想像していた以上に知識や経験が必要だと感じた。[1]、収穫のタイミングは、成長の具合や天気予報を基に、いつがいいかを判断しなければならない。また、トマトなどは成長の段階に応じて与える水の量を変えないとしっかり育たない。体力[2]必要で、農業は本当に大変な仕事だ。\n初めのころは、わからないことが多く、よく質問をして南さんたちの作業を止めてしまっていた。手伝いではなく邪魔をしているのではないかと不安になることもあった。それでも、「ありがとう。助かっているよ。」といつも声をかけてくれたので、だんだん自分も役に立てていると感じられるようになった。収穫したばかりのトマトを初めて食べさせてもらったときはあまりにおいしくて[3]。収穫したときの達成感や大切に育てた野菜を味わう喜びは、このボランティアに参加しなければ感じられなかっただろう。\n農業ボランティアとして役に立てたことがうれしかったし、多くの貴重な経験をすることができた。[4]本当によかったと思う。"
+      }
+    ],
+    "translation": "Tình nguyện viên nông nghiệp\nGomez Francisco\nNửa năm trước, tôi được bạn rủ tham gia “Tình nguyện viên nông nghiệp” để giúp đỡ những nông hộ thiếu người làm. Trước đây tôi từng làm tình nguyện nhặt rác nhưng chuyện tình nguyện nông nghiệp thì cho đến khi bạn nói tôi mới biết. Vì muốn trải nghiệm nhiều điều ở Nhật Bản nên tôi đã quyết định tham gia.\nNơi tôi giúp đỡ là nhà chú Minami. Hai vợ chồng ngoài 40 tuổi trồng nhiều loại rau như cà chua, bắp cải. Làm nông là trải nghiệm lần đầu tiên của tôi, và tôi cảm thấy nông nghiệp cần nhiều kiến thức kinh nghiệm hơn tôi tưởng. Ví dụ như thời điểm thu hoạch phải căn cứ vào tình hình tăng trưởng và dự báo thời tiết để đánh giá xem khi nào tốt. Ngoài ra cà chua nếu không thay đổi lượng nước tưới theo từng giai đoạn tăng trưởng thì sẽ không phát triển tốt. Thể lực cũng cần thiết, làm nông thực sự là công việc rất vất vả.\nThời gian đầu có nhiều điều không biết nên tôi hay đặt câu hỏi làm gián đoạn công việc của vợ chồng chú Minami. Có lúc tôi lo lắng không biết mình đang giúp đỡ hay đang làm phiền. Mặc dù vậy họ luôn động viên tôi: “Cảm ơn cháu, cháu giúp được nhiều lắm”. Vì vậy dần dần tôi cảm thấy bản thân cũng có ích. Lần đầu tiên được cho ăn thử quả cà chua vừa mới hái nó ngon đến mức tôi đã vô cùng xúc động. Cảm giác thành tựu khi thu hoạch và niềm vui thưởng thức rau củ do mình chăm sóc chắc chắn sẽ không cảm nhận được nếu không tham gia tình nguyện này.\nTôi rất vui vì có ích với tư cách tình nguyện viên nông nghiệp và có thể tích lũy được nhiều kinh nghiệm quý báu. Tôi nghĩ rằng thử làm tình nguyện này thật sự là điều tuyệt vời.",
+    "questions": [
+      {
+        "id": "z029-1",
+        "choices": [
+          "一方",
+          "そして",
+          "例えば",
+          "ただし"
+        ],
+        "answer": "例えば",
+        "explanation": "接続詞 「例えば」 (ví dụ như) dùng để đưa ra dẫn chứng cụ thể cho nhận định ở câu trước.\n\nNghĩa các lựa chọn:\n1) 一方: mặt khác — Sai.\n2) そして: và — Sai.\n3) 例えば: ví dụ như — ĐÚNG.\n4) ただし: tuy nhiên — Sai."
+      },
+      {
+        "id": "z029-2",
+        "choices": [
+          "だけ",
+          "も",
+          "は",
+          "こそ"
+        ],
+        "answer": "も",
+        "explanation": "Trợ từ 「も」 (cũng) bổ sung thêm thể lực bên cạnh kiến thức và kinh nghiệm.\n\nNghĩa các lựa chọn:\n1) だけ: chỉ — Sai.\n2) も: cũng — ĐÚNG.\n3) は: thì — Sai.\n4) こそ: chính là — Sai."
+      },
+      {
+        "id": "z029-3",
+        "choices": [
+          "感動したことだ",
+          "感動していた",
+          "感動したはずだ",
+          "感動してしまった"
+        ],
+        "answer": "感動してしまった",
+        "explanation": "Mẫu câu 「V-てしまった」 diễn tả cảm xúc trào dâng ngoài kiểm soát (vô cùng xúc động).\n\nNghĩa các lựa chọn:\n1) 感動したことだ: việc đã xúc động — Sai.\n2) 感動していた: đã đang xúc động — Sai.\n3) 感動したはずだ: chắc chắn đã xúc動 — Sai.\n4) 感動してしまった: vô cùng xúc動 — ĐÚNG."
+      },
+      {
+        "id": "z029-4",
+        "choices": [
+          "やってみて",
+          "やってみても",
+          "やってみたら",
+          "やってみたから"
+        ],
+        "answer": "やってみて",
+        "explanation": "V-て (sau khi thử làm...) kết nối với cảm tưởng kết luận ở cuối bài.\n\nNghĩa các lựa chọn:\n1) やっみて: sau khi thử làm — ĐÚNG.\n2) やっみても: cho dù thử làm — Sai.\n3) やっみたら: nếu thử làm — Sai.\n4) やっみたから: vì đã thử làm — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z030",
+    "passages": [
+      {
+        "text": "高齢者の外出支援\nオ ヒョンミ\n現在、日本では65歳以上の高齢者が人口の約3割に達するほど高齢化が進んでいる。そんな日本で今、高齢者の体と心の健康のために外出を支援するサービスの重要性が増しているそうだ。このサービスには、どのような効果があるのだろうか。\n外出を支援するサービスは、大きく分けて二つある。まず一つ目は、移動をサポートするサービスで、主に車での送迎サービスだ。車の運転が困難な人や、最寄りのバス停や駅まで歩くことが負担になる人に[1]。二つ目は、外出の機会を提供するサービスだ。用事がないから外出しないという高齢者は[2]。そのため、商店街での割引を実施したり、集まっておしゃべりができる会を開いたりするなど、外出の目的や場所を提供している。これらのサービスにより、外出の回数が増えたという人も多いそうだ。\n外出回数は、高齢者の体と心の健康に大きく影響する。調査では、[3]歩行に障害が出た人の数は、外出回数が1日1回以上の人より3日に1回未満の人のほうが約4倍も多かった。また、外出は心の健康のために欠かせないという研究報告もある。外出によって脳に刺激を与えることは、脳の機能が低下するのを防ぎ、心の健康につながるのだそうだ。\n外出と健康の関係を考えると、高齢者が外出することには大きな意味がある。高齢化が進む日本[4]、外出支援サービスは重要な役割を果たしているのだ。"
+      }
+    ],
+    "translation": "Hỗ trợ người cao tuổi đi ra ngoài\nOh Hyun Mi\nHiện nay tại Nhật Bản, tình trạng già hóa dân số đang diễn ra đến mức người cao tuổi từ 65 tuổi trở lên chiếm khoảng 30% dân số. Ở một Nhật Bản như vậy, tầm quan trọng của các dịch vụ hỗ trợ người cao tuổi đi ra ngoài vì sức khỏe thể chất và tinh thần nghe nói đang tăng lên. Dịch vụ này có những hiệu quả như thế nào?\nDịch vụ hỗ trợ đi ra ngoài về cơ bản chia làm hai loại. Đầu tiên là dịch vụ hỗ trợ di chuyển, chủ yếu là dịch vụ đưa đón bằng xe ô tô. Dịch vụ này đang được sử dụng bởi những người gặp khó khăn trong việc lái xe ô tô hay việc đi bộ đến bến xe buýt hay nhà ga gần nhất trở thành gánh nặng. Thứ hai là dịch vụ cung cấp cơ hội đi ra ngoài. Nghe nói những người cao tuổi không đi ra ngoài vì không có việc gì không phải là ít. Do đó người ta cung cấp mục đích và địa điểm đi ra ngoài như thực hiện giảm giá tại khu phố thương mại hay tổ chức các buổi gặp mặt trò chuyện. Nghe nói nhiều người cho biết nhờ những dịch vụ này mà số lần đi ra ngoài đã tăng lên.\nSố lần đi ra ngoài ảnh hưởng lớn đến sức khỏe thể chất và tinh thần của người cao tuổi. Trong một cuộc khảo sát, số người xuất hiện khó khăn khi đi bộ ở nhóm người có số lần đi ra ngoài dưới 1 lần trong 3 ngày nhiều hơn khoảng 4 lần so với nhóm đi ra ngoài từ 1 lần trở lên mỗi ngày. Ngoài ra cũng có báo cáo nghiên cứu chỉ ra rằng đi ra ngoài là điều không thể thiếu cho sức khỏe tinh thần. Việc kích thích não bộ thông qua đi ra ngoài sẽ ngăn ngừa suy giảm chức năng não và dẫn đến sức khỏe tinh thần.\nXem xét mối quan hệ giữa đi ra ngoài và sức khỏe, việc người cao tuổi đi ra ngoài có ý nghĩa rất lớn. Tại một Nhật Bản đang già hóa dân số, dịch vụ hỗ trợ đi ra ngoài đang đóng vai trò quan trọng.",
+    "questions": [
+      {
+        "id": "z030-1",
+        "choices": [
+          "利用させてほしい",
+          "利用されている",
+          "利用してくれている",
+          "利用してもいい"
+        ],
+        "answer": "利用されている",
+        "explanation": "Thể bị動/trạng thái thực tế 「～利用されている」 (đang được sử dụng bởi...).\n\nNghĩa các lựa chọn:\n1) 利用させてほしい: muốn được cho sử dụng — Sai.\n2) 利用されている: đang được sử dụng — ĐÚNG.\n3) 利用してくれている: đang sử dụng cho — Sai.\n4) 利用してもいい: được phép sử dụng — Sai."
+      },
+      {
+        "id": "z030-2",
+        "choices": [
+          "少なかったはずだ",
+          "少なくなったのだ",
+          "少なくないという",
+          "少なくなりかねない"
+        ],
+        "answer": "少なくないという",
+        "explanation": "Cụm 「～少なくないという」 truyền đạt thông tin nghe nói rằng không phải là ít.\n\nNghĩa các lựa chọn:\n1) 少なかったはずだ: chắc hẳn đã ít — Sai.\n2) 少なくなったのだ: đã trở nên ít — Sai.\n3) 少なくないという: nghe nói không phải là ít — ĐÚNG.\n4) 少なくなりかねない: có nguy cơ sẽ ít đi — Sai."
+      },
+      {
+        "id": "z030-3",
+        "choices": [
+          "このような",
+          "その",
+          "次の",
+          "ある"
+        ],
+        "answer": "ある",
+        "explanation": "Định từ 「ある」 (một... nào đó) giới thiệu một cuộc khảo sát thực tế cụ thể.\n\nNghĩa các lựa chọn:\n1) このような: như thế này — Sai.\n2) その: đó — Sai.\n3) 次の: tiếp theo — Sai.\n4) ある: một... nào đó — ĐÚNG."
+      },
+      {
+        "id": "z030-4",
+        "choices": [
+          "において",
+          "に限らず",
+          "を中心に",
+          "をはじめ"
+        ],
+        "answer": "において",
+        "explanation": "Mẫu câu chỉ bối cảnh địa điểm/thời đại 「N + において」 (tại / ở Nhật Bản...).\n\nNghĩa các lựa chọn:\n1) において: tại/ở — ĐÚNG.\n2) に限らず: không chỉ giới hạn ở — Sai.\n3) を中心に: lấy... làm trung tâm — Sai.\n4) をはじめ: đại diện là/đầu tiên phải kể đến — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z031",
+    "passages": [
+      {
+        "text": "目で味わう\n「目で味わう」という言葉があります。もちろん、目で食べ物を食べるという意味ではありません。食べる前に目で見て料理の見た目を楽しむという意味です。しかし、「味わう」という言葉は普通、舌で料理の味を楽しむことを指します。目でも味を感じることはできるのでしょうか。\n色使いや盛り方など、料理の見た目がきれいだと食事の楽しみが増すという人も[1]。料理人たちも、塩や酢などを使って野菜の色を鮮やかに保ったり、料理に合う色や形の器を選んだりと、見た目を大切にしています。同じ料理でも、見た目がより良いもののほうがおいしそうに感じられます。\nでは、単に料理を見ておいしそうだと思うことを「味わう」と表現しているのでしょうか。\n[2]、料理の見た目が影響するのは食べる前だけではないことがわかってきました。ある研究で、食べ物の味は変えずに、色や器の種類などを変えて提供し、それぞれどんな味か評価させる実験が行われました。すると、全く同じ味のものを食べたにもかかわらず、味が異なると評価した人が多かったそうです。目から入る情報は、食べた時の味の感じ方[3]影響していたのです。このように科学的にも、実際に目で味わっているということが証明されつつあります。\n味を感じる仕組みは複雑で、見た目も大切な要素の一つです。それが感覚的に理解されていたからこそ、「目で味わう」と表現されるように[4]。"
+      }
+    ],
+    "translation": "Thưởng thức bằng mắt\nCó cụm từ gọi là “Thưởng thức bằng mắt”. Dĩ nhiên điều này không có nghĩa là dùng mắt để ăn thức ăn. Nó có nghĩa là ngắm nhìn và thưởng thức vẻ ngoài của món ăn trước khi ăn. Tuy nhiên, từ “Thưởng thức” thông thường chỉ việc thưởng thức vị của món ăn bằng lưỡi. Liệu mắt cũng có thể cảm nhận được hương vị không?\n Có lẽ nhiều người cho rằng khi vẻ ngoài của món ăn đẹp đẽ như cách phối màu hay cách bài trí thì niềm vui ăn uống sẽ tăng lên. Các đầu bếp cũng rất coi trọng vẻ ngoài như dùng muối hay giấm để giữ màu sắc rau củ tươi sáng, hay chọn chén đĩa có màu sắc và hình dáng phù hợp với món ăn. Cùng một món ăn nhưng món có vẻ ngoài tốt hơn sẽ cảm thấy ngon hơn.\nVậy thì phải chăng người ta chỉ đơn thuần dùng từ “Thưởng thức” để diễn đạt việc nhìn món ăn và thấy trông có vẻ ngon?\n Thực ra, những năm gần đây người ta đã phát hiện ra rằng vẻ ngoài của món ăn không chỉ ảnh hưởng trước khi ăn. Trong một nghiên cứu, người ta tiến hành thực nghiệm không thay đổi vị thức ăn nhưng thay đổi màu sắc và loại chén đĩa rồi yêu cầu đánh giá hương vị từng loại. Kết quả là mặc dù ăn cùng một vị nhưng nhiều người lại đánh giá hương vị khác nhau. Thông tin nạp vào từ mắt đã ảnh hưởng đến cả cách cảm nhận vị khi ăn. Như vậy về mặt khoa học, việc thực sự thưởng thức bằng mắt cũng đang dần được chứng minh.\nCơ chế cảm nhận hương vị rất phức tạp và vẻ ngoài cũng là một trong những yếu tố quan trọng. Chính vì điều đó đã được hiểu theo cảm nhận giác quan nên có lẽ mới dẫn đến việc biểu đạt là “Thưởng thức bằng mắt”.",
+    "questions": [
+      {
+        "id": "z031-1",
+        "choices": [
+          "多いとします",
+          "多かったです",
+          "多いでしょう",
+          "多かったでしょう"
+        ],
+        "answer": "多いでしょう",
+        "explanation": "Phỏng đoán chung nhẹ nhàng với người đọc: 「～多いでしょう」 (có lẽ là nhiều người...).\n\nNghĩa các lựa chọn:\n1) 多いとします: giả sử là nhiều — Sai.\n2) 多かったです: đã từng nhiều — Sai.\n3) 多いでしょう: có lẽ là nhiều — ĐÚNG.\n4) 多かったでしょう: có lẽ đã từng nhiều — Sai."
+      },
+      {
+        "id": "z031-2",
+        "choices": [
+          "実は",
+          "確かに",
+          "しかも",
+          "ところが"
+        ],
+        "answer": "実は",
+        "explanation": "接続詞 「実は」 (thực ra) chuyển tiếp để tiết lộ thông tin nghiên cứu mới khoa học.\n\nNghĩa các lựa chọn:\n1) 実は: thực ra — ĐÚNG.\n2) 確かに: quả thực — Sai.\n3) しかも: hơn nữa — Sai.\n4) ところが: thế nhưng — Sai."
+      },
+      {
+        "id": "z031-3",
+        "choices": [
+          "にのみ",
+          "にまで",
+          "に限らず",
+          "に比べて"
+        ],
+        "answer": "にまで",
+        "explanation": "Trợ từ nhấn mạnh phạm vi tác động sâu rộng: 「N + にまで」 (ảnh hưởng đến cả...).\n\nNghĩa các lựa chọn:\n1) にのみ: chỉ có ở — Sai.\n2) にまで: đến tận cả / ảnh hưởng đến cả — ĐÚNG.\n3) に限らず: không chỉ giới hạn — Sai.\n4) に比べて: so với — Sai."
+      },
+      {
+        "id": "z031-4",
+        "choices": [
+          "なったにすぎません",
+          "なったはずがありません",
+          "なったとはいえません",
+          "なったのかもしれません"
+        ],
+        "answer": "なったのかもしれません",
+        "explanation": "Mẫu câu phỏng đoán nguồn gốc biểu đạt: 「～なったのかもしれません」 (có lẽ là đã trở nên như vậy).\n\nNghĩa các lựa chọn:\n1) なったにすぎません: chỉ đơn thuần là trở thành — Sai.\n2) なったはずがありません: không thể nào trở thành — Sai.\n3) なったとはいえません: không thể nói là trở thành — Sai.\n4) なったのかもしれません: có lẽ là đã trở thành — ĐÚNG."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "z032",
+    "passages": [
+      {
+        "text": "漫画で学ぶビジネス書\n近年、社会人の学びを目的としたビジネス書の分野で、漫画形式のものが多く出版されるようになった。経済、経営、IT、法律、心理学、哲学など、様々な分野のものがあり、入門者にもわかりやすいと人気だ。難しい専門的な内容も、漫画だとわかりやすいと感じる。これはなぜか。\n[1]は、ストーリーの力である。例えば、経営学の理論を文字だけで説明されてもイメージしにくいが、主人公が失敗を重ねながら理論を活用して成功していくストーリーと一緒に読むと、理解しやすい。[2]、登場人物の感情の変化が描かれることで、読者は共感し、最後まで飽きずに読み進めることができる。\n二つ目は、視覚的な効果である。文字だけの本を読むとき、脳は文字を読み取り、文脈を捉え、情景をイメージするという多くの処理を同時に行っている。漫画では、絵が状況や登場人物の表情を直感的に伝えてくれるため、頭の中でイメージを構成する負担が減る。[3]、難しい理論も理解しやすくなるのだ。\nこのように、漫画は単に文字を減らして読みやすくしたものではない。ストーリーと絵の力を借りて、専門的な内容をより深く、効率的に理解させるための優れた手段[4]。"
+      }
+    ],
+    "translation": "Sách kinh doanh học qua truyện tranh\nNhững năm gần đây, trong lĩnh vực sách kinh doanh phục vụ cho việc học tập của người đi làm, các cuốn sách dưới dạng truyện tranh đã bắt đầu được xuất bản rất nhiều. Có nhiều lĩnh vực đa dạng như kinh tế, quản trị, CNTT, luật, tâm lý học, triết học..., chúng rất được ưa chuộng vì dễ hiểu đối với người mới bắt đầu. Những nội dung chuyên môn phức tạp cũng cảm thấy dễ hiểu khi thể hiện qua truyện tranh. Tại sao lại như vậy?\n Nguyên nhân đầu tiên chính là sức mạnh của cốt truyện. Ví dụ, nếu lý thuyết quản trị kinh doanh chỉ được giải thích bằng chữ viết thì rất khó hình dung, nhưng khi đọc cùng cốt truyện nhân vật chính trải qua nhiều thất bại rồi vận dụng lý thuyết để thành công thì lại rất dễ hiểu. Hơn nữa, việc miêu tả sự thay đổi cảm xúc của nhân vật giúp người đọc đồng cảm và có thể đọc tiếp đến cuối mà không bị chán.\nThứ hai là hiệu quả thị giác. Khi đọc một cuốn sách chỉ có chữ, não bộ phải đồng thời thực hiện nhiều xử lý như đọc chữ, nắm bắt ngữ cảnh, hình dung khung cảnh. Trong truyện tranh, hình vẽ truyền tải trực quan tình huống và biểu cảm nhân vật nên giảm bớt gánh nặng dựng hình ảnh trong đầu. Nhờ đó, các lý thuyết phức tạp cũng trở nên dễ hiểu hơn.\nNhư vậy, truyện tranh không đơn thuần chỉ là giảm bớt chữ để dễ đọc hơn. Mượn sức mạnh của cốt truyện và hình vẽ, nó có thể nói là một phương tiện tuyệt vời để giúp hiểu các nội dung chuyên môn sâu sắc và hiệu quả hơn.",
+    "questions": [
+      {
+        "id": "z032-1",
+        "choices": [
+          "一つ目の理由",
+          "その理由",
+          "これからの理由",
+          "そうした理由"
+        ],
+        "answer": "一つ目の理由",
+        "explanation": "Cụm 「一つ目の理由」 (Lý do thứ nhất) mở đầu cho luận điểm đầu tiên tương ứng với 「二つ目は」 ở đoạn sau.\n\nNghĩa các lựa chọn:\n1) 一つ目の理由: lý do thứ nhất — ĐÚNG.\n2) その理由: lý do đó — Sai.\n3) これからの理由: lý do từ đây — Sai.\n4) そうした理由: lý do như vậy — Sai."
+      },
+      {
+        "id": "z032-2",
+        "choices": [
+          "さらに",
+          "あるいは",
+          "したがって",
+          "そのため"
+        ],
+        "answer": "さらに",
+        "explanation": "接続詞 「さらに」 (hơn nữa / bên cạnh đó) dùng để bổ sung thêm tác dụng tích cực của cốt truyện.\n\nNghĩa các lựa chọn:\n1) さらに: hơn nữa/bên cạnh đó — ĐÚNG.\n2) あるいは: hoặc là — Sai.\n3) したがって: do đó — Sai.\n4) そのため: vì vậy — Sai."
+      },
+      {
+        "id": "z032-3",
+        "choices": [
+          "その結果",
+          "その一方",
+          "その反面",
+          "その代わりに"
+        ],
+        "answer": "その結果",
+        "explanation": "Cụm 「その結果」 (kết quả là / nhờ đó) kết nối việc giảm gánh nặng não bộ với kết quả dễ hiểu lý thuyết.\n\nNghĩa các lựa chọn:\n1) その結果: kết quả là/nhờ đó — ĐÚNG.\n2) その一方: mặt khác — Sai.\n3) その反面: ngược lại — Sai.\n4) その代わりに: thay vào đó — Sai."
+      },
+      {
+        "id": "z032-4",
+        "choices": [
+          "といえるだろう",
+          "といえるはずだ",
+          "といえるわけだ",
+          "といえるからだ"
+        ],
+        "answer": "といえるだろう",
+        "explanation": "Cụm 「～といえるだろう」 (có thể nói là...) đưa ra phán đoán kết luận tổng kết của tác giả.\n\nNghĩa các lựa chọn:\n1) といえるだろう: có thể nói là — ĐÚNG.\n2) といえるはずだ: chắc chắn có thể nói là — Sai.\n3) といえるわけだ: hóa ra có thể nói là — Sai.\n4) といえるからだ: là vì có thể nói là — Sai."
+      }
+    ],
+    "level": "N2"
+  }
+]
