@@ -12,6 +12,7 @@ import mediumData from "./data/medium.json";
 import abData from "./data/ab.json";
 import longData from "./data/long.json";
 import infoData from "./data/info.json";
+import { uniqueQuestions } from "./lib/quiz.js";
 
 // Số câu tối đa mỗi lượt chơi (trò trắc nghiệm 4 đáp án)
 export const ROUND_SIZE = 10;
@@ -32,7 +33,7 @@ export const PASSAGE_ROUND_SIZE = 1;
 //   longChoices : (quiz) đáp án là cả câu dài nên xếp 1 cột
 //   cloze       : (reading) bài đọc có các chỗ trống [1], [2], ... tương ứng với các câu hỏi
 //   unit        : đơn vị hiển thị số lượng dữ liệu ở trang chủ (mặc định "câu")
-export const GAMES = [
+const RAW_GAMES = [
   {
     id: "reading",
     kind: "quiz",
@@ -214,3 +215,9 @@ export const GAMES = [
     questions: infoData,
   },
 ];
+
+// Loại các câu / bài trùng nội dung ngay từ đầu (một lần duy nhất), để mọi nơi dùng GAMES
+// (chơi luyện tập, thi thử, số lượng ở trang chủ) đều thấy cùng một bộ dữ liệu không trùng.
+// game.kind là "quiz" / "star" / "reading", đúng với các kind mà uniqueQuestions hiểu
+// (riêng "reading" ở đây là loại bài đọc, không liên quan trò có id "reading").
+export const GAMES = RAW_GAMES.map((g) => ({ ...g, questions: uniqueQuestions(g.questions, g.kind) }));

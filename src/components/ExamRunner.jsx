@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import ExamQuestion from "./ExamQuestion.jsx";
-import { formatTime, isAnswered } from "../lib/exam.js";
+import { LEAVE_EXAM_MESSAGE, formatTime, isAnswered, setExamActive } from "../lib/exam.js";
 
 // Màn hình đang làm bài: đồng hồ đếm ngược, bảng số câu, đánh dấu xem lại, nộp bài.
 // Hết giờ thì tự nộp bài. Không hiện đáp án đúng/sai khi đang làm.
@@ -13,6 +13,7 @@ export default function ExamRunner({ items, minutes, onFinish }) {
   const [flagged, setFlagged] = useState({});
   const [confirming, setConfirming] = useState(false);
   const doneRef = useRef(false);
+  const leavingRef = useRef(false); // đã xác nhận thoát: không hỏi thêm lần nữa
   const answersRef = useRef(answers);
   answersRef.current = answers;
 
@@ -46,11 +47,37 @@ export default function ExamRunner({ items, minutes, onFinish }) {
   // Cảnh báo khi vô tình tải lại / đóng tab lúc đang thi
   useEffect(() => {
     const warn = (e) => {
+      if (leavingRef.current) return; // đã xác nhận thoát bằng nút Back rồi thì không hỏi lần hai
       e.preventDefault();
       e.returnValue = "";
     };
     window.addEventListener("beforeunload", warn);
     return () => window.removeEventListener("beforeunload", warn);
+  }, []);
+
+  // Báo cho App biết đang thi: bấm "← Trang chủ" ở header sẽ hỏi xác nhận trước khi thoát
+  useEffect(() => {
+    setExamActive(true);
+    return () => setExamActive(false);
+  }, []);
+
+  // Nút Back của trình duyệt: thêm 1 mục "chốt" vào lịch sử, khi người dùng bấm Back thì hỏi lại.
+  // Chỉ dùng cho BrowserRouter (bản xem thử 1 file dùng MemoryRouter không có lịch sử trình duyệt).
+  useEffect(() => {
+    if (__ROUTER__ !== "browser") return undefined;
+    const pushGuard = () => window.history.pushState({ ...window.history.state, examGuard: true }, "");
+    if (!window.history.state?.examGuard) pushGuard(); // kiểm tra để StrictMode (chạy effect 2 lần) không thêm 2 mục
+    const onPop = () => {
+      if (doneRef.current || leavingRef.current) return;
+      if (window.confirm(LEAVE_EXAM_MESSAGE)) {
+        leavingRef.current = true;
+        window.history.back(); // lùi thêm 1 bước nữa để thật sự rời trang thi
+      } else {
+        pushGuard(); // ở lại: đặt lại mục chốt
+      }
+    };
+    window.addEventListener("popstate", onPop);
+    return () => window.removeEventListener("popstate", onPop);
   }, []);
 
   const setAnswer = useCallback(
