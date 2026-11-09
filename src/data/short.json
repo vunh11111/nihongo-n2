@@ -122,5 +122,2454 @@
       }
     ],
     "level": "N2"
+  },
+  {
+    "id": "u041",
+    "passages": [
+      {
+        "text": "昔話というのは、最初はほんの少数の人が聞き、そのなかの一人か二人がおぼえて、次の世代の人に話し、そして次へと語られてきました。同じ話でも変わってくるのが当たり前です。聞き手の反応によって、面白いところがくわしく語られ、退屈な部分は省かれ、物語としての形がととのってきます。だから面白いはずです。でも、教訓（注）やお説教をつけ加え、つまらなくしてしまう場合もあるようです。\n(中川李枝子『絵本と私』による)\n（注）教訓：道徳的な教え"
+      }
+    ],
+    "translation": "Truyện cổ tích vốn dĩ ban đầu chỉ có một số ít người nghe, rồi một hai người trong số đó ghi nhớ, kể lại cho thế hệ tiếp theo, và tiếp tục được truyền lại qua các thế hệ. Dù là cùng một câu chuyện nhưng việc nó biến đổi là điều đương nhiên. Tùy thuộc vào phản ứng của người nghe, những chi tiết thú vị sẽ được kể chi tiết hơn, còn những phần nhàm chán sẽ được lược bỏ, khiến hình thức câu chuyện dần trở nên hoàn thiện. Vì vậy nó mới thú vị. Nhưng hình như cũng có trường hợp người ta thêm vào những bài học đạo đức hay lời giáo huấn làm cho câu chuyện trở nên tẻ nhạt.\n(Theo “Truyện tranh và tôi” của Nakagawa Rieko)\n（Chú thích） Bài học đạo đức: Lời dạy mang tính đạo đức.",
+    "questions": [
+      {
+        "id": "u041-1",
+        "prompt": "筆者によると、昔話が面白いのはなぜか。",
+        "choices": [
+          "話し手が面白いと思う部分だけが伝えられてきたから",
+          "話し手がつまらないと思う部分も面白く語られてきたから",
+          "聞き手にとって面白い部分が残され伝えられてきたから",
+          "聞き手にとってためになる内容がうまく加えてあるから"
+        ],
+        "answer": "聞き手にとって面白い部分が残され伝えられてきたから",
+        "explanation": "Tác giả giải thích rằng nhờ phản ứng của người nghe, những chi tiết thú vị được kể chi tiết và giữ lại, còn những phần chán bị lược bỏ (聞き手の反応によって、面白いところがくわしく語られ、退屈な部分は省かれ...). Do đó, các chi tiết thú vị đối với người nghe được giữ lại và truyền tiếp qua nhiều thế hệ. Đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Chỉ những phần người kể cho là thú vị mới được truyền lại — Sai.\n2) Những phần người kể cho là nhàm chán cũng được kể lại một cách thú vị — Sai.\n3) Những phần thú vị đối với người nghe được giữ lại và truyền đi — ĐÚNG.\n4) Những nội dung bổ ích cho người nghe được thêm vào một cách khéo léo — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u042",
+    "passages": [
+      {
+        "text": "以下は、ある図書館に届いたメールである。\n\n村中市立南図書館 ご担当者様\n\n自習室をいつも利用している者ですが、お願いがあってメールしました。\n最近、大声で話しながら作業をしているグループが増えており、自分の調べものに集中できず困っています。自習室に入る手前のドアのところに注意書きの紙がはってありますが、あそこは皆通り過ぎるだけで誰も見ていません。それより、利用者が座る各机の上に「静かに利用しましょう」という案内をはったらどうでしょうか。\nご検討をお願いいたします。\n\n6月20日 高橋"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử gửi đến thư viện thành phố Muranaka Minami.\n\nKính gửi Người phụ trách Thư viện Nam thành phố Muranaka,\n\nTôi là một người thường xuyên sử dụng phòng tự học, tôi gửi thư này để có một kiến nghị.\nGần đây, số nhóm vừa nói chuyện lớn tiếng vừa làm việc ngày càng tăng, khiến tôi không thể tập trung vào việc tra cứu của mình và rất phiền lòng. Dù ở cửa trước khi vào phòng tự học có dán tờ giấy nhắc nhở, nhưng chỗ đó mọi người chỉ đi qua chứ không ai xem. Thay vào đó, việc dán dòng hướng dẫn “Hãy giữ trật tự khi sử dụng” lên từng bàn nơi người dùng ngồi thì thế nào?\nKính mong quý thư viện xem xét.\n\nNgày 20 tháng 6, Takahashi",
+    "questions": [
+      {
+        "id": "u042-1",
+        "prompt": "高橋さんは、図書館にどうしてほしいと考えているか。",
+        "choices": [
+          "大声で話しているグループに注意してほしい。",
+          "自習室の利用者が座る机の数を増やしてほしい。",
+          "自習室に入る手前のドアに案内をはってほしい。",
+          "自習室の利用者が座る各机に案内をはってほしい。"
+        ],
+        "answer": "自習室の利用者が座る各机に案内をはってほしい。",
+        "explanation": "Trong thư, người viết kiến nghị dán thông báo nhắc nhở lên từng bàn làm việc của người dùng trong phòng tự học (利用者が座る各机の上に「静かに利用しましょう」という案内をはったらどうでしょうか). Do đó, đáp án đúng là 4.\n\nNghĩa các lựa chọn:\n1) Mắc nhở trực tiếp nhóm người đang nói chuyện lớn tiếng — Sai.\n2) Tăng số lượng bàn ghế trong phòng tự học — Sai.\n3) Dán bảng hướng dẫn ở cửa trước khi vào phòng tự học — Sai (đây là cách làm hiện tại nhưng không hiệu quả).\n4) Dán bảng hướng dẫn lên từng bàn làm việc của người dùng trong phòng tự học — ĐÚNG."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u043",
+    "passages": [
+      {
+        "text": "以下は、ある会社で全社員に送信されたメールである。\n\n宛先：全社員\n件名：「はさみ SB-A」の回収について\n日時：6月18日 10:00\n\n総務課長\n\n業務でお知らせします。今年4月から5月にかけて総務課から各課に配布した「はさみ SB-A」の中に、刃が欠けやすい欠陥のある製品が含まれていることが判明しました。つきましては、商品を回収し、交換いたします。\n各課におかれましては、欠陥の有無にかかわらず、4月以降に配布された「はさみ SB-A」をすべて集め、6月21日（金）までに会計課へお持ちください。三村株式会社（メーカー）へまとめて発送いたします。\n業務にご迷惑をおかけすることを深くお詫び申し上げます。\n以上"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử được gửi đến toàn thể nhân viên tại một công ty.\n\nNgười nhận: Toàn thể nhân viên\nTiêu đề: Về việc thu hồi kéo SB-A\nThời gian: 10:00 ngày 18 tháng 6\n\nTrưởng phòng Tổng vụ\n\nThông báo công việc. Người ta phát hiện ra rằng trong số kéo SB-A được Phòng Tổng vụ phát cho các phòng ban từ tháng 4 đến tháng 5 năm nay, có sản phẩm bị lỗi lưỡi kéo dễ bị sứt mẻ. Vì vậy, chúng tôi sẽ thu hồi và đổi sản phẩm mới.\nYêu cầu các phòng ban tập hợp toàn bộ kéo SB-A đã được phát từ tháng 4 trở đi, bất kể có bị lỗi hay không, và mang đến Phòng Kế toán trước thứ Sáu ngày 21 tháng 6. Công ty Mimura (nhà sản xuất) sẽ tổng hợp và nhận lại.\nChúng tôi chân thành xin lỗi vì đã làm ảnh hưởng đến công việc.\nTrân trọng.",
+    "questions": [
+      {
+        "id": "u043-1",
+        "prompt": "「はさみ SB-A」について、各課はどうするように言われているか。",
+        "choices": [
+          "欠陥があるものを、6月21日までに会計課に渡す。",
+          "欠陥があるものを、6月22日までに三村株式会社に発送する。",
+          "すべてを、6月21日までに会計課に渡す。",
+          "すべてを、6月22日までに三村株式会社に発送する。"
+        ],
+        "answer": "すべてを、6月21日までに会計課に渡す。",
+        "explanation": "Trong thông báo ghi rõ bất kể có bị lỗi hay không, hãy tập hợp tất cả kéo SB-A được phát từ tháng 4 và mang đến phòng kế toán trước ngày 21/6 (欠陥の有無にかかわらず... すべて集め、6月21日（金）までに会計課へお持ちください). Do đó, đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Giao những cái bị lỗi cho phòng kế toán trước ngày 21/6 — Sai (vì yêu cầu nộp tất cả).\n2) Gửi những cái bị lỗi cho công ty Mimura trước ngày 22/6 — Sai.\n3) Giao tất cả cho phòng kế toán trước ngày 21/6 — ĐÚNG.\n4) Gửi tất cả cho công ty Mimura trước ngày 22/6 — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u044",
+    "passages": [
+      {
+        "text": "笑顔がこころと体の健康に大事な役割を果たしていることが、多くの研究からわかってきている。笑顔はこころの健康指標（注）になる。笑顔が出るのは、それだけ幸せだと感じているからだ。\n一方、笑顔になると幸せだという気持ちがわいてくるということもわかっている。同じ漫画を、意図的に笑顔を作って読んだときと、厳しい顔をして読んだときとでは、笑顔で読んだときの方角が面白いという評価が高くなる。つまり笑顔になると、入ってくる情報がプラスの方面に偏るのだ。\n（大野裕 日本経済新聞 2015年 4 月3日付夕刊による）\n（注）健康指標：健康の程度を示すもの"
+      }
+    ],
+    "translation": "Nhiều nghiên cứu đã chỉ ra rằng nụ cười đóng vai trò quan trọng đối với sức khỏe thể chất và tinh thần. Nụ cười là chỉ số sức khỏe tinh thần. Nụ cười xuất hiện là vì người ta cảm thấy hạnh phúc đến mức đó.\nMặt khác, người ta cũng biết rằng khi mỉm cười thì cảm giác hạnh phúc sẽ trỗi dậy. Khi đọc cùng một cuốn truyện tranh, việc cố tình tạo nụ cười so với khi làm nét mặt nghiêm nghị thì việc đọc với nụ cười được đánh giá là thú vị hơn. Tóm lại khi mỉm cười, thông tin tiếp nhận sẽ thiên về hướng tích cực.\n(Theo Ohno Yutaka, Báo Nihon Keizai Shimbun số chiều ngày 3/4/2015)\n（Chú thích） Chỉ số sức khỏe: Yếu tố thể hiện mức độ khỏe mạnh.",
+    "questions": [
+      {
+        "id": "u044-1",
+        "prompt": "笑顔について、筆者はどのように述べているか。",
+        "choices": [
+          "作った笑顔であっても、幸せな気持ちになれる。",
+          "幸せだと感じていなければ、笑顔にはなれない。",
+          "笑顔でいれば、周りの人にプラスの印象を与える。",
+          "自然な笑顔は、作った笑顔よりも幸せな感情を伝える。"
+        ],
+        "answer": "作った笑顔であっても、幸せな気持ちになれる。",
+        "explanation": "Tác giả nêu ví dụ dù là cố tình tạo nụ cười (意図的に笑顔を作って) thì khi đọc truyện tranh vẫn cảm thấy thú vị hơn, nghĩa là mỉm cười chủ động vẫn tạo ra cảm giác tích cực và hạnh phúc. Do đó, đáp án đúng là 1.\n\nNghĩa các lựa chọn:\n1) Dù là nụ cười cố tình tạo ra thì vẫn có thể cảm thấy hạnh phúc — ĐÚNG.\n2) Nếu không cảm thấy hạnh phúc thì không thể mỉm cười — Sai.\n3) Nếu mỉm cười sẽ tạo ấn tượng tích cực cho người xung quanh — Sai (bài viết không đề cập đến tác động tới người khác).\n4) Nụ cười tự nhiên truyền tải cảm xúc hạnh phúc tốt hơn nụ cười tạo ra — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  { "id": "u045", "passages": [ { "text": "山形県の大蔵村にある肘折温泉では、朝市が名物になっている。夏は早朝 5 時半ごろから、温泉街の通りに地元の農家のおばあさんたちが野菜や果物を並べ始める。自分で育てた新鮮な食材のほか、山で採ってきた山菜やキノコ、手作りの漬物などが並ぶ。\\nこの朝市は、単に買い物をする場所というだけでなく、地元の農家の人々と観光客との温かい交流の場にもなっている。商品についてのおすすめの食べ方や保存方法などを聞くことができるのも、この朝市ならではの魅力だ。\\n（山形県観光情報サイトの情報による）" } ], "translation": "Tại suối nước nóng Hijiori ở làng Okura, tỉnh Yamagata, chợ sáng đã trở thành một đặc sản nổi tiếng. Vào mùa hè từ khoảng 5 giờ 30 sáng, các bà lão nông dân địa phương bắt đầu bày bán rau củ, trái cây dọc theo con phố suối nước nóng. Bên cạnh nguồn nguyên liệu tươi ngon do chính mình trồng, còn có rau rừng, nấm hái trên núi và dưa muối tự làm được bày bán.\\nChợ sáng này không chỉ đơn thuần là nơi mua sắm mà còn là nơi giao lưu ấm áp giữa người dân nông thôn địa phương và du khách. Việc có thể hỏi cách ăn hay cách bảo quản được đề xuất cho sản phẩm cũng là nét quyến rũ đặc trưng chỉ có ở chợ sáng này.\\n（Theo thông tin từ trang tin tức du lịch tỉnh Yamagata）", "questions": [ { "id": "u045-1", "prompt": "この朝市の魅力について、筆者はどのように述べているか。", "choices": [ "温泉街でしか買えない珍しい漬物や果物が豊富にあること。", "朝早くから地元で採れた新鮮な食材を買うことができること。", "農家の人とのやり取りを楽しみながら買い物ができること。", "地元の農家の人から食材の育て方を直接教えてもらえること。" ], "answer": "農家の人とのやり取りを楽しみながら買い物ができること。", "explanation": "Tác giả nhấn mạnh nét quyến rũ của chợ sáng là nơi giao lưu ấm áp giữa nông dân địa phương và du khách 「地元の農家の人々と観光客との温かい交流の場」 và việc có thể trò chuyện hỏi cách chế biến, bảo quản. Đáp án đúng là lựa chọn 3.\\n\\nNghĩa các lựa chọn:\\n1) 温泉街でしか買えない珍しい漬物や果物が豊富にあること: Có phong phú dưa muối và trái cây quý hiếm chỉ mua được ở phố suối nước nóng — Sai.\\n2) 朝早くから地元で採れた新鮮な食材を買うことができること: Có thể mua nguyên liệu tươi thu hoạch tại địa phương từ sáng sớm — Sai.\\n3) 農家の人とのやり取りを楽しみながら買い物ができること: Có thể mua sắm vừa thưởng thức việc trò chuyện giao lưu với người nông dân — ĐÚNG.\\n4) 地元の農家の人から食材の育て方を直接教えてもらえること: Được người nông dân địa phương trực tiếp dạy cách trồng trọt nguyên liệu — Sai." } ], "level": "N2" },
+  {
+    "id": "u046",
+    "passages": [
+      {
+        "text": "人生には重大な決断をしなければならない時がある。そんな時に一番やってはならないのは、周りの意見に流されてしまうことだ。もちろん信頼できる人たちにアドバイスを求めるのは、悪いことではない。\nしかし何よりも大切にしなければいけないのは、まずはしっかりと自分の気持ちと向き合うことだ。自分が何をしたいのか、どうなりたいのか。新しいアクションを起こすには、まずしっかりと自分の気持ちを確認しなければならない。\n（北島康介 『前に進むチカラー折れない心を作る 7つの約束』による）"
+      }
+    ],
+    "translation": "Trong cuộc đời có những lúc phải đưa ra quyết định trọng đại. Điều không được làm nhất vào những lúc như thế là bị cuốn theo ý kiến của những người xung quanh. Dĩ nhiên việc tìm kiếm lời khuyên từ những người đáng tin cậy không phải là điều xấu.\nTuy nhiên, điều phải coi trọng hơn bất cứ điều gì là trước hết phải đối diện rõ ràng với cảm xúc của chính mình. Bản thân muốn làm gì, muốn trở nên như thế nào. Để bắt đầu một hành động mới, trước hết phải xác nhận chắc chắn mong muốn của bản thân.\n(Theo “Sức mạnh tiến về phía trước - 7 lời hứa tạo nên trái tim không khuất phục” của Kitajima Kosuke)",
+    "questions": [
+      {
+        "id": "u046-1",
+        "prompt": "重大な決断をする時に、重要なことは何か。",
+        "choices": [
+          "信頼できる人に意見を求める。",
+          "周りの人の意見をしっかり聞く。",
+          "自分の気持ちを正直に人に話す。",
+          "自分の気持ちをしっかり見つめる。"
+        ],
+        "answer": "自分の気持ちをしっかり見つめる。",
+        "explanation": "Tác giả nhấn mạnh điều quan trọng nhất trước hết là đối diện và nhìn nhận rõ cảm xúc của chính mình (何よりも大切にしなければいけないのは、まずはしっかりと自分の気持ちと向き合うことだ). Do đó, đáp án đúng là 4.\n\nNghĩa các lựa chọn:\n1) Tìm kiếm ý kiến từ người đáng tin cậy — Sai.\n2) Lắng nghe kỹ ý kiến của những người xung quanh — Sai.\n3) Nói thật cảm xúc của mình cho người khác biết — Sai.\n4) Nhìn nhận và lắng nghe kỹ cảm xúc của chính mình — ĐÚNG."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u047",
+    "passages": [
+      {
+        "text": "以下は、あるレストランがホームページに掲載したお知らせである。\n\n洋食レオナール お知らせ\n2014.11.10移転についての重要なお知らせ\n10 月 1 日のお知らせのとおり、「洋食レオナール」は、移転準備のため 11 月末日で一旦営業を終了いたします。\n新店舗での営業開始は、12 月中旬を予定しております。正確なオープン日程につきましては、決定次第ホームページにてご案内いたします。\n長年にわたり現店舗をご愛顧いただき、誠にありがとうございました。新店舗におきましても、皆様に満足していただけるよう努めてまいります。\n洋食レオナール 店主"
+      }
+    ],
+    "translation": "Dưới đây là thông báo đăng trên trang chủ của một nhà hàng.\n\nNhà hàng Âu Leonard - Thông báo\n10.11.2014 Thông báo quan trọng về việc chuyển địa điểm\nNhư đã thông báo vào ngày 1 tháng 10, “Nhà hàng Âu Leonard” sẽ tạm ngưng hoạt động vào cuối tháng 11 để chuẩn bị chuyển địa điểm.\nThời gian bắt đầu hoạt động tại cửa hàng mới dự kiến vào giữa tháng 12. Ngày khai trương chính xác sẽ được thông báo trên trang chủ ngay khi có quyết定.\nXin chân thành cảm ơn quý khách đã ủng hộ cửa hàng hiện tại trong nhiều năm qua. Tại cửa hàng mới, chúng tôi sẽ tiếp tục nỗ lực để làm hài lòng quý khách.\nChủ nhà hàng Âu Leonard",
+    "questions": [
+      {
+        "id": "u047-1",
+        "prompt": "このお知らせで伝えたいことは何か。",
+        "choices": [
+          "新店舗の正確なオープン日程が決まったこと。",
+          "新店舗での営業開始日が 12 月中旬に延期されたこと。",
+          "移転のため 11 月末で一時閉店し、12 月中に新店舗を開店すること。",
+          "移転のため 11 月末で閉店し、12 月からはネット予約のみ受付けること。"
+        ],
+        "answer": "移転のため 11 月末で一時閉店し、12 月中に新店舗を開店すること。",
+        "explanation": "Thông báo cho biết nhà hàng tạm đóng cửa vào cuối tháng 11 để chuyển địa điểm và sẽ mở cửa hàng mới vào khoảng giữa tháng 12. Đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Ngày khai trương chính xác của cửa hàng mới đã được quyết định — Sai.\n2) Ngày bắt đầu kinh doanh ở cửa hàng mới bị hoãn sang giữa tháng 12 — Sai.\n3) Tạm đóng cửa vào cuối tháng 11 để chuyển địa điểm và mở cửa hàng mới trong tháng 12 — ĐÚNG.\n4) Đóng cửa vào cuối tháng 11 để chuyển địa điểm và từ tháng 12 chỉ nhận đặt bàn qua mạng — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u048",
+    "passages": [
+      {
+        "text": "人間はだれでも、失敗しようと思って行動するわけではない。成功させようとして、一所懸命努力する。しかし、どんなに努力しても失敗してしまうことがある。大切なのは、失敗したときにどう対応するかだ。\n失敗した理由を周囲の環境や他人のせいにしていては、何も学べない。自分の何が悪かったのかを冷徹に分析し、同じ失敗を繰り返さないための対策を立てる。それがあって初めて、失敗は次の成功への貴重な経験となるのだ。\n（山崎章郎 『生と死の医療』による）"
+      }
+    ],
+    "translation": "Con người không ai hành động với ý nghĩ sẽ thất bại. Ai cũng dốc hết sức nỗ lực để thành công. Tuy nhiên, dù có nỗ lực đến đâu cũng có lúc bị thất bại. Điều quan trọng là phản ứng ra sao khi thất bại.\nNếu đổ lỗi lý do thất bại cho môi trường xung quanh hay người khác thì sẽ không học được điều gì. Cần phân tích một cách tỉnh táo xem bản thân đã sai ở đâu và đưa ra biện pháp ứng phó để không lặp lại thất bại tương tự. Chỉ khi làm được điều đó, thất bại mới trở thành kinh nghiệm quý báu cho thành công tiếp theo.\n(Theo “Y học về sự sống và cái chết” của Yamazaki Akio)",
+    "questions": [
+      {
+        "id": "u048-1",
+        "prompt": "筆者によると、失敗を次の成功につなげるために必要なことは何か。",
+        "choices": [
+          "周囲の環境や他人のアドバイスを参考にして対策を立てること。",
+          "失敗した理由を客観的に分析し、繰り返さない対策を立てること。",
+          "どんなに努力しても失敗することはあると受け入れること。",
+          "失敗しても落ち込まずに、すぐに新しい挑戦を始めること。"
+        ],
+        "answer": "失敗した理由を客観的に分析し、繰り返さない対策を立てること。",
+        "explanation": "Tác giả khẳng định để chuyển thất bại thành thành công tiếp theo cần phân tích tỉnh táo nguyên nhân lỗi của bản thân và lập biện pháp không lặp lại (自分の何が悪かったのかを冷徹に分析し、同じ失敗を繰り返さないための対策を立てる). Đáp án đúng là 2.\n\nNghĩa các lựa chọn:\n1) Lập biện pháp tham khảo môi trường xung quanh và lời khuyên của người khác — Sai.\n2) Phân tích khách quan lý do thất bại và lập biện pháp không lặp lại — ĐÚNG.\n3) Chấp nhận rằng dù nỗ lực thế nào vẫn có thể thất bại — Sai.\n4) Không nản lòng khi thất bại mà bắt đầu ngay thử thách mới — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u049",
+    "passages": [
+      {
+        "text": "言葉というものは、時代の変化とともに変化していく。昔使われていた言葉が使われなくなったり、新しい言葉が生まれたりするのは自然なことだ。若者が使う言葉に対して、「言葉の乱れだ」と批判する大人は多い。\nしかし、大人たちが若いころに使っていた言葉も、当時の大人たちからすれば「乱れた言葉」だったはずだ。言葉の変化をすべて「乱れ」として否定するのではなく、時代の活力や感性の現れとして捉える視点も必要ではないだろうか。\n（金田一秀穂 『言葉の深み』による）"
+      }
+    ],
+    "translation": "Ngôn ngữ thay đổi cùng với sự thay đổi của thời đại. Việc những từ ngữ từng dùng trước đây nay không còn được sử dụng, hay những từ ngữ mới ra đời là điều tự nhiên. Nhiều người lớn chỉ trích những từ ngữ giới trẻ sử dụng là “sự hỗn loạn ngôn ngữ”.\nTuy nhiên, những từ ngữ mà chính các người lớn dùng thời còn trẻ chắc chắn cũng từng bị người lớn thời đó coi là “ngôn ngữ hỗn loạn”. Thay vì phủ nhận mọi sự thay đổi ngôn ngữ như một “sự hỗn loạn”, chẳng phải chúng ta cũng cần có góc nhìn coi đó là sự thể hiện sức sống và cảm nhận của thời đại sao?\n(Theo “Chiều sâu của ngôn ngữ” của Kindaichi Hideho)",
+    "questions": [
+      {
+        "id": "u049-1",
+        "prompt": "若者の言葉の変化について、筆者はどのように考えているか。",
+        "choices": [
+          "正しい日本語を守るために、若者の言葉の乱れは正すべきだ。",
+          "大人たちが若いころに使っていた言葉に戻すのが望ましい。",
+          "時代の変化に伴う自然なものであり、否定的に見るべきではない。",
+          "若者が使う言葉は、昔の言葉よりも豊かで優れている。"
+        ],
+        "answer": "時代の変化に伴う自然なものであり、否定的に見るべきではない。",
+        "explanation": "Tác giả cho rằng sự thay đổi ngôn ngữ là điều tự nhiên theo thời đại và không nên phủ nhận coi đó hoàn toàn là hỗn loạn (時代の変化とともに変化していく... 自然なことだ... 否定するのではなく). Đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Cần uốn nắn sự hỗn loạn ngôn ngữ của giới trẻ để bảo vệ tiếng Nhật chuẩn mực — Sai.\n2) Nên quay lại dùng những từ ngữ người lớn từng dùng thời còn trẻ — Sai.\n3) Là điều tự nhiên đi kèm với sự thay đổi thời đại, không nên nhìn nhận tiêu cực — ĐÚNG.\n4) Từ ngữ giới trẻ dùng phong phú và vượt trội hơn từ ngữ ngày xưa — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u050",
+    "passages": [
+      {
+        "text": "事柄にもよるが、一般に、飽きる人間の方が下等で、飽きない人間の方が上等と思われている。特に、相手が書物であるような場合は、飽きることは悪いこと、と最初から相場（注1）が決まっている。しかし、人間の精神の成長は、しばしば、飽きるという形で現れることがある。飽きるというのは、今まで面白かったものが面白くなくなるということである。自分の心の歯車と噛み合わなくなる（注2）ということである。\n（清水幾太郎 『本はどう読むか』による）\n（注1）相場：ここでは、評価\n（注2）噛み合わなくなる：うまく合わなくなる"
+      }
+    ],
+    "translation": "Tùy thuộc vào sự việc, nhưng nhìn chung người ta thường cho rằng người mau chán thì kém cỏi, còn người không mau chán thì cao quý hơn. Đặc biệt khi đối tượng là sách vở, việc nhanh chán ngay từ đầu đã bị đánh giá (chú thích 1) là điều xấu. Tuy nhiên, sự trưởng thành về tinh精神 của con người đôi khi lại thể hiện dưới hình thức chán nản. Chán nản có nghĩa là thứ từng thấy thú vị nay không còn thú vị nữa, nghĩa là nó không còn ăn khớp (chú thích 2) với bánh răng tâm hồn của bản thân.\n(Theo “Đọc sách như thế nào” của Shimizu Ikutaro)\n（Chú thích 1） Đánh giá: Ở đây chỉ sự nhìn nhận, định kiến.\n（Chú thích 2） Ăn khớp: Khớp với nhau một cách êm đẹp.",
+    "questions": [
+      {
+        "id": "u050-1",
+        "prompt": "飽きることについて、筆者はどのように考えているか。",
+        "choices": [
+          "飽きることが精神の成長を示すこともある。",
+          "飽きやすいということは幼さの現れである。",
+          "人間が成長するうえでは飽きることが必要だ。",
+          "精神が成長を続けている間は飽きることはない。"
+        ],
+        "answer": "飽きることが精神の成長を示すこともある。",
+        "explanation": "Tác giả nhận định sự trưởng thành tinh thần của con người đôi khi bộc lộ qua việc chán nản (人間の精神の成長は、しばしば、飽きるという形で現れることがある). Do đó, đáp án đúng là lựa chọn 1.\n\nNghĩa các lựa chọn:\n1) Việc nhanh chán đôi khi thể hiện sự trưởng thành về tinh thần — ĐÚNG.\n2) Dễ nhanh chán là biểu hiện của sự ngây thơ non nớt — Sai.\n3) Để con người trưởng thành thì việc chán nản là cần thiết — Sai.\n4) Trong khi tinh thần tiếp tục trưởng thành thì sẽ không bị chán nản — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u051",
+    "passages": [
+      {
+        "text": "学習者は真剣に外国語に取り組んでいるのに、どうしても間違ってしまう。間違えるのは仕方がないことだけれど、せっかく規則を覚えてそれを応用したつもりなのに、「それは例外」とか言われると、何だかやる気がなくなってしまう。\nこのような誤用（注）をきちんと分析すれば、その成果としてすばらしい教科書ができるはずだ。本来教科書とはその対象である学習者のことをよく考え、難しそうなところ、間違えそうなところをきちんと分かりやすく説明する必要があるのだ。\n（黒田龍之助『外国語の水曜日一学習法としての言語学入門』による）\n（注）誤用：間違った使い方"
+      }
+    ],
+    "translation": "Người học dù rất nghiêm túc học ngoại ngữ nhưng vẫn không tránh khỏi mắc lỗi. Việc sai sót là điều không thể tránh khỏi, nhưng khi đã cất công nhớ quy tắc và áp dụng, lại bị bảo “đó là ngoại lệ” thì cảm thấy bị mất động lực.\nNếu phân tích kỹ những lỗi sai này, thành quả thu được chắc chắn sẽ tạo nên một cuốn giáo trình tuyệt vời. Vốn dĩ giáo trình cần suy nghĩ kỹ cho đối tượng người học, giải thích rõ ràng và dễ hiểu những chỗ có vẻ khó hay dễ sai.\n(Theo “Thứ Tư ngoại ngữ - Nhập môn ngôn ngữ học như một phương pháp học” của Kuroda Ryunosuke)\n（Chú thích） Lỗi sai: Cách dùng sai.",
+    "questions": [
+      {
+        "id": "u051-1",
+        "prompt": "外国語の教科書について、筆者はどのように述べているか。",
+        "choices": [
+          "学習者が成果を実感できるものを作成するべきだ。",
+          "学習者が真剣に取り組めるように工夫をするべきだ。",
+          "学習者が間違えやすいところを丁寧に説明するべきだ。",
+          "学習者のやる気が出るようにすべての規則を説明するべきだ。"
+        ],
+        "answer": "学習者が間違えやすいところを丁寧に説明するべきだ。",
+        "explanation": "Tác giả khẳng định giáo trình cần phân tích lỗi sai của người học và giải thích rõ ràng, tỉ mỉ những chỗ dễ mắc sai lầm (間違えそうなところをきちんと分かりやすく説明する必要がある). Đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Nên tạo ra giáo trình giúp người học cảm nhận được thành quả — Sai.\n2) Nên cải tiến để người học có thể nghiêm túc tham gia — Sai.\n3) Nên giải thích cẩn thận tỉ mỉ những chỗ người học dễ mắc sai lầm — ĐÚNG.\n4) Nên giải thích tất cả quy tắc để người học có động lực — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u052",
+    "passages": [
+      {
+        "text": "以下は、あるイベント会場で来場者に配られたものである。\n\nプレゼントをもらおう!\n本日は「第 7 回河上町・花と木の祭り」にご来場くださり、ありがとうございます。\n会場内の 8 か所のスタンプ台に種類の異なるスタンプが置かれていますので、スタンプカードに押してください。スタンプカードは各スタンプ台のところに置いてあります。5 種類以上のスタンプを押したら、会場入口の総合受付にお持ちください。花の種と交換いたします。また、全種類のスタンプを押してから総合受付でアンケートにご協力いただいた方には、鉢植えの花もご用意しております。\n何かご不明な点がございましたら、お気軽に会場スタッフにお声をおかけください。"
+      }
+    ],
+    "translation": "Dưới đây là tờ rơi được phát cho khách tham quan tại một địa điểm sự kiện.\n\nNhận quà tặng ngay!\nCảm ơn quý khách đã đến tham dự “Lễ hội Hoa và Cây thành phố Kawakami lần thứ 7” ngày hôm nay.\nTại 8 điểm đóng dấu trong hội trường có đặt các con dấu loại khác nhau, quý khách vui lòng đóng vào thẻ tích dấu. Thẻ tích dấu được đặt tại từng bàn đóng dấu. Khi đóng đủ từ 5 loại dấu trở lên, xin mang đến Bàn tiếp tân tổng hợp ở lối vào hội trường để đổi lấy hạt giống hoa. Ngoài ra, những ai đóng đủ tất cả các loại dấu và tham gia trả lời phiếu khảo sát tại Bàn tiếp tân tổng hợp sẽ nhận được quà tặng là chậu hoa cây cảnh.\nNếu có bất kỳ thắc mắc nào, xin vui lòng liên hệ với nhân viên hội trường.",
+    "questions": [
+      {
+        "id": "u052-1",
+        "prompt": "鉢植えの花をもらいたい場合は、どうすればいいか。",
+        "choices": [
+          "5 種類以上のスタンプを押して、アンケートに答える。",
+          "5 種類以上のスタンプを押して、総合受付に持っていく。",
+          "全種類のスタンプを押して、アンケートに答える。",
+          "全種類のスタンプを押して、スタッフに声をかける。"
+        ],
+        "answer": "全種類のスタンプを押して、アンケートに答える。",
+        "explanation": "Tờ rơi nêu rõ điều kiện nhận chậu hoa là đóng đủ tất cả các loại dấu và hợp tác làm khảo sát tại bàn tiếp tân tổng hợp (全種類のスタンプを押してから総合受付でアンケートにご協力いただいた方には、鉢植えの花もご用意しております). Đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Đóng từ 5 loại dấu trở lên và trả lời khảo sát — Sai (5 loại chỉ được nhận hạt giống花).\n2) Đóng từ 5 loại dấu trở lên và mang đến bàn tiếp tân tổng hợp — Sai.\n3) Đóng đủ tất cả loại dấu và trả lời khảo sát — ĐÚNG.\n4) Đóng đủ tất cả loại dấu và gọi nhân viên — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u053",
+    "passages": [
+      {
+        "text": "人はだれしも、他人に認められたいという欲求を持っている。自分の仕事や努力を評価されると、うれしくなってさらに頑張ろうという気持ちになる。しかし、他人の評価ばかりを気にして行動するようになると、自分らしさを見失ってしまう危険性がある。\n大切なのは、自分が本当に納得できる仕事ができたかどうかだ。他人の評価は参考程度にとどめ、自分自身の基準で自分を評価する姿勢を持つことが、真の成長につながるのである。\n（諸富祥彦 『アドラー心理学入門』による）"
+      }
+    ],
+    "translation": "Con người ai cũng có nhu cầu được người khác công nhận. Khi công việc hay nỗ lực của mình được đánh giá cao, ta sẽ cảm thấy vui vẻ và có động lực cố gắng hơn nữa. Tuy nhiên, nếu hành động mà chỉ bận tâm đến sự đánh giá của người khác thì có nguy cơ làm mất đi bản sắc của chính mình.\nĐiều quan trọng là bản thân có làm được công việc mà mình thực sự tâm đắc hay không. Chỉ nên coi sự đánh giá của người khác như tài liệu tham khảo, và việc duy trì thái độ tự đánh giá bản thân theo tiêu chuẩn của chính mình mới dẫn đến sự trưởng thành thực sự.\n(Theo “Nhập môn Tâm lý học Adler” của Morotomi Yoshihiko)",
+    "questions": [
+      {
+        "id": "u053-1",
+        "prompt": "他人からの評価について、筆者はどのように考えているか。",
+        "choices": [
+          "成長するためには、他人の評価を気にせず無視したほうがいい。",
+          "他人の評価を素直に受け入れ、自分を向上させることが大切だ。",
+          "他人の評価に振り回されず、自分の基準を大切にすべきだ。",
+          "他人から高く評価されるような仕事を目指すべきだ。"
+        ],
+        "answer": "他人の評価に振り回されず、自分の基準を大切にすべきだ。",
+        "explanation": "Tác giả cho rằng chỉ coi đánh giá của người khác như tài liệu tham khảo, điều quan trọng là đánh giá bản thân theo tiêu chuẩn của chính mình (他人の評価は参考程度にとどめ、自分自身の基準で自分を評価する姿勢を持つことが、真の成長につながる). Đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Để trưởng thành thì nên lờ đi và bỏ qua đánh giá người khác — Sai.\n2) Tiếp nhận đánh giá người khác một cách ngoan ngoãn và tự hoàn thiện mình — Sai.\n3) Không bị chao đảo bởi đánh giá người khác mà nên coi trọng tiêu chuẩn của bản thân — ĐÚNG.\n4) Nên hướng tới công việc được người khác đánh giá cao — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u054",
+    "passages": [
+      {
+        "text": "以下は、ある会社で出された社内文書である。\n\n平成 27 年 7 月 1 日\n社員各位\n総務課長\n\n熱中症予防対策についてのお知らせ\n本格的な夏を迎え、連日猛暑が続いております。社内におきましても、熱中症への警戒が必要な時期となりました。\nつきましては、こまめな水分・塩分補給を心がけるとともに、気分が悪くなった場合は無理をせず、すぐに近くの社員や総務課に連絡してください。また、冷房を適切に使用し、室内温度が 28 度を超えないよう管理を徹底してください。\n各自で体調管理に留意し、健康維持に努めていただくようお願いいたします。\n以上"
+      }
+    ],
+    "translation": "Dưới đây là văn bản nội bộ tại một công ty.\n\nNgày 1 tháng 7 năm 2015\nKính gửi Toàn thể nhân viên\nTrưởng phòng Tổng vụ\n\nThông báo về biện pháp phòng chống say nắng/sốc nhiệt\nBước vào mùa hè chính thức, những ngày nắng nóng gay gắt tiếp tục kéo dài. Ngay tại công ty, đây cũng là thời điểm cần cảnh giác với rủi ro sốc nhiệt.\nTheo đó, xin lưu ý thường xuyên bổ sung nước và muối, đồng thời nếu cảm thấy trong người không khỏe thì không được cố gắng mà hãy báo ngay cho đồng nghiệp xung quanh hoặc Phòng Tổng vụ. Ngoài ra, hãy sử dụng máy điều hòa hợp lý và quản lý triệt để sao cho nhiệt độ trong phòng không vượt quá 28 độ C.\nRất mong mọi người tự chú ý quản lý sức khỏe và nỗ lực duy trì thể trạng tốt.\nTrân trọng.",
+    "questions": [
+      {
+        "id": "u054-1",
+        "prompt": "この文書を書いた、一番の目的は何か。",
+        "choices": [
+          "熱中症予防のために、水分補給や室内温度の管理などを呼びかけるため。",
+          "熱中症になった社員の対応方法について総務課に報告させるため。",
+          "冷房の使用を控え、電気代を節約するよう社員に依頼するため。",
+          "夏休みの期間中の体調管理について注意を促すため。"
+        ],
+        "answer": "熱中症予防のために、水分補給や室内温度の管理などを呼びかけるため。",
+        "explanation": "Mục đích chính của văn bản là kêu gọi nhân viên chú ý bổ sung nước, quản lý nhiệt độ phòng để phòng tránh sốc nhiệt mùa hè. Đáp án đúng là 1.\n\nNghĩa các lựa chọn:\n1) Kêu gọi bổ sung nước và quản lý nhiệt độ phòng để phòng ngừa sốc nhiệt — ĐÚNG.\n2) Yêu cầu báo cáo cho phòng tổng vụ về phương pháp xử lý khi nhân viên bị sốc nhiệt — Sai.\n3) Yêu cầu nhân viên hạn chế dùng máy lạnh để tiết kiệm tiền điện — Sai.\n4) Nhắc nhở chú ý quản lý sức khỏe trong kỳ nghỉ hè — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u055",
+    "passages": [
+      {
+        "text": "読書には二つの側面がある。一つは未知の知識を得るための読書であり、もう一つは自分の考えを深めるための読書である。前者は情報を効率よく獲得することが目的であり、速読などが有効とされる。\nしかし、後者の読書においては、速く読むこと自体にはあまり意味がない。文章を読んで立ち止まり、著者の意図や背景を想像し、自分の経験と照らし合わせて考える時間が不可欠だからだ。じっくりと時間をかけて読むことでこそ、本は私たちの血肉となるのである。\n（外山滋比古 『思考の整理学』による）"
+      }
+    ],
+    "translation": "Việc đọc sách có hai khía cạnh. Một là đọc sách để tiếp thu kiến thức chưa biết, hai là đọc sách để đào sâu suy nghĩ của bản thân. Khía cạnh trước có mục đích thu nhận thông tin hiệu quả, và đọc nhanh được coi là có hiệu quả.\nTuy nhiên, trong khía cạnh đọc sách thứ hai, bản thân việc đọc nhanh không có nhiều ý nghĩa. Vì khoảng thời gian dừng lại khi đọc văn bản, hình dung ý đồ và bối cảnh của tác giả, rồi đối chiếu với kinh nghiệm của bản thân để suy nghĩ là điều không thể thiếu. Chính việc dành thời gian đọc thong thả tỉ mỉ mới làm cho cuốn sách trở thành tri thức thực sự của chúng ta.\n(Theo “Nghệ thuật tổ chức tư duy” của Toyama Shigehiko)",
+    "questions": [
+      {
+        "id": "u055-1",
+        "prompt": "自分の考えを深めるための読書について、筆者はどのように述べているか。",
+        "choices": [
+          "多くの情報を効率よく集めるために、速読をするべきだ。",
+          "著者の主張に惑わされず、自分の経験だけを信じて読むべきだ。",
+          "時間をかけてじっくり読み、立ち止まって考えることが大切だ。",
+          "未知の知識を得る読書よりも、常に優先して行うべきだ。"
+        ],
+        "answer": "時間をかけてじっくり読み、立ち止まって考えることが大切だ。",
+        "explanation": "Tác giả nhấn mạnh việc đọc sách để đào sâu suy nghĩ cần thời gian dừng lại đối chiếu và đọc thong thả tỉ mỉ (立ち止まり... 考える時間が不可欠... じっくりと時間をかけて読む). Đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Nên đọc nhanh để thu thập nhiều thông tin một cách hiệu quả — Sai (đây là cách đọc tiếp thu kiến thức).\n2) Không bị mê hoặc bởi quan điểm tác giả, chỉ tin vào kinh nghiệm bản thân — Sai.\n3) Đọc thong thả tỉ mỉ, dành thời gian dừng lại suy nghĩ là điều quan trọng — ĐÚNG.\n4) Luôn nên ưu tiên thực hiện hơn việc đọc sách tiếp thu kiến thức mới — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u056",
+    "passages": [
+      {
+        "text": "今の子どもたちは、先生に問題を出され、先生から答えを教えてもらうことに慣れてしまい、答えばかりか疑問さえも見つけることをしなくなってしまったのではないか。知っていることが重要だと勘違いし、問題と答えを覚え、知識を得たことで満足してしまっている。それでは疑問を解く過程で味わう楽しみや、何日もかかって答えにたどり着いた時の喜びを味わうことができない。なんだか、かわいそうな気がする。\n（小菅正夫 『文藝春秋』 2006 年 11 月臨時増刊号による）"
+      }
+    ],
+    "translation": "Trẻ em ngày nay đã quá quen với việc được thầy cô đưa ra câu hỏi rồi giải đáp cho, đến mức không những không tự tìm câu trả lời mà ngay cả thắc mắc cũng không tự tìm kiếm nữa chăng? Chúng nhầm tưởng rằng việc biết nhiều là quan trọng, học thuộc câu hỏi và đáp án rồi hài lòng với việc thu nhận kiến thức. Làm như vậy thì không thể thưởng thức được niềm vui trong quá trình giải đáp thắc mắc, hay niềm hạnh phúc khi mất nhiều ngày mới tìm ra đáp án. Cảm giác thật đáng thương làm sao.\n(Theo Kosuge Masao, Tạp chí Bungeishunju số đặc biệt tháng 11/2006)",
+    "questions": [
+      {
+        "id": "u056-1",
+        "prompt": "今の子どもたちについて、筆者はどのように考えているか。",
+        "choices": [
+          "知識を得るための努力をしない。",
+          "知識が豊富なので疑問を感じにくい。",
+          "疑問を解く楽しみや喜びを知らない。",
+          "疑問があっても答えが見つけられない。"
+        ],
+        "answer": "疑問を解く楽しみや喜びを知らない。",
+        "explanation": "Tác giả tiếc nuối vì trẻ em ngày nay không được trải nghiệm niềm vui trong quá trình giải đáp thắc mắc hay hạnh phúc khi tự tìm ra đáp án (疑問を解く過程で味わう楽しみや、何日もかかって答えにたどり着いた時の喜びを味わうことができない). Đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Không nỗ lực để tiếp thu kiến thức — Sai.\n2) Vì kiến thức phong phú nên khó cảm thấy thắc mắc — Sai.\n3) Không biết đến niềm vui và hạnh phúc khi giải đáp thắc mắc — ĐÚNG.\n4) Dù có thắc mắc cũng không thể tìm ra đáp án — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u057",
+    "passages": [
+      {
+        "text": "以下は、上司が部下の中島さんに工場見学の受け入れ準備について指示したものである。\n\n<工場見学受け入れ準備>\n見学日時： 12 月 18 日 (金) 10 時~12 時\n見学者：池内日本語学校 (20 名)\n・12 月 10 日 (木)までに見学当日使用の会議室 A の予約\n・12 月 11 日 (金) 池内日本語学校 (関口先生) との事前打ち合わせ\n　時間：11 時~12 時 場所：会議室B (予約不要)\n　確認すること：\n　・見学者の日本語レベル ・会社案内パンフレットの言語 (日本語か英語か)\n・12 月 17 日 (木) までに会社案内パンフレットの準備 (20 部)\n・12 月 18 日 (金) 9 時半までに会議室Aの準備 (テーブル、いす、会社案内パンフレット)"
+      }
+    ],
+    "translation": "Dưới đây là chỉ thị của cấp trên giao cho nhân viên Nakajima về việc chuẩn bị đón tiếp đoàn tham quan nhà máy.\n\n<Chuẩn bị đón tiếp tham quan nhà máy>\nThời gian tham quan: 10:00 - 12:00, Thứ Sáu ngày 18 tháng 12\nĐoàn tham quan: Trường tiếng Nhật Ikeuchi (20 người)\n- Hạn chót 10/12 (Thứ Năm): Đặt phòng họp A sử dụng vào ngày tham quan.\n- Ngày 11/12 (Thứ Sáu): Họp chuẩn bị trước với Trường tiếng Nhật Ikeuchi (Thầy Sekiguchi)\n  Thời gian: 11:00 - 12:00, Địa điểm: Phòng họp B (Không cần đặt)\n  Nội dung xác nhận:\n  - Trình độ tiếng Nhật của đoàn tham quan\n  - Ngôn ngữ của tờ rơi giới thiệu công ty (Tiếng Nhật hay Tiếng Anh)\n- Hạn chót 17/12 (Thứ Năm): Chuẩn bị tờ rơi giới thiệu công ty (20 bộ)\n- Hạn chót 9:30 ngày 18/12 (Thứ Sáu): Chuẩn bị phòng họp A (Bàn, ghế, tờ rơi giới thiệu công ty)",
+    "questions": [
+      {
+        "id": "u057-1",
+        "prompt": "中島さんが準備すべきこととして、合っているのはどれか。",
+        "choices": [
+          "12 月 10 日に見学者の日本語レベルを確認する。",
+          "12 月 11 日までに会議室A を予約する。",
+          "12 月 17 日までに会社案内パンフレットを準備する。",
+          "12 月 18 日に会議室 Bのテーブルやいすなどを準備する。"
+        ],
+        "answer": "12 月 17 日までに会社案内パンフレットを準備する。",
+        "explanation": "Theo bảng công việc: hạn chót ngày 17/12 là chuẩn bị tờ rơi giới thiệu công ty (12 月 17 日 (木) までに会社案内パンフレットの準備). Lựa chọn 3 hoàn toàn khớp.\n\nNghĩa các lựa chọn:\n1) Xác nhận trình độ tiếng Nhật vào ngày 10/12 — Sai (việc xác nhận làm vào ngày 11/12).\n2) Đặt phòng họp A trước ngày 11/12 — Sai (hạn đặt phòng họp A là trước ngày 10/12).\n3) Chuẩn bị tờ rơi giới thiệu công ty trước ngày 17/12 — ĐÚNG.\n4) Chuẩn bị bàn ghế phòng họp B vào ngày 18/12 — Sai (phòng chuẩn bị bàn ghế ngày 18/12 là phòng họp A)."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u058",
+    "passages": [
+      {
+        "text": "動物は、ふつう常温のものを食べています。ところが、ヒトは冷めた料理はおいしくないというように、常温の料理を好みません。むしろ、熱くした料理や、冷たくした料理を好みます。ヒトは、辛い味、強烈なにおい、熱い、冷たいなど、あらゆる手段を使って、食欲を刺激する工夫をしてきたのです。こうした言い方は、ヒトと動物のちがいを強調したものですが、べつの言い方をすれば、これが人の食文化をつくってきたのです。\n（伏木亨 『クジラの鯨肉食文化』による）"
+      }
+    ],
+    "translation": "Động vật thường ăn thức ăn ở nhiệt độ phòng. Thế nhưng, con người lại không thích thức ăn ở nhiệt độ phòng, chẳng hạn như chê thức ăn nguội là không ngon. Ngược lại, con người thích thức ăn được làm nóng hoặc làm lạnh. Con người đã sử dụng mọi phương cách như vị cay, mùi hương mạnh mẽ, độ nóng, độ lạnh để kích thích sự thèm ăn. Cách nói này tuy nhấn mạnh sự khác biệt giữa con người và động vật, nhưng nói cách khác, chính điều này đã tạo nên văn hóa ẩm thực của con người.\n(Theo “Văn hóa ăn thịt cá voi” của Fushiki Toru)",
+    "questions": [
+      {
+        "id": "u058-1",
+        "prompt": "人の食文化について、筆者はどのように述べているか。",
+        "choices": [
+          "常温の料理を美味しく食べる技術を開発した。",
+          "食欲を刺激するさまざまな工夫をする中で作られた。",
+          "動物と同じように栄養バランスを重視して発達した。",
+          "辛い味や強いにおいを避けることで発展してきた。"
+        ],
+        "answer": "食欲を刺激するさまざまな工夫をする中で作られた。",
+        "explanation": "Tác giả giải thích con người đã tạo nên văn hóa ẩm thực thông qua việc dùng mọi phương pháp kích thích sự thèm ăn (あらゆる手段を使って、食欲を刺激する工夫をしてきた... これが人の食文化をつくってきた). Đáp án đúng là 2.\n\nNghĩa các lựa chọn:\n1) Phát triển kỹ thuật ăn món ăn ở nhiệt độ phòng thật ngon — Sai.\n2) Được tạo nên trong quá trình đưa ra nhiều sáng tạo kích thích sự thèm ăn — ĐÚNG.\n3) Phát triển dựa trên coi trọng cân bằng dinh dưỡng giống động vật — Sai.\n4) Phát triển nhờ việc tránh vị cay và mùi mạnh — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u059",
+    "passages": [
+      {
+        "text": "以下は、ある図書館の掲示板に貼られた文書である。\n\n図書館を利用される皆様へ\nいつも当図書館をご利用いただき、ありがとうございます。\n最近、館内でのスマートフォンの通話や、電子音（操作音・着信音）に関する苦情が増加しております。他の利用者の方のご迷惑となりますので、館内では必ずマナーモードに設定し、通話は禁止とさせていただきます。\nなお、緊急の通話をされる場合は、1 階エントランスホールの指定エリアをご利用ください。\n皆様のご理解とご協力をお願いいたします。\n緑川市立図書館館長"
+      }
+    ],
+    "translation": "Dưới đây là văn bản dán trên bảng thông báo của một thư viện.\n\nKính gửi Quý khách sử dụng thư viện,\nCảm ơn quý khách đã luôn sử dụng thư viện của chúng tôi.\nGần đây, các khiếu nại liên quan đến việc nghe điện thoại di động hay âm thanh điện tử (tiếng thao tác, tiếng chuông báo) trong thư viện đang gia tăng. Vì điều này gây phiền hà cho những người sử dụng khác, xin vui lòng luôn cài đặt chế độ im lặng trong thư viện và cấm nghe điện thoại.\nNgoài ra, trong trường hợp nghe điện thoại khẩn cấp, xin vui lòng sử dụng khu vực quy định tại sảnh vào tầng 1.\nRất mong nhận được sự hiểu biết và hợp tác của quý vị.\nGiám đốc Thư viện thành phố Midorikawa",
+    "questions": [
+      {
+        "id": "u059-1",
+        "prompt": "この文書で最も伝えたいことは何か。",
+        "choices": [
+          "1 階エントランスホールの指定エリアの利用を促すこと。",
+          "館内でのスマートフォンの通話を控え、マナーモードにすること。",
+          "電子音の出ない新しいスマートフォンへ買い換えること。",
+          "苦情が多いので図書館の利用時間を制限すること。"
+        ],
+        "answer": "館内でのスマートフォンの通話を控え、マナーモードにすること。",
+        "explanation": "Mục đích chính của thông báo là cấm nghe điện thoại và yêu cầu để chế độ im lặng khi ở trong thư viện (館内では必ずマナーモードに設定し、通話は禁止). Đáp án đúng là 2.\n\nNghĩa các lựa chọn:\n1) Khuyến khích sử dụng khu vực quy định tại sảnh tầng 1 — Sai (đây chỉ là lưu ý phụ).\n2) Hạn chế nghe điện thoại và cài chế độ im lặng khi ở trong thư viện — ĐÚNG.\n3) Đổi sang điện thoại thông minh mới không phát ra tiếng — Sai.\n4) Giới hạn thời gian sử dụng thư viện do có nhiều khiếu nại — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u060",
+    "passages": [
+      {
+        "text": "コミュニケーションにおいて、相手の話を途中で遮らずに最後まで聞くことは基本である。しかし、ただ聞いているだけでは、「本当に理解してくれているのだろうか」と相手に不安を与えてしまう。\nうなずいたり、相づちを打ったり、時折質問を挟んだりすることで、「あなたの話をしっかり聞いていますよ」というサインを送ることが大切だ。聞き手の積極的な姿勢があってこそ、話し手も安心して本音を語ることができるのである。\n（齋藤孝 『雑談力』による）"
+      }
+    ],
+    "translation": "Trong giao tiếp, việc nghe hết câu chuyện của đối phương mà không ngắt lời giữa chừng là nguyên tắc cơ bản. Tuy nhiên, nếu chỉ lắng nghe thụ động thì sẽ làm đối phương lo lắng không biết “liệu người này có thực sự hiểu mình không”.\nViệc gật đầu, phản hồi (aizuchi) hay thỉnh thoảng đặt câu hỏi để gửi đi tín hiệu “tôi đang lắng nghe kỹ câu chuyện của bạn” là rất quan trọng. Chính thái độ tích cực của người nghe mới giúp người nói yên tâm bộc lộ tâm tư thực sự.\n(Theo “Năng lực trò chuyện” của Saito Takashi)",
+    "questions": [
+      {
+        "id": "u060-1",
+        "prompt": "相手とのコミュニケーションにおいて、聞き手に求められる姿勢は何か。",
+        "choices": [
+          "自分の意見を主張するために、途中で質問を挟むこと。",
+          "相手の話を静かに聞き、途中で余計な反応をしないこと。",
+          "うなずきや相づちを使い、積極的に聞いている姿勢を示すこと。",
+          "相手が本音を話すまで、黙って待つこと。"
+        ],
+        "answer": "うなずきや相づちを使い、積極的に聞いている姿勢を示すこと。",
+        "explanation": "Tác giả khẳng định người nghe cần gật đầu, hùa theo (うなずいたり、相づちを打ったり) để tỏ thái độ lắng nghe tích cực (積極的な姿勢). Đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Xen câu hỏi giữa chừng để khẳng định ý kiến của mình — Sai.\n2) Lắng nghe yên lặng và không đưa ra phản ứng thừa giữa chừng — Sai.\n3) Dùng gật đầu và phản hồi để thể hiện thái độ lắng nghe tích cực — ĐÚNG.\n4) Im lặng chờ đợi cho đến khi đối phương nói ra tâm sự thật — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u061",
+    "passages": [
+      {
+        "text": "以下は、ある大学のホームページに掲載されたお知らせである。\n\n橋山大学> 在学生へのお知らせ\n2016.6.20\n学生生活に関するアンケートについて\nすでにお知らせしているとおり、現在、以下の専用ウェブページで学生生活に関するアンケートを実施しています。\n学生生活アンケート http://www.hashiyama-u.ac.jp/20160601.html\n6月24日を締め切り日として回答をお願いしていますが、現在のところあまり多くの回答が得られていません。そこで、一人でも多くの皆さんの回答を得るため、回答期間を6月30日まで延長します。\n未回答の皆さんはぜひ積極的に回答してください。"
+      }
+    ],
+    "translation": "Dưới đây là thông báo đăng trên trang chủ của một trường đại học.\n\nTrường Đại học Hashiyama > Thông báo cho sinh viên đang theo học\n20.06.2016\nVề việc khảo sát đời sống sinh viên\nNhư đã thông báo, hiện tại chúng tôi đang tiến hành khảo sát về đời sống sinh viên trên trang web chuyên dụng dưới đây.\nKhảo sát đời sống sinh viên http://www.hashiyama-u.ac.jp/20160601.html\nChúng tôi đã yêu cầu trả lời với hạn chót là ngày 24 tháng 6, nhưng tính đến thời điểm hiện tại vẫn chưa nhận được nhiều phản hồi. Do đó, để nhận được câu trả lời từ càng nhiều sinh viên càng tốt, chúng tôi gia hạn thời gian trả lời đến ngày 30 tháng 6.\nNhững sinh viên chưa trả lời xin vui lòng tích cực tham gia.",
+    "questions": [
+      {
+        "id": "u061-1",
+        "prompt": "このお知らせで伝えたいことは何か。",
+        "choices": [
+          "アンケートの締め切り日を 6 月 30 日に延長すること。",
+          "アンケートの回答方法が変更になったこと。",
+          "アンケートの目的を改めて説明すること。",
+          "締め切り日までに全員が回答したことへのお礼。"
+        ],
+        "answer": "アンケートの締め切り日を 6 月 30 日に延長すること。",
+        "explanation": "Mục đích chính của thông báo là thông báo gia hạn hạn chót khảo sát đến ngày 30 tháng 6 (回答期間を6月30日まで延長します). Đáp án đúng là 1.\n\nNghĩa các lựa chọn:\n1) Gia hạn hạn chót trả lời khảo sát đến ngày 30 tháng 6 — ĐÚNG.\n2) Cách thức trả lời khảo sát đã bị thay đổi — Sai.\n3) Giải thích lại một lần nữa mục đích khảo sát — Sai.\n4) Lời cảm ơn vì tất cả mọi người đã trả lời trước hạn chót — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u062",
+    "passages": [
+      {
+        "text": "仕事でミスをしたとき、すぐに謝罪するのは当然である。しかし、ただ「申し訳ありませんでした」と頭を下げるだけでは、誠意が伝わらないこともある。\n何が原因でミスが起きたのか、今後同じミスを防ぐためにどのような対策をとるのかを具体的に説明することが不可欠だ。謝罪とは単に反省の気持ちを示すだけでなく、信頼を回復するための第一歩なのである。\n（岩田松雄 『リーダーの心得』による）"
+      }
+    ],
+    "translation": "Khi mắc lỗi trong công việc, việc xin lỗi ngay lập tức là điều đương nhiên. Tuy nhiên, nếu chỉ cúi đầu nói “Tôi rất xin lỗi” thì đôi khi sự chân thành vẫn chưa được truyền tải.\nViệc giải thích cụ thể nguyên nhân gây ra lỗi và biện pháp sẽ thực hiện để ngăn ngừa lỗi tương tự trong tương lai là điều không thể thiếu. Lời xin lỗi không đơn thuần chỉ thể hiện sự hối lỗi, mà còn là bước đầu tiên để khôi phục niềm tin.\n(Theo “Tâm niệm của người lãnh đạo” của Iwata Matsuo)",
+    "questions": [
+      {
+        "id": "u062-1",
+        "prompt": "仕事でミスをしたときの謝罪について、筆者はどのように考えているか。",
+        "choices": [
+          "何度も繰り返し謝罪することで、誠意を示すべきだ。",
+          "ミスの原因と今後の防止策を具体的に説明することが大切だ。",
+          "上司から指摘される前に、自分から処分を申し出るべきだ。",
+          "謝罪よりも先に、ミスの挽回に全力を尽くすべきだ。"
+        ],
+        "answer": "ミスの原因と今後の防止策を具体的に説明することが大切だ。",
+        "explanation": "Tác giả khẳng định điều không thể thiếu khi xin lỗi là giải thích cụ thể nguyên nhân gây ra lỗi và biện pháp ngăn ngừa lặp lại (何が原因でミスが起きたのか、今後同じミスを防ぐためにどのような対策をとるのかを具体的に説明することが不可欠だ). Đáp án đúng là 2.\n\nNghĩa các lựa chọn:\n1) Thể hiện sự chân thành bằng cách lặp đi lặp lại lời xin lỗi nhiều lần — Sai.\n2) Giải thích cụ thể nguyên nhân mắc lỗi và biện pháp phòng ngừa sau này là điều quan trọng — ĐÚNG.\n3) Tự xin nhận hình phạt trước khi bị cấp trên chỉ ra — Sai.\n4) Nên dốc toàn lực gỡ gạc lỗi sai trước khi xin lỗi — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u063",
+    "passages": [
+      {
+        "text": "以下は、あるマンションの管理組合から居住者へ出された文書である。\n\n平成 28 年 7 月 10 日\n居住者の皆様へ\n緑ヶ丘マンション管理組合\n\n大規模修繕工事に伴うバルコニーの荷物移動のお願い\n平素は管理組合の運営にご協力いただき、ありがとうございます。\nさて、8 月 1 日より予定しております外壁およびバルコニーの大規模修繕工事に際し、作業の妨げとなる物品の撤去が必要となります。\nつきましては、7 月 25 日（月）までに、バルコニーに置かれている鉢植え、物干し竿、物置等の荷物を室内へ移動していただくようお願いいたします。\nご不便をおかけしますが、ご理解とご協力をお願い申し上げます。\n以上"
+      }
+    ],
+    "translation": "Dưới đây là văn bản từ Ban quản lý chung cư gửi đến cư dân.\n\nNgày 10 tháng 7 năm 2016\nKính gửi Quý cư dân\nBan Quản lý Chung cư Midorigaoka\n\nYêu cầu di chuyển đồ đạc ban công phục vụ sửa chữa lớn\nXin chân thành cảm ơn sự hợp tác của quý vị trong việc vận hành ban quản lý thời gian qua.\nVào đợt sửa chữa lớn tường ngoài và ban công dự kiến từ ngày 1 tháng 8, việc dọn dẹp các vật dụng gây cản trở công việc là bắt buộc.\nTheo đó, xin vui lòng di chuyển các đồ đạc đặt ở ban công như chậu cây, sào phơi đồ, tủ đồ... vào trong nhà trước thứ Hai ngày 25 tháng 7.\nTuy có gây bất tiện, rất mong nhận được sự hiểu biết và hợp tác của quý vị.\nTrân trọng.",
+    "questions": [
+      {
+        "id": "u063-1",
+        "prompt": "居住者は 7 月 25 日までに何をしなければならないか。",
+        "choices": [
+          "修繕工事の費用を管理組合に支払うこと。",
+          "バルコニーにある荷物を室内へ移動させること。",
+          "工事の作業員のために部屋を空けておくこと。",
+          "バルコニーの掃除をして工事に備えること。"
+        ],
+        "answer": "バルコニーにある荷物を室内へ移動させること。",
+        "explanation": "Thông báo ghi rõ yêu cầu cư dân di chuyển đồ đạc ở ban công vào trong nhà trước ngày 25 tháng 7 (7 月 25 日（月）までに、バルコニーに置かれている... 荷物を室内へ移動していただくようお願いいたします). Đáp án đúng là 2.\n\nNghĩa các lựa chọn:\n1) Thanh toán chi phí sửa chữa cho ban quản lý — Sai.\n2) Di chuyển đồ đạc ở ban công vào trong nhà — ĐÚNG.\n3) Dọn trống phòng dành cho công nhân thi công — Sai.\n4) Dọn vệ sinh ban công để chuẩn bị thi công — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u064",
+    "passages": [
+      {
+        "text": "人間の集中力には波があり、長時間を連続して高い集中状態に保つことは不可能である。勉強や作業の効率を上げるためには、適度な休憩を挟むことが効果的だ。\n例えば、50 分作業して 10 分休むといったサイクルを作ることで、脳の疲れを防ぎ、結果として全体のパフォーマンスを高めることができる。休むことを「時間の無駄」と考えるのではなく、次の集中への準備と捉えるべきである。\n（精神科医 樺沢紫苑 『脳を最適化する習慣』による）"
+      }
+    ],
+    "translation": "Sự tập trung của con người có những nhịp sóng, và việc duy trì trạng thái tập trung cao độ liên tục trong thời gian dài là điều không thể. Để nâng cao hiệu suất học tập hay làm việc, việc xen kẽ những khoảng nghỉ ngơi hợp lý là rất hiệu quả.\nVí dụ, tạo chu kỳ làm việc 50 phút nghỉ 10 phút sẽ giúp ngăn ngừa mệt mỏi cho não bộ, kết quả là nâng cao hiệu suất tổng thể. Đừng coi việc nghỉ ngơi là “lãng phí thời gian”, mà nên coi đó là sự chuẩn bị cho đợt tập trung tiếp theo.\n(Theo Bác sĩ tâm thần Kabasawa Shion, “Thói quen tối ưu hóa脑 bộ”)",
+    "questions": [
+      {
+        "id": "u064-1",
+        "prompt": "勉強や作業の効率を上げるために、筆者はどうすることを勧めているか。",
+        "choices": [
+          "集中力が切れるまで限界まで作業を続けること。",
+          "休憩をとらずに一気に作業を終わらせること。",
+          "作業の途中に適度な休憩を挟んで脳を休ませること。",
+          "毎日決まった時間にだけ作業を行うこと。"
+        ],
+        "answer": "作業の途中に適度な休憩を挟んで脳を休ませること。",
+        "explanation": "Tác giả khuyên nên xen kẽ các khoảng nghỉ ngơi hợp lý trong quá trình làm việc để não bộ được nghỉ ngơi (適度な休憩を挟むことが効果的だ). Đáp án đúng là 3.\n\nNghĩa các lựa chọn:\n1) Tiếp tục làm việc tới giới hạn cho tới khi mất tập trung — Sai.\n2) Hoàn thành công việc một lèo mà không nghỉ ngơi — Sai.\n3) Xen kẽ nghỉ ngơi hợp lý trong quá trình làm việc để não bộ nghỉ ngơi — ĐÚNG.\n4) Chỉ làm việc vào một khoảng thời gian cố định mỗi ngày — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u065",
+    "passages": [
+      {
+        "text": "技術の進歩によって、私たちの生活は格段に便利になった。移動時間は短縮され、世界中の情報が瞬時に入手できる。しかし、便利さと引き換えに、私たちは「待つ」という時間を失ってしまったのではないか。\n手紙の返事を待つワクワク感や、列車を待つ間に風景を眺めるゆとり。そうした一見無駄に見える時間の中にこそ、豊かな感情や新しい発想が育まれることがある。便利さを追求する一方で、あえて「遠回り」を楽しむ心の余白も持ちたいものだ。\n（鷲田清一 『折々のことば』による）"
+      }
+    ],
+    "translation": "Nhờ sự tiến bộ của công nghệ, cuộc sống của chúng ta đã trở nên vô cùng tiện lợi. Thời gian di chuyển được rút ngắn, thông tin trên toàn thế giới có thể thu thập trong chớp mắt. Tuy nhiên, đổi lấy sự tiện lợi, phải chăng chúng ta đã đánh mất thời gian “chờ đợi”?\nCảm giác hồi hộp chờ đợi thư hồi âm, hay sự thong dong ngắm nhìn cảnh vật trong lúc chờ tàu. Chính trong những khoảng thời gian thoạt nhìn có vẻ lãng phí đó, những cảm xúc phong phú hay ý tưởng mới đôi khi mới được ươm mầm. Bên cạnh việc theo đuổi sự tiện lợi, chúng ta cũng nên giữ lấy khoảng trống tâm hồn để tận hưởng những “con đường vòng”.\n(Theo Washida Kiyokazu, “Những lời qua từng thời điểm”)",
+    "questions": [
+      {
+        "id": "u065-1",
+        "prompt": "便利になった現代社会について、筆者はどのように述べているか。",
+        "choices": [
+          "便利さを追求することは、すべての人にとって最高の価値である。",
+          "「待つ」時間や無駄に見える時間にも価値があり、大切にすべきだ。",
+          "技術の進歩によって失われた時間をとり戻すために、機械を使わないべきだ。",
+          "移動時間や情報収集の効率化は、人間性を損なうため禁止すべきだ。"
+        ],
+        "answer": "「待つ」時間や無駄に見える時間にも価値があり、大切にすべきだ。",
+        "explanation": "Tác giả cho rằng khoảng thời gian chờ đợi hay thoạt nhìn có vẻ lãng phí chính là nơi ươm mầm cảm xúc và ý tưởng mới, do đó cũng có giá trị và cần được trân trọng (そうした一見無駄に見える時間の中にこそ、豊かな感情や新しい発想が育まれるがある). Đáp án đúng là 2.\n\nNghĩa các lựa chọn:\n1) Theo đuổi sự tiện lợi là giá trị cao nhất cho tất cả mọi người — Sai.\n2) Thời gian chờ đợi hay thời gian có vẻ lãng phí cũng có giá trị và cần được trân trọng — ĐÚNG.\n3) Không nên dùng máy móc để lấy lại thời gian đã mất do tiến bộ công nghệ — Sai.\n4) Cần cấm tối ưu hóa thời gian di chuyển và thu thập thông tin vì làm tổn hại tính người — Sai."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u066",
+    "passages": [
+      {
+        "text": "「ルール」はなぜあるのでしょうか。\nスポーツを理解するために最初に確認しておきますが、「スポーツは人間が楽しむためのもの」です。これが出発点です。決して「世の中に無ければならないモノ」でもなければ、生きるためにどうしても「必要なモノ」でもありませんが、楽しむためのモノであり、その「スポーツで楽しむ」ために「ルール」があるのです。\nそして、ルールのもとで勝敗を競いますが、このことが楽しくないのであれば、スポーツをする価値はありません。\n（高峰修『スポーツ教養入門』による）"
+      }
+    ],
+    "translation": "Tại sao lại có “Luật lệ”?\nĐể hiểu về thể thao, trước hết cần xác nhận rằng “Thể thao là thứ để con người thưởng thức”. Đây chính là điểm khởi đầu. Thể thao tuyệt nhiên không phải là “thứ bắt buộc phải có trên đời”, cũng không phải “thứ cần thiết” bằng mọi giá để sinh tồn, mà nó là thứ để giải trí, và “Luật lệ” tồn tại là để “thưởng thức thể thao”.\nVà người ta thi đấu thắng thua dựa trên luật lệ, nhưng nếu điều này không mang lại niềm vui thì thể thao không còn giá trị gì nữa.\n（Theo “Nhập môn giáo dưỡng thể thao” của Takamine Osamu）",
+    "questions": [
+      {
+        "id": "u066-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "ルールのないスポーツにも価値がある。",
+          "ルールはスポーツで楽しむためのものだ。",
+          "スポーツはルールを理解してから始めるべきだ。",
+          "スポーツを通して、ルールの重要さが理解できる。"
+        ],
+        "answer": "ルールはスポーツで楽しむためのものだ。",
+        "explanation": "Tác giả khẳng định rõ ràng rằng luật lệ tồn tại là để thưởng thức thể thao (「スポーツで楽しむ」ために「ルール」があるのです). Do đó, đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u067",
+    "passages": [
+      {
+        "text": "平成 28 年 1 月 12 日\n社員各位\n総務課長\n\n暖房使用についてのお願い\n本格的な冬を迎え、暖房の使用が増加しており、12 月の電気代は前月に比べて約 30％増となりました。節電のため、室内温度は 22 度以下に設定するとともに、使用していない場所の暖房を切ること、退社時の切り忘れをなくすことなどを徹底してください。\nまた、服装で調整するなど各自で工夫し、暖房に頼りすぎないようご協力をお願いいたします。"
+      }
+    ],
+    "translation": "Ngày 12 tháng 1 năm 2016\nKính gửi Toàn thể nhân viên\nTrưởng phòng Tổng vụ\n\nYêu cầu về việc sử dụng sưởi\nBước vào mùa đông chính thức, việc sử dụng máy sưởi đang tăng lên, tiền điện tháng 12 đã tăng khoảng 30% so với tháng trước. Để tiết kiệm điện, xin vui lòng cài đặt nhiệt độ trong phòng dưới 22 độ C, đồng thời tắt sưởi ở những nơi không sử dụng và triệt để không quên tắt sưởi khi tan làm.\nNgoài ra, rất mong mọi người hợp tác tự điều chỉnh bằng trang phục, không phụ thuộc quá nhiều vào sưởi.",
+    "questions": [
+      {
+        "id": "u067-1",
+        "prompt": "この文書を書いた、一番の目的は何か。",
+        "choices": [
+          "暖房の使用を減らす工夫について意見を求める。",
+          "暖房を使用せず、服装で調整することを求める。",
+          "暖房を無駄に使用しないことを求める。",
+          "暖房の温度を変更しないことを求める。"
+        ],
+        "answer": "暖房を無駄に使用しないことを求める。",
+        "explanation": "Mục đích chính của văn bản là yêu cầu nhân viên không sử dụng máy sưởi lãng phí (tắt khi không dùng, cài nhiệt độ hợp lý, không quên tắt khi về). Do đó, đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u068",
+    "passages": [
+      {
+        "text": "実は「やりたいことをやる」ためには、シンプルに間近の目標を達成していくだけで十分だと思います。「いつか大きな仕事を成し遂げたい（注1）」と思っていても、実際にそれがどんなものかはわかりようがないし、本当に自分が望んでいるものが何なのかもわかりません。\nそれなのに「大きな仕事」を目標にしてしまうと、それに向かって何をすればいいのかわからなくなって途方に暮れる（注2）ことになります。それよりも、まずは目の前にある「やりたいこと」を一つひとつやっていく。その積み重ねの先にしか「大きな仕事」はありません。\n（注1）成し遂げる：最後までやる\n（注2）途方に暮れる：どうしたらいいかわからなくなる"
+      }
+    ],
+    "translation": "Thực ra để “làm điều mình muốn”, đơn giản chỉ cần đạt được những mục tiêu trước mắt là đủ. Dù có nghĩ “một ngày nào đó muốn hoàn thành công việc lớn” (chú thích 1), nhưng thực tế công việc đó ra sao thì không thể biết được, và bản thân thực sự mong muốn điều gì cũng không rõ.\nThế nhưng nếu đặt “công việc lớn” làm mục tiêu, ta sẽ không biết phải làm gì để hướng tới nó và rơi vào bế tắc (chú thích 2). Thay vào đó, trước hết hãy thực hiện từng điều “muốn làm” ngay trước mắt. Chỉ trên con đường tích lũy đó mới có được “công việc lớn”.\n（Chú thích 1） Hoàn thành: Làm tới cùng.\n（Chú thích 2） Bế tắc: Không biết phải làm sao.",
+    "questions": [
+      {
+        "id": "u068-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "大きな目標を立ててから、目の前の仕事に取り組むといい。",
+          "大きな仕事を達成するために、やりたいことを我慢するといい。",
+          "近い目標を達成していくことが、大きな仕事につながる。",
+          "自分の望んでいるものが何かわかってから、行動するといい。"
+        ],
+        "answer": "近い目標を達成していくことが、大きな仕事につながる。",
+        "explanation": "Tác giả cho rằng việc thực hiện các mục tiêu ngắn hạn trước mắt sẽ tích lũy dẫn đến thành công lớn (近い目標を達成していくことが、大きな仕事につながる). Do đó, đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u069",
+    "passages": [
+      {
+        "text": "コーヒー豆専門通販ショップ「カフェ・ド・フール」からのお得なお知らせ\nいつもご利用いただき、ありがとうございます。\n10 月中に「冬の味わい」（1 缶 2,000 円）をご予約いただいたお客様限定で、特別価格 1,700 円にて販売いたします。引き渡しは 11 月 1 日以降となります。\nなお、すでにご案内しておりますとおり、定期購入をされているお客様は、その他の全商品がいつでも 10％割引でお求めいただけます。あわせてご利用ください。\n商品の詳細・ご注文方法につきましては、裏面をご覧ください。"
+      }
+    ],
+    "translation": "Thông báo ưu đãi từ cửa hàng bán cà phê hạt qua mạng Cafe de Four\nCảm ơn quý khách đã luôn ủng hộ.\nChỉ dành riêng cho khách hàng đặt trước sản phẩm “Hương vị mùa đông” (1 hộp 2,000 yên) trong tháng 10, chúng tôi sẽ bán với giá đặc biệt 1,700 yên. Thời gian giao hàng từ ngày 1 tháng 11 trở đi.\nNgoài ra, như đã thông báo, quý khách đăng ký mua định kỳ sẽ luôn được giảm giá 10% cho tất cả các sản phẩm khác. Kính mời quý khách kết hợp sử dụng.\nChi tiết sản phẩm và cách thức đặt hàng xin xem mặt sau.",
+    "questions": [
+      {
+        "id": "u069-1",
+        "prompt": "このはがきで紹介されている割引サービスについて正しいものはどれか。",
+        "choices": [
+          "コーヒー豆を定期購入している人は、10 月中だけ「冬の味わい」を 10%割引で買うことができる。",
+          "コーヒー豆を定期購入している人が 10 月中に「冬の味わい」を予約すれば、15%割引で買うことができる。",
+          "「冬の味わい」を 10 月中に予約すれば、その他の商品をすべて 15%割引で買うことができる。",
+          "「冬の味わい」を買った人は、10 月中だけその他の商品をすべて 10%割引で買うことができる。"
+        ],
+        "answer": "コーヒー豆を定期購入している人が 10 月中に「冬の味わい」を予約すれば、15%割引で買うことができる。",
+        "explanation": "Đặt trước trong tháng 10 được giảm từ 2,000 yên xuống 1,700 yên (giảm 15%). Bất kỳ ai đặt trước trong tháng 10 (kể cả người mua định kỳ) đều mua được với giá giảm 15%. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u070",
+    "passages": [
+      {
+        "text": "どういう日が「いい一日」であるかは人によって異なるだろうが、日記を書き続けることで、自分にとっての「いい一日」というものの構成要件（注）がわかってくる。どうすれば「いい一日」になるかがわかってくるということだ。そうなれば「いい一日」がたまたま訪れるのをただ待つのではなく、「今日」が「いい一日」になるように、「今日はいい一日だった」と日記に書けるように、主体的に行動するようになるだろう。\n（注）構成要件：組み立てに必要な要素"
+      }
+    ],
+    "translation": "Một ngày như thế nào là “một ngày tốt” có lẽ tùy thuộc vào từng người, nhưng bằng việc kiên trì viết nhật ký, ta sẽ hiểu được các yếu tố cấu thành nên “một ngày tốt” đối với bản thân. Nghĩa là ta sẽ biết phải làm gì để có “một ngày tốt”. Khi đó, thay vì chỉ thụ động chờ đợi “một ngày tốt” tình cờ đến, ta sẽ chủ động hành động để “hôm nay” trở thành “một ngày tốt”, để có thể viết vào nhật ký rằng “hôm nay là một ngày tuyệt vời”.\n（Chú thích） Yếu tố cấu thành: Các thành tố cần thiết để tạo nên.",
+    "questions": [
+      {
+        "id": "u070-1",
+        "prompt": "日記を書き続けることの効果について、筆者はどのように述べているか。",
+        "choices": [
+          "自分にとっての「いい一日」にするために行動できるようになる。",
+          "たまたま訪れた「いい一日」を素直に喜べるようになる。",
+          "その日の自分の行動を冷静に反省できるようになる。",
+          "「いい一日」とは何かが人によって違うと気づけるようになる。"
+        ],
+        "answer": "自分にとっての「いい一日」にするために行動できるようになる。",
+        "explanation": "Tác giả chỉ ra tác dụng của việc viết nhật ký là giúp bản thân biết cách và chủ động hành động để tạo nên “một ngày tốt” cho chính mình. Do đó, đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u071",
+    "passages": [
+      {
+        "text": "昔話というのは、最初はほんの少数の人が聞き、そのなかの一人か二人がおぼえて、次の世代の人に話し、そして次へと語られてきました。同じ話でも変わってくるのが当たり前です。聞き手の反応によって、面白いところがくわしく語られ、退屈な部分は省かれ、物語としての形がととのってきます。だから面白いはずです。でも、教訓（注）やお説教をつけ加え、つまらなくしてしまう場合もあるようです。\n（中川李枝子『絵本と私』による）\n（注）教訓：道徳的な教え"
+      }
+    ],
+    "translation": "Truyện cổ tích vốn dĩ ban đầu chỉ có một số ít người nghe, rồi một hai người trong số đó ghi nhớ, kể lại cho thế hệ tiếp theo, và tiếp tục được truyền lại qua các thế hệ. Dù là cùng một câu chuyện nhưng việc nó biến đổi là điều đương nhiên. Tùy thuộc vào phản ứng của người nghe, những chi tiết thú vị sẽ được kể chi tiết hơn, còn những phần nhàm chán sẽ được lược bỏ, khiến hình thức câu chuyện dần trở nên hoàn thiện. Vì vậy nó mới thú vị. Nhưng hình như cũng có trường hợp người ta thêm vào những bài học đạo đức hay lời giáo huấn làm cho câu chuyện trở nên tẻ nhạt.\n（Theo “Truyện tranh và tôi” của Nakagawa Rieko）\n（Chú thích） Bài học đạo đức: Lời dạy mang tính đạo đức.",
+    "questions": [
+      {
+        "id": "u071-1",
+        "prompt": "筆者によると、昔話が面白いのはなぜか。",
+        "choices": [
+          "話し手が面白いと思う部分だけが伝えられてきたから",
+          "話し手がつまらないと思う部分も面白く語られてきたから",
+          "聞き手にとって面白い部分が残され伝えられてきたから",
+          "聞き手にとってためになる内容がうまく加えてあるから"
+        ],
+        "answer": "聞き手にとって面白い部分が残され伝えられてきたから",
+        "explanation": "Tác giả giải thích rằng nhờ phản ứng của người nghe, những chi tiết thú vị được kể chi tiết và giữ lại, còn những phần chán bị lược bỏ. Do đó, các chi tiết thú vị đối với người nghe được giữ lại và truyền tiếp qua nhiều thế hệ. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u072",
+    "passages": [
+      {
+        "text": "以下は、ある図書館に届いたメールである。\n\n村中市立南図書館 ご担当者様\n\n自習室をいつも利用している者ですが、お願いがあってメールしました。\n最近、大声で話しながら作業をしているグループが増えており、自分の調べものに集中できず困っています。図書館の資料を利用して調べものをしているようなので、注意することもできません。グループ用の自習室を別に作るなどの対処をしていただくことはできないでしょうか。\nご検討どうぞよろしくお願いいたします。\n\n鈴木正子"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử gửi đến thư viện thành phố Muranaka Minami.\n\nKính gửi Người phụ trách Thư viện Nam thành phố Muranaka,\n\nTôi là một người thường xuyên sử dụng phòng tự học, tôi gửi thư này để có một kiến nghị.\nGần đây, số nhóm vừa nói chuyện lớn tiếng vừa làm việc ngày càng tăng, khiến tôi không thể tập trung vào việc tra cứu của mình và rất phiền lòng. Vì họ có vẻ đang dùng tài liệu thư viện để tra cứu nên tôi cũng không thể nhắc nhở. Quý thư viện có thể xem xét giải pháp như làm riêng một phòng tự học dành cho nhóm được không?\nKính mong quý thư viện xem xét.\n\nSuzuki Masako",
+    "questions": [
+      {
+        "id": "u072-1",
+        "prompt": "このメールを書いた人は、自習室のどのような問題を指摘しているか。",
+        "choices": [
+          "利用者がグループで調べものをしていること",
+          "話しながら作業しているグループが多いこと",
+          "グループ用の自習室を適切に使用していないこと",
+          "図書館の資料を使わずに作業しているグループがあること"
+        ],
+        "answer": "話しながら作業しているグループが多いこと",
+        "explanation": "Trong thư, người viết chỉ ra vấn đề hiện tại là có nhiều nhóm vừa trò chuyện lớn tiếng vừa làm việc (大声で話しながら作業をしているグループが増えており). Do đó, đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u073",
+    "passages": [
+      {
+        "text": "以下は、ある会社で回覧された文書である。\n\n2017 年 6 月 12 日\n社員各位\n会計課長\n\n三村株式会社製「はさみ SB-A」の回収・交換について\n三村株式会社より、「はさみ SB-A」に欠陥が発見されたため全製品を回収し、交換を行うとの発表がありました。\n会計課で調べたところ購入記録がありましたので、三村株式会社に交換を依頼します。つきましては、各課で「はさみ SB-A」をまとめて会計課までお持ちください。\n6 月 22 日（木）に発送を予定しているため、必ず 6 月 21 日（水）までにお持ちください。\nご協力よろしくお願いいたします。\n以上"
+      }
+    ],
+    "translation": "Dưới đây là văn bản lưu hành nội bộ tại một công ty.\n\nNgày 12 tháng 6 năm 2017\nKính gửi Toàn thể nhân viên\nTrưởng phòng Kế toán\n\nVề việc thu hồi và đổi kéo SB-A do Công ty Mimura sản xuất\nCông ty Mimura vừa thông báo thu hồi toàn bộ sản phẩm và đổi mới do phát hiện lỗi ở dòng kéo SB-A.\nQua kiểm tra tại Phòng Kế toán có ghi nhận lịch sử mua, nên chúng tôi sẽ yêu cầu Công ty Mimura đổi sẩn phẩm. Theo đó, yêu cầu các phòng ban tập hợp kéo SB-A và mang đến Phòng Kế toán.\nDo lịch gửi trả dự kiến vào thứ Năm ngày 22 tháng 6, xin vui lòng mang đến trước thứ Tư ngày 21 tháng 6.\nRất mong nhận được sự hợp tác.\nTrân trọng.",
+    "questions": [
+      {
+        "id": "u073-1",
+        "prompt": "「はさみ SB-A」について、各課はどうするように言われているか。",
+        "choices": [
+          "欠陥があるものを、6月21日までに会計課に渡す。",
+          "欠陥があるものを、6月22日までに三村株式会社に発送する。",
+          "すべてを、6月21日までに会計課に渡す。",
+          "すべてを、6月22日までに三村株式会社に発送する。"
+        ],
+        "answer": "すべてを、6月21日までに会計課に渡す。",
+        "explanation": "Văn bản yêu cầu các phòng ban tập hợp tất cả kéo SB-A và nộp cho phòng kế toán trước ngày 21 tháng 6. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u074",
+    "passages": [
+      {
+        "text": "笑顔がこころと体の健康に大事な役割を果たしていることが、多くの研究からわかってきている。笑顔はこころの健康指標（注）になる。笑顔が出るのは、それだけ幸せだと感じているからだ。\n一方、笑顔になると幸せだという気持ちがわいてくるということもわかっている。同じ漫画を、意図的に笑顔を作って読んだときと、厳しい顔をして読んだときとでは、笑顔で読んだときの方が面白いという評価が高くなる。つまり笑顔になると、入ってくる情報がプラスの方面に偏るのだ。\n（大野裕 日本経済新聞 2015年 4 月3日付夕刊による）\n（注）健康指標：健康の程度を示すもの"
+      }
+    ],
+    "translation": "Nhiều nghiên cứu đã chỉ ra rằng nụ cười đóng vai trò quan trọng đối với sức khỏe thể chất và tinh thần. Nụ cười là chỉ số sức khỏe tinh thần. Nụ cười xuất hiện là vì người ta cảm thấy hạnh phúc đến mức đó.\nMặt khác, người ta cũng biết rằng khi mỉm cười thì cảm giác hạnh phúc sẽ trỗi dậy. Khi đọc cùng một cuốn truyện tranh, việc cố tình tạo nụ cười so với khi làm nét mặt nghiêm nghị thì việc đọc với nụ cười được đánh giá là thú vị hơn. Tóm lại khi mỉm cười, thông tin tiếp nhận sẽ thiên về hướng tích cực.\n（Theo Ohno Yutaka, Báo Nihon Keizai Shimbun số chiều ngày 3/4/2015）\n（Chú thích） Chỉ số sức khỏe: Yếu tố thể hiện mức độ khỏe mạnh.",
+    "questions": [
+      {
+        "id": "u074-1",
+        "prompt": "笑顔について、筆者はどのように述べているか。",
+        "choices": [
+          "作った笑顔であっても、幸せな気持ちになれる。",
+          "幸せだと感じていなければ、笑顔にはなれない。",
+          "笑顔でいれば、周りの人にプラスの印象を与える。",
+          "自然な笑顔は、作った笑顔よりも幸せな感情を伝える。"
+        ],
+        "answer": "作った笑顔であっても、幸せな気持ちになれる。",
+        "explanation": "Tác giả nêu ví dụ dù cố tình mỉm cười thì khi đọc truyện tranh vẫn thấy thú vị hơn, nghĩa là nụ cười tạo ra vẫn mang lại cảm giác hạnh phúc tích cực. Do đó, đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u075",
+    "passages": [
+      {
+        "text": "感情や思いと行動の不一致（注1）は、ストレスを溜め込む（注2）最大の要因となる。自分はやりたくないのに、人の顔色を窺って（注3）「YES」と言ってしまう時など、心の中と実際の行動にギャップ（注4）が生じる。こうした不一致が増えれば増えるほど、精神的な負担は大きくなっていく。\n（注1）不一致：一致しないこと\n（注2）溜め込む：ためての中に残す\n（注3）顔色を窺う：相手の機嫌を気にする\n（注4）ギャップ：ズレ、差"
+      }
+    ],
+    "translation": "Sự bất đồng nhất giữa cảm xúc, suy nghĩ với hành động chính là nguyên nhân lớn nhất tích tụ căng thẳng. Những lúc bản thân không muốn làm nhưng lại nhìn nét mặt người khác để nói “ĐỒNG Ý”, khoảng cách giữa tâm trí và hành động thực tế sẽ phát sinh. Sự bất đồng nhất này càng tăng lên thì gánh nặng tinh thần càng trở nên lớn hơn.\n（Chú thích 1） Bất đồng nhất: Không trùng khớp.\n（Chú thích 2） Tích tụ: Dồn nén giữ lại bên trong.\n（Chú thích 3） Nhìn nét mặt: Bận tâm đến sắc mặt/tâm trạng đối phương.\n（Chú thích 4） Khoảng cách: Chênh lệch, sai lệch.",
+    "questions": [
+      {
+        "id": "u075-1",
+        "prompt": "筆者の考えに合うものはどれか。",
+        "choices": [
+          "自身の思いと行動を一致させれば、ストレスが溜まらない。",
+          "自身の思いより行動を大切にする方が、ストレスが溜まらない。",
+          "自身の思いと反対の行動をしたときに、ストレスが最大になる。",
+          "自身の思いを行動に移そうとすると、ストレスが溜まる。"
+        ],
+        "answer": "自身の思いと行動を一致させれば、ストレスが溜まらない。",
+        "explanation": "Tác giả khẳng định sự bất đồng nhất giữa suy nghĩ và hành động gây ra căng thẳng, do đó làm cho suy nghĩ và hành động thống nhất với nhau sẽ giúp không tích tụ căng thẳng. Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u076",
+    "passages": [
+      {
+        "text": "以下は、ある山の案内である。\n\n秋森山\n秋森山は高さ約 600 メートルで、頂上まで約 4 キロメートルの緩やかな登山道が続いています。途中、動物の姿に見える犬岩や猿岩、舞台のように大きく平らな岩もあり、おもしろい形の岩を探しながら登る楽しさがあります。登山道では、四季を通じてさまざまな植物を楽しめるほか、春から初夏にかけては多くの野鳥を観察することもできます。秋の紅葉は格別で、山全体に鮮やかな景色が広まります。そのため、この時期には多くの登山客が訪れています。"
+      }
+    ],
+    "translation": "Dưới đây là phần giới thiệu về một ngọn núi.\n\nNúi Akimori\nNúi Akimori cao khoảng 600 mét, có con đường leo núi thoại thoải dài khoảng 4 km dẫn lên đỉnh. Trên đường đi có đá Inu-iwa, Saru-iwa trông giống hình dáng động vật, hay hòn đá to phẳng như sân khấu, mang lại niềm vui vừa leo núi vừa tìm kiếm những hòn đá có hình thù thú vị. Trên đường leo núi, ngoài việc thưởng thức các loại thực vật đa dạng suốt bốn mùa, du khách còn có thể quan sát nhiều loài chim hoang dã từ mùa xuân đến đầu hè. Mùa thu lá đỏ ở đây vô cùng đặc biệt, cảnh sắc rực rỡ lan tỏa khắp ngọn núi. Vì vậy, vào thời điểm này có rất nhiều khách leo núi đến thăm.",
+    "questions": [
+      {
+        "id": "u076-1",
+        "prompt": "秋森山について、この文章で紹介されていることは何か。",
+        "choices": [
+          "登山道で見られる岩や植物などの魅力",
+          "頂上から見える紅葉や景色のすばらしさ",
+          "野鳥の観察に適した季節やおすすめの場所",
+          "四季ごとの登山の注意点や必要な準備"
+        ],
+        "answer": "登山道で見られる岩や植物などの魅力",
+        "explanation": "Đoạn văn giới thiệu các điểm hấp dẫn như các hòn đá hình thù độc đáo, thực vật bốn mùa, chim hoang dã và lá đỏ trên đường leo núi Akimori. Do đó, đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u077",
+    "passages": [
+      {
+        "text": "山形県の大蔵村にある肘折温泉では、朝市が名物になっている。夏は早朝 5 時半ごろから、温泉街の通りに地元の農家のおばあさんたちが野菜や果物を並べ始める。自分で育てた新鮮な食材のほか、山で採ってきた山菜やキノコ、手作りの漬物などが並ぶ。\nこの朝市は、単に買い物をする場所というだけでなく、地元の農家の人々と観光客との温かい交流の場にもなっている。商品についてのおすすめの食べ方や保存方法などを聞くことができるのも、この朝市ならではの魅力だ。\n（山形県観光情報サイトの情報による）"
+      }
+    ],
+    "translation": "Tại suối nước nóng Hijiori ở làng Okura, tỉnh Yamagata, chợ sáng đã trở thành một đặc sản nổi tiếng. Vào mùa hè từ khoảng 5 giờ 30 sáng, các bà lão nông dân địa phương bắt đầu bày bán rau củ, trái cây dọc theo con phố suối nước nóng. Bên cạnh nguồn nguyên liệu tươi ngon do chính mình trồng, còn có rau rừng, nấm hái trên núi và dưa muối tự làm được bày bán.\nChợ sáng này không chỉ đơn thuần là nơi mua sắm mà còn là nơi giao lưu ấm áp giữa người dân nông thôn địa phương và du khách. Việc có thể hỏi cách ăn hay cách bảo quản được đề xuất cho sản phẩm cũng là nét quyến rũ đặc trưng chỉ có ở chợ sáng này.\n（Theo thông tin từ trang tin tức du lịch tỉnh Yamagata）",
+    "questions": [
+      {
+        "id": "u077-1",
+        "prompt": "この朝市の魅力について、筆者はどのように述べているか。",
+        "choices": [
+          "温泉街でしか買えない珍しい漬物や果物が豊富にあること。",
+          "朝早くから地元で採れた新鮮な食材を買うことができること。",
+          "農家の人とのやり取りを楽しみながら買い物ができること。",
+          "地元の農家の人から食材の育て方を直接教えてもらえること。"
+        ],
+        "answer": "農家の人とのやり取りを楽しみながら買い物ができること。",
+        "explanation": "Tác giả nhấn mạnh nét quyến rũ đặc trưng của chợ sáng là không gian giao lưu ấm áp, vừa mua sắm vừa trò chuyện hỏi đáp với người nông dân. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u078",
+    "passages": [
+      {
+        "text": "人生には重大な決断をしなければならない時がある。そんな時に一番やってはならないのは、周りの意見に流されてしまうことだ。もちろん信頼できる人たちにアドバイスを求めるのは、悪いことではない。\nしかし何よりも大切にしなければいけないのは、まずはしっかりと自分の気持ちと向き合うことだ。自分が何をしたいのか、どうなりたいのか。新しいアクションを起こすには、まずしっかりと自分の気持ちを確認しなければならない。\n（北島康介 『前に進むチカラー折れない心を作る 7つの約束』による）"
+      }
+    ],
+    "translation": "Trong cuộc đời có những lúc phải đưa ra quyết định trọng đại. Điều không được làm nhất vào những lúc như thế là bị cuốn theo ý kiến của những người xung quanh. Dĩ nhiên việc tìm kiếm lời khuyên từ những người đáng tin cậy không phải là điều xấu.\nTuy nhiên, điều phải coi trọng hơn bất cứ điều gì là trước hết phải đối diện rõ ràng với cảm xúc của chính mình. Bản thân muốn làm gì, muốn trở nên như thế nào. Để bắt đầu một hành động mới, trước hết phải xác nhận chắc chắn mong muốn của bản thân.\n（Theo “Sức mạnh tiến về phía trước - 7 lời hứa tạo nên trái tim không khuất phục” của Kitajima Kosuke）",
+    "questions": [
+      {
+        "id": "u078-1",
+        "prompt": "重大な決断をする時に、重要なことは何か。",
+        "choices": [
+          "信頼できる人に意見を求める。",
+          "周りの人の意見をしっかり聞く。",
+          "自分の気持ちを正直に人に話す。",
+          "自分の気持ちをしっかり見つめる。"
+        ],
+        "answer": "自分の気持ちをしっかり見つめる。",
+        "explanation": "Tác giả nhấn mạnh điều quan trọng nhất trước hết là đối diện và nhìn nhận rõ cảm xúc của chính mình (まずはしっかりと自分の気持ちと向き合うことだ). Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u079",
+    "passages": [
+      {
+        "text": "以下は、あるレストランがホームページに掲載したお知らせである。\n\n洋食レオナール お知らせ\n2014.11.10移転についての重要なお知らせ\n10 月 1 日のお知らせのとおり、「洋食レオナール」は、移転準備のため 11 月末日で一旦営業を終了いたします。\n新店舗での営業開始は、12 月中旬を予定しております。正確なオープン日程につきましては、決定次第ホームページにてご案内いたします。\n長年にわたり現店舗をご愛顧いただき、誠にありがとうございました。新店舗におきましても、皆様に満足していただけるよう努めてまいります。\n洋食レオナール 店主"
+      }
+    ],
+    "translation": "Dưới đây là thông báo đăng trên trang chủ của một nhà hàng.\n\nNhà hàng Âu Leonard - Thông báo\n10.11.2014 Thông báo quan trọng về việc chuyển địa điểm\nNhư đã thông báo vào ngày 1 tháng 10, “Nhà hàng Âu Leonard” sẽ tạm ngưng hoạt động vào cuối tháng 11 để chuẩn bị chuyển địa điểm.\nThời gian bắt đầu hoạt động tại cửa hàng mới dự kiến vào giữa tháng 12. Ngày khai trương chính xác sẽ được thông báo trên trang chủ ngay khi có quyết định.\nXin chân thành cảm ơn quý khách đã ủng hộ cửa hàng hiện tại trong nhiều năm qua. Tại cửa hàng mới, chúng tôi sẽ tiếp tục nỗ lực để làm hài lòng quý khách.\nChủ nhà hàng Âu Leonard",
+    "questions": [
+      {
+        "id": "u079-1",
+        "prompt": "このお知らせで伝えたいことは何か。",
+        "choices": [
+          "新店舗の正確なオープン日程が決まったこと。",
+          "新店舗での営業開始日が 12 月中旬に延期されたこと。",
+          "移転のため 11 月末で一時閉店し、12 月中に新店舗を開店すること。",
+          "移転のため 11 月末で閉店し、12 月からはネット予約のみ受付けること。"
+        ],
+        "answer": "移転のため 11 月末で一時閉店し、12 月中に新店舗を開店すること。",
+        "explanation": "Thông báo nội dung cốt lõi là tạm đóng cửa vào cuối tháng 11 để chuyển địa điểm và sẽ khai trương nhà hàng mới trong tháng 12. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u080",
+    "passages": [
+      {
+        "text": "人間はだれでも、失敗しようと思って行動するわけではない。成功させようとして、一所懸命努力する。しかし、どんなに努力しても失敗してしまうことがある。大切なのは、失敗したときにどう対応するかだ。\n失敗した理由を周囲の環境や他人のせいにしていては、何も学べない。自分の何が悪かったのかを冷徹に分析し、同じ失敗を繰り返さないための対策を立てる。それがあって初めて、失敗は次の成功への貴重な経験となるのだ。\n（山崎章郎 『生と死の医療』による）"
+      }
+    ],
+    "translation": "Con người không ai hành động với ý nghĩ sẽ thất bại. Ai cũng dốc hết sức nỗ lực để thành công. Tuy nhiên, dù có nỗ lực đến đâu cũng có lúc bị thất bại. Điều quan trọng là phản ứng ra sao khi thất bại.\nNếu đổ lỗi lý do thất bại cho môi trường xung quanh hay người khác thì sẽ không học được điều gì. Cần phân tích một cách tỉnh táo xem bản thân đã sai ở đâu và đưa ra biện pháp ứng phó để không lặp lại thất bại tương tự. Chỉ khi làm được điều đó, thất bại mới trở thành kinh nghiệm quý báu cho thành công tiếp theo.\n（Theo “Y học về sự sống và cái chết” của Yamazaki Akio）",
+    "questions": [
+      {
+        "id": "u080-1",
+        "prompt": "筆者によると、失敗を次の成功につなげるために必要なことは何か。",
+        "choices": [
+          "周囲の環境や他人のアドバイスを参考にして対策を立てること。",
+          "失敗した理由を客観的に分析し、繰り返さない対策を立てること。",
+          "どんなに努力しても失敗することはあると受け入れること。",
+          "失敗しても落ち込まずに、すぐに新しい挑戦を始めること。"
+        ],
+        "answer": "失敗した理由を客観的に分析し、繰り返さない対策を立てること。",
+        "explanation": "Tác giả khẳng định để chuyển thất bại thành thành công tiếp theo cần phân tích nguyên nhân lỗi sai một cách khách quan và đưa ra giải pháp phòng ngừa lặp lại. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u081",
+    "passages": [
+      {
+        "text": "以下は、ある旅行会社に届いたメールである。\n\nあて先：t_kigawa@btbtravel.co.jp\n件名：ゼミ旅行の見積書について（北山大学）\n日時：2018年 6 月 25 日 11：30\n\nBTB 旅行社 団体ツアー担当\n木川友子様\n\nお世話になっております。北山大学の大村光一です。\nせっかく見積もり書を作成していただいたのですが、変更をお願いしたい点がございます。諸事情により、8 月 6 日（月）に出発することができなくなってしまったので、出発日を 8 月 20 日（月）に変更して、再度見積書を作成していただけないでしょうか。料金は今回の見積書の金額を超えないようにお願いいたします。ホテルは変更になってもかまいませんが、同じ1泊2日の日程でお願いいたします。"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử gửi đến một công ty du lịch.\n\nNgười nhận: t_kigawa@btbtravel.co.jp\nTiêu đề: Về bản báo giá chuyến đi của hội thảo (Đại học Kitayama)\nThời gian: 11:30 ngày 25 tháng 6 năm 2018\n\nKính gửi Cô Kigawa Tomoko - Phụ trách tour đoàn Công ty Du lịch BTB\n\nTôi là Omura Koichi từ Đại học Kitayama.\nCảm ơn cô đã cất công lập bản báo giá, tuy nhiên có một số điểm tôi muốn nhờ điều chỉnh. Do một số lý do, chúng tôi không thể khởi hành vào thứ Hai ngày 6 tháng 8, nên cô có thể đổi ngày khởi hành sang thứ Hai ngày 20 tháng 8 và lập lại bản báo giá giúp chúng tôi được không? Xin hãy giữ mức giá không vượt quá số tiền của bản báo giá lần này. Khách sạn có thể thay đổi nhưng xin giữ nguyên lịch trình 2 ngày 1 đêm.",
+    "questions": [
+      {
+        "id": "u081-1",
+        "prompt": "大村さんは、木川さんにどのような見積書の再作成を頼んでいるか。",
+        "choices": [
+          "出発日を変更し、1泊2日の金額を抑えた見積書",
+          "出発日と宿泊数を変更し、ホテルを同じにした見積書",
+          "出発日を変更し、ホテルと金額を同じにした見積書",
+          "出発日を変更し、前回の金額を超えないようにした見積書"
+        ],
+        "answer": "出発日を変更し、前回の金額を超えないようにした見積書",
+        "explanation": "Omura yêu cầu thay đổi ngày khởi hành và giữ tổng chi phí không vượt quá bản báo giá lần trước (料金は今回の見積書の金額を超えないようにお願いいたします). Do đó, đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u082",
+    "passages": [
+      {
+        "text": "言葉というものは、時代の変化とともに変化していく。昔使われていた言葉が使われなくなったり、新しい言葉が生まれたりするのは自然なことだ。若者が使う言葉に対して、「言葉の乱れだ」と批判する大人は多い。\nしかし、大人たちが若いころに使っていた言葉も、当時の大人たちからすれば「乱れた言葉」だったはずだ。言葉の変化をすべて「乱れ」として否定するのではなく、時代の活力や感性の現れとして捉える視点も必要ではないだろうか。\n（金田一秀穂 『言葉の深み』による）"
+      }
+    ],
+    "translation": "Ngôn ngữ thay đổi cùng với sự thay đổi của thời đại. Việc những từ ngữ từng dùng trước đây nay không còn được sử dụng, hay những từ ngữ mới ra đời là điều tự nhiên. Nhiều người lớn chỉ trích những từ ngữ giới trẻ sử dụng là “sự hỗn loạn ngôn ngữ”.\nTuy nhiên, những từ ngữ mà chính các người lớn dùng thời còn trẻ chắc chắn cũng từng bị người lớn thời đó coi là “ngôn ngữ hỗn loạn”. Thay vì phủ nhận mọi sự thay đổi ngôn ngữ như một “sự hỗn loạn”, chẳng phải chúng ta cũng cần có góc nhìn coi đó là sự thể hiện sức sống và cảm nhận của thời đại sao?\n（Theo “Chiều sâu của ngôn ngữ” của Kindaichi Hideho）",
+    "questions": [
+      {
+        "id": "u082-1",
+        "prompt": "若者の言葉の変化について、筆者はどのように考えているか。",
+        "choices": [
+          "正しい日本語を守るために、若者の言葉の乱れは正すべきだ。",
+          "大人たちが若いころに使っていた言葉に戻すのが望ましい。",
+          "時代の変化に伴う自然なものであり、否定的に見るべきではない。",
+          "若者が使う言葉は、昔の言葉よりも豊かで優れている。"
+        ],
+        "answer": "時代の変化に伴う自然なものであり、否定的に見るべきではない。",
+        "explanation": "Tác giả cho rằng sự thay đổi ngôn ngữ là điều tự nhiên theo thời đại và không nên phủ nhận hay nhìn nhận tiêu cực. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u083",
+    "passages": [
+      {
+        "text": "事柄にもよるが、一般に、飽きる人間の方が下等で、飽きない人間の方が上等と思われている。特に、相手が書物であるような場合は、飽きることは悪いこと、と最初から相場（注1）が決まっている。しかし、人間の精神の成長は、しばしば、飽きるという形で現れることがある。飽きるというのは、今まで面白かったものが面白くなくなるということである。自分の心の歯車と噛み合わなくなる（注2）ということである。\n（清水幾太郎 『本はどう読むか』による）\n（注1）相場：ここでは、評価\n（注2）噛み合わなくなる：うまく合わなくなる"
+      }
+    ],
+    "translation": "Tùy thuộc vào sự việc, nhưng nhìn chung người ta thường cho rằng người mau chán thì kém cỏi, còn người không mau chán thì cao quý hơn. Đặc biệt khi đối tượng là sách vở, việc nhanh chán ngay từ đầu đã bị đánh giá (chú thích 1) là điều xấu. Tuy nhiên, sự trưởng thành về tinh thần của con người đôi khi lại thể hiện dưới hình thức chán nản. Chán nản có nghĩa là thứ từng thấy thú vị nay không còn thú vị nữa, nghĩa là nó không còn ăn khớp (chú thích 2) với bánh răng tâm hồn của bản thân.\n（Theo “Đọc sách như thế nào” của Shimizu Ikutaro）\n（Chú thích 1） Đánh giá: Ở đây chỉ sự nhìn nhận, định kiến.\n（Chú thích 2） Ăn khớp: Khớp với nhau một cách êm đẹp.",
+    "questions": [
+      {
+        "id": "u083-1",
+        "prompt": "飽きることについて、筆者はどのように考えているか。",
+        "choices": [
+          "飽きることが精神の成長を示すこともある。",
+          "飽きやすいということは幼さの現れである。",
+          "人間が成長するうえでは飽きることが必要だ。",
+          "精神が成長を続けている間は飽きることはない。"
+        ],
+        "answer": "飽きることが精神の成長を示すこともある。",
+        "explanation": "Tác giả nhận định sự trưởng thành tinh thần của con người đôi khi bộc lộ qua việc chán nản (人間の精神の成長は、しばしば、飽きるという形で現れることがある). Do đó, đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u084",
+    "passages": [
+      {
+        "text": "学習者は真剣に外国語に取り組んでいるのに、どうしても間違ってしまう。間違えるのは仕方がないことだけれど、せっかく規則を覚えてそれを応用したつもりなのに、「それは例外」とか言われると、何だかやる気がなくなってしまう。\nこのような誤用（注）をきちんと分析すれば、その成果としてすばらしい教科書ができるはずだ。本来教科書とはその対象である学習者のことをよく考え、難しそうなところ、間違えそうなところをきちんと分かりやすく説明する必要があるのだ。\n（黒田龍之助『外国語の水曜日一学習法としての言語学入門』による）\n（注）誤用：間違った使い方"
+      }
+    ],
+    "translation": "Người học dù rất nghiêm túc học ngoại ngữ nhưng vẫn không tránh khỏi mắc lỗi. Việc sai sót là điều không thể tránh khỏi, nhưng khi đã cất công nhớ quy tắc và áp dụng, lại bị bảo “đó là ngoại lệ” thì cảm thấy bị mất động lực.\nNếu phân tích kỹ những lỗi sai này, thành quả thu được chắc chắn sẽ tạo nên một cuốn giáo trình tuyệt vời. Vốn dĩ giáo trình cần suy nghĩ kỹ cho đối tượng người học, giải thích rõ ràng và dễ hiểu những chỗ có vẻ khó hay dễ sai.\n（Theo “Thứ Tư ngoại ngữ - Nhập môn ngôn ngữ học như một phương pháp học” của Kuroda Ryunosuke）\n（Chú thích） Lỗi sai: Cách dùng sai.",
+    "questions": [
+      {
+        "id": "u084-1",
+        "prompt": "外国語の教科書について、筆者はどのように述べているか。",
+        "choices": [
+          "学習者が成果を実感できるものを作成するべきだ。",
+          "学習者が真剣に取り組めるように工夫をするべきだ。",
+          "学習者が間違えやすいところを丁寧に説明するべきだ。",
+          "学習者のやる気が出るようにすべての規則を説明するべきだ。"
+        ],
+        "answer": "学習者が間違えやすいところを丁寧に説明するべきだ。",
+        "explanation": "Tác giả khẳng定 giáo trình cần phân tích lỗi sai của người học và giải thích rõ ràng, tỉ mỉ những chỗ dễ mắc sai lầm (間違えそうなところをきちんと分かりやすく説明する必要がある). Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u085",
+    "passages": [
+      {
+        "text": "以下は、あるイベント会場で来場者に配られたものである。\n\nプレゼントをもらおう!\n本日は「第 7 回河上町・花と木の祭り」にご来場くださり、ありがとうございます。\n会場内の 8 か所のスタンプ台に種類の異なるスタンプが置かれていますので、スタンプカードに押してください。スタンプカードは各スタンプ台のところに置いてあります。5 種類以上のスタンプを押したら、会場入口の総合受付にお持ちください。花の種と交換いたします。また、全種類のスタンプを押してから総合受付でアンケートにご協力いただいた方には、鉢植えの花もご用意しております。\n何かご不明な点がございましたら、お気軽に会場スタッフにお声をおかけください。"
+      }
+    ],
+    "translation": "Dưới đây là tờ rơi được phát cho khách tham quan tại một địa điểm sự kiện.\n\nNhận quà tặng ngay!\nCảm ơn quý khách đã đến tham dự “Lễ hội Hoa và Cây thành phố Kawakami lần thứ 7” ngày hôm nay.\nTại 8 điểm đóng dấu trong hội trường có đặt các con dấu loại khác nhau, quý khách vui lòng đóng vào thẻ tích dấu. Thẻ tích dấu được đặt tại từng bàn đóng dấu. Khi đóng đủ từ 5 loại dấu trở lên, xin mang đến Bàn tiếp tân tổng hợp ở lối vào hội trường để đổi lấy hạt giống hoa. Ngoài ra, những ai đóng đủ tất cả các loại dấu và tham gia trả lời phiếu khảo sát tại Bàn tiếp tân tổng hợp sẽ nhận được quà tặng là chậu hoa cây cảnh.\nNếu có bất kỳ thắc mắc nào, xin vui lòng liên hệ với nhân viên hội trường.",
+    "questions": [
+      {
+        "id": "u085-1",
+        "prompt": "鉢植えの花をもらいたい場合は、どうすればいいか。",
+        "choices": [
+          "5 種類以上のスタンプを押して、アンケートに答える。",
+          "5 種類以上のスタンプを押して、総合受付に持っていく。",
+          "全種類のスタンプを押して、アンケートに答える。",
+          "全種類のスタンプを押して、スタッフに声をかける。"
+        ],
+        "answer": "全種類のスタンプを押して、アンケートに答える。",
+        "explanation": "Tờ rơi nêu rõ điều kiện nhận chậu hoa là đóng đủ tất cả các loại dấu và hợp tác làm khảo sát tại bàn tiếp tân tổng hợp (全種類のスタンプを押してから総合受付でアンケートにご協力いただいた方には、鉢植えの花もご用意しております). Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u086",
+    "passages": [
+      {
+        "text": "情報が容易に入手（注1）できると、必要な情報を探索（注2）する努力が必要なくなるかのように思われる。自分で集めるよりも、情報機器の提供する情報のほうが客観的で信頼できると勘違いする。\nしかし、だれにでも役に立つ完璧な情報など存在しない。情報化時代を生きるためには個々人が他者の提供する情報を評価し、比較検討し、その中から自分にとって、自分の目標にとって有益（注3）な情報を選別する能力と知識を持たなければならないのである。\n（注1）入手：手に入れること\n（注2）探索：探し求めること\n（注3）有益：ためになること"
+      }
+    ],
+    "translation": "Khi thông tin có thể thu thập dễ dàng (chú thích 1), có vẻ như việc nỗ lực tìm kiếm (chú thích 2) thông tin cần thiết không còn bắt buộc nữa. Người ta nhầm tưởng rằng thông tin do các thiết bị thông tin cung cấp mang tính khách quan và đáng tin cậy hơn tự mình thu thập.\nTuy nhiên, không tồn tại thông tin hoàn hảo có ích cho tất cả mọi người. Để sống trong thời đại thông tin, mỗi cá nhân phải có năng lực và kiến thức để đánh giá, so sánh xem xét các thông tin do người khác cung cấp, từ đó sàng lọc ra những thông tin có ích (chú thích 3) cho bản thân và cho mục tiêu của chính mình.\n（Chú thích 1） Thu thập: Có được trong tay.\n（Chú thích 2） Tìm kiếm: Tìm tòi truy tìm.\n（Chú thích 3） Có ích: Mang lại lợi ích, bổ ích.",
+    "questions": [
+      {
+        "id": "u086-1",
+        "prompt": "筆者によると、情報化時代を生きるために必要なことは何か。",
+        "choices": [
+          "信頼できる情報機器を選んで情報を集めること。",
+          "自分の目標に合った情報を自ら選ぶ能力を持つこと。",
+          "他者の意見に惑わされず、自分で直接情報を確かめること。",
+          "膨大な情報の中から、客観的な情報だけを保存すること。"
+        ],
+        "answer": "自分の目標に合った情報を自ら選ぶ能力を持つこと。",
+        "explanation": "Tác giả khẳng định mỗi người cần có năng lực tự đánh giá và sàng lọc thông tin có ích cho mục tiêu của bản thân (自分の目標にとって有益な情報を選別する能力と知識を持たなければならない). Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u087",
+    "passages": [
+      {
+        "text": "以下は、ある電気店に届いたメールである。\n\n青木電機 お客様サポート担当者様\n\n先月貴店で購入した加湿器（商品番号：KS-200）の調子が悪く、メールいたしました。\n電源を入れても温かい蒸気が出ず、冷たい風しか出ません。まだ購入して 1 か月しかたっておらず、保証期間内ですので、無料で修理していただけますでしょうか。\n取扱説明書に書いてあるとおりに操作してみましたが、改善されませんでした。\nお忙しいところ恐れ入りますが、ご対応のほどよろしくお願いいたします。\n\n山下健太"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử gửi đến một cửa hàng điện máy.\n\nKính gửi Người phụ trách Hỗ trợ Khách hàng - Điện máy Aoki,\n\nTôi gửi thư này vì chiếc máy tạo ẩm (mã sản phẩm: KS-200) mua tại quý cửa hàng tháng trước hoạt động không tốt.\nKhi bật nguồn không phun ra hơi ấm mà chỉ có luồng gió lạnh. Mới mua được 1 tháng và vẫn trong thời hạn bảo hành, xin hỏi quý cửa hàng có thể sửa chữa miễn phí cho tôi được không?\nTôi đã thao tác đúng như hướng dẫn trong sách hướng dẫn nhưng tình trạng không cải thiện.\nXin lỗi vì làm phiền lúc bận rộn, rất mong nhận được sự hỗ trợ từ quý cửa hàng.\n\nYamashita Kenta",
+    "questions": [
+      {
+        "id": "u087-1",
+        "prompt": "このメールで山下さんが伝えたいことは何か。",
+        "choices": [
+          "保証期間内なので、新しい商品と交換してほしい。",
+          "無料でなくてもいいので、修理できるかどうか教えてほしい。",
+          "保証期間内なので、無料で修理できるかどうか教えてほしい。",
+          "保証期間が過ぎているが、修理費が必要かどうか教えてほしい。"
+        ],
+        "answer": "保証期間内なので、無料で修理できるかどうか教えてほしい。",
+        "explanation": "Nội dung chính trong thư Yamashita muốn hỏi là liệu có thể sửa chữa miễn phí do sản phẩm vẫn trong thời hạn bảo hành hay không (保証期間内ですので、無料で修理していただけますでしょうか). Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u088",
+    "passages": [
+      {
+        "text": "文化項目の価値評価は人類共通のものではありません。ある国のある地域では優れているとされるものでも、他の国のある地域に行ったならば、それは妙な事物であったり、社会としては認め難い事物でしかない場合も普通にあるということです。同じことは時代というものに関しても言えることです。現在、同じ集団の人々が素晴らしいと信じて行っていることも、わずか百年前ならば、その社会ではとても認められないことだったという例も沢山あるはずです。"
+      }
+    ],
+    "translation": "Việc đánh giá giá trị của các yếu tố văn hóa không phải là chuẩn mực chung của toàn nhân loại. Ngay cả một yếu tố được coi là vượt trội ở một vùng của quốc gia này, khi sang một vùng của quốc gia khác thì nó hoàn toàn có thể chỉ là một sự vật kỳ lạ hoặc khó được xã hội chấp nhận. Điều tương tự cũng có thể nói về mặt thời đại. Những việc mà những người trong cùng một tập thể hiện nay tin tưởng và thực hiện một cách tuyệt vời, thì chỉ mới một trăm năm trước thôi, chắc chắn có rất nhiều ví dụ hoàn toàn không được xã hội thời đó chấp nhận.",
+    "questions": [
+      {
+        "id": "u088-1",
+        "prompt": "文化項目の価値評価について、筆者の考えに合うのはどれか。",
+        "choices": [
+          "地域や時代によって異なる。",
+          "地域差より時代差のほうが大きい。",
+          "同じ集団なら時代差はない。",
+          "地域や時代に関係なく変化する。"
+        ],
+        "answer": "地域や時代によって異なる。",
+        "explanation": "Tác giả giải thích việc đánh giá giá trị văn hóa khác nhau tùy thuộc vào khu vực vùng miền cũng như thời đại khác nhau (地域や時代によって異なる). Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u089",
+    "passages": [
+      {
+        "text": "以下は、あるかばん店がホームページに掲載したお知らせである。\n\n手作りかばんの店「アズレ」のお知らせ\n2018年 11月 15 日\nインターネット販売につきまして\n９月よりインターネットでの商品の販売を行ってまいりましたが、予想以上のご注文をいただき、現在、製造が追いつかない状況です。そのため、大変申し訳ございませんが、インターネットでの販売は 11 月 30 日までとし、しばらくの間中止させていただきます。なお、店での販売は 12 月 1 日以降も続けてまいります。インターネットでの販売の再開につきましては、製造体制が整い次第お知らせいたします。"
+      }
+    ],
+    "translation": "Dưới đây là thông báo đăng trên trang chủ của một cửa hàng túi xách thủ công.\n\nThông báo từ Cửa hàng Túi xách Thủ công Azure\nNgày 15 tháng 11 năm 2018\nVề việc bán hàng qua mạng\nChúng tôi đã tiến hành bán sản phẩm qua mạng từ tháng 9, nhưng do nhận được số lượng đặt hàng vượt quá dự kiến nên hiện tại việc sản xuất không kịp đáp ứng. Do đó, chúng tôi vô cùng xin lỗi vì sẽ chỉ bán hàng qua mạng đến hết ngày 30 tháng 11 và tạm dừng trong một thời gian. Ngoài ra, việc bán hàng tại cửa hàng vẫn tiếp tục từ ngày 1 tháng 12 trở đi. Việc mở lại bán hàng qua mạng sẽ được thông báo ngay khi hệ thống sản xuất ổn định.",
+    "questions": [
+      {
+        "id": "u089-1",
+        "prompt": "このお知らせで伝えたいことは何か。",
+        "choices": [
+          "インターネットでの販売を11月末で一時中止し、店頭販売のみ継続すること。",
+          "製造体制を整えるため、11月末で店舗とインターネットの販売を中止すること。",
+          "インターネットでの注文が増えたため、12月1日から商品の価格を変更すること。",
+          "注文が多いため、インターネットでの販売期間を11月30日まで延長すること。"
+        ],
+        "answer": "インターネットでの販売を11月末で一時中止し、店頭販売のみ継続すること。",
+        "explanation": "Thông báo thông tin chính là tạm ngưng bán hàng qua mạng từ cuối tháng 11 và chỉ tiếp tục bán trực tiếp tại cửa hàng. Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u090",
+    "passages": [
+      {
+        "text": "人はだれしも、他人に認められたいという欲求を持っている。自分の仕事や努力を評価されると、うれしくなってさらに頑張ろうという気持ちになる。しかし、他人の評価ばかりを気にして行動するようになると、自分らしさを見失ってしまう危険性がある。\n大切なのは、自分が本当に納得できる仕事ができたかどうかだ。他人の評価は参考程度にとどめ、自分自身の基準で自分を評価する姿勢を持つことが、真の成長につながるのである。\n（諸富祥彦 『アドラー心理学入門』による）"
+      }
+    ],
+    "translation": "Con người ai cũng có nhu cầu được người khác công nhận. Khi công việc hay nỗ lực của mình được đánh giá cao, ta sẽ cảm thấy vui vẻ và có động lực cố gắng hơn nữa. Tuy nhiên, nếu hành động mà chỉ bận tâm đến sự đánh giá của người khác thì có nguy cơ làm mất đi bản sắc của chính mình.\nĐiều quan trọng là bản thân có làm được công việc mà mình thực sự tâm đắc hay không. Chỉ nên coi sự đánh giá của người khác như tài liệu tham khảo, và việc duy trì thái độ tự đánh giá bản thân theo tiêu chuẩn của chính mình mới dẫn đến sự trưởng thành thực sự.\n（Theo “Nhập môn Tâm lý học Adler” của Morotomi Yoshihiko）",
+    "questions": [
+      {
+        "id": "u090-1",
+        "prompt": "他人からの評価について、筆者はどのように考えているか。",
+        "choices": [
+          "成長するためには、他人の評価を気にせず無視したほうがいい。",
+          "他人の評価を素直に受け入れ、自分を向上させることが大切だ。",
+          "他人の評価に振り回されず、自分の基準を大切にすべきだ。",
+          "他人から高く評価されるような仕事を目指すべきだ。"
+        ],
+        "answer": "他人の評価に振り回されず、自分の基準を大切にすべきだ。",
+        "explanation": "Tác giả cho rằng chỉ coi đánh giá của người khác như tài liệu tham khảo, không bị chao đảo bởi đánh giá người khác mà nên coi trọng tiêu chuẩn của bản thân. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u091",
+    "passages": [
+      {
+        "text": "一般的に、表とグラフでは、グラフのほうがすぐに特徴をみつけやすいといえます。だからといって、そうしてみつけた特徴が本当に意味がある特徴かどうか。単なる錯覚（注１）ではないのか、グラフをみたことで先入観（注2）をもってしまったあとでは、検証（注3）がむずかしいでしょう。\nだからこそ、まずは、特徴を見つけにくい表をながめてデータ分析をすることが、データ読解力を高めるうえでは大切です。そうして表のデータを読む力を磨くことで、やがてグラフでの錯覚を避ける能力も高まります。\n（注1）錯覚：ここでは、勘違い\n（注2）先入観：思い込み\n（注3）検証：調べて、証明すること"
+      }
+    ],
+    "translation": "Nhìn chung, so với bảng biểu thì đồ thị dễ nhận ra các đặc trưng nhanh hơn. Tuy nhiên, liệu đặc trưng tìm được như vậy có thực sự mang ý nghĩa hay không? Liệu đó có phải chỉ là ảo giác đơn thuần, vì sau khi nhìn đồ thị và mang định kiến thì việc kiểm chứng sẽ rất khó khăn.\nChính vì vậy, trước hết việc quan sát bảng biểu vốn khó tìm đặc trưng để phân tích dữ liệu là điều quan trọng trong việc nâng cao năng lực đọc hiểu dữ liệu. Nhờ mài giũa khả năng đọc dữ liệu trên bảng biểu như vậy, dần dần khả năng tránh ảo giác khi nhìn đồ thị cũng sẽ được nâng cao.\n（Chú thích 1） Ảo giác: Ở đây chỉ sự nhầm lẫn.\n（Chú thích 2） Định kiến: Suy nghĩ áp đặt từ trước.\n（Chú thích 3） Kiểm chứng: Tìm hiểu, chứng minh.",
+    "questions": [
+      {
+        "id": "u091-1",
+        "prompt": "筆者によると、データ分析の力をつけるにはどうすればいいか。",
+        "choices": [
+          "特徴がみつけやすいので、先に表をみるようにしたほうがいい。",
+          "思い込みが避けられるので、先に表をみるようにしたほうがいい。",
+          "思い込みに気づきやすいので、先にグラフをみるようにしたほうがいい。",
+          "意味のある特徴がみつけられるので、先にグラフをみるようにしたほうがいい。"
+        ],
+        "answer": "思い込みが避けられるので、先に表をみるようにしたほうがいい。",
+        "explanation": "Tác giả khẳng định để nâng cao năng lực phân tích dữ liệu thì trước hết nên xem bảng biểu trước, vì điều đó giúp tránh được ảo giác và định kiến do đồ thị mang lại. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u092",
+    "passages": [
+      {
+        "text": "今村市＞文化芸術施設＞お知らせ\n2019年 5 月29 日\n文化施設共通利用券および「特別展セット」販売のお知らせ\n文化施設共通利用券を販売いたします。この券は、市内五つの博物館や美術館などの文化施設にそれぞれ 1 回ご入場できるチケットです。\nまた、文化施設共通利用券に特別展割引チケットを付けた「特別展セット」も販売いたします。特別展のご入場には通常 1 回 1,000円かかりますが、「特別展セット」では各施設の特別展の中から一つに限り割引価格で１回ご入場できます。\n販売場所：各施設のチケット売り場\n販売価格：文化施設共通利用券 2,000 円、「特別展セット」2,800 円\n販売期間：2019年 7 月1 日～2019年 10月 31 日\n有効期間：2019年 7 月1 日～2019年 12月 27 日\nどちらも大変お得になっております。この機会にぜひご利用ください。"
+      }
+    ],
+    "translation": "Thành phố Imamura > Cơ sở văn hóa nghệ thuật > Thông báo\nNgày 29 tháng 5 năm 2019\nThông báo bán vé sử dụng chung các cơ sở văn hóa và “Bộ vé triển lãm đặc biệt”\nChúng tôi mở bán vé sử dụng chung các cơ sở văn hóa. Vé này cho phép vào cổng 1 lần tại mỗi cơ sở trong số 5 bảo tàng và bảo tàng mỹ thuật trong thành phố.\nNgoài ra, chúng tôi cũng bán “Bộ vé triển lãm đặc biệt” đi kèm vé giảm giá triển lãm đặc biệt cùng với vé sử dụng chung các cơ sở văn hóa. Vé vào cửa triển lãm đặc biệt thông thường tốn 1.000 yên một lần, nhưng với “Bộ vé triển lãm đặc biệt”, bạn có thể vào cửa 1 lần với giá giảm giá đối với duy nhất 1 triển lãm đặc biệt trong số các cơ sở.\nĐịa điểm bán: Quầy bán vé tại từng cơ sở\nGiá bán: Vé sử dụng chung các cơ sở văn hóa 2.000 yên, “Bộ vé triển lãm đặc biệt” 2.800 yên\nThời gian bán: 1/7/2019 - 31/10/2019\nThời hạn hiệu lực: 1/7/2019 - 27/12/2019\nCả hai loại vé đều rất ưu đãi. Rất mong quý khách nhân cơ hội này sử dụng dịch vụ.",
+    "questions": [
+      {
+        "id": "u092-1",
+        "prompt": "「特別展セット」を買うと何ができるか。",
+        "choices": [
+          "各施設に 1 回ずつ入場でき、さらに割引価格で特別展に 1 回ずつ入場できる。",
+          "各施設に 1 回ずつ入場でき、さらに割引価格で特別展のうち一つに１回入場できる。",
+          "各施設に何回でも入場でき、さらに割引価格で特別展に 1 回ずつ入場できる。",
+          "各施設に何回でも入場でき、さらに割引価格で特別展のうち一つに１回入場できる。"
+        ],
+        "answer": "各施設に 1 回ずつ入場でき、さらに割引価格で特別展のうち一つに１回入場できる。",
+        "explanation": "Theo thông báo, “Bộ vé triển lãm đặc biệt” bao gồm vé vào cổng mỗi cơ sở văn hóa 1 lần, cộng thêm vé giảm giá vào cửa 1 lần cho duy nhất 1 triển lãm đặc biệt. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u093",
+    "passages": [
+      {
+        "text": "論文というものは言葉で書くものである。あたりまえのことだが、これは肝心（注１）なことである。ということは、よい論文を書くためには言葉に敏感でなければならないということである。しかし、それはかならずしも、なにか特別なもっともらしい（注2）言葉をうまく操れなければいけないということではない。むしろ、自分の身についた、ふだんはなにげなく（注３）使っているにすぎないような言葉を、いちいち、しっかりととらえなおし、その意味を自分にとってたしかな手応えのある（注4）ものにしてゆくということである。\n（注1）肝心：とても大切なこと\n（注2）もっともらしい：いかにも本当らしい\n（注3）なにげなく：特に意識もしないで\n（注4）手応えのある：しっかりとした実感のある"
+      }
+    ],
+    "translation": "Luận văn là thứ được viết bằng ngôn từ. Đó là điều đương nhiên nhưng lại là điều cốt yếu (chú thích 1). Điều đó có nghĩa là để viết được một bài luận văn hay, ta phải nhạy cảm với ngôn từ. Tuy nhiên, điều đó không nhất thiết có nghĩa là phải sử dụng thành thạo những từ ngữ đặc biệt hay có vẻ đĩnh đạc (chú thích 2). Trái lại, đó là việc xem xét lại một cách chắc chắn từng từ ngữ vốn đã quen thuộc mà bình thường ta chỉ dùng một cách vô tình (chú thích 3), để biến ý nghĩa của chúng thành thứ mang lại cảm nhận thực sự chắc chắn (chú thích 4) đối với bản thân.\n（Chú thích 1） Cốt yếu: Điều rất quan trọng.\n（Chú thích 2） Đĩnh đạc: Có vẻ rất thật/đúng đắn.\n（Chú thích 3） Vô tình: Không đặc biệt ý thức.\n（Chú thích 4） Cảm nhận chắc chắn: Có cảm giác thực tế rõ ràng.",
+    "questions": [
+      {
+        "id": "u093-1",
+        "prompt": "よい論文を書くことについて、筆者はどのように述べているか。",
+        "choices": [
+          "普段使っている言葉の意味を改めてよく考えることが大切だ。",
+          "論文でよく使われる特別な言葉を自由に使いこなすことが大切だ。",
+          "自分の言葉に直さずそのまま論文で使うことが大切だ。",
+          "人に説得力のある言葉を意識して使うことが大切だ。"
+        ],
+        "answer": "普段使っている言葉の意味を改めてよく考えることが大切だ。",
+        "explanation": "Tác giả nhấn mạnh việc viết luận văn hay là xem xét kỹ lại ý nghĩa của những từ ngữ bình thường mình vẫn dùng. Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u094",
+    "passages": [
+      {
+        "text": "人に何か言われて、それがどんな意味なんだろう、どうしてそんなことを言ったんだろうと、一人で考えれば考えるほど、あなたは成長します。\n逆に言えば、自分一人で考える時間がなければ、あなたはどんなに立派な話を聞いても、どんなに役立つ本を読んでも、その考えやアイデアは、あなたのものになりません。取ってつけた（注1）ようで、人は、それがあなたの本当の知識じゃないことを見抜きます（注2）。\n（注1）取ってつけた：無理に付け加えた\n（注2）～を見抜く：ここでは、～に簡単に気づく"
+      }
+    ],
+    "translation": "Khi người khác nói điều gì với bạn, việc bạn một mình suy ngẫm càng nhiều rằng điều đó có nghĩa là gì, tại sao họ lại nói như vậy sẽ giúp bạn trưởng thành.\nNói cách khác, nếu không có thời gian tự mình suy nghĩ, dù bạn có nghe những câu chuyện tuyệt vời đến đâu hay đọc những cuốn sách hữu ích đến đâu thì những tư tưởng, ý tưởng đó cũng không thể trở thành của bạn. Người khác sẽ dễ dàng nhận ra (chú thích 2) rằng đó chỉ là thứ áp đặt khiên cưỡng (chú thích 1) chứ không phải là tri thức thực sự của bạn.\n（Chú thích 1） Áp đặt khiên cưỡng: Gượng ép thêm vào.\n（Chú thích 2） Nhận ra: Ở đây chỉ việc dễ dàng nhận biết.",
+    "questions": [
+      {
+        "id": "u094-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "自分自身を知るには、一人で考える時間が必要だ。",
+          "人として成長するには、自分一人で考える時間が必要だ。",
+          "自分一人で考える時間が長ければ、よいアイデアが浮かぶ。",
+          "本当の知識を得るには、役立つ本や立派な話に接するべきだ。"
+        ],
+        "answer": "人として成長するには、自分一人で考える時間が必要だ。",
+        "explanation": "Tác giả khẳng định để con người trưởng thành thì khoảng thời gian một mình suy ngẫm là điều không thể thiếu (一人で考えれば考えるほど、あなたは成長します). Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u095",
+    "passages": [
+      {
+        "text": "ビーエスカメラ＞製品情報\n2019年10月8日\nデジタルカメラ「BS-ZG1」に関するお知らせ\n弊社のデジタルカメラ「BS-ZG1」は、電源ボタンの不具合が見つかったため9月30日より販売を一時中止しておりました。その後の調査の結果、この不具合は製造番号 ZH29200～ZH29800 の製品にのみ起きることが分かりました。\n対象の製品をお持ちのお客様は、現在不具合が起きていなくても無料で修理させていただきますので、お手数ですがお近くの販売店までお持ちくださいますようお願い申し上げます。\nなお、製造番号の確認方法は、下記のホームページをご覧ください。\nhttp://bs-camera.jp/info/20191008\nビーエスカメラ お客様サポート窓口\nTEL：02-3389-4254（受付時間 10:00～19:00）"
+      }
+    ],
+    "translation": "BS Camera > Thông tin sản phẩm\nNgày 8 tháng 10 năm 2019\nThông báo về máy ảnh kỹ thuật số BS-ZG1\nMáy ảnh kỹ thuật số BS-ZG1 của công ty chúng tôi đã tạm ngưng bán từ ngày 30 tháng 9 do phát hiện sự cố ở nút nguồn. Kết quả điều tra sau đó cho thấy sự cố này chỉ xảy ra đối với các sản phẩm có số seri từ ZH29200 đến ZH29800.\nNhững khách hàng sở hữu sản phẩm nằm trong danh mục trên sẽ được sửa chữa miễn phí dù hiện tại chưa phát sinh sự cố, vì vậy xin vui lòng mang máy đến cửa hàng gần nhất.\nNgoài ra, cách thức kiểm tra số seri xin vui lòng xem tại trang chủ dưới đây.\nhttp://bs-camera.jp/info/20191008\nTrung tâm Hỗ trợ Khách hàng BS Camera\nSĐT: 02-3389-4254 (Thời gian tiếp nhận 10:00 - 19:00)",
+    "questions": [
+      {
+        "id": "u095-1",
+        "prompt": "このお知らせで最も伝えたいことは何か。",
+        "choices": [
+          "「BS-ZG1」の電源ボタンに不具合が起きていないかどうか、確認してほしい。",
+          "すべての「BS-ZG1」を無料で修理するので、販売店に持ってきてほしい。",
+          "対象の製造番号の「BS-ZG1」を無料で修理するので、販売店に持ってきてほしい。",
+          "不具合が起きた「BS-ZG1」の製造番号をホームページに載せたので、確認してほしい。"
+        ],
+        "answer": "対象の製造番号の「BS-ZG1」を無料で修理するので、販売店に持ってきてほしい。",
+        "explanation": "Thông báo thông tin chính là các sản phẩm BS-ZG1 có số seri bị ảnh hưởng sẽ được sửa chữa miễn phí nên đề nghị khách hàng mang đến đại lý. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u096",
+    "passages": [
+      {
+        "text": "作者というものは、たいていの場合、自分の詩のいい読者でありえません。作意（注）や創作過程が心につよく残っていて、作品を客観的に見ることを妨げるからです。だれだって、自分のことは自分がもっともよく知っていると思うでしょう。ですが、その反面、他人にはすぐわかるのに、本人にはいっこうにわからないような一面が人間にはあります。作者と詩の場合もこれと同じです。だから、作者がこの詩についてはこう言っているのだから、これが正しいというような考え方には、僕はあまり賛成できません。\n（注）作意：作成した意図"
+      }
+    ],
+    "translation": "Tác giả hầu như không thể là một người đọc tốt đối với bài thơ của chính mình. Ý đồ sáng tác (chú thích) hay quá trình sáng tác in sâu trong tâm trí sẽ cản trở việc nhìn nhận tác phẩm một cách khách quan. Ai cũng nghĩ rằng bản thân mình là người hiểu rõ mình nhất. Thế nhưng mặt khác, con người luôn có những khía cạnh mà người ngoài nhìn vào thấy ngay, còn bản thân lại hoàn toàn không nhận ra. Trường hợp của tác giả và bài thơ cũng tương tự như vậy. Vì thế, tôi không mấy đồng tình với cách nghĩ cho rằng vì tác giả đã nói về bài thơ như vậy nên đó là điều đúng đắn.\n（Chú thích） Ý đồ sáng tác: Mục đích/ý định khi tạo ra.",
+    "questions": [
+      {
+        "id": "u096-1",
+        "prompt": "あまり賛成できませんとあるが、なぜか。",
+        "choices": [
+          "詩は、読者自身が意味を考えることに意義があるから",
+          "詩の解釈は、正しいかどうかを考えても意味がないから",
+          "作者が自身の詩を他人よりわかっているとは限らないから",
+          "作者の意図や創作過程を知ることは、あまり重要ではないから"
+        ],
+        "answer": "作者が自身の詩を他人よりわかっているとは限らないから",
+        "explanation": "Tác giả lý giải sở dĩ không đồng tình vì bản thân tác giả chưa chắc đã hiểu bài thơ của mình hơn người ngoài. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u097",
+    "passages": [
+      {
+        "text": "以下は、ペットとして犬を飼う人に向けて書かれた文章である。犬は、本能（注1）のままに動くことに喜びを感じます。獲物（注2）を探す、追いかける、取ってくるなどはその象徴的な行動です。しかし現代の人間社会では、このような行動はほとんど必要なくなってしまいました。その結果、「犬がしたいこと」と「飼い主がさせたいこと」との間に、ギャップが生じるようになってきました。\n（注1）本能：ここでは、生まれつき持っている性質\n（注2）獲物：ここでは、食べるための動物"
+      }
+    ],
+    "translation": "Dưới đây là văn bản viết dành cho những người nuôi chó cảnh. Loài chó cảm thấy vui vẻ khi hành động theo bản năng (chú thích 1). Tìm kiếm con mồi (chú thích 2), đuổi theo, tha về là những hành vi biểu tượng cho điều đó. Tuy nhiên trong xã hội loài người hiện đại, những hành vi như thế này hầu như không còn cần thiết nữa. Kết quả là đã nảy sinh khoảng cách giữa “điều chó muốn làm” và “điều chủ nuôi muốn chó làm”.\n（Chú thích 1） Bản năng: Ở đây chỉ tính chất bẩm sinh.\n（Chú thích 2） Con mồi: Ở đây chỉ động vật để làm thức ăn.",
+    "questions": [
+      {
+        "id": "u097-1",
+        "prompt": "ギャップが生じるのはなぜか。",
+        "choices": [
+          "犬の生まれつき持っている性質が、人間社会に合わせて変化したから。",
+          "犬がしたい行動は、現代の人間社会では必要ないことが多いから。",
+          "犬が喜びを感じる行動が、飼い主にはわからなくなったたから。",
+          "飼い主がさせたい行動は、犬にはできないことが多いから。"
+        ],
+        "answer": "犬がしたい行動は、現代の人間社会では必要ないことが多いから。",
+        "explanation": "Đoạn văn giải thích sự khoảng cách phát sinh là do những hành vi chó muốn làm theo bản năng bẩm sinh hầu như không còn cần thiết trong xã hội con người hiện đại. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u098",
+    "passages": [
+      {
+        "text": "壁はともすれば（注1）行動の限界を決めてしまうネガティブな（注2）イメージをもたれていますが、実は人間が他の個体と関係を調整するための大変重要なエレメント（注3）なのです。壁があるからこそ安心していられる。壁があるからこそ自分の空間が確保できる。人間関係における距離感やプライバシーを守るためにも、壁は不可欠な役割を果たしています。\n（注1）ともすれば：ややもすると\n（注2）ネガティブな：否定的な\n（注3）エレメント：要素"
+      }
+    ],
+    "translation": "Bức tường hay bị coi là mang hình ảnh tiêu cực (chú thích 2) quyết định giới hạn hành động (chú thích 1), nhưng thực ra nó lại là yếu tố (chú thích 3) vô cùng quan trọng giúp con người điều chỉnh mối quan hệ với các cá thể khác. Chính nhờ có bức tường ta mới cảm thấy an tâm. Chính nhờ có bức tường ta mới đảm bảo được không gian của riêng mình. Để bảo vệ khoảng cách hay quyền riêng tư trong mối quan hệ giữa người với người, bức tường đóng một vai trò không thể thiếu.\n（Chú thích 1） Hay bị: Dễ dẫn đến.\n（Chú thích 2） Tiêu cực: Mang tính phủ định.\n（Chú thích 3） Yếu tố: Nhân tố cấu thành.",
+    "questions": [
+      {
+        "id": "u098-1",
+        "prompt": "壁の役割について、筆者はどのように述べているか。",
+        "choices": [
+          "行動の限界を決めて、人を守る役割",
+          "他者との関係を適切に保つ役割",
+          "否定的な感情を抑える役割",
+          "自分の空間を広く感じさせる役割"
+        ],
+        "answer": "他者との関係を適切に保つ役割",
+        "explanation": "Tác giả khẳng định bức tường đóng vai trò quan trọng trong việc điều chỉnh mối quan hệ và duy trì khoảng cách thích hợp với người khác. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u099",
+    "passages": [
+      {
+        "text": "以下は、保護者に向けて書かれた文章である。\n最初に知っておきたいのは、保護者が嫌いなものは、子どもも好きになれないということです。普段から「まずい、嫌い」と聞かされているものを美味しいと思えないのは当然です。また、嫌がるものを無理に食べさせても、嫌な思い出が残るばかりで、良い結果は出ません。\nそれに対して、最初は苦手だった食べ物でも、周囲の大人たちが「美味しいね」と笑顔で食べている姿を見て興味が湧き、食べられるようになることがあります。つまり、偏食をなくすには「親子で一緒に楽しみながら」がコツなのです。"
+      }
+    ],
+    "translation": "Dưới đây là văn bản viết dành cho phụ huynh.\nĐiều đầu tiên cần biết là những món phụ huynh không thích thì trẻ em cũng không thể thích nổi. Thật tự nhiên khi trẻ không thể thấy ngon đối với món ăn mà bình thường hay nghe khen chê “dở, không thích”. Ngoài ra, dù có ép buộc ăn món trẻ ghét thì cũng chỉ để lại ký ức tồi tệ chứ không mang lại kết quả tốt.\nTrái lại, ngay cả những món lúc đầu không thích, nhưng khi nhìn thấy những người lớn xung quanh mỉm cười thưởng thức “ngon quá nhỉ”, trẻ sẽ nảy sinh hứng thú và có thể ăn được. Tóm lại, bí quyết để khắc phục chứng kén ăn chính là “cha mẹ cùng thưởng thức vui vẻ với con”.",
+    "questions": [
+      {
+        "id": "u099-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "大人は子どもの好き嫌いを気にしすぎない方が良い。",
+          "大人の食べ物に対する態度が、子どもの好き嫌いに影響する。",
+          "子どものころの好き嫌いは、大人になってからも変わらない。",
+          "子どもの好き嫌いをなくすより、食事を楽しむことの方が大切だ。"
+        ],
+        "answer": "大人の食べ物に対する態度が、子どもの好き嫌いに影響する。",
+        "explanation": "Tác giả chỉ ra thái độ của người lớn đối với thức ăn sẽ ảnh hưởng đến thói quen kén ăn hay yêu thích món ăn của trẻ. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u100",
+    "passages": [
+      {
+        "text": "以下は、ある市に届いたメールである。\n花丸市道路交通部ご担当者様\n花丸駅前の有料駐輪場を利用している者です。最近、利用許可のシールが貼られていない自転車を多く見ます。この駐輪場は、利用料金を払った際にもらう利用許可シールを貼らなければ利用できないはずなので、これらは無断で止められているのではないでしょうか。止めるスペースがない日もあり、とても迷惑しています。管理人が見回って、無料の自転車を片付けたり、無断で止めている人に注意したりするべきだと思います。料金を払って利用している人がきちんと止められるように適切な対応をお願いします。\nご検討をよろしくお願いいたします。\n北山進一"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử gửi đến một thành phố.\nKính gửi Người phụ trách Phòng Giao thông Đường bộ thành phố Hanamaru,\nTôi là một người đang sử dụng bãi đỗ xe đạp có phí trước ga Hanamaru. Gần đây tôi thấy nhiều xe đạp không dán tem cho phép sử dụng. Bãi đỗ xe này vốn chỉ được dùng khi dán tem cấp lúc trả phí, nên những xe này có lẽ đang đỗ trái phép. Có những ngày không còn chỗ đỗ làm tôi rất phiền lòng. Tôi nghĩ người quản lý nên đi tuần tra, dọn dẹp xe không trả phí và nhắc nhở những người đỗ trái phép. Kính mong quý bộ có giải pháp phù hợp để những người trả phí đàng hoàng có chỗ đỗ xe.\nKính mong quý bộ xem xét.\nKitayama Shinichi",
+    "questions": [
+      {
+        "id": "u100-1",
+        "prompt": "このメールで伝えたいことは何か。",
+        "choices": [
+          "誰でも駐輪場を利用できるようにしてほしい。",
+          "有料駐輪場の利用料金を下げてほしい。",
+          "利用許可シールがない自転車への対策をとってほしい。",
+          "駐輪場のスペースを広げてほしい。"
+        ],
+        "answer": "利用許可シールがない自転車への対策をとってほしい。",
+        "explanation": "Thư phản ánh tình trạng xe đạp không dán tem đỗ trái phép và kiến nghị đưa ra biện pháp xử lý để đảm bảo quyền lợi cho người trả phí. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u101",
+    "passages": [
+      {
+        "text": "以下は、就職に対する学生の意識調査の結果について書かれたものである。\n今回の調査では入社する企業を決めるうえで重視する点を最大三つまで挙げてもらった。企業の規模や将来性、希望職種に就ける可能性などを抑えてトップになったのは「社員の魅力や社内の雰囲気」（54.3%）、「勤務地や転勤の有無」も22.1%あった。良好な人間関係や居心地の良さを求める学生が増えているようだ。"
+      }
+    ],
+    "translation": "Dưới đây là đoạn văn viết về kết quả khảo sát nhận thức của sinh viên đối với việc tìm việc làm.\nTrong cuộc khảo sát lần này, sinh viên được yêu cầu nêu tối đa 3 yếu tố quan trọng nhất khi quyết định lựa chọn công ty vào làm. Bỏ xa các yếu tố như quy mô doanh nghiệp, triển vọng tương lai hay khả năng làm đúng ngành nghề mong muốn, yếu tố đứng đầu là “Sức hút của nhân viên và bầu không khí công ty” (54.3%), yếu tố “Địa điểm làm việc và việc có chuyển công tác hay không” chiếm 22.1%. Có vẻ như số lượng sinh viên tìm kiếm mối quan hệ con người tốt đẹp và sự thoải mái khi làm việc đang tăng lên.",
+    "questions": [
+      {
+        "id": "u101-1",
+        "prompt": "この調査結果では、就職先を決めるとき最も多くの学生が重視していた点は何か。",
+        "choices": [
+          "働いている人たちや職場の印象がいいこと。",
+          "自分が希望している職種に就くことができること。",
+          "将来その企業が発展する可能性を持っていること。",
+          "勤務地が選択でき、転勤の可能性が少ないこと。"
+        ],
+        "answer": "働いている人たちや職場の印象がいいこと。",
+        "explanation": "Theo khảo sát, yếu tố được nhiều sinh viên coi trọng nhất là ấn tượng tốt về con người làm việc và môi trường công ty (社員の魅力や社内の雰囲気). Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u102",
+    "passages": [
+      {
+        "text": "森はいつも独特な香りに包まれ、さわやかに感じられるが、それはある物質の効果によるものだ。その物質は、木々が動けない体を守るために自ら作り出すもので、木につく虫や（注）細菌の増加を防いだり、落ち葉や枯れ木が腐ったときなどに生じる嫌なにおいを消したりする働きを持っている。さらにその物質には、人間の神経を安定させる効果もあるという。私たちが森林に入るとリラックスした気分になるのは、このためだ。\n（注）細菌：非常に小さくて目に見えない生物"
+      }
+    ],
+    "translation": "Rừng xanh luôn tràn ngập hương thơm độc đáo mang lại cảm giác sảng khoái, và điều đó là nhờ hiệu quả của một chất hóa học. Chất này do chính cây cối tự tiết ra để bảo vệ cơ thể không thể di chuyển của mình, có tác dụng ngăn ngừa sự gia tăng của vi khuẩn (chú thích) và sâu bọ bám trên cây, đồng thời khử các mùi hôi phát sinh khi lá rơi hay cây khô bị mục nát. Hơn nữa, chất này nghe nói còn có hiệu quả làm ổn định thần kinh con người. Việc chúng ta cảm thấy thư thái khi đi vào rừng chính là nhờ lý do này.\n（Chú thích） Vi khuẩn: Sinh vật cực kỳ nhỏ bé không nhìn thấy bằng mắt thường.",
+    "questions": [
+      {
+        "id": "u102-1",
+        "prompt": "ある物質の働きについて、この文章からわかることは何か。",
+        "choices": [
+          "人間の持つ嫌なにおいを防ぐ。",
+          "人々の気持ちを落ち着かせる。",
+          "落ち葉や枯れ木を腐りにくくする。",
+          "木々がもともと持っているにおいを消す。"
+        ],
+        "answer": "人々の気持ちを落ち着かせる。",
+        "explanation": "Đoạn văn cho biết tác dụng của chất này đối với con người là giúp ổn định thần kinh, làm xoa dịu và bình tĩnh tinh thần (人間の神経を安定させる効果... リラックスした気分になる). Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u103",
+    "passages": [
+      {
+        "text": "以下は、池林市の市民文化センターに届いたメールである。\n池林市民文化センター ご担当者様\n3月に文化センターで行われる市民文化祭用のポスターについてお願いがあります。ホームページには、サークルの代表者が直接センターの受付に持参するようにと書いてありますが、仕事の都合で、受付が開いている平日の開館時間には伺うことができません。そのため郵送での提出を認めていただくことはできませんでしょうか。ポスターは、ホームページの指示にしたがって問題なく作成できていると思います。お忙しいところすみませんが、ご回答いただけますようよろしくお願いいたします。\n市民絵画サークルぽぷら代表 山下達次"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử gửi đến Trung tâm Văn hóa Dân cư thành phố Ikebayashi.\nKính gửi Người phụ trách Trung tâm Văn hóa Dân cư thành phố Ikebayashi,\nTôi gửi thư này có một thắc mắc về poster phục vụ Lễ hội Văn hóa Dân cư diễn ra tại Trung tâm Văn hóa vào tháng 3. Trên trang chủ ghi rõ đại diện câu lạc bộ phải trực tiếp mang poster đến nộp tại bàn tiếp tân của trung tâm, nhưng do điều kiện công việc, tôi không thể đến vào giờ mở cửa ngày thường khi bàn tiếp tân làm việc. Do đó quý trung tâm có thể chấp nhận cho tôi nộp qua đường bưu điện được không? Poster tôi đã làm hoàn toàn đúng theo hướng dẫn trên trang chủ. Xin lỗi vì đã làm phiền lúc bận rộn, rất mong nhận được câu trả lời từ quý trung tâm.\nĐại diện CLB Hội họa Dân cư Poplar - Yamashita Tatsuji",
+    "questions": [
+      {
+        "id": "u103-1",
+        "prompt": "このメールの用件は何か。",
+        "choices": [
+          "ポスターの作り方に間違いがないか確認してほしい。",
+          "ポスターの提出が遅れることを許可してほしい。",
+          "ポスターを休日に提出させてほしい。",
+          "ポスターを郵送で提出させてほしい。"
+        ],
+        "answer": "ポスターを郵送で提出させてほしい。",
+        "explanation": "Nội dung chính trong thư người gửi muốn xin phép nộp poster qua đường bưu điện vì không thể nộp trực tiếp vào giờ làm việc ngày thường. Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u104",
+    "passages": [
+      {
+        "text": "恐い、恥ずかしい、寂しい、腹が立つ（注1）、などなどは、不快な感情でありますが、単に取り除かれればよいもの、存在しなければよいものではありません。それらが一切（注2）存在しない理想の人生があると考えるのは間違いで、それらには存在する理由があるのです。どんなに恵まれた人生でも、恐いことはありますし、恥ずかしいこと、寂しいこと、腹が立つことはあります。むしろそういう感情があることが豊かな人生だとさえ言えます。\n（注1）腹が立つ：怒りを感じる\n（注2）一切：全く"
+      }
+    ],
+    "translation": "Sợ hãi, xấu hổ, cô đơn, tức giận... tuy là những cảm xúc khó chịu, nhưng không phải chỉ cần loại bỏ hay không tồn tại là tốt. Việc nghĩ rằng có một cuộc đời lý tưởng hoàn toàn không tồn tại những cảm xúc ấy là sai lầm, bởi vì chúng tồn tại đều có lý do. Dù là một cuộc đời được ban tặng nhiều may mắn đến đâu thì vẫn có những chuyện đáng sợ, xấu hổ, cô đơn hay tức giận. Trái lại, có thể nói chính việc có những cảm xúc như vậy mới làm nên một cuộc đời phong phú.",
+    "questions": [
+      {
+        "id": "u104-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "不快な感情を持てば持つほど、人生はより豊かになる。",
+          "不快な感情を取り除ければ、理想の人生が送れる。",
+          "不快な感情が存在する理由を考えることで、人生は豊かになる。",
+          "不快な感情があるからこそ、人生は豊かになる。"
+        ],
+        "answer": "不快な感情があるからこそ、人生は豊かになる。",
+        "explanation": "Tác giả khẳng định những cảm xúc khó chịu tồn tại đều có lý do và chính việc có những cảm xúc đó mới làm cho cuộc sống trở nên phong phú (むしろそういう感情があることが豊かな人生だとさえ言えます). Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u105",
+    "passages": [
+      {
+        "text": "以下は、ある店でもらったちらしである。\n\nオリジナル帽子店「マリー」\n期間限定・特別ショップのお知らせ\nこのたび、4月1日から15日までの期間限定で、南野デパートに特別ショップを開店いたします。\n特別ショップでは、通常の商品に加え、春の新商品を販売いたします。春の新商品のうち、「花」シリーズは、特別ショップのみでの販売となりますので、ぜひこの機会にご来店ください。\nなお、そのほかの春の新商品は、4月16日から「マリー」各店でも販売を開始いたします。"
+      }
+    ],
+    "translation": "Dưới đây là tờ rơi nhận được tại một cửa hàng.\n\nCửa hàng mũ thiết kế riêng “Marie”\nThông báo cửa hàng đặc biệt mở có thời hạn\nLần này, chúng tôi sẽ mở cửa hàng đặc biệt tại bách hóa Minamino trong thời gian có hạn từ ngày 1 đến ngày 15 tháng 4.\nTại cửa hàng đặc biệt, bên cạnh các sản phẩm thông thường, chúng tôi sẽ bày bán các sản phẩm mới mùa xuân. Trong số các sản phẩm mới mùa xuân, dòng sản phẩm “Hoa” sẽ chỉ được bán duy nhất tại cửa hàng đặc biệt, vì vậy xin quý khách đừng bỏ lỡ cơ hội này.\nNgoài ra, các sản phẩm mới mùa xuân khác sẽ bắt đầu được bán tại tất cả các cửa hàng “Marie” từ ngày 16 tháng 4.",
+    "questions": [
+      {
+        "id": "u105-1",
+        "prompt": "「花」シリーズを買いたい場合、どうすればいいか。",
+        "choices": [
+          "4月 1日から 15 日までの間に特別ショップに行く。",
+          "4月 1日から 15 日までの間に特別ショップか「マリー」各店に行く。",
+          "4月 1日から 15 日までの間は特別ショップに行き、16 日以降は「マリー」各店に行く。",
+          "4月 16日以降に特別ショップか「マリー」各店に行く。"
+        ],
+        "answer": "4月 1日から 15 日までの間に特別ショップに行く。",
+        "explanation": "Tờ rơi nêu rõ dòng sản phẩm “Hoa” chỉ bán duy nhất tại cửa hàng đặc biệt trong thời gian từ ngày 1 đến ngày 15 tháng 4 (「花」シリーズは、特別ショップのみでの販売となります). Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u106",
+    "passages": [
+      {
+        "text": "「適度に暖かく、発芽（注1）に使える水があり、呼吸もできるという条件がそろえば、多くの植物のタネは発芽する」と思われがちです。しかし、実際にはそうではありません。多くの植物のタネは、発芽の三条件がそろったからといって、うかつに（注2）発芽しないのです。\nなぜなら、発芽の三条件の中には、「光が当たること」という条件が入っていないからです。もし、光の当たらない場所でタネが発芽すれば、発芽した芽生え（注3）がどんな運命をたどるか（注4）は、容易に想像がつきます。\n（注1）発芽：芽を出すこと\n（注2）うかつに：ここでは、簡単に\n（注3）芽生え：ここでは、芽\n（注4）どんな運命をたどるか：ここでは、どうなっていくか"
+      }
+    ],
+    "translation": "Người ta thường nghĩ rằng “chỉ cần hội đủ các điều kiện là nhiệt độ ấm áp vừa đủ, có nước để nảy mầm và có thể hô hấp thì hạt giống của hầu hết các loại thực vật sẽ nảy mầm”. Tuy nhiên, thực tế không phải như vậy. Hạt giống của nhiều loại thực vật không dễ dàng nảy mầm chỉ vì hội đủ ba điều kiện nảy mầm đó.\nBởi vì trong ba điều kiện nảy mầm không bao gồm điều kiện “có ánh sáng chiếu vào”. Nếu hạt giống nảy mầm ở nơi không có ánh sáng chiếu vào thì có thể dễ dàng hình dung mầm cây vừa mọc ra sẽ chịu số phận như thế nào.",
+    "questions": [
+      {
+        "id": "u106-1",
+        "prompt": "本文の内容に合うのはどれか。",
+        "choices": [
+          "発芽の三条件がそろった状態で光が当たっても、育たないことがある。",
+          "発芽の三条件がそろって発芽しても、光が当たらなければ成長しにくい。",
+          "発芽の三条件は、光が当たることよりも重要だ。",
+          "発芽の三条件は、光の当たらない場所ではそろいにくい。"
+        ],
+        "answer": "発芽の三条件がそろって発芽しても、光が当たらなければ成長しにくい。",
+        "explanation": "Đoạn văn giải thích nếu hạt nảy mầm khi đủ 3 điều kiện nhưng ở nơi thiếu ánh sáng chiếu vào thì mầm cây không thể phát triển tốt. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u107",
+    "passages": [
+      {
+        "text": "以下は、ある会社の社員が、別の課の社員に送ったメールである。\n\n宛て先：shinji_yasumura@dungmori.co.jp\n件名：「何でもハサミ」のミラ商会への納品について\n日時：4 月 30 日 11:55\n商品管理課 安村様\n\nお疲れさまです。\n6月15日発売の「何でもハサミ」の件ですが、ミラ商会の担当者から連絡がありました。\n価格についての問題は解決しましたが、納品数については、最初の予定の 50本ではなく、80本に変更してほしいとのことです。\n今週中に返答しなければならないのですが、今から 30 本増やすことは可能でしょうか。\n納品日は 5 月 20 日で、変更ありません。\nご検討よろしくお願いします。\n\n営業課 大森"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử một nhân viên gửi cho nhân viên phòng khác trong cùng công ty.\n\nNgười nhận: shinji_yasumura@dungmori.co.jp\nTiêu đề: Về việc giao kéo “Nandemo Hasami” cho công ty Mira\nThời gian: 11:55 ngày 30 tháng 4\nKính gửi Anh Yasumura - Phòng Quản lý Sản phẩm\n\nChào anh.\nVề đợt sản phẩm kéo “Nandemo Hasami” bán ra ngày 15/6, người phụ trách phía công ty Mira vừa liên hệ.\nVấn đề giá cả đã được giải quyết, tuy nhiên về số lượng giao hàng, họ muốn thay đổi từ 50 cái theo kế hoạch ban đầu thành 80 cái.\nChúng ta phải trả lời trong tuần này, liệu từ bây giờ tăng thêm 30 cái nữa có khả thi không anh?\nNgày giao hàng là 20 tháng 5, không thay đổi.\nNhờ anh xem xét giúp.\n\nPhòng Kinh doanh - Omori",
+    "questions": [
+      {
+        "id": "u107-1",
+        "prompt": "このメールで問い合わせていることは何か。",
+        "choices": [
+          "ミラ商会に、最初の予定より早く納品できるか。",
+          "ミラ商会の希望する価格で、納品できるか。",
+          "5 月 20 日に、ミラ商会に 80本を納品できるか。",
+          "今週中に、ミラ商会に 30 本を納品できるか。"
+        ],
+        "answer": "5 月 20 日に、ミラ商会に 80本を納品できるか。",
+        "explanation": "Trong email, Omori hỏi phòng quản lý sản phẩm xem có thể giao 80 cái (tăng thêm 30 cái) vào ngày giao hàng 20/5 theo yêu cầu mới của công ty Mira hay không. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u108",
+    "passages": [
+      {
+        "text": "仕事でも、人生でも、ようは（注1）降り掛かる（注2）問題をいかに（注3）解決していくか、という作業の繰り返しだ。ある人は問題から逃げる。これも、その人にとっての解決である。しかし、そういう人は逃げ続けなければならない。一度きちんと解決をした人は、同じ問題に遭遇したときに対処できる。このようにして、スキル（注4）が上がっていき、その後得をするだろう。\n（注1）ようは：大切なことは\n（注2）降り掛かる：ここでは、自分に起きる\n（注3）いかに：どうやって\n（注4）スキル：能力や技術"
+      }
+    ],
+    "translation": "Trong công việc cũng như trong cuộc sống, tóm lại là sự lặp đi lặp lại của việc giải quyết các vấn đề phát sinh như thế nào. Có người chọn cách trốn tránh vấn đề. Đó cũng là một cách giải quyết đối với người đó. Tuy nhiên, những người như vậy sẽ phải tiếp tục trốn tránh mãi. Ngược lại, người đã từng giải quyết rốt ráo một lần sẽ có thể ứng phó khi gặp lại vấn đề tương tự. Bằng cách này, kỹ năng sẽ nâng cao và sau đó họ sẽ gặt hái được lợi ích.",
+    "questions": [
+      {
+        "id": "u108-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "問題に取り組む経験を積むほど、問題に対処できるようになる。",
+          "問題から逃げることも、問題の解決には必要である。",
+          "人生で得をするために、難しい問題に積極的に取り組むべきだ。",
+          "解決できたかどうかより、問題解決に取り組む態度が大切だ。"
+        ],
+        "answer": "問題に取り組む経験を積むほど、問題に対処できるようになる。",
+        "explanation": "Tác giả chỉ ra rằng việc từng tự mình giải quyết rốt ráo vấn đề sẽ giúp tích lũy kỹ năng và dễ dàng ứng phó khi gặp lại vấn đề tương tự. Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u109",
+    "passages": [
+      {
+        "text": "人物の情報を集めるときはひとりの意見だけでなく、複数の意見を聞くのは、そうしないと、人物の全体像がわからないからだ。情景や物体を眺める時、人の判断はあまり変わらない。しかし、人物を見る時、人が感じる印象はかなり違うのである。ある人物のプロフィールを書くのならば（注）、ひとりあいに行っただけでは不完全だ。ふたりで会いに行って、それぞれどういう印象を持ったのかを合わせた方がいい。採用の面接を複数で行うのも、同じ理由からだと思う。\n（注）プロフィール：ここでは、紹介"
+      }
+    ],
+    "translation": "Khi thu thập thông tin về một người, việc lắng nghe ý kiến từ nhiều người chứ không chỉ một người là vì nếu không làm vậy thì sẽ không thể hiểu được bức tranh toàn cảnh về nhân vật đó. Khi quan sát cảnh vật hay vật thể, đánh giá của con người không chênh lệch nhiều. Tuy nhiên khi nhìn nhận con người, ấn tượng mà mỗi người cảm nhận lại rất khác nhau. Nếu muốn viết bản giới thiệu về một ai đó, việc chỉ một mình đến gặp là chưa đủ. Nên đi hai người rồi tổng hợp lại ấn tượng của từng người. Tôi nghĩ việc phỏng vấn tuyển dụng được thực hiện bởi nhiều người cũng là vì lý do tương tự.",
+    "questions": [
+      {
+        "id": "u109-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "物も人物も、複数の意見を聞いて判断することが必要だ。",
+          "物を見る時より人物を見る時の方が、人が持つ印象は正確だ。",
+          "人物の印象は、見る状況によって異なる。",
+          "人物を判断するには、ひとりが持つ印象だけでは不十分だ。"
+        ],
+        "answer": "人物を判断するには、ひとりが持つ印象だけでは不十分だ。",
+        "explanation": "Tác giả khẳng định ấn tượng về con người ở mỗi người là khác nhau, nên nếu chỉ dựa vào ấn tượng của một người để đánh giá thì không đủ. Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u110",
+    "passages": [
+      {
+        "text": "以下は、ある大学ホームページに掲載されたお知らせである。\n山森大学＞お知らせ\n8月10日\n\n移転作業に伴うパソコン自習室の利用について\n先日お知らせしたように、キャンパスの整備にあたり、現在2号館のパソコン自習室が4号館に移転します。移転作業に伴い、利用が9月5日までになるとお知らせしましたが、工事期間の変更により8月31日に閉室することになりました。移転先の利用開始は10月1日で変更ありません。\n移転が完了するまでは、6号館のパソコン自習室、および図書館の情報検索室をご利用ください。\n\n問い合わせ先：情報支援センター\n電話：0120-400-028-2882"
+      }
+    ],
+    "translation": "Dưới đây là thông báo đăng trên trang chủ của một trường đại học.\nĐại học Yamamori > Thông báo\nNgày 10 tháng 8\n\nVề việc sử dụng phòng tự học máy tính do chuyển địa điểm\nNhư đã thông báo trước đây, phục vụ chỉnh trang khuôn viên trường, phòng tự học máy tính ở Tòa nhà số 2 hiện tại sẽ chuyển sang Tòa nhà số 4. Do việc chuyển địa điểm, chúng tôi từng thông báo phòng sẽ mở cửa đến ngày 5/9, nhưng do thay đổi thời gian thi công nên phòng sẽ đóng cửa từ ngày 31/8. Thời gian bắt đầu sử dụng địa điểm mới vào ngày 1/10 không thay đổi.\nCho đến khi việc chuyển địa điểm hoàn tất, xin vui lòng sử dụng phòng tự học máy tính ở Tòa nhà số 6 và phòng tra cứu thông tin của thư viện.\n\nLiên hệ: Trung tâm Hỗ trợ Thông tin\nSĐT: 0120-400-028-2882",
+    "questions": [
+      {
+        "id": "u110-1",
+        "prompt": "このお知らせで伝えたいことは何か。",
+        "choices": [
+          "9月5日から2号館のパソコン自習室が利用できなくなること",
+          "10月1日から6号館のパソコン自習室が利用できること",
+          "2号館のパソコン自習室の閉室日が早まったこと",
+          "4号館のパソコン自習室の利用開始日が早まったこと"
+        ],
+        "answer": "2号館のパソコン自習室の閉室日が早まったこと",
+        "explanation": "Thông báo nội dung chính là ngày đóng cửa phòng tự học máy tính Tòa nhà 2 bị đẩy sớm lên ngày 31/8 thay vì 5/9 như kế hoạch ban đầu. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u111",
+    "passages": [
+      {
+        "text": "ヒトと機械は違っているからこそ、補完し（注1）合えるのだという考え方がある。同じであっては意味が無いとさえ言い切る人もいる。同じものが二つあっても量的な能力が倍増する（注2）だけであって、質的な変化は起こりえない。初期のコンピュータが結構役に立ったのは人間と全く違った単純作業ができたからである。人間だと繰り返しの作業の中でどうしても思い込みが起こる。コンピュータが得意なのは常に一定の判断である。それがあるがゆえに（注3）人間の単純なミスを指摘できるのである。\n（注1）補完する：不十分な部分を補う\n（注2）倍増する：二倍に増える\n（注3）それがあるがゆえに：だから"
+      }
+    ],
+    "translation": "Có quan điểm cho rằng chính vì con người và máy móc khác nhau nên mới có thể bù đắp bổ sung cho nhau. Thậm chí có người khẳng định rằng nếu giống nhau thì hoàn toàn không có ý nghĩa. Ngay cả khi có hai thứ giống hệt nhau thì cũng chỉ làm tăng gấp đôi năng lực về mặt số lượng chứ không thể tạo ra sự thay đổi về mặt chất lượng. Máy tính thời kỳ đầu sở dĩ tỏ ra khá hữu ích là vì nó có thể thực hiện những công việc đơn giản hoàn toàn khác với con người. Ở con người, trong quá trình làm công việc lặp đi lặp lại không tránh khỏi việc nảy sinh chủ quan áp đặt. Điều máy tính giỏi là luôn đưa ra phán đoán cố định đồng nhất. Chính nhờ điều đó mà máy tính mới chỉ ra được những lỗi sai đơn giản của con người.",
+    "questions": [
+      {
+        "id": "u111-1",
+        "prompt": "筆者によると、コンピュータがヒトと違う点は何か。",
+        "choices": [
+          "ヒトの単純なミスを予測できること",
+          "ヒトの二倍の量の仕事ができること",
+          "常に質の高い仕事ができること",
+          "常に同じ作業ができること"
+        ],
+        "answer": "常に同じ作業ができること",
+        "explanation": "Tác giả chỉ ra điểm máy tính khác biệt với con người là luôn giữ phán đoán và thao tác đồng nhất không bị định kiến hay mệt mỏi như con người (常に一定の判断である). Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u112",
+    "passages": [
+      {
+        "text": "そもそも大人が「夢」を子どもに問うとき、「高い目標に向かって突き進め。そして必ず成功しろ」（注1）という期待を押しつけを行っている感じがします。「夢＝成功すること」になってしまっている。そういう大人の意図を、子どもは敏感に察知（注2）します。高い目標を目指すことはいいことですが、そればかりでは子どもは疲れてしまいます。\n本来、「夢」という言葉は、もっと広い意味のはず。「職業」だけでなく、「どんな人間になりたいか」「どんな暮らしをしたいか」という願いも含まれています。「友だちを裏切らない人間になりたい」「自然に囲まれて暮らしたい」といった夢だっていいのです。そのほうがずっと具体的で、その子が今持っている思いや願いや時には（注3）悩みを含んでいることだってあります。\n「夢は何？」という問いへの子どもの答えにもっと耳を傾け、深く掘り下げて語り合いましょう。子どもが語る「夢」に含まれる、小さなつぶやきや、表に出てきづらい願い（注4）を、無視しないでください。親子で夢について深く語り合うことで、子どもの気持ちがよくわかってきます。子どもの答えの背景（注5）にどんな思いや願いやあこがれが込められているのかを、読み取ってあげませんか。\n（注1）そもそも：ここでは、普通\n（注2）察知する：気づく\n（注3）時には：ある時は\n（注4）つぶやき：ここでは、思い\n（注5）背景：ここでは、後ろ"
+      }
+    ],
+    "translation": "Vốn dĩ khi người lớn hỏi trẻ em về “ước mơ”, người ta cảm thấy như người lớn đang áp đặt kỳ vọng “hãy tiến về phía mục tiêu cao cả, và nhất định phải thành công”. “Ước mơ” đã bị đánh đồng với “thành công”. Trẻ em nhận ra ý đồ đó của người lớn rất nhạy bén. Hướng tới mục tiêu cao là điều tốt, nhưng nếu chỉ có thế thì trẻ sẽ cảm thấy mệt mỏi.\nVốn dĩ từ “ước mơ” phải mang ý nghĩa rộng lớn hơn. Không chỉ là “nghề nghiệp”, mà còn bao gồm nguyện vọng “muốn trở thành người như thế nào”, “muốn sống cuộc sống ra sao”. Những ước mơ như “muốn trở thành người không phản bội bạn bè” hay “muốn sống hòa mình với thiên nhiên” cũng rất tuyệt vời. Những điều đó cụ thể hơn nhiều và đôi khi chứa đựng cả những suy nghĩ, ước nguyện hay tâm sự lo lắng hiện tại của trẻ.\nHãy lắng nghe kỹ hơn câu trả lời của trẻ trước câu hỏi “Ước mơ của con là gì?” và cùng nhau trò chuyện sâu sắc. Đừng ngó lơ những lời thì thầm nhỏ bé hay những nguyện vọng khó bộc lộ ra ngoài nằm trong “ước mơ” mà trẻ kể. Nhờ trò chuyện sâu sắc giữa cha mẹ và con cái về ước mơ, ta sẽ hiểu rõ cảm xúc của con hơn.",
+    "questions": [
+      {
+        "id": "u112-1",
+        "prompt": "大人が子どもに夢を問うときの問題点について、筆者はどのように述べているか。",
+        "choices": [
+          "大人がいいと考える目標を求めがちだ。",
+          "大人でも実現できない目標を求めがちだ。",
+          "子どもが思いつかない目標を求めがちだ。",
+          "子どもが興味を示さない目標を求めがちだ。"
+        ],
+        "answer": "大人がいいと考える目標を求めがちだ。",
+        "explanation": "Tác giả chỉ ra vấn đề khi hỏi trẻ về ước mơ là người lớn thường áp đặt những mục tiêu/kỳ vọng mà bản thân người lớn cho là tốt (高い目標に向かって突き進め...という期待を押しつけている). Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u113",
+    "passages": [
+      {
+        "text": "自分がのめり込んだ（注1）ことが、仕事として成立したなら、これほど楽しいことはないだろう。もしかしたらその感覚は、世の中の常識とは順番が逆なのかもしれない。本来はまず仕事ありき（注2）なのだろう。与えられた仕事をどう楽しめるかと考えるのがふつうなのかもしれない。\nでも仕事がただ与えられるだけのものだったら、やっぱり面白くするにも限界がある。自分が何を面白いと感じるか。まずそれありきで仕事を考えた方がいいと思うのだ。\n（注1）のめりこむ：熱中する\n（注2）〜ありき：ここでは、〜優先"
+      }
+    ],
+    "translation": "Nếu điều bản thân say mê biến thành công việc thực sự thì không còn gì tuyệt vời bằng. Có lẽ cảm giác đó so với thường识 xã hội lại bị đảo ngược thứ tự. Vốn dĩ thông thường phải là “có công việc trước”. Người ta thường nghĩ xem làm thế nào để tận hưởng công việc được giao mới là bình thường.\nTuy nhiên, nếu công việc chỉ là thứ được giao cho một cách thụ động thì việc làm cho nó trở nên thú vị cũng có giới hạn. Bản thân cảm thấy điều gì là thú vị? Tôi nghĩ tốt hơn hết nên lấy điều đó làm gốc để suy nghĩ về công việc.",
+    "questions": [
+      {
+        "id": "u113-1",
+        "prompt": "筆者が言いたいことは何か。",
+        "choices": [
+          "与えられた仕事を楽しむことが大切だ。",
+          "興味のあることを仕事にするのがいい。",
+          "面白い仕事を与えられることが重要だ。",
+          "どんな仕事でも続けていれば楽しくなる。"
+        ],
+        "answer": "興味のあることを仕事にするのがいい。",
+        "explanation": "Tác giả cho rằng nên lấy điều bản thân cảm thấy hứng thú/thú vị làm điểm bắt đầu để lựa chọn công việc (自分が何を面白いと感じるか。まずそれありきで仕事を考えた方がいい). Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u114",
+    "passages": [
+      {
+        "text": "はじめから相手に期待することをやめられれば、怒りもイライラも生まれず、穏やかな気持ちで過ごすことができます。人に期待してイライラしながら過ごすか、努力して期待することを手放し穏やかに生きるか、これはあなた自身のことなので、コントロールが可能です。「期待しない」というとなんだかさみしいことをいっているように思う方もいるかもしれませんが、そうではありません。\n多くの場合、周囲の環境や人間というのは、自分自身が変わることで面白いほど変化します。"
+      }
+    ],
+    "translation": "Nếu từ đầu ta từ bỏ việc kỳ vọng vào người khác, ta sẽ không sinh ra tức giận hay bực bội mà có thể sống với tâm trạng bình thản. Việc sống trong bực bội vì kỳ vọng vào người khác hay nỗ lực buông bỏ kỳ vọng để sống bình thản là điều thuộc về chính bản thân bạn, nên bạn hoàn toàn có thể kiểm soát được. Khi nói “không kỳ vọng”, có thể có người nghĩ rằng đó là một điều gì đó trống trải cô đơn, nhưng thực ra không phải như vậy.\nTrong nhiều trường hợp, môi trường xung quanh và con người sẽ thay đổi một cách thú vị kỳ diệu khi chính bản thân ta thay đổi.",
+    "questions": [
+      {
+        "id": "u114-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "自分が変われば、相手も期待どおりに変わってくれる。",
+          "自分をコントロールできれば、相手も変えられる。",
+          "穏やかな気持ちで接すれば、相手といい関係が築ける。",
+          "相手に期待しなければ、穏やかな気持ちでいられる。"
+        ],
+        "answer": "相手に期待しなければ、穏やかな気持ちでいられる。",
+        "explanation": "Tác giả khẳng định nếu từ bỏ việc kỳ vọng vào người khác thì bản thân sẽ giữ được trạng thái bình thản (はじめから相手に期待することをやめられれば... 穏やかな気持ちで過ごすことができます). Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u115",
+    "passages": [
+      {
+        "text": "総務課 ご担当者様\n以下は、ある会社の社員が総務課に送ったメールである。\n\n休憩室について、お願いがあってメールいたしました。\nより多くの人が休憩室を利用できるように、先日テーブルといすを増やしていただきましたが、まだ昼食時に多くの人が利用できず不便を感じています。そのため、昼休みの間は会議室を開放していただけないでしょうか。そうすれば、より多くの人がそこで休憩できるようになると思います。\nご検討をお願いいたします。"
+      }
+    ],
+    "translation": "Kính gửi Người phụ trách Phòng Tổng vụ\nDưới đây là thư điện tử một nhân viên gửi cho phòng tổng vụ.\n\nTôi gửi thư này có một kiến nghị về phòng nghỉ ngơi.\nĐể có thêm nhiều người sử dụng phòng nghỉ ngơi, vừa qua quý phòng đã tăng thêm bàn ghế, tuy nhiên vào giờ ăn trưa vẫn có nhiều người không thể sử dụng và cảm thấy bất tiện. Vì vậy, trong giờ nghỉ trưa quý phòng có thể mở cửa phòng họp được không? Làm như vậy tôi nghĩ sẽ có thêm nhiều người có thể nghỉ ngơi ở đó.\nKính mong quý phòng xem xét.",
+    "questions": [
+      {
+        "id": "u115-1",
+        "prompt": "このメールで依頼していることは何か。",
+        "choices": [
+          "昼休みの間、会議室を休憩場所として使わせてほしい。",
+          "昼休みの間、休憩室のテーブルといすを会議室に移動させてほしい。",
+          "休憩室が狭いので、広い会議室と取り替えてほしい。",
+          "休憩室のテーブルといすをさらに増やしてほしい。"
+        ],
+        "answer": "昼休みの間、会議室を休憩場所として使わせてほしい。",
+        "explanation": "Người viết email kiến nghị mở cửa phòng họp trong giờ nghỉ trưa để làm nơi nghỉ ngơi cho nhân viên (昼休みの間は会議室を開放していただけないでしょうか). Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u116",
+    "passages": [
+      {
+        "text": "以下は、パソコンショップの店員から送られてきたメールである。\n\n高山 かおり様\nPCフォレスト西山店の合田です。\n画面の修理のためルニ社製のノートパソコンをお預かりしておりますが、点検したところ電源部分の部品にも問題があり、接続状態が悪くなっていることが分かりました。\nこのままですと急に電源が入らなくなる可能性がありますので、部品の交換をお勧めいたします。\nその場合、追加料金が 2万円かかり、お返しは 6 月10日以降になります。\n画面の修理は6月5日に完了しますので、電源の修理を希望されない場合には、予定どおりお返しできます。\nお忙しいところ恐縮ですが、ご連絡をお待ちしております。\n\nPCフォレスト西山店\n担当：合田 英子 support_hm@peforest.co.jp"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử gửi từ nhân viên một cửa hàng máy tính.\n\nKính gửi Cô Takayama Kaori\nTôi là Goda từ cửa hàng PC Forest Nishiyama.\nCửa hàng chúng tôi đang nhận máy tính xách tay hãng Luni của cô để sửa chữa màn hình, nhưng qua kiểm tra phát hiện linh kiện bộ phận nguồn cũng có vấn đề làm cho trạng thái kết nối kém.\nNếu cứ để nguyên thì có nguy cơ máy đột ngột không bật lên nguồn được, do đó chúng tôi khuyên cô nên thay thế linh kiện.\nTrong trường hợp đó, chi phí phát sinh thêm 20,000 yên và ngày trả máy sẽ từ 10/6 trở đi.\nSửa chữa màn hình sẽ hoàn tất vào ngày 5/6, nên nếu cô không có nhu cầu sửa bộ phận nguồn thì chúng tôi sẽ trả máy đúng như kế hoạch ban đầu.\nXin lỗi vì làm phiền lúc bận rộn, rất mong nhận được phản hồi từ cô.\n\nCửa hàng PC Forest Nishiyama\nNgười phụ trách: Goda Eiko support_hm@peforest.co.jp",
+    "questions": [
+      {
+        "id": "u116-1",
+        "prompt": "このメールで店員が問い合わせていることは何か。",
+        "choices": [
+          "電源の状態が悪くなる可能性があるが、画面の修理をするかどうか。",
+          "追加で料金と時間がかかるが、電源の修理もするかどうか。",
+          "追加で料金がかかるが、電源の修理を 6月 5日までに終えるかどうか。",
+          "6 月5 日に画面と電源の修理は完了するが、いつ受け取りに来るか。"
+        ],
+        "answer": "追加で料金と時間がかかるが、電源の修理もするかどうか。",
+        "explanation": "Nhân viên gửi thư hỏi ý kiến khách hàng xem có muốn phát sinh thêm tiền và thời gian để sửa luôn bộ phận nguồn hay không. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u117",
+    "passages": [
+      {
+        "text": "弱い立場にあるという点で、未来の世代ほど弱いものはない。何しろ、どんなにひどいことをされても、まだ生まれていない生命は、抗議（注1）の声をもあげることもできないのだから。それをいいことに（注2）今生きている世代は、未来の世代が生きていくための絶対条件（注3）となる環境を壊し、彼らが利用する分の資源まで使い果たすうとしている。いったいこれ以上、フェアの精神に反することがあるだろうか。\n（注1）抗議：ここでは、反対や怒り\n（注2）それをいいことに：ここでは、それを自分に都合よく考えて\n（注3）絶対条件：必要な条件"
+      }
+    ],
+    "translation": "Xét về phương diện vị thế yếu đuối, không có thế hệ nào yếu đuối bằng thế hệ tương lai. Bởi lẽ dù bị đối xử tàn nhẫn đến đâu, những sinh linh chưa chào đời cũng không thể cất tiếng phản kháng (chú thích 1). Nhân cơ hội đó (chú thích 2), thế hệ đang sống hiện tại lại tàn phá môi trường vốn là điều kiện bắt buộc (chú thích 3) để thế hệ tương lai sinh sống, thậm chí vắt kệt cả nguồn tài nguyên dành cho họ. Rốt cuộc còn điều gì đi ngược lại tinh thần công bằng hơn thế nữa?",
+    "questions": [
+      {
+        "id": "u117-1",
+        "prompt": "生きている世代に対して、筆者が言いたいことは何か。",
+        "choices": [
+          "今生きている世代があげている反感や怒りの声を聞くべきだ。",
+          "今生きている世代にも声があげられない人がいることを認めるべきだ。",
+          "未来の世代が生きていくために、必要な資源を見つけるべきだ。",
+          "声をあげられない未来の世代のことを考え、行動を改めるべきだ。"
+        ],
+        "answer": "声をあげられない未来の世代のことを考え、行動を改めるべきだ。",
+        "explanation": "Tác giả lên án thế hệ hiện tại tàn phá môi trường và tài nguyên của thế hệ tương lai không thể lên tiếng, qua đó phê phán và yêu cầu sửa đổi hành vi. Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u118",
+    "passages": [
+      {
+        "text": "鳥は日常的に目であたりを観察し、自身の生活にとって重要なものかどうかを見分け、必要なものを優先的に記憶しながら暮らしています。野生（注1）と飼育下（注2）では、そこに存在するものが違っているため、重要と判断されるものも大きく変わってきますが、判断の仕組み自体は変化しません。重要なものは詳細に、そうでないものはさっと流すくらい注意で見分ける、というやりかたです。そして、重要と判断されなかったものは、どんどん記憶のなかから消えていきます。\n（注1）野生：自然のなかで生きている状態\n（注2）飼育下：飼われている状態"
+      }
+    ],
+    "translation": "Loài chim hàng ngày quan sát xung quanh bằng mắt, phân biệt xem thứ gì là quan trọng đối với cuộc sống của mình và ưu tiên ghi nhớ những thứ cần thiết. Trong môi trường hoang dã (chú thích 1) và môi trường nuôi nhốt (chú thích 2), những thứ tồn tại ở đó khác nhau nên những thứ được phán đoán là quan trọng cũng thay đổi lớn, nhưng bản thân cơ chế phán đoán thì không đổi. Mẹo của chúng là chú ý kỹ những thứ quan trọng, còn những thứ không quan trọng thì chỉ nhìn lướt qua. Và những gì không được đánh giá là quan trọng sẽ dần biến mất khỏi trí nhớ.",
+    "questions": [
+      {
+        "id": "u118-1",
+        "prompt": "鳥の記憶について、筆者の説明に合うのはどれか。",
+        "choices": [
+          "何度も見たものを重要だと判断して記憶していく。",
+          "生活する場が違っても、同じものを記憶していく。",
+          "生活に重要なものを選んで記憶していく。",
+          "生活に重要なものでも、次第に記憶から消えていく。"
+        ],
+        "answer": "生活に重要なものを選んで記憶していく。",
+        "explanation": "Tác giả giải thích loài chim lựa chọn ghi nhớ ưu tiên những gì quan trọng cho cuộc sống của mình (生活にとって重要なもの... 必要なものを優先的に記憶しながら). Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u119",
+    "passages": [
+      {
+        "text": "以下は、ある町の掲示板に貼られていた文書である。\n10月5日\n住民の皆様へ\nごみに関するお願い\n\n最近、「可燃ごみ」の回収日に衣類・布類が多く出されています。しかし、市の規則では、衣類・布類は毎週火曜日の「資源ごみ」の回収日に出すことになっています。資源を有効に活用するため、決められた回収日に出してください。\n衣類・布類は、市内8か所の公共施設に設置してある回収ボックスでも回収しています。回収後は、中古の衣類として再使用したり、工場で再生利用したりします。ご協力をよろしくお願いします。\n\n竹川市役所 市民生活課"
+      }
+    ],
+    "translation": "Dưới đây là văn bản dán trên bảng thông báo của một thị trấn.\nNgày 5 tháng 10\nKính gửi Quý cư dân\nYêu cầu về việc gom rác\n\nGần đây, vào ngày gom “Rác cháy được” có nhiều quần áo, đồ vải được mang ra. Tuy nhiên, theo quy định của thành phố, quần áo và đồ vải phải được bỏ ra vào ngày gom “Rác tài nguyên” thứ Ba hàng tuần. Để sử dụng hiệu quả tài nguyên, xin vui lòng bỏ rác vào đúng ngày quy định.\nQuần áo, đồ vải cũng được thu gom tại các thùng thu gom đặt tại 8 cơ sở công cộng trong thành phố. Sau khi thu gom, chúng sẽ được tái sử dụng làm quần áo cũ hoặc tái chế tại nhà máy. Rất mong nhận được sự hợp tác.\n\nPhòng Đời sống Cư dân - Tòa thị chính thành phố Takekawa",
+    "questions": [
+      {
+        "id": "u119-1",
+        "prompt": "この文書で最も伝えたいことは何か。",
+        "choices": [
+          "「資源ごみ」として出す衣類・布類の量を減らしてほしい。",
+          "「資源ごみ」の回収日に「可燃ごみ」を出さないでほしい。",
+          "衣類・布類は、「資源ごみ」の回収日に出してほしい。",
+          "衣類・布類は、新しく設置した回収ボックス出してほしい。"
+        ],
+        "answer": "衣類・布類は、「資源ごみ」の回収日に出してほしい。",
+        "explanation": "Nội dung chính thông báo nhắc nhở cư dân hãy bỏ quần áo, đồ vải vào đúng ngày thu gom “Rác tài nguyên” (衣類・布類は毎週火曜日の「資源ごみ」の回収日に出すことになっています). Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u120",
+    "passages": [
+      {
+        "text": "自分のが常識と思っていたこと、そうして見えない枠として自分をしばっていたこと、それを共有しないひとが現れる。最初、それは非常識なひと、変なひとと思えるかもしれない。だけど、それが変だと感じることではじめて、自分があたりまえと思っていたことを自覚（注）するようになる。見えない枠が見えるようになる。\n（注）自覚する：意識する"
+      }
+    ],
+    "translation": "Những điều bản thân từng coi là thường thức, và những khung khổ vô hình từng kìm kẹp bản thân, khi có người không chia sẻ những điều đó xuất hiện, ban đầu có thể ta coi người đó là người vô thường thức hay người kỳ lạ. Tuy nhiên, chính nhờ cảm thấy người đó kỳ lạ mà lần đầu tiên ta mới nhận thức (chú thích) được những điều bản thân từng coi là đương nhiên. Khung khổ vô hình từ đó mới hiện rõ ra.",
+    "questions": [
+      {
+        "id": "u120-1",
+        "prompt": "筆者は、ひとと出会うことによってどうなると述べているか。",
+        "choices": [
+          "見えない枠が変なものだと気づく。",
+          "自分をしばっていた考え方に気づく。",
+          "自分の常識が間違いだったと気づく。",
+          "ほかのひとの常識は理解できないと気づく。"
+        ],
+        "answer": "自分をしばっていた考え方に気づく。",
+        "explanation": "Tác giả chỉ ra nhờ gặp gỡ những người khác biệt mà ta nhận ra những suy nghĩ/khung khổ vô hình từng ràng buộc bản thân (自分があたりまえと思っていたことを自覚するようになる). Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u121",
+    "passages": [
+      {
+        "text": "何かを決定するときに、人はその決定を裏付けるような条件を求めやすくなるものです。「確実に儲かるとわかった時点で商売をしよう」「独立が成功する目算（注1）が立った時点で会社を辞めよう」というように、成功するための条件が揃ったら決断しよう、動き出そう、と考えるものです。\nしかし、現実には自分が知りたいと思うことを全部知ることはできませんし、必要だと思う条件が完全に揃うことは絶対にありません。\n欲しいと思っている情報や必要だと思っている条件が整わないうちに、動き始めなければならないのが決断なのです。\n決断ができる人はそれをわきまえて（注3）いて、条件が不足していることを自覚（注4）しながらきちんを決めていきます。この「条件不足を自覚しながら決断する」というのが大事なところなのです。\n一方、決断のできない人に限って、条件が整わないことを言い訳にしたがる。たとえ十分な条件が揃っていても、まだあれこれと不足の条件を並べ立てようとします。\n常に条件が不足する中で決断するコツの一つは目標を持つことです。\n「自分は何をしたいのか」「どうなりたいのか」「どうありたいのか」というビジョン（注5）を持つのです。目標を設定し、そこに向かう方向性をいつも意識していれば、条件が不足していても決断ができるはずです。\n（注1）目算が立つ：見通しがつく\n（注2）〜の常だ：ここでは、〜というものだ\n（注3）わきまえている：わかっている\n（注4）自覚する：ここでは、自分で認める\n（注5）ビジョン：将来のイメージ"
+      }
+    ],
+    "translation": "Khi đưa ra quyết định về điều gì đó, con người thường dễ tìm kiếm các điều kiện để bảo chứng cho quyết định đó. Chẳng hạn như “khi nào biết chắc chắn có lời mới kinh doanh”, “khi nào nhìn thấy triển vọng (chú thích 1) độc lập thành công mới nghỉ việc”... người ta thường nghĩ rằng khi hội đủ điều kiện thành công mới đưa ra quyết định và bắt đầu hành động.\nTuy nhiên, trên thực tế ta không thể biết hết tất cả những gì muốn biết, và những điều kiện mình cho là cần thiết tuyệt đối không bao giờ hội tụ hoàn hảo.\nQuyết định chính là việc phải bắt đầu hành động ngay cả khi thông tin muốn có hay điều kiện cho là cần thiết chưa hoàn toàn sẵn sàng.\nNgười có khả năng quyết đoán hiểu rõ (chú thích 3) điều đó, và vừa nhận thức (chú thích 4) việc thiếu hụt điều kiện vừa đưa ra quyết định rõ ràng. Việc “quyết định trong khi nhận thức rõ sự thiếu hụt điều kiện” chính là điểm cốt yếu.\nNgược lại, những người không thể quyết đoán lại hay lấy việc chưa đủ điều kiện làm lý do bào chữa. Dù điều kiện đã khá đầy đủ thì họ vẫn cố vạch ra thêm lý do thiếu sót này nọ.\nMột trong những bí quyết để quyết định trong hoàn cảnh luôn thiếu hụt điều kiện là có mục tiêu.\nĐó là có tầm nhìn (chú thích 5) về “bản thân muốn làm gì”, “muốn trở thành như thế nào”, “muốn sống ra sao”. Nếu thiết lập mục tiêu và luôn ý thức hướng đi về phía đó thì dù điều kiện chưa đủ vẫn có thể đưa ra quyết định.",
+    "questions": [
+      {
+        "id": "u121-1",
+        "prompt": "筆者は決断するためには、何が必要だと述べているか。",
+        "choices": [
+          "不足している条件は何か、考えること",
+          "状況に応じて、目標を変えていくこと",
+          "自分の目標を明確に定めて、忘れずにいること",
+          "目標が自分に合っているか、常に意識すること"
+        ],
+        "answer": "自分の目標を明確に定めて、忘れずにいること",
+        "explanation": "Tác giả chỉ ra bí quyết để quyết định khi thiếu điều kiện là thiết lập mục tiêu rõ ràng và luôn ý thức hướng tới mục tiêu đó (目標を設定し、そこに向かう方向性をいつも意識していれば... 決断ができる). Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u122",
+    "passages": [
+      {
+        "text": "自分の言葉は自分の頭の中にしかなく、相手の言葉は相手の頭の中にしかありません。抽象的な言葉の場合には、まったく同じ意味で使用していることのほうが少ないと言えるでしょう。"
+      }
+    ],
+    "translation": "Từ ngữ của bản thân chỉ tồn tại trong đầu mình, còn từ ngữ của đối phương chỉ tồn tại trong đầu họ. Đối với những từ ngữ trừu tượng, có thể nói trường hợp hai người sử dụng với ý nghĩa hoàn toàn giống hệt nhau là rất ít.",
+    "questions": [
+      {
+        "id": "u122-1",
+        "prompt": "抽象的な言葉について、筆者はどのように述べているか。",
+        "choices": [
+          "自分と相手で全く同じ意味で使っていることは滅多にない。",
+          "自分と相手で同じ意味で使うように努力するべきだ。",
+          "頭の中にある意味を相手に正確に伝えるのは簡単だ。",
+          "言葉の意味は時代とともに常に変化していく。"
+        ],
+        "answer": "自分と相手で全く同じ意味で使っていることは滅多にない。",
+        "explanation": "Tác giả khẳng định đối với các từ trừu tượng, việc hai người dùng với ý nghĩa hoàn toàn giống nhau là rất hiếm (まったく同じ意味で使用していることのほうが少ない). Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u123",
+    "passages": [
+      {
+        "text": "競争や出世にはあまり関係のない、たとえば誰かを支えたり直したりする仕事に喜びを感じる人もいるでしょう。仕事そこそこに、趣味に生きることを楽しむ人もいるでしょう。たとえ、受験や就職、あるいは出世などの過酷な競争ゲームのただ中にあったとしても、そしてそれにある時、敗れてしまったとしても、わたしたちの人生の選択肢はそれだけではないし、「それで終わり」、というわけでもありません。視点を変えれば、現代社会にはさまざまな生き方の世界が広がっているのです。\n（注1）育む：育てる\n（注2）そこそこに：適度に\n（注3）過酷な：非常に厳しい\n（注4）ただ中：最中"
+      }
+    ],
+    "translation": "Có những người cảm thấy niềm vui trong những công việc không mấy liên quan đến cạnh tranh hay thăng tiến, chẳng hạn như hỗ trợ hay sửa chữa cho ai đó. Cũng có những người tận hưởng việc sống vì sở thích với một công việc vừa phải. Dù cho bạn đang ở trong trận game cạnh tranh khốc liệt như thi cử, xin việc hay thăng tiến, và dù có thất bại ở một thời điểm nào đó, thì lựa chọn cuộc đời của chúng ta không chỉ dừng lại ở đó, và cũng không có nghĩa là “mọi thứ đã kết thúc”. Nếu thay đổi góc nhìn, thế giới của vô vàn cách sống khác nhau đang rộng mở trong xã hội hiện đại.",
+    "questions": [
+      {
+        "id": "u123-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "他人と競争せずに、自分の生き方を見つければいい",
+          "人生の選択肢は多様であり、生き方は一つではない",
+          "人生の選択肢が多ければ多いほど、世界が広がっていく",
+          "仕事や趣味を通して、さまざまな生き方を知ることができる"
+        ],
+        "answer": "人生の選択肢は多様であり、生き方は一つではない",
+        "explanation": "Tác giả nhấn mạnh lựa chọn cuộc đời không chỉ có một con đường duy nhất mà có vô vàn cách sống đa dạng trong xã hội hiện đại (人生の選択肢はそれだけではない... さまざまな生き方の世界が広がっている). Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u124",
+    "passages": [
+      {
+        "text": "以下は、将棋のプロが書いた文章である。\n物事を推し進めていくうえで、その土台となるのは創造力でも企画力でもない。いくら創造力や企画力を働かせようとしても、道具となる知識や材料となる情報がなければ何も始まらないのだ。知識は、頭の中に貯えられた記憶の体験が土台になるのである。つまり、創造力やアイデアの源（注2）は、頭の中の記憶の組み合わせから生まれるもので、その土台がしっかりしていなければ、良いアイデアが閃くわけがないのだ。\n（注1）推し進める：進める\n（注2）源：もと"
+      }
+    ],
+    "translation": "Dưới đây là đoạn văn do một kỳ thủ cờ tướng chuyên nghiệp viết.\nTrong việc thúc đẩy (chú thích 1) sự việc tiến lên, nền tảng của nó không phải là sức sáng tạo hay năng lực quy hoạch. Dù có cố gắng phát huy sức sáng tạo hay năng lực quy hoạch đến đâu, nếu không có tri thức làm công cụ hay thông tin làm nguyên liệu thì cũng không thể bắt đầu điều gì. Tri thức chính là trải nghiệm ghi nhớ được tích lũy trong đầu làm nền tảng. Tóm lại, nguồn gốc (chú thích 2) của sức sáng tạo hay ý tưởng sinh ra từ sự kết hợp các ghi nhớ trong đầu, nếu nền tảng đó không vững chắc thì không thể nào lóe lên ý tưởng hay được.\n（Chú thích 1） Thúc đẩy: Tiến hành/thúc đẩy.\n（Chú thích 2） Nguồn gốc: Gốc rễ/căn nguyên.",
+    "questions": [
+      {
+        "id": "u124-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "記憶力を高めることによって、物事がうまく進められる。",
+          "記憶されている知識や情報がもとになって、良いアイデアが生まれる。",
+          "知識や情報をたくさん集めれば、創造力や企画力が発揮できる。",
+          "どんなことでも記憶しておけば、創造力やアイデアの土台になる。"
+        ],
+        "answer": "記憶されている知識や情報がもとになって、良いアイデアが生まれる。",
+        "explanation": "Tác giả khẳng định nguồn gốc của sức sáng tạo và ý tưởng chính là sự kết hợp của tri thức và thông tin được ghi nhớ trong đầu. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u125",
+    "passages": [
+      {
+        "text": "以下は、ある不動産管理会社に届いたメールである。\n\nらくらくルーム社 青寺店\n森田様\n\n花西マンション302号室に入居予定の木村です。\n引っ越し当日の3月20日の金曜日、午前中に貴店で新居の鍵（注）を受け取る約束でしたが、荷物が10時に到着することになりました。そのため、前日19日の午後に鍵を受け取りたいと思いホームページを確認したところ、貴店は木曜日が定休日でした。\n鍵の受け取り日が定休日の場合は、ほかの支店で受け取れると書いてありましたので、仕事の帰りに中央駅前店に寄りたいと思いますが、鍵を受け取ることは可能でしょうか。\nお返事をお待ちしております。\n\n木村ゆり\n（注）鍵：キー"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử gửi đến một công ty quản lý bất động sản.\n\nKính gửi Anh Morita - Công ty Rakuraku Room Chi nhánh Aodera\n\nTôi là Kimura, người dự định chuyển vào phòng 302 chung cư Hananishi.\nVào thứ Sáu ngày 20 tháng 3 là ngày chuyển nhà, tôi có hẹn nhận chìa khóa (chú thích) nhà mới vào buổi sáng tại quý cửa hàng, tuy nhiên hành lý lại tới nơi lúc 10 giờ. Do đó, tôi muốn nhận chìa khóa vào chiều ngày 19 hôm trước, nhưng khi kiểm tra trang chủ thì quý cửa hàng lại nghỉ định kỳ vào thứ Năm.\nTrên trang chủ có ghi nếu ngày nhận chìa khóa rơi vào ngày nghỉ định kỳ thì có thể nhận tại chi nhánh khác, nên trên đường đi làm về tôi muốn ghé chi nhánh Chuo Ekimae, xin hỏi liệu tôi có thể nhận chìa khóa ở đó được không?\nTôi rất mong nhận được phản hồi.\n\nKimura Yuri\n（Chú thích） Chìa khóa: Khóa.",
+    "questions": [
+      {
+        "id": "u125-1",
+        "prompt": "新居の鍵について、木村さんが問い合わせていることは何か。",
+        "choices": [
+          "3月19日の午後に青寺店で受け取れるか。",
+          "3月19日の午後に中央駅前店で受け取れるか。",
+          "3月20日の午前中に青寺店で受け取れるか。",
+          "3月20日の午前中に中央駅前店で受け取れるか。"
+        ],
+        "answer": "3月19日の午後に中央駅前店で受け取れるか。",
+        "explanation": "Trong thư Kimura muốn hỏi xem có thể nhận chìa khóa nhà mới tại chi nhánh Chuo Ekimae vào chiều ngày 19 tháng 3 (khi chi nhánh Aodera đóng cửa nghỉ định kỳ) hay không. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u126",
+    "passages": [
+      {
+        "text": "作家が小説を書くときは、頭の中に書いているシーンが「絵」や「映像」として浮かんでいます。そのシーンを言語化し、文字という記号にしているのです。読者は作家が書いた文字を読み、頭の中で想像しながら映像化します。そこで感情移入（注1）が起きて、笑ったり、涙したりしているのです。\n小説がベストセラー（注2）となり映画化されると「この配役じゃない（注3）」「そのシーンは違う」といった声がよく上がりますが、これは当たり前のことです。映画というのは監督が原作を読んでイメージを膨らませ、映像化した作品だからです。原作の小説は読者一人一人が作家からの記号（文字）を受け取って、それぞれが自由にシーンを思い浮かべています。\nフランスの哲学者ロラン・バルトはこの現象を「作者の死」と表現しました。\n「物語は作者の意図通りに読まなくてもいい。読者が好きな読み方をして、それぞれ解釈すればいい」\n「作者は作品を支配できず、読者に解釈を任せなければならない」\nロラン・バルトはそう主張しました。私たちは作品の解釈を作者に求めがちです。これは作者の意図を正確に読み取ろうという発想です。そうではなく、作品の解釈は読者それぞれでいい。読者それぞれが頭の中で好き勝手に映像化していいのです。\n（注1）感情移入：ここでは、登場人物と同じ気持ちになること\n（注2）ベストセラー：最もよく売れている本\n（注3）この配役じゃない：ここでは、演じている俳優がこの役合っていない"
+      }
+    ],
+    "translation": "Khi một nhà văn viết tiểu thuyết, khung cảnh đang viết nổi lên trong đầu họ như một bức tranh hay một thước phim. Họ ngôn ngữ hóa cảnh đó và biến nó thành các ký hiệu chữ viết. Người đọc đọc các chữ viết mà nhà văn sáng tạo ra, rồi vừa hình dung trong đầu vừa biến thành hình ảnh. Từ đó nảy sinh sự đồng cảm (chú thích 1), cười hay khóc.\nKhi một cuốn tiểu thuyết trở thành tác phẩm bán chạy (chú thích 2) và được dựng thành phim, thường hay xuất hiện những tiếng nói như “phân vai không đúng (chú thích 3)”, “cảnh đó khác trong truyện”. Nhưng đây là điều hiển nhiên. Phim ảnh là tác phẩm mà đạo diễn đọc nguyên tác, phát triển tưởng tượng và hình ảnh hóa nó. Còn tiểu thuyết nguyên tác thì từng người đọc nhận ký hiệu (chữ viết) từ nhà văn và tự do mường tượng ra các khung cảnh.\nNhà triết học người Pháp Roland Barthes gọi hiện tượng này là “cái chết của tác giả”.\n“Câu chuyện không cần phải đọc đúng theo ý đồ của tác giả. Người đọc có thể đọc theo cách mình thích và tự giải thích theo cách của riêng mình.”\n“Tác giả không thể chi phối tác phẩm mà phải giao quyền giải thích cho người đọc.”\nRoland Barthes đã khẳng định như vậy. Chúng ta thường có xu hướng tìm kiếm lời giải thích tác phẩm từ phía tác giả. Đó là tư duy muốn đọc hiểu chính xác ý đồ của tác giả. Nhưng không phải vậy, việc giải thích tác phẩm thuộc về mỗi người đọc. Mỗi người đọc hoàn toàn có thể tự do hình ảnh hóa theo ý thích trong đầu mình.\n（Chú thích 1） Đồng cảm: Ở đây chỉ việc có cùng cảm xúc với nhân vật.\n（Chú thích 2） Tác phẩm bán chạy: Cuốn sách bán chạy nhất.\n（Chú thích 3） Phân vai không đúng: Ở đây chỉ diễn viên không hợp vai.",
+    "questions": [
+      {
+        "id": "u126-1",
+        "prompt": "小説の読み方について、筆者はどのように述べているか。",
+        "choices": [
+          "作者の意図を読み取ろうという姿勢があれば、自由の解釈していい。",
+          "作者の意図を読み取るのは不可能なので、好きなように読めばいい。",
+          "作者の意図に縛られずに、作品の解釈を行えばいい。",
+          "作者の意図を想像しながら、読んだほうがいい。"
+        ],
+        "answer": "作者の意図に縛られずに、作品の解釈を行えばいい。",
+        "explanation": "Tác giả cho rằng độc giả không nên bị ràng buộc bởi ý đồ của tác giả mà nên tự do giải thích và cảm nhận tác phẩm theo cách của riêng mình. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u127",
+    "passages": [
+      {
+        "text": "以下は、ある会社の社内文書である。\n\n10月15日\n担当者各位\n商品管理部長\n\n納品時の確認について\n先週千川営業所で、注文とは違う商品を納品するというミスが発生しました。原因を調査したところ、当日、納品が重なったため、商品配送時の最終確認をしていなかったとのことです。\n最終確認では、倉庫から商品を取り出した人とは別の人が、注文書と商品の内容・個数に間違いがないか確認することになっています。\nどんな状況でもミスが起こらないように確認を徹底してください。\nよろしくお願いします。\n以上"
+      }
+    ],
+    "translation": "Dưới đây là văn bản lưu hành nội bộ của một công ty.\n\nNgày 15 tháng 10\nKính gửi Các cá nhân phụ trách\nTrưởng phòng Quản lý Sản phẩm\n\nVề việc kiểm tra khi giao hàng\nTuần trước tại văn phòng kinh doanh Senkawa đã xảy ra sự cố giao sai sản phẩm so với đơn đặt hàng. Qua điều tra nguyên nhân, do ngày hôm đó các đợt giao hàng dồn dập nên đã không tiến hành kiểm tra lần cuối khi vận chuyển sản phẩm.\nTheo quy định kiểm tra lần cuối, người khác với người lấy hàng ra khỏi kho phải kiểm tra đối chiếu xem nội dung và số lượng sản phẩm có khớp với đơn đặt hàng hay không.\nYêu cầu mọi người triệt để kiểm tra để không xảy ra sai sót trong bất kỳ tình huống nào.\nRất mong nhận được sự hợp tác.\nTrân trọng.",
+    "questions": [
+      {
+        "id": "u127-1",
+        "prompt": "社員が求められていることは何か。",
+        "choices": [
+          "ミスが起きた原因を調べ直すこと",
+          "最終確認をする人数を増やすこと",
+          "今までの最終確認の方法を見直すこと",
+          "決められている最終確認の方法を守ること"
+        ],
+        "answer": "決められている最終確認の方法を守ること",
+        "explanation": "Văn bản yêu cầu nhân viên tuân thủ triệt để phương pháp kiểm tra cuối cùng đã được quy định để đảm bảo không xảy ra sai sót. Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u128",
+    "passages": [
+      {
+        "text": "親子はもっとも身近でありながら、ときにもっとも遠くなってしまう存在かもしれない。私も母とは「わかり合えない」と悟った（注1）ときに、ある一定の距離ができたことは否めない（注2）。だが、そのことで愛情がなくなるとか、関係が冷えるとかそういう感覚は一切（注3）なかった。むしろ「わかり合えない」とわかることは相手を理解しようとするための最初の第一歩ではないかと思う。もし「子どものことはなんでも自分が一番よくわかっている」と思っている親がいるとしたら、それはとても怖いことだと思う。\n（注1）悟る：気づく\n（注2）否めない：否定できない\n（注3）一切：全く"
+      }
+    ],
+    "translation": "Cha mẹ và con cái tuy là sự tồn tại thân thiết nhất nhưng đôi khi lại trở nên xa cách nhất. Khi bản thân tôi nhận ra (chú thích 1) “không thể thấu hiểu hoàn toàn” với mẹ mình, không thể phủ nhận (chú thích 2) rằng giữa hai người đã nảy sinh một khoảng cách nhất định. Thế nhưng điều đó hoàn toàn (chú thích 3) không có nghĩa là tình cảm biến mất hay mối quan hệ trở nên lạnh nhạt. Trái lại, tôi nghĩ việc nhận ra “không thể thấu hiểu hoàn toàn” chính là bước đi đầu tiên để cố gắng hiểu đối phương. Nếu có cha mẹ nào nghĩ rằng “mọi chuyện của con cái bản thân mình là người hiểu rõ nhất” thì tôi nghĩ đó là một điều rất đáng sợ.\n（Chú thích 1） Nhận ra: Nhận thức/thấu hiểu.\n（Chú thích 2） Phủ nhận: Không thể phủ định.\n（Chú thích 3） Hoàn toàn: Hoàn toàn không.",
+    "questions": [
+      {
+        "id": "u128-1",
+        "prompt": "親子について、筆者はどのように考えているか。",
+        "choices": [
+          "わかり合えないと思うところから、お互いの理解が始まる。",
+          "わかり合えないということに、お互いが気づくのは難しい。",
+          "わかり合うためには、一定の距離を保つことが大切だ。",
+          "身近な存在だからこそ、いつかはわかり合えるものだ。"
+        ],
+        "answer": "わかり合えないと思うところから、お互いの理解が始まる。",
+        "explanation": "Tác giả cho rằng từ việc nhận ra không thể thấu hiểu hoàn toàn đối phương thì sự thấu hiểu lẫn nhau mới thực sự bắt đầu. Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u129",
+    "passages": [
+      {
+        "text": "人間は「私」として生きるのですが、よく言われるように「私」とは、「あなた」がいて初めてその像を結びます（注）。これは、「他人の評価によって自分が決まる」ということではなく、「他人と自分の違いを通して初めて、自分というものがどういうものかがわかる」ということです。他人との好みの違いや意見の対立。そういったものをとおして初めて、自分とは何が好きで何が嫌いで何を支えにしているのかがわかるということです。それは、他者との付き合いなしに生まれることはありません。\n（注）像を結ぶ：ここでは、姿がわかる"
+      }
+    ],
+    "translation": "Con người sống với tư cách là “chính mình”, nhưng như thường được nói, “chính mình” chỉ hình thành nên diện mạo (chú thích) khi có “bạn”. Điều này không có nghĩa là “bản thân được quyết định bởi sự đánh giá của người khác”, mà là “thông qua sự khác biệt giữa người khác và bản thân, ta mới lần đầu tiên hiểu được bản thân mình là người như thế nào”. Sự khác biệt về sở thích hay sự đối lập về ý kiến với người khác. Chính qua những điều đó ta mới biết bản thân thích gì, ghét gì, lấy điều gì làm điểm tựa. Điều đó không bao giờ tự sinh ra nếu không có sự giao tiếp ứng xử với người khác.\n（Chú thích） Diện mạo hình thành: Ở đây chỉ việc hình dáng/bản chất hiện rõ ra.",
+    "questions": [
+      {
+        "id": "u129-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "自分がどういう人間かは、他者とのかかわりがなければわからない。",
+          "相手がどういう人間かは、自分との好みの違いを知ればわかる。",
+          "他者からの評価がなければ、自分がどういう人間かわからない。",
+          "他者との付き合いを通して、自分への評価がわかる。"
+        ],
+        "answer": "自分がどういう人間かは、他者とのかかわりがなければわからない。",
+        "explanation": "Tác giả nhấn mạnh rằng để biết bản thân là người như thế nào thì bắt buộc phải thông qua sự tương tác giao tiếp với người khác. Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u130",
+    "passages": [
+      {
+        "text": "水石食品 商品開発部\n田中由夏様\n\n昨日は「水石りんごジャム」のサンプルをお届けいただき、ありがとうございました。本日試食をし、予定どおり来月から朝食で提供することにいたしました。\nまた、お客様から名産のりんごを使ったお土産がないかたびたびご質問を受けますので、このジャムを売店でも販売したいと考えております。同じ時期に販売を開始したいと思っておりますが、ご対応いただけるでしょうか。\nご検討いただきたく、どうぞよろしくお願いいたします。\n\n水石温泉ホテル営業部\n島本洋太"
+      }
+    ],
+    "translation": "Phòng Phát triển Sản phẩm - Công ty Thực phẩm Mizuishi\nKính gửi Cô Tanaka Yuka\n\nCảm ơn cô đã gửi mẫu thử “Mứt táo Mizuishi” ngày hôm qua. Hôm nay chúng tôi đã nếm thử và quyết định phục vụ trong bữa sáng từ tháng sau đúng như kế hoạch.\nNgoài ra, do thường xuyên nhận được câu hỏi từ khách hàng về quà tặng làm từ táo đặc sản, nên chúng tôi muốn bán loại mứt này tại quầy bán hàng lưu niệm. Chúng tôi muốn bắt đầu bán vào cùng thời điểm, xin hỏi quý công ty có thể đáp ứng được không?\nKính mong cô xem xét và phản hồi.\n\nPhòng Kinh doanh Khách sạn Suiseki Onsen\nShimamoto Yota",
+    "questions": [
+      {
+        "id": "u130-1",
+        "prompt": "このメールで問い合わせていることは何か。",
+        "choices": [
+          "来月から「水石りんごジャム」をホテルの朝食で提供できるか。",
+          "来月から販売予定の「水石りんごジャム」は、名産のりんごを使っているか。",
+          "来月までに名産のりんごを使った新しい土産品が作れるか。",
+          "売店で販売するための「水石りんごジャム」を、来月から納品できるか。"
+        ],
+        "answer": "売店で販売するための「水石りんごジャム」を、来月から納品できるか。",
+        "explanation": "Trong email Khách sạn Suiseki Onsen hỏi xem phía công ty thực phẩm có thể cung cấp thêm mứt táo Mizuishi để bán tại quầy lưu niệm từ tháng sau hay không. Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u131",
+    "passages": [
+      {
+        "text": "ラジオというのはながら聴きができるところが好きだった。何か他のことをしながら聴く。いい音楽や話があると、それが突然まるでボリュームが上がったように大きく聴こえ、そこから頭の中に空想の世界が浮かびだす。ラジオは余白のあるメディア（注1）だ。音しかそこには存在しないわけで、そこから先は聞き手である自分たちの手に委ねられる（注2）。まるで本で読む小説のように。与えられる情報が少ないほど、ある意味、自由度が高い。\n（注1）メディア：情報を伝えるもの\n（注2）委ねる：任せる"
+      }
+    ],
+    "translation": "Với đài phát thanh (radio), tôi thích ở điểm có thể vừa làm việc khác vừa nghe. Vừa làm việc vừa nghe, khi có âm nhạc hay câu chuyện hay vang lên, nó đột nhiên nghe to như thể âm lượng vừa được vặn lớn, và từ đó thế giới tưởng tượng hiện lên trong đầu. Radio là một phương tiện truyền thông (chú thích 1) có nhiều khoảng trống. Bởi ở đó chỉ tồn tại âm thanh, còn từ đó trở đi đều giao phó (chú thích 2) cho đôi tay người nghe như chúng ta. Giống như một cuốn tiểu thuyết đọc trong sách. Thông tin được cung cấp càng ít thì theo một nghĩa nào đó mức độ tự do càng cao.\n（Chú thích 1） Phương tiện truyền thông: Thứ truyền tải thông tin.\n（Chú thích 2） Giao phó: Giao cho/phó mặc.",
+    "questions": [
+      {
+        "id": "u131-1",
+        "prompt": "ラジオについて、筆者はどのように考えているか。",
+        "choices": [
+          "他のことをしながら聴け、時間が有効に使える。",
+          "いい音楽や話が聴け、自由が感じられる。",
+          "音以外の情報がなく、自由に空想が広がりやすい。",
+          "目からの情報がなく、小説より自由に空想ができる。"
+        ],
+        "answer": "音以外の情報がなく、自由に空想が広がりやすい。",
+        "explanation": "Tác giả cho rằng vì đài phát thanh chỉ có âm thanh mà không có hình ảnh nên người nghe có thể tự do mở rộng thế giới tưởng tượng trong đầu. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u132",
+    "passages": [
+      {
+        "text": "6月10日\n坂元ガスをご利用のお客様へ\n坂元ガス株式会社\n使用量および料金の通知について\n\nいつも坂元ガスをご利用いただき、ありがとうございます。\nこれまで月々のガスの使用量と料金は、紙の通知書でお伝えしていましたが、資源節約のため8月末で廃止いたします。\n9月以降、使用量と料金の確認は、ウェブ会員サービス「サカモト・ガスネット」をご利用ください。引き続き通知書をご希望のお客様には郵送でお届けいたしますが、手数料180円/月をご負担いただきます。\nなお、「サカモト・ガスネット」のご利用方法、および通知書を希望される場合のお申し込み方法は、7月中にお知らせいたします。\nご理解、ご協力をお願い申し上げます。\nこの件に関するお問い合わせ先\nウェブサイト：http://www.paperless.sakamoto_gas.co\n電話：062-664-3169（受付時間 月〜土 9:00〜18:00）"
+      }
+    ],
+    "translation": "Ngày 10 tháng 6\nKính gửi Quý khách hàng sử dụng dịch vụ Gas Sakamoto\nCông ty Cổ phần Gas Sakamoto\nVề việc thông báo lượng sử dụng và cước phí\n\nCảm ơn quý khách đã luôn sử dụng dịch vụ Gas Sakamoto.\nTừ trước đến nay lượng gas sử dụng và cước phí hàng tháng được thông báo qua giấy, tuy nhiên để tiết kiệm tài nguyên chúng tôi sẽ chấm dứt hình thức này vào cuối tháng 8.\nTừ tháng 9 trở đi, để kiểm tra lượng sử dụng và cước phí, xin quý khách sử dụng dịch vụ thành viên web “Sakamoto Gasnet”. Những khách hàng tiếp tục có nhu cầu nhận giấy thông báo sẽ được gửi qua bưu điện, tuy nhiên sẽ phải chịu khoản phí 180 yên/tháng.\nChi tiết cách sử dụng “Sakamoto Gasnet” cũng như cách đăng ký nhận giấy thông báo sẽ được thông báo trong tháng 7.\nRất mong nhận được sự hiểu và hợp tác.\nLiên hệ về vấn đề này:\nWebsite: http://www.paperless.sakamoto_gas.co\nSĐT: 062-664-3169 (Giờ tiếp nhận: Thứ 2 - Thứ 7 từ 9:00 đến 18:00)",
+    "questions": [
+      {
+        "id": "u132-1",
+        "prompt": "ガスの使用量と料金の通知について、このお知らせで伝えたいことは何か。",
+        "choices": [
+          "7月中にウェブ会員サービスの申し込みを始めるので、登録してほしい。",
+          "8月末で使用量と料金の通知を終了するので、知りたい場合は連絡してほしい。",
+          "9月から新しい形式の紙の通知書を郵送するので、手数料を負担してほしい。",
+          "9月から紙の通知書を有料にするので、無料で確認したい場合はウェブで確認してほしい。"
+        ],
+        "answer": "9月から紙の通知書を有料にするので、無料で確認したい場合はウェブで確認してほしい。",
+        "explanation": "Thông báo truyền đạt việc từ tháng 9 giấy thông báo cước phí sẽ mất phí, do đó nếu muốn kiểm tra miễn phí thì nên chuyển sang kiểm tra trên trang web. Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u133",
+    "passages": [
+      {
+        "text": "仕事というものは、自分の専門分野のことだけ考えればよいのではなく、専門を超えてどんな影響を与えあうか考え調整しながらやるべきものである。自部門に余裕があれば、忙しい他部門を手伝ってあげるべきだが、誰もそう言った具合には考えない。そして、いつのまにか自分の城を築き、守りに入る。これでは「会社」ではない。会社は、そこで働く普通の人たちの力が、みんなで働くことによって何倍にも大きくなり、個人では成しえない（注）ような偉大なことを行う場所である。\n（注）成す：ここでは、達成する"
+      }
+    ],
+    "translation": "Công việc không phải chỉ cần suy nghĩ về lĩnh vực chuyên môn của bản thân là đủ, mà phải vừa suy nghĩ điều chỉnh xem nó sẽ gây ảnh hưởng tương hỗ như thế nào vượt qua cả ranh giới chuyên môn. Nếu bộ phận mình có thời gian rảnh thì nên giúp đỡ các bộ phận khác đang bận rộn, nhưng không ai suy nghĩ theo hướng đó. Và thế là nhận ra người ta tự xây dựng lâu đài riêng rồi thu mình phòng thủ. Như vậy thì không phải là “công ty”. Công ty là nơi sức mạnh của những con người bình thường làm việc ở đó được nhân lên gấp nhiều lần nhờ làm việc cùng nhau, để thực hiện những điều vĩ đại mà một cá nhân không thể tự mình đạt được (chú thích).\n（Chú thích） Đạt được: Ở đây chỉ sự hoàn thành/đạt được.",
+    "questions": [
+      {
+        "id": "u133-1",
+        "prompt": "会社について、筆者はどのように述べているか。",
+        "choices": [
+          "各部門の仕事量に差があると、会社は発展していかない。",
+          "部門を分けな方が、会社は大きな成果を上げられる。",
+          "部門内で助け合って仕事をしていれば、社内の雰囲気もよくなる。",
+          "部門同士が互いのことを考えて仕事をしなければ、会社とはいえない。"
+        ],
+        "answer": "部門同士が互いのことを考えて仕事をしなければ、会社とはいえない。",
+        "explanation": "Tác giả nhấn mạnh công ty phải là nơi các bộ phận suy nghĩ cho nhau và hợp tác cùng nhau chứ không chỉ thủ giữ bộ phận mình. Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u134",
+    "passages": [
+      {
+        "text": "「他人は自分を映す鏡（注1）」といいます。こちらが気がね（注1）をして本音（注2）を話さなければ、相手も本心（注3）を口にしてくれることはありません。そんなふうにお互いの本音がわからないままでは、コミュニケーションもギクシャクした（注4）ものになってしまいます。\n「嫌われてしまうかも」と自分を抑えるのではなく、「私の本心を話してみよう」「どんな言い方をしたらわかってもらえるかな」と考えてみてください。\nそんな自分への問いかけが小さな勇気となり、よりよい人間関係をつくる力になっていくと思います。\n（注1）気がね：遠慮\n（注2）本音：ありのままの気持ち\n（注3）本心：本当の気持ち\n（注4）ギクシャクした：スムーズにいかない"
+      }
+    ],
+    "translation": "Người ta thường nói “Người khác là tấm gương phản chiếu chính mình”. Nếu bản thân ta giữ kẽ (chú thích 1) không nói ra thật lòng (chú thích 2) thì đối phương cũng không bao giờ bộc lộ lòng mình (chú thích 3). Nếu cứ để hai bên không hiểu được suy nghĩ thật của nhau như vậy thì giao tiếp cũng sẽ trở nên gượng gạo (chú thích 4).\nThay vì kìm hãm bản thân vì sợ “có thể bị ghét”, hãy thử suy nghĩ rằng “mình hãy nói ra thật lòng xem sao”, “nói theo cách nào thì người ta sẽ hiểu cho mình nhỉ”.\nTôi tin rằng việc tự vấn bản thân như vậy sẽ trở thành lòng dũng cảm nhỏ bé, tiếp thêm sức mạnh để xây dựng mối quan hệ con người tốt đẹp hơn.\n（Chú thích 1） Giữ kẽ: E ngại, ngần ngừ.\n（Chú thích 2） Thật lòng: Cảm xúc chân thật không giấu giếm.\n（Chú thích 3） Lòng mình: Cảm xúc thật sự.\n（Chú thích 4） Gượng gạo: Không suôn sẻ.",
+    "questions": [
+      {
+        "id": "u134-1",
+        "prompt": "自分と他者との関係について、筆者はどのように考えているか。",
+        "choices": [
+          "本当の気持ちを理解し合おうとすれば、より深い関係が築ける。",
+          "自分から本当の気持ちを伝える努力をすれば、相手とよい関係が築ける。",
+          "相手の本当の気持ちを理解しようとすれば、自分の気持ちも理解してもらえる。",
+          "よい関係ができていれば、自分の本当の気持ちを伝えても嫌われることはない。"
+        ],
+        "answer": "自分から本当の気持ちを伝える努力をすれば、相手とよい関係が築ける。",
+        "explanation": "Tác giả khuyên nên nỗ lực chủ động bộc lộ cảm xúc thật của mình với đối phương thay vì e ngại, từ đó xây dựng mối quan hệ tốt đẹp hơn. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u135",
+    "passages": [
+      {
+        "text": "以下は、マンションの駐輪場に貼られていたお知らせである。\n\n9月1日\nマンション森村ご入居の皆様\nマンション森村管理会社\n\n自転車の移動について\n現在、長期間使われていない自転車が多く、駐輪場が使いにくくなっております。\nそのため、これらの自転車を市の不要自転車置き場に移動することにします。\n9月8日から駐輪場のすべての自転車に目印の紙をつけておきますので、ご使用中のものは、30日までにご自身でその紙を外してください。10月1日以降に紙が残っているものは、移動します。\n移動後の自転車の返却には対応できません。ご理解をお願いいたします。\n\nどうぞよろしくお願いいたします。\n問い合わせ先：038-359-8688（担当：黒田）"
+      }
+    ],
+    "translation": "Dưới đây là thông báo dán tại bãi đỗ xe đạp của một tòa chung cư.\n\nNgày 1 tháng 9\nKính gửi Quý cư dân chung cư Morimura\nCông ty Quản lý Chung cư Morimura\n\nVề việc di dời xe đạp\nHHiện tại có nhiều xe đạp không được sử dụng trong thời gian dài khiến bãi đỗ xe trở nên bất tiện.\nDo đó, chúng tôi quyết định di dời những xe đạp này đến bãi đỗ xe đạp không dùng của thành phố.\nTừ ngày 8 tháng 9, chúng tôi sẽ dán giấy đánh dấu lên tất cả xe đạp trong bãi đỗ, vì vậy nếu xe đạp vẫn đang sử dụng xin vui lòng tự gỡ tờ giấy đó ra trước ngày 30 tháng 9. Từ ngày 1 tháng 10 trở đi những xe vẫn còn dán giấy sẽ bị di dời.\nChúng tôi không chịu trách nhiệm trả lại xe đạp sau khi đã di dời. Rất mong quý cư dân hiểu và hợp tác.\n\nXin chân thành cảm ơn.\nLiên hệ: 038-359-8688 (Người phụ trách: Kuroda)",
+    "questions": [
+      {
+        "id": "u135-1",
+        "prompt": "このお知らせで伝えたいことは何か。",
+        "choices": [
+          "自転車がまだ使用中であれば、9月30日までに紙の印を外してほしい。",
+          "自転車がまだ使用中であれば、10月1日以降に紙の印を外してほしい。",
+          "捨ててもいい自転車であれば、9月30日までに紙の印をつけてほしい。",
+          "捨ててもいい自転車であれば、9月30日までに紙の印を外してほしい。"
+        ],
+        "answer": "自転車がまだ使用中であれば、9月30日までに紙の印を外してほしい。",
+        "explanation": "Thông báo yêu cầu cư dân nếu xe đạp vẫn còn sử dụng thì phải tự gỡ tờ giấy đánh dấu ra trước ngày 30 tháng 9. Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u136",
+    "passages": [
+      {
+        "text": "市場（注）は、モノのつくり手と買い手がただ集まる場ではない。そこでは、単にモノの売り買いだけでなく、つくり手と買い手の間でいろいろな情報の交流がある。何よりもそこに惹かれる（注）て、人々は市場に集まるのである。つくり手は、モノの出来・不出来、つまり品質への客の評価を直接聞ける。つくったモノがよかったのかどうか、振り返る機会になる。また、どんなものが欲しいのかといった、それぞれの客の好みもわかってくる。\n（注）惹かれる：魅力を感じる"
+      }
+    ],
+    "translation": "Chợ (chú thích) không chỉ đơn thuần là nơi người sản xuất và người mua hàng tập trung lại. Ở đó không chỉ có việc mua bán hàng hóa mà còn có sự trao đổi thông tin đa dạng giữa người sản xuất và người mua. Người ta tìm đến chợ trước hết là vì bị thu hút (chú thích) bởi điều đó. Người sản xuất có thể trực tiếp lắng nghe đánh giá của khách hàng về chất lượng hàng hóa xấu hay tốt. Đó là cơ hội để nhìn nhận lại sản phẩm mình làm ra có tốt hay không. Ngoài ra cũng hiểu được sở thích riêng của từng khách hàng như họ đang muốn món đồ như thế nào.\n（Chú thích） Thu hút: Cảm thấy có sức hấp dẫn.",
+    "questions": [
+      {
+        "id": "u136-1",
+        "prompt": "筆者によると、人々はなぜ市場に集まるか。",
+        "choices": [
+          "好きなモノの売り買いができるから",
+          "情報のやり取りができるから",
+          "いろいろな人に会える場だから",
+          "場の楽しい雰囲気が好きだから"
+        ],
+        "answer": "情報のやり取りができるから",
+        "explanation": "Tác giả giải thích mọi người tập trung ở chợ chính là vì có thể trao đổi nhiều thông tin giữa người bán và người mua. Đáp án đúng là lựa chọn 2."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u137",
+    "passages": [
+      {
+        "text": "セカノ株式会社\n販売課 若村健次様\n\nいつもお世話になっております。\n11月10日に納品していただくコピー機の見積もり書を受け取りました。\n内容を確認しましたところ、商品代金とは別に設置費用が含まれています。\n11月中は設置費用が無料となるサービス期間のため、支払いは必要なかったのではないでしょうか。ご確認のうえ電話かメールで至急ご連絡いただきたく、お願いいたします。\nコピー機の納品は予定どおりお願いいたします。\n\n春下商事\n営業課 月島良子\nryoko_tsukishima@harushita.co.jp"
+      }
+    ],
+    "translation": "Công ty Cổ phần Sekano\nPhòng Bán hàng - Kính gửi Anh Wakamura Kenji\n\nCảm ơn anh đã luôn hỗ trợ.\nTôi đã nhận được bản báo giá máy máy photo sẽ giao vào ngày 10 tháng 11.\nQua kiểm tra nội dung, tôi thấy có bao gồm chi phí lắp đặt tách biệt với tiền hàng.\nDo trong tháng 11 đang là thời gian khuyến mãi miễn phí chi phí lắp đặt, nên có lẽ không cần phải thanh toán khoản này đúng không anh? Nhờ anh kiểm tra lại và gấp rút liên hệ lại với tôi qua điện thoại hoặc email.\nViệc giao máy photo xin vẫn tiến hành theo đúng kế hoạch.\n\nCông ty Thương mại Harushita\nPhòng Kinh doanh - Tsukishima Ryoko\nryoko_tsukishima@harushita.co.jp",
+    "questions": [
+      {
+        "id": "u137-1",
+        "prompt": "このメールで問い合わせていることは何か。",
+        "choices": [
+          "11月10日にコピー機を納品できるかどうか。",
+          "サービス期間はいつ終了するのか。",
+          "設置費用を支払う必要があるかどうか。",
+          "商品代金について、いつ連絡をもらえるのか。"
+        ],
+        "answer": "設置費用を支払う必要があるかどうか。",
+        "explanation": "Trong email cô Tsukishima hỏi xem có cần phải trả chi phí lắp đặt máy photo hay không vì thời điểm này thuộc đợt khuyến mãi miễn phí lắp đặt. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u138",
+    "passages": [
+      {
+        "text": "誰かの才能というものを人はふつうどういうときに感じるだろうか。何かすばらしい作品、何かすぐれた仕事や処理を見たときだ。才能がある人物を目にしたときに、オーラ（注1）のようなものが見えてその人に才能があると確信するわけではない。だから、現実の成果や行動を見て、そのすばらしい結果の前提として才能があったはずだと類推して（注2）いるわけだ。したがって、前もって（注3）才能があるとかないとか決して言うことはできない。\n（注1）オーラ：ここでは、独特な雰囲気\n（注2）類推する：ここでは、判断する\n（注3）前もって：事前に"
+      }
+    ],
+    "translation": "Thường thì con người ta cảm nhận được tài năng của ai đó vào những lúc nào? Đó là khi nhìn thấy một tác phẩm tuyệt vời, hay một công việc, sự xử lý xuất sắc. Không phải cứ nhìn thấy một người có tài năng là ta thấy được khí chất (chú thích 1) hào quang xung quanh để khẳng định ngay người đó có tài. Cho nên người ta phải nhìn vào thành quả hay hành động thực tế, từ đó suy đoán (chú thích 2) rằng tiền đề của kết quả tuyệt vời đó chắc hẳn phải do có tài năng. Do đó, tuyệt đối không thể nói trước (chú thích 3) một người có tài năng hay không.\n（Chú thích 1） Hào quang/Khí chất: Ở đây chỉ bầu không khí độc đáo.\n（Chú thích 2） Suy đoán: Ở đây chỉ việc đánh giá/phán đoán.\n（Chú thích 3） Nói trước: Từ trước/trước khi có kết quả.",
+    "questions": [
+      {
+        "id": "u138-1",
+        "prompt": "才能について、筆者の考えに合うのはどれか。",
+        "choices": [
+          "結果にかかわらず、才能のある人は雰囲気から感じ取れる。",
+          "独特な雰囲気があって結果も出していれば、才能があると言える。",
+          "人の才能の有無は結果だけでは判断できない。",
+          "人の才能の有無は結果を見なければ判断できない。"
+        ],
+        "answer": "人の才能の有無は結果を見なければ判断できない。",
+        "explanation": "Tác giả khẳng định chỉ có thể đánh giá một người có tài năng hay không sau khi đã nhìn thấy thành quả/kết quả thực tế mà họ tạo ra. Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u139",
+    "passages": [
+      {
+        "text": "名文（注1）を書くためには豊富な語彙（注2）があったほうがいいかといえば、そうでもありません。あまり聞かない言葉をわざわざ使わなくても、自分の気持ちや考え、状況を読み手に伝えることは十分にできます。変に凝った言葉を使うと、かえって伝わりません。\nたとえば、「悲しい」を表す二字熟語には「悲痛」「哀痛」「痛惜」などがあります。でも、ことさら（注3）に「悲痛の思い」などと言わなくても、「本当に悲しい」で通じるなら、それで十分です。\n（注1）名文：優れた文章\n（注2）語彙：ここでは、言葉\n（注3）ことさら：わざわざ"
+      }
+    ],
+    "translation": "Nói về việc để viết được một bài văn hay (chú thích 1) có cần vốn từ vựng (chú thích 2) phong phú hay không thì không hẳn như vậy. Không cần cố tình dùng những từ ngữ hiếm nghe, ta vẫn hoàn toàn có thể truyền tải cảm xúc, suy nghĩ hay hoàn cảnh của mình tới người đọc. Nếu dùng những từ ngữ cầu kỳ một cách gượng ép thì ngược lại càng khó truyền đạt.\nChẳng hạn, các từ ghép hai chữ Hán biểu thị “đau buồn” gồm có “bi thống”, “ai thống”, “thống tiếc”... Nhưng không cần cố tình (chú thích 3) dùng những từ như “nỗi niềm bi thống”, nếu nói “thực sự đau buồn” mà người ta vẫn hiểu được thì như vậy là quá đủ rồi.\n（Chú thích 1） Bài văn hay: Văn bản xuất sắc.\n（Chú thích 2） Vốn từ vựng: Ở đây chỉ từ ngữ.\n（Chú thích 3） Cố tình: Cố ý/cố công.",
+    "questions": [
+      {
+        "id": "u139-1",
+        "prompt": "優れた文章を書くときの言葉について、筆者はどのように考えているか。",
+        "choices": [
+          "気持ちや考えを伝えるときに使える言葉をたくさん知っていたほうがいい。",
+          "伝えたい内容に応じて、異なる種類の言葉を使い分けたほうがいい。",
+          "難しい言葉を無理に使うのではなく、日常でよく使われる言葉を使えばいい。",
+          "二字熟語は完全に避けるのではなく、必要に応じて使えばいい。"
+        ],
+        "answer": "難しい言葉を無理に使うのではなく、日常でよく使われる言葉を使えばいい。",
+        "explanation": "Tác giả cho rằng khi viết văn hay không cần ép buộc dùng từ ngữ khó mà nên sử dụng những từ ngữ thông dụng hàng ngày miễn sao truyền tải được ý nghĩa. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u140",
+    "passages": [
+      {
+        "text": "ときどき自分の来た道を振り返って確かめるということは大事なことですし、あまりに世間のみなさんが「先へ、先へ」となっているのを見ると、あえて「私は後ろに行ってみようかな」という気になってしまうのです。\n今、時代はちょっと恐ろしいほどに、みんなが「便利」という方向に向かっている。だからこそ、なるべく前に行きたくないというのが気分としてあるのでしょう。\nアナログなものが私を「危ない、危ない」と、呼び止めるのです。それが「後ろへ来いよ、来いよ」と言ってるような気がするのです。"
+      }
+    ],
+    "translation": "Đôi khi việc ngoảnh lại nhìn kiểm tra con đường mình đã đi qua là điều quan trọng, và khi thấy mọi người trong xã hội chạy đua “tiến về phía trước, tiến về phía trước”, tôi lại cố tình cảm thấy “hay là mình đi giật lùi về phía sau nhỉ”.\nHiện nay, thời đại đang hướng về hướng “tiện lợi” đến mức đáng sợ. Chính vì thế, trong lòng tôi mới nảy sinh cảm giác không muốn tiến quá nhanh về phía trước.\nNhững thứ mang tính hoài cổ (analog) kéo tôi dừng lại và gọi “nguy hiểm đấy, nguy hiểm đấy”. Tôi cảm thấy như thể nó đang bảo “hãy quay về phía sau này, về phía sau này”.",
+    "questions": [
+      {
+        "id": "u140-1",
+        "prompt": "筆者の考えに合うのはどれか。",
+        "choices": [
+          "時代の変化を恐れず、常に先を目指して進むべきだ。",
+          "便利さを追求するあまり、大切な過去を忘れるべきではない。",
+          "便利さより不便さを楽しむ生き方が望ましい。",
+          "自分の歩んできた道を振り返り、立ち止まることも大切だ。"
+        ],
+        "answer": "自分の歩んできた道を振り返り、立ち止まることも大切だ。",
+        "explanation": "Tác giả nhấn mạnh tầm quan trọng của việc đôi khi ngoảnh lại nhìn nhận con đường mình đã đi qua và chậm lại thay vì cuốn theo đà chạy đuổi theo sự tiện lợi của thời đại. Đáp án đúng là lựa chọn 4."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u141",
+    "passages": [
+      {
+        "text": "漫画で学ぶビジネス書\n近年、社会人の学びを目的としたビジネス書の分野で、漫画形式のものが多く出版されるようになった。経済、経営、IT、法律、心理学、哲学など、様々な分野のものがあり、入門者にもわかりやすいと人気だ。難しい専門的な内容も、漫画だとわかりやすいと感じる。これはなぜか。"
+      }
+    ],
+    "translation": "Sách kinh doanh học qua truyện tranh\nNhững năm gần đây, trong lĩnh vực sách kinh doanh phục vụ việc học tập của người đi làm, các đầu sách dạng truyện tranh bắt đầu được xuất bản rất nhiều. Có đa dạng các lĩnh vực như kinh tế, quản trị, IT, luật pháp, tâm lý học, triết học... và rất được ưa chuộng vì người mới bắt đầu cũng thấy dễ hiểu. Ngay cả những nội dung chuyên môn phức tạp, nếu trình bày bằng truyện tranh người ta vẫn cảm thấy dễ hiểu. Tại sao lại như vậy?",
+    "questions": [
+      {
+        "id": "u141-1",
+        "prompt": "漫画形式のビジネス書について、文章で述べられていることは何か。",
+        "choices": [
+          "専門知識がない人でも理解しやすい。",
+          "文字だけの本よりも短時間で読める。",
+          "若者の間で最も人気があるビジネス書だ。",
+          "専門家によって書かれた本が多い。"
+        ],
+        "answer": "専門知識がない人でも理解しやすい。",
+        "explanation": "Đoạn văn nêu rõ sách kinh doanh dạng truyện tranh được ưa chuộng vì ngay cả những người mới nhập môn (chưa có kiến thức chuyên môn) cũng dễ dàng hiểu được nội dung phức tạp. Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u142",
+    "passages": [
+      {
+        "text": "以下は、ある出版社の編集部から届いたメールである。\n\nAGR出版 編集部 川波敬一\n青山様\n\n先日はお忙しい中、原稿のご確認をいただきありがとうございました。\nご指摘いただいた図表の誤りについて、修正が完了いたしましたのでお知らせいたします。\nつきましては、修正後の図表を添付いたしましたので、ご確認いただけますでしょうか。\nなお、問題がなければそのまま印刷に進めますので、ご連絡いただけますと幸いです。\nどうぞよろしくお願いいたします。"
+      }
+    ],
+    "translation": "Dưới đây là thư điện tử từ bộ phận biên tập của một nhà xuất bản.\n\nNhà xuất bản AGR - Bộ phận Biên tập: Kawanami Keiichi\nKính gửi Anh Aoyama\n\nCảm ơn anh đã dành thời gian bận rộn để kiểm tra bản thảo vừa qua.\nChúng tôi xin thông báo đã hoàn tất việc chỉnh sửa các lỗi sai ở sơ đồ/bảng biểu mà anh đã chỉ ra.\nTheo đó, chúng tôi có đính kèm sơ đồ/bảng biểu sau khi chỉnh sửa, nhờ anh kiểm tra giúp.\nNgoài ra, nếu không còn vấn đề gì chúng tôi sẽ tiến hành in ấn ngay, nên rất mong nhận được phản hồi từ anh.\nTrân trọng.",
+    "questions": [
+      {
+        "id": "u142-1",
+        "prompt": "このメールを受け取ったあとで、青山さんがまずしなければならないことは何か。",
+        "choices": [
+          "新しいグラフを作成する。",
+          "新しく作成されたグラフを確認する。",
+          "誤りのあった図表の修正を確認する。",
+          "誤りのあった図表を再度修正する。"
+        ],
+        "answer": "誤りのあった図表の修正を確認する。",
+        "explanation": "Sau khi nhận email, việc Aoyama phải làm ngay là kiểm tra lại việc chỉnh sửa sơ đồ/bảng biểu bị lỗi mà người gửi đính kèm. Đáp án đúng là lựa chọn 3."
+      }
+    ],
+    "level": "N2"
+  },
+  {
+    "id": "u143",
+    "passages": [
+      {
+        "text": "私達には、責任を果たすために、他者を頼らなければならないときがある。武器それ自体は責任から逃れる（注）ことではない。仕事・家事・育児を抱え込み、壊れそうになりながら日々を生き抜いている人は、その責任を果たすために、他者の手を借りるべきなのだ。それは恥ずかしいことではない。責任の主体として、誇り高く、胸を張って生きるべきである。\n（注）逃れる：逃げる"
+      }
+    ],
+    "translation": "Có những lúc chúng ta phải cậy nhờ người khác để hoàn thành trách nhiệm của mình. Và điều đó không có nghĩa là trốn tránh (chú thích) trách nhiệm. Những người đang vất vả gánh vác công việc, việc nhà, nuôi dạy con cái và kiệt sức sinh tồn từng ngày nên mượn bàn tay của người khác để hoàn thành trách nhiệm ấy. Đó không phải là điều đáng hổ thẹn. Với tư cách là chủ thể trách nhiệm, hãy sống một cách tự hào và ngẩng cao đầu.\n（Chú thích） Trốn tránh: Chạy trốn.",
+    "questions": [
+      {
+        "id": "u143-1",
+        "prompt": "筆者が言いたいことは何か。",
+        "choices": [
+          "自分の責任を果たすために他者を頼ることを、恥ずかしいと思う必要はない。",
+          "多くのことを抱え込んでいるときは、他者に責任を果たしてもらえばいい。",
+          "他者を頼ることより、自分の責任が果たせないことのほうが恥ずかしいことである。",
+          "他者に頼らず自分の責任を果たすことができたら、誇りを持つべきである。"
+        ],
+        "answer": "自分の責任を果たすために他者を頼ることを、恥ずかしいと思う必要はない。",
+        "explanation": "Tác giả nhấn mạnh việc cậy nhờ người khác giúp đỡ để hoàn thành trách nhiệm của mình hoàn toàn không phải là điều đáng hổ thẹn. Đáp án đúng là lựa chọn 1."
+      }
+    ],
+    "level": "N2"
   }
 ]

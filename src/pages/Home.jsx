@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <section className="home">
       <h1>NIHONGO <span>N2</span></h1>
-      <p className="sub">Tổng hợp toàn bộ đề thi JLPT N2 từ 2010-2026</p>
+      <p className="sub">Tổng hợp GẦN đầy đủ đề thi JLPT N2 từ 2010-2026</p>
       <div className="random">
         <button className="btn primary big" onClick={playRandom}>🎲 Chơi ngẫu nhiên</button>
         <Link className="btn big exam-link" to="/thi-thu">📝 Thi thử như đề thật</Link>

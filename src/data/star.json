@@ -3,5 +3,1605 @@
 { "id": "s005", "before": "毎年、合格者の８０パーセントが", "pieces": ["実務経験者という", "ことからすると", "私が", "未経験者の"], "starIndex": 2, "after": "この試験に合格するのは簡単ではないだろう。", "meaning": "Xét từ việc 80% người đỗ mỗi năm là người có kinh nghiệm thực tế, thì một người chưa có kinh nghiệm như tôi đỗ kỳ thi này chắc là không dễ dàng.", "grammar": "～ことからすると", "explanation": "～ことからすると: 'căn cứ từ việc / xét từ...'. Thứ tự đúng: 実務経験者という (1) + ことからすると (3) + 私が (2) + 未経験者の (4).", "level": "N2" }, { "id": "s006", "before": "兄「", "pieces": ["三姉妹の", "中の", "誰か", "じゃないか"], "starIndex": 2, "after": "と思うんだけど、ほかの人もみんな怪しいんだよなあ。」", "meaning": "Anh trai: 「Anh nghĩ hung thủ chẳng phải là một trong ba chị em sao, nhưng những người khác ai trông cũng đáng nghi cả.」", "grammar": "～じゃないか", "explanation": "～じゃないか: 'chẳng phải là... sao'. Thứ tự đúng: 三姉妹の (4) + 中の (1) + 誰か (3) + じゃないか (2).", "level": "N2" }, 
 { "id": "s007", "before": "新しいパソコンが欲しいが、", "pieces": ["今慌てて買って", "何カ月もしないうちに", "新しいのが出たりしたら", "悔しいから"], "starIndex": 2, "after": "、しばらく様子を見ようと思う。", "meaning": "Tôi muốn có máy tính mới, nhưng nếu bây giờ vội mua mà chưa đầy mấy tháng sau đã ra dòng mới thì tiếc lắm, nên tôi định theo dõi thêm một thời gian.", "grammar": "～もしないうちに / ～たりしたら", "explanation": "～もしないうちに: 'chưa đầy...'. ～たりしたら: 'nếu lỡ... thì...'. Thứ tự đúng: 今慌てて買って (3) + 何カ月もしないうちに (4) + 新しいのが出たりしたら (2) + 悔しいから (1).", "level": "N2" }, 
 { "id": "s008", "before": "お互い感情的になっていると、", "pieces": ["冷静に話そう", "としても", "うまく", "いかない"], "starIndex": 2, "after": "ものだ。", "meaning": "Khi cả hai bên đều đang cảm tính thì dù có định nói chuyện bình tĩnh cũng khó mà suôn sẻ được.", "grammar": "～（よう）としても", "explanation": "V-よう + としても: 'dù có định/cố làm... thì cũng không...'. Thứ tự đúng: 冷静に話そう (2) + としても (4) + うまく (1) + いかない (3).", "level": "N2" }, { "id": "s009", "before": "彼がそんなことをする人間でないことは、あなたが", "pieces": ["いちばん", "ご存じの", "の", "はず"], "starIndex": 2, "after": "だ。", "meaning": "Cậu ấy không phải là loại người làm chuyện đó, điều này chắc chắn bạn là người rõ nhất.", "grammar": "～ご存じのはずだ", "explanation": "ご存じ + の + はずだ: 'chắc chắn biết/rõ'. Thứ tự đúng: いちばん (3) + ご存じの (2) + の (4) + はず (1).", "level": "N2" }, { "id": "s010", "before": "田中監督が選手たちに厳しくするのは、一度は優勝を", "pieces": ["経験させたい", "と", "願う", "からこそ"], "starIndex": 2, "after": "だ。", "meaning": "Huấn luyện viên Tanaka nghiêm khắc với các cầu thủ chính là vì mong muốn họ được trải nghiệm cảm giác vô địch dù chỉ một lần.", "grammar": "～からこそ", "explanation": "～からこそ: 'chính vì...'. Thứ tự đúng: 経験させたい (2) + と (1) + 願う (4) + からこそ (3).", "level": "N2" }, { "id": "s011", "before": "不調だった山中選手がついにゴールを決めた。彼に", "pieces": ["したら", "「もし、またミスをしたら」", "という", "プレッシャーは"], "starIndex": 2, "after": "相当あったはずだ。", "meaning": "Tuyển thủ Yamanaka vốn thi đấu không tốt cuối cùng cũng đã ghi bàn. Đối với anh ấy, áp lực kiểu như 'nếu lại mắc lỗi nữa thì sao' chắc chắn là rất lớn.", "grammar": "～にしたら", "explanation": "N + にしたら: 'đối với... / đứng ở vị trí của...'. Thứ tự đúng: したら (1) + 「もし、またミスをしたら」 (4) + という (2) + プレッシャーは (3).", "level": "N2" }, { "id": "s012", "before": "「これは地元ではよく知られた料理で、このすっぱさがおいしい。ただ、", "pieces": ["残念なのは", "すっぱいのが苦手だ", "なんていう", "若者が最近"], "starIndex": 2, "after": "増えていることだね。」と田中さんは語る。", "meaning": "Anh Tanaka chia sẻ: 「Đây là món ăn nổi tiếng ở địa phương, vị chua này rất ngon. Chỉ có điều đáng tiếc là dạo này giới trẻ nói những câu kiểu như không thích ăn chua lại đang tăng lên.」", "grammar": "～なんていう", "explanation": "～なんていう: 'nói những câu kiểu như...'. Thứ tự đúng: 残念なのは (2) + すっぱいのが苦手だ (4) + なんていう (1) + 若者が最近 (3).", "level": "N2" }, { "id": "s013", "before": "忘れられないプレゼントは、小学生のときに両親が買ってくれた自転車です。苦しい生活の中、", "pieces": ["どんな思いで", "買ってくれたのかと", "それだけで", "思うと"], "starIndex": 2, "after": "涙が出ます。", "meaning": "Món quà tôi không thể quên là chiếc xe đạp bố mẹ mua cho hồi tiểu học. Chỉ cần nghĩ đến việc bố mẹ đã mua cho với tâm trạng thế nào trong hoàn cảnh vất vả lúc đó thôi là nước mắt tôi lại trào ra.", "grammar": "～かと～ thinks", "explanation": "どんな思いで (với tâm trạng thế nào) + 買ってくれたのかと + それだけで + 思うと. Thứ tự đúng: どんな思いで (2) + 買ってくれたのかと (3) + それだけで (1) + 思うと (4).", "level": "N2" }, { "id": "s014", "before": "最近、子どもがピアノを習いたいと言いだした。わたしは、子どもが", "pieces": ["やりたい", "と思うことは", "やらせて", "したい"], "starIndex": 2, "after": "と思っている。", "meaning": "Gần đây con tôi nói muốn học đàn piano. Tôi nghĩ rằng những gì con muốn làm thì tôi muốn để cho con được làm.", "grammar": "V-させて～たい", "explanation": "V-させて + したい: 'muốn cho/để (ai đó) làm'. Thứ tự đúng: やりたい (2) + と思うことは (4) + やらせて (3) + したい (1).", "level": "N2" }, { "id": "s015", "before": "国民の、政治", "pieces": ["に対する", "信頼", "があって", "初めて"], "starIndex": 2, "after": "政治家は指導力を発揮できるのだ。", "meaning": "Chỉ khi có sự tin tưởng của người dân đối với chính trị thì các chính trị gia mới có thể phát huy năng lực lãnh đạo.", "grammar": "～があって初めて", "explanation": "N + があって初めて: 'chỉ sau khi có... / có... thì mới...'. Thứ tự đúng: に対する (2) + 信頼 (4) + があって (3) + 初めて (1).", "level": "N2" }, { "id": "s016", "before": "もう秋になるのに、今日の暑さは", "pieces": ["まるで", "真夏", "に戻ったか", "のようで"], "starIndex": 2, "after": "エアコンをつけた家も多かったらしい。", "meaning": "Dù đã sắp sang thu rồi nhưng cái nóng hôm nay cứ như thể quay lại giữa mùa hè, nghe nói nhiều nhà đã phải bật điều hòa.", "grammar": "～かのようで", "explanation": "まるで + N + に戻ったかのようで: 'cứ như thể quay trở lại...'. Thứ tự đúng: まるで (3) + 真夏 (1) + に戻ったか (4) + のようで (2).", "level": "N2" }, { "id": "s017", "before": "従業員「はい。事前にリストをしっかり", "pieces": ["確認さえ", "しておけば", "防げる", "ミスでした"], "starIndex": 2, "after": "のに申し訳ありません。」", "meaning": "Nhân viên: 「Vâng. Mặc dù đây là sai sót có thể phòng tránh được chỉ cần kiểm tra kỹ danh sách từ trước, tôi rất xin lỗi.」", "grammar": "～さえ～ば", "explanation": "N + さえ + V-えば: 'chỉ cần... thì...'. Thứ tự đúng: 確認さえ (2) + しておけば (1) + 防げる (4) + ミスでした (3).", "level": "N2" }, { "id": "s018", "before": "今回失敗した", "pieces": ["ことは", "仕方ない", "としても", "今後"], "starIndex": 2, "after": "必ずこの経験を生かしてほしい。", "meaning": "Dù việc thất bại lần này là không thể tránh khỏi, nhưng tôi muốn từ sau trở đi nhất định bạn hãy phát huy kinh nghiệm này.", "grammar": "～としても", "explanation": "～としても: 'cho dù/dù có... đi nữa'. Thứ tự đúng: ことは (3) + 仕方ない (4) + としても (1) + 今後 (2).", "level": "N2" }, { "id": "s019", "before": "試合に負けて本当に悔しかったので、もっと強くなるため", "pieces": ["なら", "どんな", "厳しい練習に", "だって"], "starIndex": 2, "after": "耐えようと思います。", "meaning": "Vì thua trận đấu nên tôi rất tiếc nuối, nếu là để trở nên mạnh mẽ hơn thì bất kỳ cuộc luyện tập khắc nghiệt nào tôi cũng sẽ chịu đựng.", "grammar": "～ためなら / ～だって", "explanation": "～ためなら: 'nếu là để...'. N + だって: 'ngay cả / bất kỳ...'. Thứ tự đúng: なら (2) + どんな (4) + 厳しい練習に (3) + だって (1).", "level": "N2" }, 
-{ "id": "s020", "before": "母「風邪をひかないのは、", "pieces": ["毎朝", "ジョギングを", "している", "おかげだ"], "starIndex": 2, "after": "」とよく言っている。", "meaning": "Mẹ tôi hay nói: 「Việc không bị cảm cúm là nhờ mỗi sáng đều chạy bộ đấy.」", "grammar": "～のおかげだ", "explanation": "V-ている + おかげだ: 'nhờ vào việc...'. Thứ tự đúng: 毎朝 (4) + ジョギングを (1) + している (2) + おかげだ (3).", "level": "N2" }, { "id": "s021", "before": "「わたし、辛いものを食べると、", "pieces": ["必ず", "と言って", "いい", "ほど"], "starIndex": 2, "after": "せきが出るんです。」", "meaning": "「Tôi hễ ăn đồ cay là gần như chắc chắn sẽ bị ho.」", "grammar": "必ずと言っていいほど", "explanation": "必ずと言っていいほど: 'gần như chắc chắn / đến mức có thể nói là luôn luôn'. Thứ tự đúng: 必ず (2) + と言って (4) + いい (3) + ほど (1).", "level": "N2" }, { "id": "s022", "before": "A「授業のあと", "pieces": ["一緒に行くことに", "なっていたのに", "ここで待ち合わせて", "一人で行っちゃった"], "starIndex": 2, "after": "のかな。」", "meaning": "A: 「Dù đã hẹn là sau giờ học sẽ cùng đi và hẹn gặp ở đây, không biết có phải cậu ấy đã đi một mình rồi không nữa.」", "grammar": "～ことになっていたのに", "explanation": "V-る + ことになっていたのに: 'dù đã quy định/hẹn là...'. Thứ tự đúng: 一緒に行くことに (4) + なっていたのに (1) + ここで待ち合わせて (3) + 一人で行っちゃった (2).", "level": "N2" }, { "id": "s023", "before": "A「行く", "pieces": ["だけ", "行って", "交渉して", "入れてもらえないか"], "starIndex": 2, "after": "みようか。」", "meaning": "A: 「Hay là chúng mình cứ đi thử xem sao, đến thương lượng xem người ta có cho vào không?」", "grammar": "～だけ～してみる / ～てもらえないか", "explanation": "V-る + だけ + V-てみる: 'cứ thử... xem sao'. Thứ tự đúng: だけ (2) + 行って (1) + 交渉して (3) + 入れてもらえないか (4).", "level": "N2" }, { "id": "s024", "before": "A「もしそちらのご都合が", "pieces": ["よろしければ", "４時以降に", "変更していただけると", "ありがたいですが"], "starIndex": 2, "after": "。」", "meaning": "A: 「Nếu phía bên anh/chị thuận tiện thì nếu có thể đổi sang sau 4 giờ giúp tôi thì tốt quá ạ.」", "grammar": "～していただけるとありがたい", "explanation": "V-て + いただけるとありがたい: 'nếu anh/chị có thể... giúp thì tốt quá'. Thứ tự đúng: よろしければ (4) + ４時以降に (3) + 変更していただけると (2) + ありがたいですが (1).", "level": "N2" }, { "id": "s025", "before": "このコンサートの警備には、警備員", "pieces": ["が", "２０人", "も", "いれば"], "starIndex": 2, "after": "十分です。", "meaning": "Về việc bảo vệ buổi hòa nhạc này, chỉ cần có khoảng 20 nhân viên bảo vệ là đủ rồi.", "grammar": "～も～ば", "explanation": "Số từ + も + V-ば: 'chỉ cần tận/đến... là...'. Thứ tự đúng: が (3) + ２０人 (4) + も (2) + いれば (1).", "level": "N2" }, { "id": "s026", "before": "B「じゃあ、私があっとコンビニに", "pieces": ["行って", "買って", "きますから", "待って"], "starIndex": 2, "after": "いてください。」", "meaning": "B: 「Thế thì để tôi chạy ra cửa hàng tiện lợi mua đồ rồi quay lại ngay, bạn hãy chờ ở đây nhé.」", "grammar": "V-てくる / V-てください", "explanation": "V-てくる: 'đi đâu đó làm gì rồi quay lại'. Thứ tự đúng: 行って (2) + 買って (4) + きますから (1) + 待って (3).", "level": "N2" }, { "id": "s027", "before": "「この計画をこのまま", "pieces": ["進めるかやめるか", "いずれにしても", "早急に結論を出して", "必要がある"], "starIndex": 2, "after": "だろう。」", "meaning": "「Kế hoạch này dù là tiếp tục tiến hành hay dừng lại đi nữa thì dường như cũng cần phải sớm đưa ra kết luận thôi.」", "grammar": "～か～か / ～必要がある", "explanation": "V1-るか V2-るか: 'tiến hành hay dừng lại'. いずれにしても: 'dù thế nào đi nữa'. Thứ tự đúng: 進めるかやめるか (4) + いずれにしても (2) + 早急に結論を出して (3) + 必要がある (1).", "level": "N2" }, { "id": "s028", "before": "「配られたプリントに、ビニール袋を持参", "pieces": ["のことと", "ありますが", "だいたい何枚ぐらい", "用意すれば"], "starIndex": 2, "after": "足りるのでしょうか。」", "meaning": "「Trong tờ rơi được phát có ghi là phải mang theo túi nilon, nhưng chuẩn bị khoảng mấy túi thì đủ ạ?」", "grammar": "～のこと / ～ば足りる", "explanation": "N + のこと: 'quy định/yêu cầu phải...'. Thứ tự đúng: のことと (3) + ありますが (1) + だいたい何枚ぐらい (2) + 用意すれば (4).", "level": "N2" }, { "id": "s029", "before": "何か目的があって", "pieces": ["その場所に行った", "はずなのに", "何をしにいったのか", "忘れてしまう"], "starIndex": 2, "after": "ということがよくある。", "meaning": "Rất thường có chuyện có mục đích gì đó đáng lẽ là đến nơi đó rồi, nhưng lại quên mất tiêu là mình đến để làm gì.", "grammar": "～はずなのに", "explanation": "V-た + はずなのに: 'đáng lẽ ra là đã... nhưng lại...'. Thứ tự đúng: その場所に行った (4) + はずなのに (3) + 何をしにいったのか (1) + 忘れてしまう (2).", "level": "N2" }, { "id": "s030", "before": "日本の食卓に", "pieces": ["みそやしょうゆといった", "調味料の", "原料となる", "欠かせない"], "starIndex": 2, "after": "大豆だが、日本国内で作られているものはわずかで、その多くを海外からの輸入頼っているという。", "meaning": "Đậu nành là thứ không thể thiếu trên mâm cơm Nhật Bản, vốn là nguyên liệu của các gia vị như miso hay nước tương, nhưng lượng sản xuất trong nước Nhật rất ít mà phần lớn phải phụ thuộc vào nhập khẩu.", "grammar": "～といった / ～欠かせない", "explanation": "～といった: 'như là...'. Thứ tự đúng: みそやしょうゆといった (4) + 調味料の (3) + 原料となる (2) + 欠かせない (1).", "level": "N2" }, { "id": "s031", "before": "この国でサッカー", "pieces": ["に次いで", "人気のある", "スポーツ", "といえば"], "starIndex": 2, "after": "野球だ。", "meaning": "Ở quốc gia này, nếu nói đến môn thể thao được yêu thích tiếp sau bóng đá thì đó là bóng chày.", "grammar": "～に次いで / ～といえば", "explanation": "N + に次いで: 'tiếp sau N'. Thứ tự đúng: に次いで (2) + 人気のある (4) + スポーツ (1) + といえば (3).", "level": "N2" }, { "id": "s032", "before": "木村「ええ、半年前に", "pieces": ["切った", "きり", "一度も", "切って"], "starIndex": 2, "after": "ないんですよ。」", "meaning": "Kimura: 「Ừ, từ lần cắt cách đây nửa năm đến nay tớ chưa cắt lần nào nữa đâu.」", "grammar": "～きり～ない", "explanation": "V-た + きり + V-ない: 'kể từ khi... thì không... nữa'. Thứ tự đúng: 切った (4) + きり (1) + 一度も (2) + 切って (3).", "level": "N2" }, { "id": "s033", "before": "中でも、経験豊富な", "pieces": ["田中先生は", "生徒は", "もとより", "保護者からの"], "starIndex": 2, "after": "信頼も厚い。", "meaning": "Trong đó, thầy Tanaka giàu kinh nghiệm không chỉ được học sinh mà còn nhận được sự tin tưởng rất lớn từ phụ huynh.", "grammar": "～はもとより", "explanation": "N1 + はもとより + N2: 'N1 là lẽ đương nhiên, ngay cả N2 cũng...'. Thứ tự đúng: 田中先生は (2) + 生徒は (1) + もとより (3) + 保護者からの (4).", "level": "N2" }, { "id": "s034", "before": "宇宙にはこれだけ", "pieces": ["多くの星がある", "のだから", "どこかの星に", "生物がいた"], "starIndex": 2, "after": "としても不思議ではないと思う。", "meaning": "Trong vũ trụ có nhiều ngôi sao đến thế này, nên cho dù ở ngôi sao nào đó từng có sinh vật tồn tại thì tôi nghĩ cũng không có gì kỳ lạ.", "grammar": "～としても", "explanation": "～のだから: 'vì là...'. ～としても: 'cho dù là...'. Thứ tự đúng: 多くの星がある (1) + のだから (3) + どこかの星に (4) + 生物がいた (2).", "level": "N2" }, { "id": "s035", "before": "仕事の", "pieces": ["上では", "対立する", "ことの", "多い"], "starIndex": 2, "after": "山田さんと林さんだが、プライベートではとても仲がいい。", "meaning": "Yamada và Hayashi là những người thường hay bất đồng trên phương diện công việc, nhưng ngoài đời tư thì họ lại rất thân thiết với nhau.", "grammar": "～の上では / ～ことの多い", "explanation": "N + の上では: 'trên phương diện/về mặt...'. Thứ tự đúng: 上では (3) + 対立する (1) + ことの (2) + 多い (4).", "level": "N2" }, { "id": "s036", "before": "B「そうだね。でもまだ", "pieces": ["あと", "1 週間", "ぐらい", "は"], "starIndex": 2, "after": "休みたいよね。」", "meaning": "B: 「Đúng thế nhỉ. Nhưng tớ vẫn muốn nghỉ thêm khoảng 1 tuần nữa cơ.」", "grammar": "～ぐらいは", "explanation": "あと + Số lượng + ぐらいは: 'thêm khoảng... nữa'. Thứ tự đúng: あと (3) + 1 週間 (2) + ぐらい (1) + は (4).", "level": "N2" }, { "id": "s037", "before": "日本滞在中は", "pieces": ["北川先生", "をはじめ", "多くの方々", "に"], "starIndex": 2, "after": "お世話になり、本当にありがとうございました。", "meaning": "Trong thời gian ở Nhật Bản, tôi đã nhận được sự giúp đỡ từ thầy Kitagawa cũng như rất nhiều người khác, tôi xin chân thành cảm ơn.", "grammar": "～をはじめ", "explanation": "N + をはじめ: 'tiêu biểu là / trước tiên phải kể đến...'. Thứ tự đúng: 北川先生 (2) + ををはじめ (1) + 多くの方々 (4) + に (3).", "level": "N2" }, { "id": "s038", "before": "私の祖父は、風邪をひいても、「風邪のときはあたたかく", "pieces": ["して", "早く", "寝る", "に限る"], "starIndex": 2, "after": "と言って病院に行かない。", "meaning": "Ông tôi dù bị cảm cũng bảo: 「Khi bị cảm thì tốt nhất là giữ ấm và đi ngủ sớm」 rồi không chịu đi bệnh viện.", "grammar": "～に限る", "explanation": "V-る / N + に限る: 'là tốt nhất / không gì bằng'. Thứ tự đúng: して (4) + 早く (2) + 寝る (3) + に限る (1).", "level": "N2" }, { "id": "s039", "before": "留学中、自分の国のことを聞かれて初めて、今まで", "pieces": ["当たり前だと", "思って", "疑問にすら", "思っていなかった"], "starIndex": 2, "after": "ことが多いのに気づいた。", "meaning": "Trong thời gian du học, chỉ khi được hỏi về đất nước mình tôi mới nhận ra rằng có rất nhiều điều từ trước đến nay tôi coi là hiển nhiên mà thậm chí chưa bao giờ mảy may thắc mắc.", "grammar": "～すら～ない", "explanation": "N + にすら: 'ngay cả / thậm chí...'. Thứ tự đúng: 当たり前だと (4) + 思って (1) + 疑問にすら (2) + 思っていなかった (3).", "level": "N2" }, { "id": "s040", "before": "彼が描いたライオンの絵は、", "pieces": ["今にも動き出して", "近づいてきそうなほど", "本物そっくりに", "描かれて"], "starIndex": 2, "after": "いる。", "meaning": "Bức tranh con sư tử do anh ấy vẽ trông giống như thật đến mức cảm giác như nó sắp sửa cử động và tiến lại gần.", "grammar": "～そうなほど / 本物そっくりに", "explanation": "今にも (sắp sửa) + 動き出して近づいてきそうなほど (đến mức như sắp tiến lại) + 本物そっくりに (y như thật) + 描かれている. Thứ tự đúng: 今にも動き出して (1) + 近づいてきそうなほど (2) + 本物そっくりに (4) + 描かれて (3).", "level": "N2" }, { "id": "s041", "before": "B「え、もう帰るの? せっかく", "pieces": ["来たんだから", "もう少し", "ゆっくりして", "いけば"], "starIndex": 1, "after": "いいのに。」", "meaning": "B: 「Ơ, đã về rồi sao? Đã cất công đến đây rồi thì ở lại thong thả thêm chút nữa có phải tốt không.」", "grammar": "せっかく～んだから / V-ていけばいい", "explanation": "せっかく～んだから: 'đã mất công... thì...'. Thứ tự đúng: 来たんだから (3) + もう少し (1) + ゆっくりして (4) + いけば (2). Vị trí ngôi sao ở vị trí thứ 2 (chỉ số 1 trong mảng).", "level": "N2" }, { "id": "s042", "before": "レポートを作成", "pieces": ["する", "上で", "注意", "すべき"], "starIndex": 2, "after": "ことは、事実なのか意見なのかを明確にすることだ。", "meaning": "Điều cần lưu ý khi viết báo cáo là phải làm rõ đâu là thực tế, đâu là ý kiến cá nhân.", "grammar": "～上で / ～すべき", "explanation": "V-る + 上で: 'khi / trong quá trình...'. V + すべき: 'nên / cần phải'. Thứ tự đúng: する (3) + 上で (2) + 注意 (1) + すべき (4).", "level": "N2" }, { "id": "s043", "before": "私は、どんなに", "pieces": ["つらいことがあっても", "そんな様子を全く見せず", "いつもにこにこしている", "石川さんを尊敬している"], "starIndex": 2, "after": "。", "meaning": "Tôi rất khâm phục anh Ishikawa, người luôn mỉm cười và không bao giờ tỏ ra mệt mỏi dù có gặp chuyện khó khăn đến đâu.", "grammar": "どんなに～ても / ～を見せず", "explanation": "どんなに + V-ても: 'dù có... đến mức nào'. Thứ tự đúng: つらいことがあっても (1) + そんな様子を全く見せず (4) + いつもにこにこしている (2) + 石川さんを尊敬している (3).", "level": "N2" }, { "id": "s044", "before": "A「サラリーマンから農家", "pieces": ["になる", "とは", "ずいぶん", "勇気"], "starIndex": 2, "after": "があるんだね。」", "meaning": "A: 「Từ một nhân viên văn phòng mà chuyển sang làm nông dân thì đúng là dũng cảm thật đấy nhỉ.」", "grammar": "～とは", "explanation": "V-る + とは: 'thật là... (biểu thị sự ngạc nhiên)'. Thứ tự đúng: になる (4) + とは (2) + ずいぶん (3) + 勇気 (1).", "level": "N2" }, { "id": "s045", "before": "B「私は反対しないよ。本当に向いていないと", "pieces": ["んだったら", "続ける", "こともないと", "思う"], "starIndex": 2, "after": "からね。」", "meaning": "B: 「Tớ không phản đối đâu. Nếu cậu thực sự cảm thấy không hợp thì tớ nghĩ cũng không nhất thiết phải tiếp tục làm gì.」", "grammar": "～んだったら / ～こともない", "explanation": "～んだったら: 'nếu là...'. V-る + こともない: 'không cần thiết phải...'. Thứ tự đúng: んだったら (3) + 続ける (4) + こともないと (1) + 思う (2).", "level": "N2" }, { "id": "s046", "before": "Ｘ社から新しく発売される腕時計は、これまでのどの時計にも", "pieces": ["なかった", "全く新しい", "デザインに", "なっている"], "starIndex": 2, "after": "そうで、非常に楽しみだ。", "meaning": "Chiếc đồng hồ đeo tay mới ra mắt của công ty X nghe nói có thiết kế hoàn toàn mới chưa từng có ở bất kỳ chiếc đồng hồ nào trước đây, nên tôi rất mong chờ.", "grammar": "～になっている", "explanation": "これまでのどの時計にもなかった (chưa từng có ở đồng hồ nào trước đây) + 全く新しいデザインに + なっている. Thứ tự đúng: なかった (3) + 全く新しい (4) + デザインに (2) + なっている (1).", "level": "N2" }, { "id": "s047", "before": "姉の", "pieces": ["ように", "10 年以上一日も", "欠かさず", "日記を書くなんて"], "starIndex": 2, "after": "私にはとてもできない。", "meaning": "Viết nhật ký không bỏ sót ngày nào suốt hơn 10 năm như chị gái tôi thì tôi hoàn toàn không thể làm được.", "grammar": "～欠かさず / ～なんて", "explanation": "N + 欠かさず: 'không bỏ sót...'. Thứ tự đúng: ように (2) + 10 年以上一日も (3) + 欠かさず (1) + 日記を書くなんて (4).", "level": "N2" }, { "id": "s048", "before": "朝、開花したときには", "pieces": ["真っ白だった", "花が", "夕方が近づくにつれて", "次第にピンクへと変化していく"], "starIndex": 2, "after": "珍しい花があります。", "meaning": "Có một loài hoa hiếm gặp: buổi sáng khi mới nở hoa màu trắng tinh, nhưng khi buổi chiều đến gần thì màu hoa dần chuyển sang màu hồng.", "grammar": "～につれて", "explanation": "V-る / N + につれて: 'càng... càng... / cùng với...'. Thứ tự đúng: 真っ白だった (2) + 花が (1) + 夕方が近づくにつれて (4) + 次第にピンクへと変化していく (3).", "level": "N2" }, { "id": "s049", "before": "部下の作った書類にミスがあるとき、部下にもう一度", "pieces": ["書き直させるより", "自分でやってしまったほうが", "早いと思って", "つい自分で直してしまうことも"], "starIndex": 2, "after": "多い。", "meaning": "Khi tài liệu cấp dưới làm có sai sót, tôi thường nghĩ tự mình làm cho nhanh hơn là bắt cấp dưới viết lại, nên lỡ tự tay sửa luôn cũng nhiều.", "grammar": "V1-させるよりV2-ほうが", "explanation": "V1-させるより (so với việc bắt làm lại) + 自分でやってしまったほうが早いと思って (nghĩ rằng tự làm nhanh hơn). Thứ tự đúng: 書き直させるより (1) + 自分でやってしまったほうが (4) + 早いと思って (3) + つい自分で直してしまうことも (2).", "level": "N2" }, { "id": "s050", "before": "友人に", "pieces": ["どうしても", "と頼まれて", "引き受けた", "塾講師の仕事だった"], "starIndex": 2, "after": "が、やってみたら意外に面白くて、自分に向いていると感じた。", "meaning": "Đó là công việc gia sư trung tâm mà tôi nhận làm vì được bạn bè nhờ vả hết lời, nhưng khi làm thử thì lại thấy thú vị bất ngờ và cảm thấy rất hợp với mình.", "grammar": "～と頼まれて", "explanation": "どうしてもと頼まれて (được nhờ vả hết lời) + 引き受けた (đã nhận lời) + 塾講師の仕事だった. Thứ tự đúng: どうしても (2) + と頼まれて (4) + 引き受けた (3) + 塾講師の仕事だった (1).", "level": "N2" }, { "id": "s051", "before": "優しい子になってほしい。娘の", "pieces": ["名前を", "優子に", "したのは", "そういった願いを"], "starIndex": 2, "after": "込めたからだ。", "meaning": "Tôi mong con sẽ trở thành một đứa trẻ dịu dàng. Việc tôi đặt tên con gái là Yuko chính là vì gửi gắm nguyện ước đó.", "grammar": "～願いを込めて", "explanation": "娘の名前を優子にしたのは (việc đặt tên con gái là Yuko) + そういった願いを込めたからだ. Thứ tự đúng: 名前を (3) + 優子に (1) + したのは (4) + そういった願いを (2).", "level": "N2" }, { "id": "s052", "before": "日本で携帯電話が発売されて約 20 年。いまや携帯電話は", "pieces": ["生活", "に欠かせない", "道具", "として"], "starIndex": 2, "after": "定着したといえるのではないか。", "meaning": "Đã khoảng 20 năm kể từ khi điện thoại di động được bán ra ở Nhật. Phải nói rằng ngày nay điện thoại di động đã trở thành một món đồ không thể thiếu trong đời sống.", "grammar": "～として / ～に欠かせない", "explanation": "生活に欠かせない (không thể thiếu trong đời sống) + 道具として (với tư cách là công cụ). Thứ tự đúng: 生活 (4) + に欠かせない (1) + 道具 (2) + として (3).", "level": "N2" }, { "id": "s053", "before": "私は、スケジュール", "pieces": ["どおりに", "仕事を進める", "には", "どうすればいいか"], "starIndex": 2, "after": "常に考えながら作業をしている。", "meaning": "Tôi vừa làm việc vừa luôn suy nghĩ xem phải làm thế nào để tiến hành công việc theo đúng kế hoạch.", "grammar": "～どおりに / ～には", "explanation": "スケジュールどおりに (theo đúng lịch trình) + 仕事を進めるには (để tiến hành công việc). Thứ tự đúng: どおりに (2) + 仕事を進める (4) + には (3) + どうすればいいか (1).", "level": "N2" }, { "id": "s054", "before": "筋肉トレーニングを", "pieces": ["しているとき", "今自分がどこを鍛えているのか", "意識するのと", "しないのでは"], "starIndex": 2, "after": "効果は全く違います。", "meaning": "Khi tập cơ bắp, việc có ý thức về vùng mình đang rèn luyện hay không sẽ mang lại hiệu quả hoàn toàn khác nhau.", "grammar": "～のと～ないのでは", "explanation": "V1-るのと V2-ないのでは: 'giữa việc... và việc không...'. Thứ tự đúng: しているとき (2) + 今自分がどこを鍛えているのか (1) + 意識するのと (4) + しないのでは (3).", "level": "N2" }, { "id": "s055", "before": "「みるく屋」は、A 市に", "pieces": ["住んでいる人なら", "知らない人はいないくらい", "有名な", "お菓子屋さん"], "starIndex": 2, "after": "です。", "meaning": "Quán 「Miruku-ya」 là một tiệm bánh ngọt nổi tiếng đến mức nếu là người sống ở thành phố A thì không ai là không biết.", "grammar": "～くらい", "explanation": "～くらい: 'đến mức...'. Thứ tự đúng: 住んでいる人なら (2) + 知らない人はいないくらい (3) + 有名な (1) + お菓子屋さん (4).", "level": "N2" }, { "id": "s056", "before": "狭い部屋でもテーブルの上に物を置かない", "pieces": ["ようにする", "だけで", "広く感じられる", "ようになると"], "starIndex": 2, "after": "本に書いてあった。", "meaning": "Sách có viết rằng ngay cả phòng hẹp thì chỉ cần cố gắng không để đồ đạc lên bàn là sẽ cảm thấy căn phòng trở nên rộng rãi hơn.", "grammar": "～ようにするだけで / ～ようになる", "explanation": "V-る + ようにするだけで: 'chỉ cần cố gắng...'. Thứ tự đúng: ようにする (3) + だけで (1) + 広く感じられる (4) + ようになると (2).", "level": "N2" }, { "id": "s057", "before": "レストランでアルバイトを始めてから", "pieces": ["今日で 1 年たつのに", "客の注文を間違えた", "うえに", "皿を割るという"], "starIndex": 2, "after": "ミスまでしてしまった。", "meaning": "Dù tính đến hôm nay đã tròn 1 năm kể từ khi tôi bắt đầu làm thêm ở nhà hàng, vậy mà tôi lại mắc phải lỗi nhầm món của khách và thậm chí làm vỡ đĩa nữa.", "grammar": "～うえに / ～という", "explanation": "～うえに: 'hơn nữa / không những... mà còn...'. Thứ tự đúng: 今日で 1 年たつのに (1) + 客の注文を間違えた (4) + うえに (3) + 皿を割るという (2).", "level": "N2" }, { "id": "s058", "before": "大雨の中を傘を差さずに", "pieces": ["帰ったせいか", "治りかけていた", "風邪が", "またひどくなって"], "starIndex": 2, "after": "今朝からずっと鼻水が止まらない。", "meaning": "Có lẽ tại vì đi mưa về không che ô nên cơn cảm tưởng như sắp khỏi lại trở nặng, từ sáng đến giờ tôi bị chảy nước mũi mãi không ngừng.", "grammar": "～せいか / ～かける", "explanation": "～せいか: 'chắc tại vì...'. Thứ tự đúng: 帰ったせいか (4) + 治りかけていた (2) + 風邪が (1) + またひどくなって (3).", "level": "N2" }, { "id": "s059", "before": "", "pieces": ["たんぱく質が", "多く含まれる", "食べ物というと", "肉や魚や卵といった"], "starIndex": 2, "after": "ものが思い浮かぶと思いますが、大豆にもたくさん含まれています。", "meaning": "Nói đến thực phẩm chứa nhiều chất đạm thì chắc hẳn người ta sẽ nghĩ ngay đến những thứ như thịt, cá, trứng, nhưng trong đậu nành cũng chứa rất nhiều đấy.", "grammar": "～というと / ～といった", "explanation": "N + というと: 'hễ nói đến...'. Thứ tự đúng: たんぱく質が (2) + 多く含まれる (4) + 食べ物というと (3) + 肉や魚や卵といった (1).", "level": "N2" }, { "id": "s060", "before": "イベントの準備には", "pieces": ["最低でも", "二日はかかるだろうと思われたが", "多くのボランティアの方の協力で", "一日で終わったので"], "starIndex": 2, "after": "スケジュールに余裕ができた。", "meaning": "Việc chuẩn bị cho sự kiện vốn tưởng sẽ mất ít nhất là 2 ngày, nhưng nhờ sự giúp đỡ của đông đảo tình nguyện viên nên đã hoàn thành trong 1 ngày, vì vậy lịch trình đã dư dả hơn.", "grammar": "～と思われたが / ～で", "explanation": "最低でも (ít nhất là) + 二日はかかるだろうと思われたが (vốn tưởng mất 2 ngày) + 多くのボランティアの方の協力で. Thứ tự đúng: 最低でも (3) + 二日はかかるだろうと思われたが (1) + 多くのボランティアの方の協力で (2) + 一日で終わったので (4).", "level": "N2" } 
+{ "id": "s020", "before": "母「風邪をひかないのは、", "pieces": ["毎朝", "ジョギングを", "している", "おかげだ"], "starIndex": 2, "after": "」とよく言っている。", "meaning": "Mẹ tôi hay nói: 「Việc không bị cảm cúm là nhờ mỗi sáng đều chạy bộ đấy.」", "grammar": "～のおかげだ", "explanation": "V-ている + おかげだ: 'nhờ vào việc...'. Thứ tự đúng: 毎朝 (4) + ジョギングを (1) + している (2) + おかげだ (3).", "level": "N2" }, { "id": "s021", "before": "「わたし、辛いものを食べると、", "pieces": ["必ず", "と言って", "いい", "ほど"], "starIndex": 2, "after": "せきが出るんです。」", "meaning": "「Tôi hễ ăn đồ cay là gần như chắc chắn sẽ bị ho.」", "grammar": "必ずと言っていいほど", "explanation": "必ずと言っていいほど: 'gần như chắc chắn / đến mức có thể nói là luôn luôn'. Thứ tự đúng: 必ず (2) + と言って (4) + いい (3) + ほど (1).", "level": "N2" }, { "id": "s022", "before": "A「授業のあと", "pieces": ["一緒に行くことに", "なっていたのに", "ここで待ち合わせて", "一人で行っちゃった"], "starIndex": 2, "after": "のかな。」", "meaning": "A: 「Dù đã hẹn là sau giờ học sẽ cùng đi và hẹn gặp ở đây, không biết có phải cậu ấy đã đi một mình rồi không nữa.」", "grammar": "～ことになっていたのに", "explanation": "V-る + ことになっていたのに: 'dù đã quy định/hẹn là...'. Thứ tự đúng: 一緒に行くことに (4) + なっていたのに (1) + ここで待ち合わせて (3) + 一人で行っちゃった (2).", "level": "N2" }, { "id": "s023", "before": "A「行く", "pieces": ["だけ", "行って", "交渉して", "入れてもらえないか"], "starIndex": 2, "after": "みようか。」", "meaning": "A: 「Hay là chúng mình cứ đi thử xem sao, đến thương lượng xem người ta có cho vào không?」", "grammar": "～だけ～してみる / ～てもらえないか", "explanation": "V-る + だけ + V-てみる: 'cứ thử... xem sao'. Thứ tự đúng: だけ (2) + 行って (1) + 交渉して (3) + 入れてもらえないか (4).", "level": "N2" }, { "id": "s024", "before": "A「もしそちらのご都合が", "pieces": ["よろしければ", "４時以降に", "変更していただけると", "ありがたいですが"], "starIndex": 2, "after": "。」", "meaning": "A: 「Nếu phía bên anh/chị thuận tiện thì nếu có thể đổi sang sau 4 giờ giúp tôi thì tốt quá ạ.」", "grammar": "～していただけるとありがたい", "explanation": "V-て + いただけるとありがたい: 'nếu anh/chị có thể... giúp thì tốt quá'. Thứ tự đúng: よろしければ (4) + ４時以降に (3) + 変更していただけると (2) + ありがたいですが (1).", "level": "N2" }, { "id": "s025", "before": "このコンサートの警備には、警備員", "pieces": ["が", "２０人", "も", "いれば"], "starIndex": 2, "after": "十分です。", "meaning": "Về việc bảo vệ buổi hòa nhạc này, chỉ cần có khoảng 20 nhân viên bảo vệ là đủ rồi.", "grammar": "～も～ば", "explanation": "Số từ + も + V-ば: 'chỉ cần tận/đến... là...'. Thứ tự đúng: が (3) + ２０人 (4) + も (2) + いれば (1).", "level": "N2" }, { "id": "s026", "before": "B「じゃあ、私があっとコンビニに", "pieces": ["行って", "買って", "きますから", "待って"], "starIndex": 2, "after": "いてください。」", "meaning": "B: 「Thế thì để tôi chạy ra cửa hàng tiện lợi mua đồ rồi quay lại ngay, bạn hãy chờ ở đây nhé.」", "grammar": "V-てくる / V-てください", "explanation": "V-てくる: 'đi đâu đó làm gì rồi quay lại'. Thứ tự đúng: 行って (2) + 買って (4) + きますから (1) + 待って (3).", "level": "N2" }, { "id": "s027", "before": "「この計画をこのまま", "pieces": ["進めるかやめるか", "いずれにしても", "早急に結論を出して", "必要がある"], "starIndex": 2, "after": "だろう。」", "meaning": "「Kế hoạch này dù là tiếp tục tiến hành hay dừng lại đi nữa thì dường như cũng cần phải sớm đưa ra kết luận thôi.」", "grammar": "～か～か / ～必要がある", "explanation": "V1-るか V2-るか: 'tiến hành hay dừng lại'. いずれにしても: 'dù thế nào đi nữa'. Thứ tự đúng: 進めるかやめるか (4) + いずれにしても (2) + 早急に結論を出して (3) + 必要がある (1).", "level": "N2" }, { "id": "s028", "before": "「配られたプリントに、ビニール袋を持参", "pieces": ["のことと", "ありますが", "だいたい何枚ぐらい", "用意すれば"], "starIndex": 2, "after": "足りるのでしょうか。」", "meaning": "「Trong tờ rơi được phát có ghi là phải mang theo túi nilon, nhưng chuẩn bị khoảng mấy túi thì đủ ạ?」", "grammar": "～のこと / ～ば足りる", "explanation": "N + のこと: 'quy định/yêu cầu phải...'. Thứ tự đúng: のことと (3) + ありますが (1) + だいたい何枚ぐらい (2) + 用意すれば (4).", "level": "N2" }, { "id": "s029", "before": "何か目的があって", "pieces": ["その場所に行った", "はずなのに", "何をしにいったのか", "忘れてしまう"], "starIndex": 2, "after": "ということがよくある。", "meaning": "Rất thường có chuyện có mục đích gì đó đáng lẽ là đến nơi đó rồi, nhưng lại quên mất tiêu là mình đến để làm gì.", "grammar": "～はずなのに", "explanation": "V-た + はずなのに: 'đáng lẽ ra là đã... nhưng lại...'. Thứ tự đúng: その場所に行った (4) + はずなのに (3) + 何をしにいったのか (1) + 忘れてしまう (2).", "level": "N2" }, { "id": "s030", "before": "日本の食卓に", "pieces": ["みそやしょうゆといった", "調味料の", "原料となる", "欠かせない"], "starIndex": 2, "after": "大豆だが、日本国内で作られているものはわずかで、その多くを海外からの輸入頼っているという。", "meaning": "Đậu nành là thứ không thể thiếu trên mâm cơm Nhật Bản, vốn là nguyên liệu của các gia vị như miso hay nước tương, nhưng lượng sản xuất trong nước Nhật rất ít mà phần lớn phải phụ thuộc vào nhập khẩu.", "grammar": "～といった / ～欠かせない", "explanation": "～といった: 'như là...'. Thứ tự đúng: みそやしょうゆといった (4) + 調味料の (3) + 原料となる (2) + 欠かせない (1).", "level": "N2" }, { "id": "s031", "before": "この国でサッカー", "pieces": ["に次いで", "人気のある", "スポーツ", "といえば"], "starIndex": 2, "after": "野球だ。", "meaning": "Ở quốc gia này, nếu nói đến môn thể thao được yêu thích tiếp sau bóng đá thì đó là bóng chày.", "grammar": "～に次いで / ～といえば", "explanation": "N + に次いで: 'tiếp sau N'. Thứ tự đúng: に次いで (2) + 人気のある (4) + スポーツ (1) + といえば (3).", "level": "N2" }, { "id": "s032", "before": "木村「ええ、半年前に", "pieces": ["切った", "きり", "一度も", "切って"], "starIndex": 2, "after": "ないんですよ。」", "meaning": "Kimura: 「Ừ, từ lần cắt cách đây nửa năm đến nay tớ chưa cắt lần nào nữa đâu.」", "grammar": "～きり～ない", "explanation": "V-た + きり + V-ない: 'kể từ khi... thì không... nữa'. Thứ tự đúng: 切った (4) + きり (1) + 一度も (2) + 切って (3).", "level": "N2" }, { "id": "s033", "before": "中でも、経験豊富な", "pieces": ["田中先生は", "生徒は", "もとより", "保護者からの"], "starIndex": 2, "after": "信頼も厚い。", "meaning": "Trong đó, thầy Tanaka giàu kinh nghiệm không chỉ được học sinh mà còn nhận được sự tin tưởng rất lớn từ phụ huynh.", "grammar": "～はもとより", "explanation": "N1 + はもとより + N2: 'N1 là lẽ đương nhiên, ngay cả N2 cũng...'. Thứ tự đúng: 田中先生は (2) + 生徒は (1) + もとより (3) + 保護者からの (4).", "level": "N2" }, { "id": "s034", "before": "宇宙にはこれだけ", "pieces": ["多くの星がある", "のだから", "どこかの星に", "生物がいた"], "starIndex": 2, "after": "としても不思議ではないと思う。", "meaning": "Trong vũ trụ có nhiều ngôi sao đến thế này, nên cho dù ở ngôi sao nào đó từng có sinh vật tồn tại thì tôi nghĩ cũng không có gì kỳ lạ.", "grammar": "～としても", "explanation": "～のだから: 'vì là...'. ～としても: 'cho dù là...'. Thứ tự đúng: 多くの星がある (1) + のだから (3) + どこかの星に (4) + 生物がいた (2).", "level": "N2" }, { "id": "s035", "before": "仕事の", "pieces": ["上では", "対立する", "ことの", "多い"], "starIndex": 2, "after": "山田さんと林さんだが、プライベートではとても仲がいい。", "meaning": "Yamada và Hayashi là những người thường hay bất đồng trên phương diện công việc, nhưng ngoài đời tư thì họ lại rất thân thiết với nhau.", "grammar": "～の上では / ～ことの多い", "explanation": "N + の上では: 'trên phương diện/về mặt...'. Thứ tự đúng: 上では (3) + 対立する (1) + ことの (2) + 多い (4).", "level": "N2" }, { "id": "s036", "before": "B「そうだね。でもまだ", "pieces": ["あと", "1 週間", "ぐらい", "は"], "starIndex": 2, "after": "休みたいよね。」", "meaning": "B: 「Đúng thế nhỉ. Nhưng tớ vẫn muốn nghỉ thêm khoảng 1 tuần nữa cơ.」", "grammar": "～ぐらいは", "explanation": "あと + Số lượng + ぐらいは: 'thêm khoảng... nữa'. Thứ tự đúng: あと (3) + 1 週間 (2) + ぐらい (1) + は (4).", "level": "N2" }, { "id": "s037", "before": "日本滞在中は", "pieces": ["北川先生", "をはじめ", "多くの方々", "に"], "starIndex": 2, "after": "お世話になり、本当にありがとうございました。", "meaning": "Trong thời gian ở Nhật Bản, tôi đã nhận được sự giúp đỡ từ thầy Kitagawa cũng như rất nhiều người khác, tôi xin chân thành cảm ơn.", "grammar": "～をはじめ", "explanation": "N + をはじめ: 'tiêu biểu là / trước tiên phải kể đến...'. Thứ tự đúng: 北川先生 (2) + ををはじめ (1) + 多くの方々 (4) + に (3).", "level": "N2" }, { "id": "s038", "before": "私の祖父は、風邪をひいても、「風邪のときはあたたかく", "pieces": ["して", "早く", "寝る", "に限る"], "starIndex": 2, "after": "と言って病院に行かない。", "meaning": "Ông tôi dù bị cảm cũng bảo: 「Khi bị cảm thì tốt nhất là giữ ấm và đi ngủ sớm」 rồi không chịu đi bệnh viện.", "grammar": "～に限る", "explanation": "V-る / N + に限る: 'là tốt nhất / không gì bằng'. Thứ tự đúng: して (4) + 早く (2) + 寝る (3) + に限る (1).", "level": "N2" }, { "id": "s039", "before": "留学中、自分の国のことを聞かれて初めて、今まで", "pieces": ["当たり前だと", "思って", "疑問にすら", "思っていなかった"], "starIndex": 2, "after": "ことが多いのに気づいた。", "meaning": "Trong thời gian du học, chỉ khi được hỏi về đất nước mình tôi mới nhận ra rằng có rất nhiều điều từ trước đến nay tôi coi là hiển nhiên mà thậm chí chưa bao giờ mảy may thắc mắc.", "grammar": "～すら～ない", "explanation": "N + にすら: 'ngay cả / thậm chí...'. Thứ tự đúng: 当たり前だと (4) + 思って (1) + 疑問にすら (2) + 思っていなかった (3).", "level": "N2" }, { "id": "s040", "before": "彼が描いたライオンの絵は、", "pieces": ["今にも動き出して", "近づいてきそうなほど", "本物そっくりに", "描かれて"], "starIndex": 2, "after": "いる。", "meaning": "Bức tranh con sư tử do anh ấy vẽ trông giống như thật đến mức cảm giác như nó sắp sửa cử động và tiến lại gần.", "grammar": "～そうなほど / 本物そっくりに", "explanation": "今にも (sắp sửa) + 動き出して近づいてきそうなほど (đến mức như sắp tiến lại) + 本物そっくりに (y như thật) + 描かれている. Thứ tự đúng: 今にも動き出して (1) + 近づいてきそうなほど (2) + 本物そっくりに (4) + 描かれて (3).", "level": "N2" }, { "id": "s041", "before": "B「え、もう帰るの? せっかく", "pieces": ["来たんだから", "もう少し", "ゆっくりして", "いけば"], "starIndex": 1, "after": "いいのに。」", "meaning": "B: 「Ơ, đã về rồi sao? Đã cất công đến đây rồi thì ở lại thong thả thêm chút nữa có phải tốt không.」", "grammar": "せっかく～んだから / V-ていけばいい", "explanation": "せっかく～んだから: 'đã mất công... thì...'. Thứ tự đúng: 来たんだから (3) + もう少し (1) + ゆっくりして (4) + いけば (2). Vị trí ngôi sao ở vị trí thứ 2 (chỉ số 1 trong mảng).", "level": "N2" }, { "id": "s042", "before": "レポートを作成", "pieces": ["する", "上で", "注意", "すべき"], "starIndex": 2, "after": "ことは、事実なのか意見なのかを明確にすることだ。", "meaning": "Điều cần lưu ý khi viết báo cáo là phải làm rõ đâu là thực tế, đâu là ý kiến cá nhân.", "grammar": "～上で / ～すべき", "explanation": "V-る + 上で: 'khi / trong quá trình...'. V + すべき: 'nên / cần phải'. Thứ tự đúng: する (3) + 上で (2) + 注意 (1) + すべき (4).", "level": "N2" }, { "id": "s043", "before": "私は、どんなに", "pieces": ["つらいことがあっても", "そんな様子を全く見せず", "いつもにこにこしている", "石川さんを尊敬している"], "starIndex": 2, "after": "。", "meaning": "Tôi rất khâm phục anh Ishikawa, người luôn mỉm cười và không bao giờ tỏ ra mệt mỏi dù có gặp chuyện khó khăn đến đâu.", "grammar": "どんなに～ても / ～を見せず", "explanation": "どんなに + V-ても: 'dù có... đến mức nào'. Thứ tự đúng: つらいことがあっても (1) + そんな様子を全く見せず (4) + いつもにこにこしている (2) + 石川さんを尊敬している (3).", "level": "N2" }, { "id": "s044", "before": "A「サラリーマンから農家", "pieces": ["になる", "とは", "ずいぶん", "勇気"], "starIndex": 2, "after": "があるんだね。」", "meaning": "A: 「Từ một nhân viên văn phòng mà chuyển sang làm nông dân thì đúng là dũng cảm thật đấy nhỉ.」", "grammar": "～とは", "explanation": "V-る + とは: 'thật là... (biểu thị sự ngạc nhiên)'. Thứ tự đúng: になる (4) + とは (2) + ずいぶん (3) + 勇気 (1).", "level": "N2" }, { "id": "s045", "before": "B「私は反対しないよ。本当に向いていないと", "pieces": ["んだったら", "続ける", "こともないと", "思う"], "starIndex": 2, "after": "からね。」", "meaning": "B: 「Tớ không phản đối đâu. Nếu cậu thực sự cảm thấy không hợp thì tớ nghĩ cũng không nhất thiết phải tiếp tục làm gì.」", "grammar": "～んだったら / ～こともない", "explanation": "～んだったら: 'nếu là...'. V-る + こともない: 'không cần thiết phải...'. Thứ tự đúng: んだったら (3) + 続ける (4) + こともないと (1) + 思う (2).", "level": "N2" }, { "id": "s046", "before": "Ｘ社から新しく発売される腕時計は、これまでのどの時計にも", "pieces": ["なかった", "全く新しい", "デザインに", "なっている"], "starIndex": 2, "after": "そうで、非常に楽しみだ。", "meaning": "Chiếc đồng hồ đeo tay mới ra mắt của công ty X nghe nói có thiết kế hoàn toàn mới chưa từng có ở bất kỳ chiếc đồng hồ nào trước đây, nên tôi rất mong chờ.", "grammar": "～になっている", "explanation": "これまでのどの時計にもなかった (chưa từng có ở đồng hồ nào trước đây) + 全く新しいデザインに + なっている. Thứ tự đúng: なかった (3) + 全く新しい (4) + デザインに (2) + なっている (1).", "level": "N2" }, { "id": "s047", "before": "姉の", "pieces": ["ように", "10 年以上一日も", "欠かさず", "日記を書くなんて"], "starIndex": 2, "after": "私にはとてもできない。", "meaning": "Viết nhật ký không bỏ sót ngày nào suốt hơn 10 năm như chị gái tôi thì tôi hoàn toàn không thể làm được.", "grammar": "～欠かさず / ～なんて", "explanation": "N + 欠かさず: 'không bỏ sót...'. Thứ tự đúng: ように (2) + 10 年以上一日も (3) + 欠かさず (1) + 日記を書くなんて (4).", "level": "N2" }, { "id": "s048", "before": "朝、開花したときには", "pieces": ["真っ白だった", "花が", "夕方が近づくにつれて", "次第にピンクへと変化していく"], "starIndex": 2, "after": "珍しい花があります。", "meaning": "Có một loài hoa hiếm gặp: buổi sáng khi mới nở hoa màu trắng tinh, nhưng khi buổi chiều đến gần thì màu hoa dần chuyển sang màu hồng.", "grammar": "～につれて", "explanation": "V-る / N + につれて: 'càng... càng... / cùng với...'. Thứ tự đúng: 真っ白だった (2) + 花が (1) + 夕方が近づくにつれて (4) + 次第にピンクへと変化していく (3).", "level": "N2" }, { "id": "s049", "before": "部下の作った書類にミスがあるとき、部下にもう一度", "pieces": ["書き直させるより", "自分でやってしまったほうが", "早いと思って", "つい自分で直してしまうことも"], "starIndex": 2, "after": "多い。", "meaning": "Khi tài liệu cấp dưới làm có sai sót, tôi thường nghĩ tự mình làm cho nhanh hơn là bắt cấp dưới viết lại, nên lỡ tự tay sửa luôn cũng nhiều.", "grammar": "V1-させるよりV2-ほうが", "explanation": "V1-させるより (so với việc bắt làm lại) + 自分でやってしまったほうが早いと思って (nghĩ rằng tự làm nhanh hơn). Thứ tự đúng: 書き直させるより (1) + 自分でやってしまったほうが (4) + 早いと思って (3) + つい自分で直してしまうことも (2).", "level": "N2" }, { "id": "s050", "before": "友人に", "pieces": ["どうしても", "と頼まれて", "引き受けた", "塾講師の仕事だった"], "starIndex": 2, "after": "が、やってみたら意外に面白くて、自分に向いていると感じた。", "meaning": "Đó là công việc gia sư trung tâm mà tôi nhận làm vì được bạn bè nhờ vả hết lời, nhưng khi làm thử thì lại thấy thú vị bất ngờ và cảm thấy rất hợp với mình.", "grammar": "～と頼まれて", "explanation": "どうしてもと頼まれて (được nhờ vả hết lời) + 引き受けた (đã nhận lời) + 塾講師の仕事だった. Thứ tự đúng: どうしても (2) + と頼まれて (4) + 引き受けた (3) + 塾講師の仕事だった (1).", "level": "N2" }, { "id": "s051", "before": "優しい子になってほしい。娘の", "pieces": ["名前を", "優子に", "したのは", "そういった願いを"], "starIndex": 2, "after": "込めたからだ。", "meaning": "Tôi mong con sẽ trở thành một đứa trẻ dịu dàng. Việc tôi đặt tên con gái là Yuko chính là vì gửi gắm nguyện ước đó.", "grammar": "～願いを込めて", "explanation": "娘の名前を優子にしたのは (việc đặt tên con gái là Yuko) + そういった願いを込めたからだ. Thứ tự đúng: 名前を (3) + 優子に (1) + したのは (4) + そういった願いを (2).", "level": "N2" }, { "id": "s052", "before": "日本で携帯電話が発売されて約 20 年。いまや携帯電話は", "pieces": ["生活", "に欠かせない", "道具", "として"], "starIndex": 2, "after": "定着したといえるのではないか。", "meaning": "Đã khoảng 20 năm kể từ khi điện thoại di động được bán ra ở Nhật. Phải nói rằng ngày nay điện thoại di động đã trở thành một món đồ không thể thiếu trong đời sống.", "grammar": "～として / ～に欠かせない", "explanation": "生活に欠かせない (không thể thiếu trong đời sống) + 道具として (với tư cách là công cụ). Thứ tự đúng: 生活 (4) + に欠かせない (1) + 道具 (2) + として (3).", "level": "N2" }, { "id": "s053", "before": "私は、スケジュール", "pieces": ["どおりに", "仕事を進める", "には", "どうすればいいか"], "starIndex": 2, "after": "常に考えながら作業をしている。", "meaning": "Tôi vừa làm việc vừa luôn suy nghĩ xem phải làm thế nào để tiến hành công việc theo đúng kế hoạch.", "grammar": "～どおりに / ～には", "explanation": "スケジュールどおりに (theo đúng lịch trình) + 仕事を進めるには (để tiến hành công việc). Thứ tự đúng: どおりに (2) + 仕事を進める (4) + には (3) + どうすればいいか (1).", "level": "N2" }, { "id": "s054", "before": "筋肉トレーニングを", "pieces": ["しているとき", "今自分がどこを鍛えているのか", "意識するのと", "しないのでは"], "starIndex": 2, "after": "効果は全く違います。", "meaning": "Khi tập cơ bắp, việc có ý thức về vùng mình đang rèn luyện hay không sẽ mang lại hiệu quả hoàn toàn khác nhau.", "grammar": "～のと～ないのでは", "explanation": "V1-るのと V2-ないのでは: 'giữa việc... và việc không...'. Thứ tự đúng: しているとき (2) + 今自分がどこを鍛えているのか (1) + 意識するのと (4) + しないのでは (3).", "level": "N2" }, { "id": "s055", "before": "「みるく屋」は、A 市に", "pieces": ["住んでいる人なら", "知らない人はいないくらい", "有名な", "お菓子屋さん"], "starIndex": 2, "after": "です。", "meaning": "Quán 「Miruku-ya」 là một tiệm bánh ngọt nổi tiếng đến mức nếu là người sống ở thành phố A thì không ai là không biết.", "grammar": "～くらい", "explanation": "～くらい: 'đến mức...'. Thứ tự đúng: 住んでいる人なら (2) + 知らない人はいないくらい (3) + 有名な (1) + お菓子屋さん (4).", "level": "N2" }, { "id": "s056", "before": "狭い部屋でもテーブルの上に物を置かない", "pieces": ["ようにする", "だけで", "広く感じられる", "ようになると"], "starIndex": 2, "after": "本に書いてあった。", "meaning": "Sách có viết rằng ngay cả phòng hẹp thì chỉ cần cố gắng không để đồ đạc lên bàn là sẽ cảm thấy căn phòng trở nên rộng rãi hơn.", "grammar": "～ようにするだけで / ～ようになる", "explanation": "V-る + ようにするだけで: 'chỉ cần cố gắng...'. Thứ tự đúng: ようにする (3) + だけで (1) + 広く感じられる (4) + ようになると (2).", "level": "N2" }, { "id": "s057", "before": "レストランでアルバイトを始めてから", "pieces": ["今日で 1 年たつのに", "客の注文を間違えた", "うえに", "皿を割るという"], "starIndex": 2, "after": "ミスまでしてしまった。", "meaning": "Dù tính đến hôm nay đã tròn 1 năm kể từ khi tôi bắt đầu làm thêm ở nhà hàng, vậy mà tôi lại mắc phải lỗi nhầm món của khách và thậm chí làm vỡ đĩa nữa.", "grammar": "～うえに / ～という", "explanation": "～うえに: 'hơn nữa / không những... mà còn...'. Thứ tự đúng: 今日で 1 年たつのに (1) + 客の注文を間違えた (4) + うえに (3) + 皿を割るという (2).", "level": "N2" }, { "id": "s058", "before": "大雨の中を傘を差さずに", "pieces": ["帰ったせいか", "治りかけていた", "風邪が", "またひどくなって"], "starIndex": 2, "after": "今朝からずっと鼻水が止まらない。", "meaning": "Có lẽ tại vì đi mưa về không che ô nên cơn cảm tưởng như sắp khỏi lại trở nặng, từ sáng đến giờ tôi bị chảy nước mũi mãi không ngừng.", "grammar": "～せいか / ～かける", "explanation": "～せいか: 'chắc tại vì...'. Thứ tự đúng: 帰ったせいか (4) + 治りかけていた (2) + 風邪が (1) + またひどくなって (3).", "level": "N2" }, { "id": "s059", "before": "", "pieces": ["たんぱく質が", "多く含まれる", "食べ物というと", "肉や魚や卵といった"], "starIndex": 2, "after": "ものが思い浮かぶと思いますが、大豆にもたくさん含まれています。", "meaning": "Nói đến thực phẩm chứa nhiều chất đạm thì chắc hẳn người ta sẽ nghĩ ngay đến những thứ như thịt, cá, trứng, nhưng trong đậu nành cũng chứa rất nhiều đấy.", "grammar": "～というと / ～といった", "explanation": "N + というと: 'hễ nói đến...'. Thứ tự đúng: たんぱく質が (2) + 多く含まれる (4) + 食べ物というと (3) + 肉や魚や卵といった (1).", "level": "N2" }, { "id": "s060", "before": "イベントの準備には", "pieces": ["最低でも", "二日はかかるだろうと思われたが", "多くのボランティアの方の協力で", "一日で終わったので"], "starIndex": 2, "after": "スケジュールに余裕ができた。", "meaning": "Việc chuẩn bị cho sự kiện vốn tưởng sẽ mất ít nhất là 2 ngày, nhưng nhờ sự giúp đỡ của đông đảo tình nguyện viên nên đã hoàn thành trong 1 ngày, vì vậy lịch trình đã dư dả hơn.", "grammar": "～と思われたが / ～で", "explanation": "最低でも (ít nhất là) + 二日はかかるだろうと思われたが (vốn tưởng mất 2 ngày) + 多くのボランティアの方の協力で. Thứ tự đúng: 最低でも (3) + 二日はかかるだろうと思われたが (1) + 多くのボランティアの方の協力で (2) + 一日で終わったので (4).", "level": "N2" }, 
+  {
+    "id": "s061",
+    "before": "一人暮らしを始めたころは、料理も洗濯もすべて自分でするのが大変で、これまでずっと",
+    "pieces": [
+      "環境にいたか",
+      "毎日だった",
+      "どんなに恵まれた",
+      "と感じさせられる"
+    ],
+    "starIndex": 3,
+    "after": "。",
+    "meaning": "Hồi mới bắt đầu sống tự lập, việc tự mình làm tất cả từ nấu ăn đến giặt giũ rất vất vả, khiến tôi ngày nào cũng cảm nhận được từ trước đến nay mình đã ở trong một môi trường được ưu ái đến nhường nào.",
+    "grammar": "～かと感じさせられる / どんなに～か",
+    "explanation": "Thứ tự đúng: どんなに恵まれた (3) + 環境にいたか (1) + と感じさせられる (4) + 毎日だった (2). Vị trí ngôi sao ở vị trí thứ 3 là と感じさせられる.",
+    "level": "N2"
+  },
+  {
+    "id": "s062",
+    "before": "このお菓子はとても簡単に作れるから初心者でも失敗する",
+    "pieces": [
+      "ことは",
+      "という",
+      "ない",
+      "まず"
+    ],
+    "starIndex": 2,
+    "after": "友人の話を聞いて、作ってみようと思った。",
+    "meaning": "Nghe người bạn nói rằng món bánh này rất dễ làm nên người mới bắt đầu cũng hầu như không thể thất bại được, tôi đã quyết định thử làm xem sao.",
+    "grammar": "まず～ない / ～ということはない",
+    "explanation": "Thứ tự đúng: ことは (1) + まず (4) + ない (3) + という (2). Vị trí ngôi sao ở vị trí thứ 3 là ない.",
+    "level": "N2"
+  },
+  {
+    "id": "s063",
+    "before": "近所のスーパーの隣にはクリーニング屋がある。スーパーもクリーニング屋も私が",
+    "pieces": [
+      "開いていて",
+      "買い物するついでに",
+      "預けた服を取りに行けるのが",
+      "仕事から帰る時間でも"
+    ],
+    "starIndex": 2,
+    "after": "助かる。",
+    "meaning": "Cả siêu thị và tiệm giặt ủi đều mở cửa ngay cả vào thời gian tôi đi làm về, nên tiện thể đi mua sắm tôi có thể ghé lấy quần áo đã gửi, thật là tiện lợi.",
+    "grammar": "～ついでに / ～でも",
+    "explanation": "Thứ tự đúng: 仕事から帰る時間でも (4) + 開いていて (1) + 買い物するついでに (2) + 預けた服を取りに行けるのが (3). Vị trí ngôi sao ở vị trí thứ 3 là 買い物するついでに.",
+    "level": "N2"
+  },
+  {
+    "id": "s064",
+    "before": "薬を正しく",
+    "pieces": [
+      "効果が",
+      "飲まないと",
+      "得られるはずの",
+      "得られないだけでなく"
+    ],
+    "starIndex": 0,
+    "after": "状態を悪化させてしまう危険もある。",
+    "meaning": "Nếu không uống thuốc đúng cách thì không những không nhận được hiệu quả vốn có mà còn có nguy cơ làm tình trạng bệnh trở nên tồi tệ hơn.",
+    "grammar": "～はずの / ～だけでなく",
+    "explanation": "Thứ tự đúng: 飲まないと (2) + 得られるはずの (3) + 効果が (1) + 得られないだけでなく (4). Vị trí ngôi sao ở vị trí thứ 3 là 効果が.",
+    "level": "N2"
+  },
+  {
+    "id": "s065",
+    "before": "いつ行っても長い行列ができているラーメン屋なのに",
+    "pieces": [
+      "行ったから",
+      "何時ごろがすいているか",
+      "事前に確認してから",
+      "今回あまり並ばないで済んだのは"
+    ],
+    "starIndex": 2,
+    "after": "だ。",
+    "meaning": "Quán ramen lúc nào đến cũng xếp hàng dài, thế nhưng lần này không phải xếp hàng mấy là nhờ trước đó tôi đã kiểm tra xem khoảng mấy giờ thì vắng khách rồi mới đi.",
+    "grammar": "～ずに済む / ～のは～からだ",
+    "explanation": "Thứ tự đúng: 今回あまり並ばないで済んだのは (4) + 何時ごろがすいているか (2) + 事前に確認してから (3) + 行ったから (1). Vị trí ngôi sao ở vị trí thứ 3 là 事前に確認してから.",
+    "level": "N2"
+  },
+  {
+    "id": "s066",
+    "before": "結婚生活を送る",
+    "pieces": [
+      "うえで",
+      "といえば",
+      "大切か",
+      "何が"
+    ],
+    "starIndex": 2,
+    "after": "相手への思いやりの気持ちを持つことだと思う。",
+    "meaning": "Nói về điều gì là quan trọng trong đời sống hôn nhân, tôi nghĩ đó chính là việc mang trong mình sự quan tâm đối phương.",
+    "grammar": "～うえで / ～といえば",
+    "explanation": "Thứ tự đúng: うえで (1) + 何が (4) + 大切か (3) + といえば (2). Vị trí ngôi sao ở vị trí thứ 3 là 大切か.",
+    "level": "N2"
+  },
+  {
+    "id": "s067",
+    "before": "就職したときに",
+    "pieces": [
+      "ずっと",
+      "買って以来",
+      "かばんが",
+      "使っていた"
+    ],
+    "starIndex": 3,
+    "after": "とうとう壊れたので、買い換えることにした。",
+    "meaning": "Chiếc cặp mà tôi dùng suốt từ khi đi làm cuối cùng cũng bị hỏng nên tôi đã quyết định mua chiếc mới thay thế.",
+    "grammar": "～て以来",
+    "explanation": "Thứ tự đúng: 買って以来 (2) + ずっと (1) + 使っていた (4) + かばんが (3). Vị trí ngôi sao ở vị trí thứ 3 là 使っていた.",
+    "level": "N2"
+  },
+  {
+    "id": "s068",
+    "before": "登山には不思議な魅力がある。登っているときはこんなに",
+    "pieces": [
+      "思うのに",
+      "二度としたくないと",
+      "苦しいことは",
+      "山を下りて何日かすると"
+    ],
+    "starIndex": 2,
+    "after": "なぜかまた登りたくなる。",
+    "meaning": "Leo núi có một sức hút kỳ lạ. Khi đang leo thì nghĩ không bao giờ muốn làm việc cực khổ như thế này lần thứ hai nữa, thế nhưng xuống núi được vài ngày không hiểu sao lại muốn leo tiếp.",
+    "grammar": "～のに",
+    "explanation": "Thứ tự đúng: 苦しいことは (3) + 二度としたくないと (2) + 思うのに (1) + 山を下りて何日かすると (4). Vị trí ngôi sao ở vị trí thứ 3 là 思うのに.",
+    "level": "N2"
+  },
+  {
+    "id": "s069",
+    "before": "彫刻家川村たけるが作る動物の彫刻作品は、形はシンプル",
+    "pieces": [
+      "動き出し",
+      "そうな",
+      "ながら",
+      "今にも"
+    ],
+    "starIndex": 2,
+    "after": "生命力にあふれている。",
+    "meaning": "Các tác phẩm điêu khắc動 vật do nhà điêu khắc Takeru Kawamura tạo ra tuy hình dáng đơn giản nhưng lại tràn đầy sức sống như thể sắp動 đậy đến nơi.",
+    "grammar": "～ながら / ～そう",
+    "explanation": "Thứ tự đúng: ながら (3) + 今にも (4) + 動き出し (1) + そうな (2). Vị trí ngôi sao ở vị trí thứ 3 là 動き出し.",
+    "level": "N2"
+  },
+  {
+    "id": "s070",
+    "before": "ビジネスで成功できる人とできない人の違いは、どんなに大変な状況でもあきらめずに",
+    "pieces": [
+      "かどうか",
+      "取り組める",
+      "にある",
+      "最後まで"
+    ],
+    "starIndex": 0,
+    "after": "と思う。",
+    "meaning": "Sự khác biệt giữa người thành công và không thành công trong kinh doanh tôi nghĩ nằm ở chỗ liệu có thể kiên trì giải quyết đến cùng mà không bỏ cuộc dù trong hoàn cảnh khó khăn đến đâu hay không.",
+    "grammar": "～かどうか / ～にある",
+    "explanation": "Thứ tự đúng: 最後まで (4) + 取り組める (2) + かどうか (1) + にある (3). Vị trí ngôi sao ở vị trí thứ 3 là かどうか.",
+    "level": "N2"
+  },
+  {
+    "id": "s071",
+    "before": "良い",
+    "pieces": [
+      "その良さが",
+      "客に伝わらなければ",
+      "売り上げの",
+      "商品やサービスであっても"
+    ],
+    "starIndex": 1,
+    "after": "増加は期待できない。",
+    "meaning": "Dù cho có là sản phẩm hay dịch vụ tốt đi nữa, nếu ưu điểm của nó không truyền đạt được tới khách hàng thì không thể kỳ vọng doanh số tăng lên.",
+    "grammar": "～であっても / ～なければ",
+    "explanation": "Thứ tự đúng: 商品やサービスであっても (4) + その良さが (1) + 客に伝わらなければ (2) + 売り上げの (3). Vị trí ngôi sao ở vị trí thứ 3 là 客に伝わらなければ.",
+    "level": "N2"
+  },
+  {
+    "id": "s072",
+    "before": "先輩の家にはオルガンがある。5年前に",
+    "pieces": [
+      "もらったときに",
+      "一度弾いたきり",
+      "海外に引っ越した",
+      "友達からもらったもので"
+    ],
+    "starIndex": 0,
+    "after": "だと言っていた。",
+    "meaning": "Ở nhà tiền bối có một chiếc đàn organ. Anh ấy nói đó là món đồ nhận từ một người bạn chuyển sang nước ngoài sống cách đây 5 năm, và từ lúc nhận đến nay mới chỉ chơi thử đúng một lần.",
+    "grammar": "～たきり",
+    "explanation": "Thứ tự đúng: 海外に引っ越した (3) + 友達からもらったもので (4) + もらったときに (1) + 一度弾いたきり (2). Vị trí ngôi sao ở vị trí thứ 3 là もらったときに.",
+    "level": "N2"
+  },
+  {
+    "id": "s073",
+    "before": "雑誌か",
+    "pieces": [
+      "自分にとって",
+      "何かで",
+      "人生で一番大切なのは",
+      "誰かが"
+    ],
+    "starIndex": 0,
+    "after": "人との出会いだとインタビューに答えていたのを見て、本当にそうだなと思った。",
+    "meaning": "Tôi đã đọc cuộc phỏng vấn một ai đó nói trên tạp chí hay đâu đó rằng điều quan trọng nhất đời người đối với bản thân chính là việc gặp gỡ mọi người, tôi thấy điều đó vô cùng đúng đắn.",
+    "grammar": "～にとって / ～のか",
+    "explanation": "Thứ tự đúng: 何かで (2) + 誰かが (4) + 自分にとって (1) + 人生で一番大切なのは (3). Vị trí ngôi sao ở vị trí thứ 3 là 自分にとって.",
+    "level": "N2"
+  },
+  {
+    "id": "s074",
+    "before": "なかなか",
+    "pieces": [
+      "ようやく",
+      "行けなかった",
+      "レストランに",
+      "予約がとれなくて"
+    ],
+    "starIndex": 2,
+    "after": "行けることになった。",
+    "meaning": "Cuối cùng tôi cũng đã có thể đến nhà hàng mà trước đây mãi không thể nào đặt bàn nổi.",
+    "grammar": "～て行けることになった",
+    "explanation": "Thứ tự đúng: 予約がとれなくて (4) + 行けなかった (2) + レストランに (3) + ようやく (1). Vị trí ngôi sao ở vị trí thứ 3 là レストランに.",
+    "level": "N2"
+  },
+  {
+    "id": "s075",
+    "before": "なぜときどき駅ですれ違う",
+    "pieces": [
+      "だけの",
+      "こんなに気になる",
+      "のか",
+      "彼女のことが"
+    ],
+    "starIndex": 1,
+    "after": "自分でもよくわからない。",
+    "meaning": "Tại sao một người cô gái chỉ thỉnh thoảng đi lướt qua nhau ở nhà ga lại khiến tôi bận tâm đến mức này, chính tôi cũng không tự hiểu nổi.",
+    "grammar": "～だけの / ～のか",
+    "explanation": "Thứ tự đúng: だけの (1) + 彼女のことが (4) + こんなに気になる (2) + のか (3). Vị trí ngôi sao ở vị trí thứ 3 là こんなに気になる.",
+    "level": "N2"
+  },
+  {
+    "id": "s076",
+    "before": "（教室で）生徒「これからご紹介するのは、私が新しい単語を覚える",
+    "pieces": [
+      "のに",
+      "とあれこれ考えた",
+      "末に",
+      "いい方法はないか"
+    ],
+    "starIndex": 1,
+    "after": "思いついた方法です。皆さんも、ぜひ試してみてください。」",
+    "meaning": "(Trong lớp học) Học sinh: “Sau đây em xin giới thiệu phương pháp mà em đã nghĩ ra sau khi đắn đo suy nghĩ đủ kiểu xem có cách nào hay để ghi nhớ từ mới không. Mọi người cũng hãy dùng thử xem sao nhé.”",
+    "grammar": "～のに / ～末に",
+    "explanation": "Thứ tự đúng: のに (1) + いい方法はないか (4) + とあれこれ考えた (2) + 末に (3). Vị trí ngôi sao ở vị trí thứ 3 là とあれこれ考えた.",
+    "level": "N2"
+  },
+  {
+    "id": "s077",
+    "before": "講師「片付けが苦手という話をよく聞きますが、それは",
+    "pieces": [
+      "決して",
+      "やり方を知らない",
+      "ではなく",
+      "性格や能力の問題"
+    ],
+    "starIndex": 2,
+    "after": "だけなので、やり方を身につければ必ず片付けられるようになります。」",
+    "meaning": "Giảng viên: “Tôi rất hay nghe chuyện mọi người dọn dẹp kém, nhưng đó tuyệt nhiên không phải là vấn đề về tính cách hay năng lực mà chỉ là do chưa biết cách làm thôi, thế nên nếu nắm được phương pháp thì nhất định ai cũng sẽ dọn dẹp được.”",
+    "grammar": "決して～ではなく",
+    "explanation": "Thứ tự đúng: 決して (1) + 性格や能力の問題 (4) + ではなく (3) + やり方を知らない (2). Vị trí ngôi sao ở vị trí thứ 3 là ではなく.",
+    "level": "N2"
+  },
+  {
+    "id": "s078",
+    "before": "X市には、市民のための文化施設が",
+    "pieces": [
+      "はじめとした",
+      "二つあり",
+      "さまざまな催しを",
+      "音楽コンサートを"
+    ],
+    "starIndex": 0,
+    "after": "行っている。",
+    "meaning": "Tại thành phố X có hai cơ sở văn hóa dành cho người dân, và nơi đây đang tổ chức nhiều sự kiện đa dạng bao gồm cả các buổi hòa nhạc.",
+    "grammar": "～をはじめとした",
+    "explanation": "Thứ tự đúng: 二つあり (2) + 音楽コンサートを (4) + はじめとした (1) + さまざまな催しを (3). Vị trí ngôi sao ở vị trí thứ 3 là はじめとした.",
+    "level": "N2"
+  },
+  {
+    "id": "s079",
+    "before": "おなかがすいている",
+    "pieces": [
+      "どうして",
+      "おなかが鳴るのは",
+      "でもないのに",
+      "わけ"
+    ],
+    "starIndex": 0,
+    "after": "だろう。",
+    "meaning": "Dẫu cho không phải là đang đói bụng, tại sao bụng tôi lại cứ cồn cào phát ra tiếng kêu nhỉ.",
+    "grammar": "～わけでもないのに",
+    "explanation": "Thứ tự đúng: わけ (4) + でもないのに (3) + どうして (1) + おなかが鳴るのは (2). Vị trí ngôi sao ở vị trí thứ 3 là どうして.",
+    "level": "N2"
+  },
+  {
+    "id": "s080",
+    "before": "",
+    "pieces": [
+      "泊まっている",
+      "たびに",
+      "Yホテルが",
+      "出張に行く"
+    ],
+    "starIndex": 0,
+    "after": "先週から工事で休業中なので、今回は別のホテルに泊まることにした。",
+    "meaning": "Khách sạn Y mà mỗi lần đi công tác tôi đều ở hiện đang đóng cửa sửa chữa từ tuần trước nên lần này tôi quyết định chuyển sang ở khách sạn khác.",
+    "grammar": "～たびに",
+    "explanation": "Thứ tự đúng: 出張に行く (4) + たびに (2) + 泊まっている (1) + Yホテルが (3). Vị trí ngôi sao ở vị trí thứ 3 là 泊まっている.",
+    "level": "N2"
+  },
+  {
+    "id": "s081",
+    "before": "どんなスポーツでも、日々の練習が",
+    "pieces": [
+      "もちろんだが",
+      "欠かせないのは",
+      "上達に",
+      "間違った方法で"
+    ],
+    "starIndex": 0,
+    "after": "行うと時間をかけてもなかなか上達しない。",
+    "meaning": "Ở bất kỳ môn thể thao nào, việc luyện tập hàng ngày là không thể thiếu thì đã đành rồi, nhưng nếu làm sai phương pháp thì dù tốn thời gian cũng khó mà tiến bộ được.",
+    "grammar": "～のはもちろんだが",
+    "explanation": "Thứ tự đúng: 上達に (3) + 欠かせないのは (2) + もちろんだが (1) + 間違った方法で (4). Vị trí ngôi sao ở vị trí thứ 3 là もちろんだが.",
+    "level": "N2"
+  },
+  {
+    "id": "s082",
+    "before": "姉は歌手の赤川ケイの大ファンで、彼女の",
+    "pieces": [
+      "ことなら",
+      "ちいさな",
+      "ことでも",
+      "どんなに"
+    ],
+    "starIndex": 1,
+    "after": "知りたいと言ってる。",
+    "meaning": "Chị gái tôi là fan cuồng của nữ ca sĩ Kei Akagawa, chị ấy bảo rằng nếu là chuyện về cô ấy thì cho dù là chi tiết nhỏ nhặt đến đâu chị ấy cũng muốn biết.",
+    "grammar": "～ことなら / どんなに～でも",
+    "explanation": "Thứ tự đúng: ことなら (1) + どんなに (4) + ちいさな (2) + ことでも (3). Vị trí ngôi sao ở vị trí thứ 3 là ちいさな.",
+    "level": "N2"
+  },
+  {
+    "id": "s083",
+    "before": "明日の夕方が締め切りのレポートがまだ終わっていない。明日は一日中授業があって時間がとれないので、今晩",
+    "pieces": [
+      "終わらせて",
+      "徹夜して",
+      "しまわないと",
+      "でも"
+    ],
+    "starIndex": 0,
+    "after": "いけない。",
+    "meaning": "Bài báo cáo có hạn nộp vào chiều mai vẫn chưa hoàn thành. Ngày mai cả ngày có giờ học không có thời gian trống nên tối nay tôi phải thức trắng đêm để hoàn tất cho xong.",
+    "grammar": "～てでも / ～てしまわないといけない",
+    "explanation": "Thứ tự đúng: 徹夜して (2) + でも (4) + 終わらせて (1) + しまわないと (3). Vị trí ngôi sao ở vị trí thứ 3 là 終わらせて.",
+    "level": "N2"
+  },
+  {
+    "id": "s084",
+    "before": "田中さんは",
+    "pieces": [
+      "食べだすと",
+      "一度",
+      "みかんが好きらしく",
+      "止まらないほど"
+    ],
+    "starIndex": 0,
+    "after": "冬はいつもミカンを大量に買うそうだ。",
+    "meaning": "Nghe nói anh Tanaka hình như rất thích quýt, đến mức một khi đã bắt đầu ăn là không thể dừng lại được, nên mùa đông lúc nào cũng mua một lượng lớn quýt về ăn.",
+    "grammar": "～らしく / ～と～ほど",
+    "explanation": "Thứ tự đúng: みかんが好きらしく (3) + 一度 (2) + 食べだすと (1) + 止まらないほど (4). Vị trí ngôi sao ở vị trí thứ 3 là 食べだすと.",
+    "level": "N2"
+  },
+  {
+    "id": "s085",
+    "before": "私は、中学生になったころから",
+    "pieces": [
+      "将来",
+      "医学に興味を持ち始め",
+      "高校に入ったころには",
+      "次第に"
+    ],
+    "starIndex": 2,
+    "after": "医者になろうと決めていた。",
+    "meaning": "Từ hồi lên cấp 2 tôi đã bắt đầu có hứng thú với y học, và dần dần đến khi bước vào cấp 3 thì tôi đã quyết định sau này sẽ trở thành bác sĩ.",
+    "grammar": "～に興味を持ち始め / 次第に",
+    "explanation": "Thứ tự đúng: 医学に興味を持ち始め (2) + 次第に (4) + 高校に入ったころには (3) + 将来 (1). Vị trí ngôi sao ở vị trí thứ 3 là 高校に入ったころには.",
+    "level": "N2"
+  },
+  {
+    "id": "s086",
+    "before": "山や植物の写真家",
+    "pieces": [
+      "として",
+      "の",
+      "岩本まさき氏",
+      "有名な"
+    ],
+    "starIndex": 2,
+    "after": "写真展が 15日から ABC デパートで開催される。",
+    "meaning": "Triển lãm ảnh của ông Masaki Iwamoto — một nhiếp ảnh gia nổi tiếng chuyên chụp núi rừng và thực vật — sẽ được tổ chức tại bách hóa ABC từ ngày 15.",
+    "grammar": "～として有名",
+    "explanation": "Thứ tự đúng: として (1) + 有名な (4) + 岩本まさき氏 (3) + の (2). Vị trí ngôi sao ở vị trí thứ 3 là 岩本まさき氏.",
+    "level": "N2"
+  },
+  {
+    "id": "s087",
+    "before": "子供のころは、1年が長く感じられたのに、年をとる",
+    "pieces": [
+      "のは",
+      "につれて",
+      "なぜ",
+      "短く感じるようになる"
+    ],
+    "starIndex": 0,
+    "after": "だろうか。",
+    "meaning": "Hồi còn nhỏ cảm thấy 1 năm trôi qua thật dài, thế mà tại sao càng có tuổi thì lại càng thấy thời gian trôi nhanh hơn nhỉ.",
+    "grammar": "～につれて / ～のはなぜ～か",
+    "explanation": "Thứ tự đúng: につれて (2) + 短く感じるようになる (4) + のは (1) + なぜ (3). Vị trí ngôi sao ở vị trí thứ 3 là のは.",
+    "level": "N2"
+  },
+  {
+    "id": "s088",
+    "before": "情報をどのような",
+    "pieces": [
+      "相手の受け止め方",
+      "提示するか",
+      "によって",
+      "順番で"
+    ],
+    "starIndex": 2,
+    "after": "が変わってくるので、順番を意識して話す必要がある。",
+    "meaning": "Tùy thuộc vào việc trình bày thông tin theo thứ tự như thế nào mà cách tiếp nhận của đối phương sẽ khác đi, nên cần phải chú ý đến thứ tự khi nói.",
+    "grammar": "～によって",
+    "explanation": "Thứ tự đúng: 順番で (4) + 提示するか (2) + によって (3) + 相手の受け止め方 (1). Vị trí ngôi sao ở vị trí thứ 3 là によって.",
+    "level": "N2"
+  },
+  {
+    "id": "s089",
+    "before": "日本では、99歳のお祝いを「白寿」と言います。「百」の字から「一」をとる",
+    "pieces": [
+      "と",
+      "字になる",
+      "ことから",
+      "「白」という"
+    ],
+    "starIndex": 1,
+    "after": "そう呼ばれています。",
+    "meaning": "Ở Nhật Bản, lễ thọ 99 tuổi được gọi là 「Bạch Thọ」. Lý do được gọi như vậy là vì nếu bỏ bớt chữ 「Nhất (一)」 khỏi chữ 「Bách (百)」 thì sẽ tạo thành chữ 「Bạch (白)」.",
+    "grammar": "～と～字になることから",
+    "explanation": "Thứ tự đúng: と (1) + 「白」という (4) + 字になる (2) + ことから (3). Vị trí ngôi sao ở vị trí thứ 3 là 字になる.",
+    "level": "N2"
+  },
+  {
+    "id": "s090",
+    "before": "講師「最初は",
+    "pieces": [
+      "うちに",
+      "全く興味がなかった",
+      "商品なのに",
+      "CM などで何度か見ている"
+    ],
+    "starIndex": 3,
+    "after": "気になってくるということはありませんか。このような心理現象を『ザイオンス効果』と言います。」",
+    "meaning": "Giảng viên: “Ban đầu có những sản phẩm vốn hoàn toàn không hề có hứng thú, thế nhưng sau vài lần nhìn thấy trên quảng cáo thì có khi nào bạn lại đâm ra bận tâm không? Hiện tượng tâm lý này được gọi là 『Hiệu ứng Zajonc』.”",
+    "grammar": "～のに / ～うちに",
+    "explanation": "Thứ tự đúng: 全く興味がなかった (2) + 商品なのに (3) + CM などで何度か見ている (4) + うちに (1). Vị trí ngôi sao ở vị trí thứ 3 là CM などで何度か見ている.",
+    "level": "N2"
+  },
+  {
+    "id": "s091",
+    "before": "料理の面白いところは、安い材料でも",
+    "pieces": [
+      "ごちそう",
+      "工夫",
+      "豪華な",
+      "次第で"
+    ],
+    "starIndex": 2,
+    "after": "ができるところです。",
+    "meaning": "Điểm thú vị của nấu ăn là ở chỗ ngay cả nguyên liệu giá rẻ nhưng tùy thuộc vào sự sáng tạo biến tấu mà cũng có thể tạo nên một mảng tiệc thịnh soạn.",
+    "grammar": "～次第で",
+    "explanation": "Thứ tự đúng: 工夫 (2) + 次第で (4) + 豪華な (3) + ごちそう (1). Vị trí ngôi sao ở vị trí thứ 3 là 豪華な.",
+    "level": "N2"
+  },
+  {
+    "id": "s092",
+    "before": "田中「昨日は、息子の高校の入学式だったんですよ。」\n山田「田中さんの",
+    "pieces": [
+      "もう",
+      "息子さん",
+      "高校生",
+      "も"
+    ],
+    "starIndex": 0,
+    "after": "ですか。早いですね。」",
+    "meaning": "Tanaka: “Hôm qua là lễ nhập học cấp 3 của con trai tôi đấy.”\nYamada: “Con trai anh Tanaka mà cũng đã là học sinh cấp 3 rồi cơ à. Nhanh thật đấy.”",
+    "grammar": "～ももう～",
+    "explanation": "Thứ tự đúng: 息子さん (2) + も (4) + もう (1) + 高校生 (3). Vị trí ngôi sao ở vị trí thứ 3 là もう.",
+    "level": "N2"
+  },
+  {
+    "id": "s093",
+    "before": "世界各国の国会議員選挙における投票率を世代ごとに見ると、若い世代の",
+    "pieces": [
+      "我が国に限らず",
+      "傾向がある",
+      "投票率は",
+      "相対的に低い"
+    ],
+    "starIndex": 3,
+    "after": "ことがわかる。",
+    "meaning": "Khi nhìn vào tỷ lệ cử đi bầu cử đại biểu quốc hội ở các quốc gia trên thế giới theo từng lứa tuổi, có thể thấy tỷ lệ đi bầu của giới trẻ không chỉ riêng ở nước ta mà có xu hướng tương đối thấp.",
+    "grammar": "～に限らず / ～傾向がある",
+    "explanation": "Thứ tự đúng: 投票率は (3) + 我が国に限らず (1) + 相対的に低い (4) + 傾向がある (2). Vị trí ngôi sao ở vị trí thứ 3 là 相対的に低い.",
+    "level": "N2"
+  },
+  {
+    "id": "s094",
+    "before": "５歳の娘は、私と同じ警察官になりたいと言っている。本当に将来",
+    "pieces": [
+      "別として",
+      "そんなことを",
+      "言ってくれたことに",
+      "なるかどうかは"
+    ],
+    "starIndex": 1,
+    "after": "感激した。",
+    "meaning": "Đứa con gái 5 tuổi nói muốn trở thành cảnh sát giống như tôi. Tạm thời chưa bàn đến việc tương lai có thực sự làm cảnh sát hay không, nhưng việc con bé nói lời như vậy làm tôi vô cùng xúc động.",
+    "grammar": "～かどうかは別として",
+    "explanation": "Thứ tự đúng: なるかどうかは (4) + 別として (1) + そんなことを (2) + 言ってくれたことに (3). Vị trí ngôi sao ở vị trí thứ 3 là そんなことを.",
+    "level": "N2"
+  },
+  {
+    "id": "s095",
+    "before": "試合に負けて本当は",
+    "pieces": [
+      "悔しいはずの",
+      "明るい",
+      "なぜか",
+      "選手たちが"
+    ],
+    "starIndex": 2,
+    "after": "表情だったのは、「つらいときこそ明るく」というのが監督の方針だからだそうだ。",
+    "meaning": "Các vận động viên vốn dĩ thua trận hẳn phải rất tiếc nuối thế nhưng không hiểu sao lại có vẻ mặt rạng rỡ, nghe nói đó là vì phương châm của huấn luyện viên: 「Chính những lúc đau đớn khó khăn lại càng phải lạc quan」.",
+    "grammar": "～はずの / ～のは～からだ",
+    "explanation": "Thứ tự đúng: 悔しいはずの (1) + 選手たちが (4) + なぜか (3) + 明るい (2). Vị trí ngôi sao ở vị trí thứ 3 là なぜか.",
+    "level": "N2"
+  },
+  {
+    "id": "s096",
+    "before": "他社からの質問や問い合わせには、一度社内で",
+    "pieces": [
+      "検討",
+      "回答",
+      "でないと",
+      "してから"
+    ],
+    "starIndex": 2,
+    "after": "できないことになっています。",
+    "meaning": "Đối với các thắc mắc hay yêu cầu từ công ty đối tác, theo quy định nếu chưa thảo luận xem xét nội bộ thì không thể đưa ra câu trả lời.",
+    "grammar": "～てからでないと",
+    "explanation": "Thứ tự đúng: 検討 (1) + してから (4) + でないと (3) + 回答 (2). Vị trí ngôi sao ở vị trí thứ 3 là でないと.",
+    "level": "N2"
+  },
+  {
+    "id": "s097",
+    "before": "昨日の夜は、11時までには",
+    "pieces": [
+      "つい",
+      "寝ようと",
+      "思いつつ",
+      "テレビを見続けてしまい"
+    ],
+    "starIndex": 0,
+    "after": "結局寝たのは 1時だった。",
+    "meaning": "Tối qua dẫu nghĩ là sẽ đi ngủ trước 11 giờ, nhưng tôi lại trót xem tivi liên tục thành ra rốt cuộc mãi 1 giờ mới đi ngủ.",
+    "grammar": "～ようと思いつつ / つい～てしまい",
+    "explanation": "Thứ tự đúng: 寝ようと (2) + 思いつつ (3) + つい (1) + テレビを見続けてしまい (4). Vị trí ngôi sao ở vị trí thứ 3 là つい.",
+    "level": "N2"
+  },
+  {
+    "id": "s098",
+    "before": "私は、新しいことにチャレンジするときでも悩まない。",
+    "pieces": [
+      "まずやってみて",
+      "もう一度考えればいい",
+      "うまくいかなかったら",
+      "そのときにどうしたらいいか"
+    ],
+    "starIndex": 3,
+    "after": "と思っているからだ。",
+    "meaning": "Tôi dẫu cho khi thử thách điều mới mẻ cũng không đắn đo trăn trở. Đó là vì tôi nghĩ rằng trước tiên cứ làm thử xem sao, nếu không suôn sẻ thì lúc đó nghĩ xem nên làm thế nào rồi tính tiếp là được.",
+    "grammar": "～ばいい / ～からだ",
+    "explanation": "Thứ tự đúng: まずやってみて (1) + うまくいかなかったら (3) + そのときにどうしたらいいか (4) + もう一度考えればいい (2). Vị trí ngôi sao ở vị trí thứ 3 là そのときにどうしたらいいか.",
+    "level": "N2"
+  },
+  {
+    "id": "s099",
+    "before": "家の近くの本屋では",
+    "pieces": [
+      "買えなかった漫画の最新号が",
+      "まだ買えるらしいので",
+      "もう売り切れていて",
+      "隣町のABC書店に行けば"
+    ],
+    "starIndex": 3,
+    "after": "少し遠いけど行ってみようと思う。",
+    "meaning": "Tập mới nhất của bộ truyện tranh không mua được ở hiệu sách gần nhà đã hết hàng mất rồi, nhưng nghe nói nếu đến nhà sách ABC ở thành phố bên cạnh thì vẫn còn mua được, nên dẫu hơi xa một chút tôi vẫn định sẽ đi thử xem.",
+    "grammar": "～に行けば～らしいので",
+    "explanation": "Thứ tự đúng: 買えなかった漫画の最新号が (1) + もう売り切れていて (3) + 隣町のABC書店に行けば (4) + まだ買えるらしいので (2). Vị trí ngôi sao ở vị trí thứ 3 là 隣町のABC書店に行けば.",
+    "level": "N2"
+  },
+  {
+    "id": "s100",
+    "before": "話題のカレー屋さんを初訪問。野菜の",
+    "pieces": [
+      "中で",
+      "私が選んだのは",
+      "夏の野菜がたっぷり入った",
+      "カレーがいくつかある"
+    ],
+    "starIndex": 1,
+    "after": "「夏限定ベジタブルカレー」。評判どおりのおいしさだった。",
+    "meaning": "Lần đầu ghé thăm quán cà ri đang hot. Trong số vài món cà ri rau củ thì món tôi đã chọn là món 「Cà ri rau củ giới hạn mùa hè」 có chứa rất nhiều rau củ mùa hè. Hương vị ngon đúng như đồn đại.",
+    "grammar": "～の中で～のは",
+    "explanation": "Thứ tự đúng: カレーがいくつかある (4) + 中で (1) + 私が選んだのは (2) + 夏の野菜がたっぷり入った (3). Vị trí ngôi sao ở vị trí thứ 3 là 私が選んだのは.",
+    "level": "N2"
+  },
+  {
+    "id": "s101",
+    "before": "昨日、初めてパンを作ってみた。料理雑誌の",
+    "pieces": [
+      "のに",
+      "レシピに書いてある",
+      "とおりに",
+      "作った"
+    ],
+    "starIndex": 3,
+    "after": "うまく膨らまなかった。",
+    "meaning": "Hôm qua lần đầu tiên tôi làm thử bánh mì. Mặc dù đã làm đúng theo công thức ghi trong tạp chí nấu ăn nhưng bánh vẫn không nở đẹp.",
+    "grammar": "～とおりに / ～のに",
+    "explanation": "Thứ tự đúng: レシピに書いてある (2) + とおりに (3) + 作った (4) + のに (1). Vị trí ngôi sao ở vị trí thứ 3 là 作った.",
+    "level": "N2"
+  },
+  {
+    "id": "s102",
+    "before": "「10倍がゆ」とは",
+    "pieces": [
+      "作った",
+      "水で",
+      "10倍の",
+      "米 1に対して"
+    ],
+    "starIndex": 1,
+    "after": "おかゆのことです。",
+    "meaning": "「Cháo 10 lần (Juubaigayu)」 là loại cháo được nấu với lượng nước gấp 10 lần so với 1 phần gạo.",
+    "grammar": "～に対して",
+    "explanation": "Thứ tự đúng: 米 1に対して (4) + 10倍の (3) + 水で (2) + 作った (1). Vị trí ngôi sao ở vị trí thứ 3 là 水で.",
+    "level": "N2"
+  },
+  {
+    "id": "s103",
+    "before": "私が就職した商社は大手の",
+    "pieces": [
+      "決して",
+      "商社に比べると",
+      "やる気があれば",
+      "規模は大きくないが"
+    ],
+    "starIndex": 3,
+    "after": "新人でも大きな仕事を任せてもらえるので、やりがいがある。",
+    "meaning": "Công ty thương mại mà tôi vào làm so với các công ty lớn thì quy mô tuyệt nhiên không lớn, thế nhưng nếu có nhiệt huyết thì dẫu là người mới cũng được giao việc lớn nên rất có động lực.",
+    "grammar": "～に比べると / 決して～ないが",
+    "explanation": "Thứ tự đúng: 商社に比べると (2) + 決して (1) + 規模は大きくないが (4) + やる気があれば (3). Vị trí ngôi sao ở vị trí thứ 3 là 規模は大きくないが.",
+    "level": "N2"
+  },
+  {
+    "id": "s104",
+    "before": "彼女は 1970年代に活躍したジャズピアニストで、この人",
+    "pieces": [
+      "語れない",
+      "日本のジャズは",
+      "抜きには",
+      "というほど"
+    ],
+    "starIndex": 0,
+    "after": "大きな存在だった。",
+    "meaning": "Cô ấy là một nghệ sĩ piano nhạc jazz hoạt động nổi bật vào những năm 1970, là một sự tồn tại lớn đến mức nếu thiếu cô ấy thì không thể nói về nhạc jazz Nhật Bản.",
+    "grammar": "～抜きには～ない / ～というほど",
+    "explanation": "Thứ tự đúng: 抜きには (3) + 日本のジャズは (2) + 語れない (1) + というほど (4). Vị trí ngôi sao ở vị trí thứ 3 là 語れない.",
+    "level": "N2"
+  },
+  {
+    "id": "s105",
+    "before": "贈り物するときは、自分の勝手な",
+    "pieces": [
+      "思い込みだけで",
+      "喜ばれるどころか",
+      "迷惑をかけることもあるので",
+      "品物を選ぶと"
+    ],
+    "starIndex": 1,
+    "after": "相手の趣味や都合をよく考えて決めましょう。",
+    "meaning": "Khi tặng quà, nếu chọn món đồ chỉ dựa vào suy nghĩ chủ quan duy ý chí của bản thân thì chẳng những không khiến đối phương vui mà còn có khi gây phiền phức, nên hãy cân nhắc kỹ sở thích và hoàn cảnh của đối phương nhé.",
+    "grammar": "～どころか",
+    "explanation": "Thứ tự đúng: 思い込みだけで (1) + 品物を選ぶと (4) + 喜ばれるどころか (2) + 迷惑をかけることもあるので (3). Vị trí ngôi sao ở vị trí thứ 3 là 喜ばれるどころか.",
+    "level": "N2"
+  },
+  {
+    "id": "s106",
+    "before": "もうすぐ高校卒業だ。この学校で先生や友達と過ごす",
+    "pieces": [
+      "あと数週間",
+      "と思うと",
+      "のも",
+      "寂しさが増してくる"
+    ],
+    "starIndex": 1,
+    "after": "。",
+    "meaning": "Sắp sửa tốt nghiệp cấp 3 rồi. Khi nghĩ đến việc khoảng thời gian được ở cùng thầy cô và bạn bè tại ngôi trường này chỉ còn lại vài tuần nữa thôi, cảm giác buồn bã lại càng dâng lên.",
+    "grammar": "～と思うと",
+    "explanation": "Thứ tự đúng: のも (3) + あと数週間 (1) + と思うと (2) + 寂しさが増してくる (4). Vị trí ngôi sao ở vị trí thứ 3 là と思うと.",
+    "level": "N2"
+  },
+  {
+    "id": "s107",
+    "before": "A「サラリーマンから農家",
+    "pieces": [
+      "勇気",
+      "とは",
+      "ずいぶん",
+      "になる"
+    ],
+    "starIndex": 2,
+    "after": "があるんだね。」\nB「自分の夢をどうしてもあきらめきれなくてね。」",
+    "meaning": "A: “Tự dưng chuyển từ dân văn phòng sang làm nông dân thì đúng là có một sự dũng cảm đáng kinh ngạc đấy nhỉ.”\nB: “Tại vì tớ không thể nào từ bỏ ước mơ của mình được.”",
+    "grammar": "～とは～がある",
+    "explanation": "Thứ tự đúng: になる (4) + とは (2) + ずいぶん (3) + 勇気 (1). Vị trí ngôi sao ở vị trí thứ 3 là 勇気.",
+    "level": "N2"
+  },
+  {
+    "id": "s108",
+    "before": "遠足の日の朝、娘は、「いってきます」と",
+    "pieces": [
+      "終わらないか",
+      "言い終わるか",
+      "玄関を",
+      "のうちに"
+    ],
+    "starIndex": 3,
+    "after": "飛び出していった。",
+    "meaning": "Sáng ngày đi dã ngoại, con gái tôi vừa mới thốt ra câu 「Con đi đây ạ」 chưa kịp xong xuôi thì đã lao xộc ra khỏi cửa nhà.",
+    "grammar": "～か～ないかのうちに",
+    "explanation": "Thứ tự đúng: 言い終わるか (2) + 終わらないか (1) + のうちに (4) + 玄関を (3). Vị trí ngôi sao ở vị trí thứ 3 là のうちに.",
+    "level": "N2"
+  },
+  {
+    "id": "s109",
+    "before": "参考書を読んで完璧に",
+    "pieces": [
+      "理解した",
+      "問題を解いてみると",
+      "できない",
+      "つもりでも"
+    ],
+    "starIndex": 1,
+    "after": "ということがよくある。",
+    "meaning": "Đọc sách tham khảo và đinh ninh rằng mình đã hiểu hoàn toàn, thế nhưng khi bắt tay vào giải bài tập lại làm không được, chuyện như vậy rất hay xảy ra.",
+    "grammar": "～つもりでも",
+    "explanation": "Thứ tự đúng: 理解した (1) + つもりでも (4) + 問題を解いてみると (2) + できない (3). Vị trí ngôi sao ở vị trí thứ 3 là 問題を解いてみると.",
+    "level": "N2"
+  },
+  {
+    "id": "s110",
+    "before": "この池に",
+    "pieces": [
+      "ものいる",
+      "すむ",
+      "魚のなかには",
+      "100年以上生きる"
+    ],
+    "starIndex": 3,
+    "after": "そうだ。",
+    "meaning": "Trong số các loài cá sinh sống ở chiếc ao này, nghe nói có những con sống thọ hơn 100 năm.",
+    "grammar": "～もの（も）いる",
+    "explanation": "Thứ tự đúng: すむ (2) + 魚のなかには (3) + 100年以上生きる (4) + ものいる (1). Vị trí ngôi sao ở vị trí thứ 3 là 100年以上生きる.",
+    "level": "N2"
+  },
+  {
+    "id": "s111",
+    "before": "もう酒は飲まないと",
+    "pieces": [
+      "決めた",
+      "どんなに",
+      "以上は",
+      "誘われても"
+    ],
+    "starIndex": 2,
+    "after": "絶対に守りたい。",
+    "meaning": "Một khi đã quyết định là không uống rượu nữa thì dù có bị rủ rê thế nào đi nữa tôi cũng tuyệt đối muốn giữ lời.",
+    "grammar": "～以上は / どんなに～ても",
+    "explanation": "～以上は: 「một khi đã... thì...」. Thứ tự đúng: どんなに (2) + 誘われても (4) + 決めた (1) + 以上は (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s112",
+    "before": "必要のない物でも、欲しくなると",
+    "pieces": [
+      "買わずには",
+      "すぐ買って",
+      "いられなく",
+      "なって"
+    ],
+    "starIndex": 2,
+    "after": "しまう。",
+    "meaning": "Dù là đồ không cần thiết nhưng hễ muốn có là tôi lại không thể không mua ngay lập tức.",
+    "grammar": "～ずにはいられない",
+    "explanation": "V-ずにはいられない: 「không thể không...」. Thứ tự đúng: すぐ買って (2) + 買わずには (1) + いられなく (3) + なって (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s113",
+    "before": "パソコンの電源を入れたのだが、画面に「お待ちください」という",
+    "pieces": [
+      "待っても",
+      "何分",
+      "メッセージが出たまま",
+      "先に進まないので"
+    ],
+    "starIndex": 2,
+    "after": "電源を入れ直した。",
+    "meaning": "Tôi đã bật nguồn máy tính nhưng màn hình cứ hiện dòng chữ 「Vui lòng chờ」 và dù chờ bao nhiêu phút cũng không chuyển tiếp nên tôi đã bật lại nguồn.",
+    "grammar": "～たまま / ～ても",
+    "explanation": "～たまま: 「giữ nguyên trạng thái...」. Thứ tự đúng: メッセージが出たまま (3) + 何分 (2) + 待っても (1) + 先に進まないので (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s114",
+    "before": "すみません、来週の2時からの会議ですが、その時間、別の用件が入ってしまいまして、もしそちらのご都合が",
+    "pieces": [
+      "ありがたいんですが",
+      "変更していただけると",
+      "4時以降に",
+      "よろしければ"
+    ],
+    "starIndex": 2,
+    "after": "、いかがでしょうか。",
+    "meaning": "Xin lỗi, về cuộc họp lúc 2 giờ tuần sau, vào giờ đó tôi lại có việc khác đột xuất, nếu phía anh/chị thuận tiện chuyển sang sau 4 giờ được thì tốt quá, không biết có được không ạ.",
+    "grammar": "～ていただけるとありがたい / ～ば",
+    "explanation": "V-ていただけるとありがたい: 「nếu có thể... cho thì tốt quá」. Thứ tự đúng: よろしければ (4) + 4時以降に (3) + 変更していただけると (2) + ありがたいんですが (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s115",
+    "before": "20年前に初めてこの歌手の歌を聴いたとき、",
+    "pieces": [
+      "と思った",
+      "よく覚えている",
+      "のを作文の",
+      "なんと美しい声なんだろう"
+    ],
+    "starIndex": 2,
+    "after": "。",
+    "meaning": "Tôi vẫn nhớ rất rõ việc mình đã nghĩ rằng giọng hát sao mà đẹp đến thế khi lần đầu tiên nghe ca sĩ này hát vào 20 năm trước.",
+    "grammar": "なんと～んだろう / ～のを覚えている",
+    "explanation": "なんと～んだろう: 「sao mà... đến thế」. Thứ tự đúng: なんと美しい声なんだろう (4) + と思った (1) + のを (3) + よく覚えている (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s116",
+    "before": "この歌を聞く",
+    "pieces": [
+      "のは",
+      "思い出す",
+      "たびに",
+      "高校時代の友人の"
+    ],
+    "starIndex": 2,
+    "after": "ことだ。彼はカラオケに行くと必ずこの歌を歌っていた。",
+    "meaning": "Mỗi lần nghe bài hát này là tôi lại nhớ về người bạn thời cấp 3. Cậu ấy hễ đi karaoke là nhất định sẽ hát bài này.",
+    "grammar": "～たびに / ～の（こと）を思い出す",
+    "explanation": "～たびに: 「mỗi lần... thì lại...」. Thứ tự đúng: たびに (3) + 思い出す (2) + のは (1) + 高校時代の友人の (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s117",
+    "before": "昨日、アルバイトに遅刻しそうだったので",
+    "pieces": [
+      "タクシーに乗ったら",
+      "かえって時間がかかり",
+      "急ごうと思って",
+      "道が渋滞していたせいで"
+    ],
+    "starIndex": 2,
+    "after": "、結局遅刻してしまった。",
+    "meaning": "Hôm qua vì có nguy cơ trễ giờ làm thêm nên tôi định vội đi và bắt taxi, nhưng do đường bị tắc nên ngược lại còn mất thời gian hơn, rốt cuộc là bị trễ.",
+    "grammar": "～と思って / ～せいで / かえって",
+    "explanation": "かえって: 「ngược lại」, ～せいで: 「do... (dẫn đến kết quả xấu)」. Thứ tự đúng: 急ごうと思って (3) + タクシーに乗ったら (1) + 道が渋滞していたせいで (4) + かえって時間がかかり (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s118",
+    "before": "来月結婚する友人に結婚式のスピーチを頼まれた。大勢の前で話すのは",
+    "pieces": [
+      "悩んだのだが",
+      "と言われて",
+      "どうしても",
+      "苦手なので"
+    ],
+    "starIndex": 2,
+    "after": "引き受けることにした。",
+    "meaning": "Tôi được người bạn kết hôn vào tháng sau nhờ phát biểu tại lễ cưới. Vì kém khoản nói chuyện trước đám đông nên tôi đã khá trăn trở, nhưng khi được nói 「Dù thế nào cũng nhờ cậu」 thì tôi đã quyết định nhận lời.",
+    "grammar": "～ので / ～と言われて",
+    "explanation": "Thứ tự đúng: 苦手なので (4) + 悩んだのだが (1) + どうしても (3) + と言われて (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s119",
+    "before": "先日の政治家A氏の発言はあまりに無責任だ。",
+    "pieces": [
+      "政治家としての",
+      "うえで",
+      "発言しなければならなかった",
+      "自分の立場をよく考えた"
+    ],
+    "starIndex": 2,
+    "after": "、と思う。",
+    "meaning": "Phát ngôn của chính trị gia A hôm trước quá đỗi thiếu trách nhiệm. Tôi nghĩ ông ta đáng ra phải suy nghĩ kỹ về vị thế chính trị gia của mình rồi mới phát ngôn.",
+    "grammar": "～としての / ～たうえで",
+    "explanation": "～としての: 「với tư cách là...」, ～たうえで: 「sau khi.../trên cơ sở...」. Thứ tự đúng: 政治家としての (1) + 自分の立場をよく考えた (4) + うえで (2) + 発言しなければならなかった (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s120",
+    "before": "食事や睡眠などの生活習慣は一度乱れてしまうと",
+    "pieces": [
+      "規則正しい生活を",
+      "戻そうとしても",
+      "普段から意識することが",
+      "なかなか戻せいないので"
+    ],
+    "starIndex": 2,
+    "after": "大切だ。",
+    "meaning": "Thói quen sinh hoạt như ăn uống hay giấc ngủ một khi đã xáo trộn thì dù có muốn khôi phục cũng rất khó khôi phục, vì vậy việc luôn ý thức sống điều độ từ ngày thường là rất quan trọng.",
+    "grammar": "～ようとしても / ～ので",
+    "explanation": "V-ようとしても: 「dù có định...」. Thứ tự đúng: 戻そうとしても (2) + なかなか戻せいないので (4) + 規則正しい生活を (1) + 普段から意識することが (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s121",
+    "before": "私は、とにかく勉強が嫌いで、学校があまり好きではない子供だった。そんな私が",
+    "pieces": [
+      "ある先生との",
+      "教師になりたいと思ったのは",
+      "私があの時",
+      "出会いが"
+    ],
+    "starIndex": 2,
+    "after": "きっかけだった。",
+    "meaning": "Tôi vốn là một đứa trẻ ghét học và không thích đến trường. Việc một người như tôi muốn trở thành giáo viên chính là nhờ cuộc gặp gỡ với một người thầy vào lúc đó.",
+    "grammar": "～のは～きっかけだった",
+    "explanation": "Thứ tự đúng: 教師になりたいと思ったのは (2) + 私が (3) + ある先生との (1) + 出会いが (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s122",
+    "before": "若いうちに努力して",
+    "pieces": [
+      "経験は",
+      "目標を",
+      "自信と",
+      "達成した"
+    ],
+    "starIndex": 2,
+    "after": "なって必ず将来役に立つと思う。",
+    "meaning": "Tôi tin rằng kinh nghiệm đạt được mục tiêu nhờ nỗ lực khi còn trẻ sẽ trở thành tự tin và nhất định giúp ích cho tương lai.",
+    "grammar": "～となって",
+    "explanation": "Thứ tự đúng: 目標を (2) + 達成した (4) + 経験は (1) + 自信と (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s123",
+    "before": "この町では、都心で家を借りる",
+    "pieces": [
+      "場合",
+      "半分程度の",
+      "家賃で",
+      "と比べて"
+    ],
+    "starIndex": 2,
+    "after": "家が借りられる。",
+    "meaning": "Ở thị trấn này, so với trường hợp thuê nhà ở trung tâm thành phố thì có thể thuê nhà với tiền thuê chỉ bằng khoảng một nửa.",
+    "grammar": "～と比べて / ～場合",
+    "explanation": "～と比べて: 「so với...」. Thứ tự đúng: 場合 (1) + と比べて (4) + 半分程度の (2) + 家賃で (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s124",
+    "before": "",
+    "pieces": [
+      "運ばれる",
+      "悪くなると",
+      "血液の流れが",
+      "血液によって"
+    ],
+    "starIndex": 2,
+    "after": "酸素や栄養が十分に細胞に届かなくなってしまう。",
+    "meaning": "Khi lưu thông máu trở nên kém đi, oxy và chất dinh dưỡng được vận chuyển bởi máu sẽ không đến đủ các tế bào.",
+    "grammar": "～によって / ～と",
+    "explanation": "～によって: 「bởi/bằng...」. Thứ tự đúng: 血液の流れが (3) + 悪くなると (2) + 血液によって (4) + 運ばれる (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s125",
+    "before": "さくら駅周辺の再開発事業を行う",
+    "pieces": [
+      "さくら市は",
+      "に先立って",
+      "関係者に対する",
+      "説明会を開催する"
+    ],
+    "starIndex": 2,
+    "after": "予定だ。",
+    "meaning": "Trước khi tiến hành dự án tái phát triển khu vực quanh ga Sakura, thành phố Sakura có kế hoạch tổ chức buổi giải thích cho các bên liên quan.",
+    "grammar": "～に先立って",
+    "explanation": "N + に先立って: 「trước khi...」. Thứ tự đúng: さくら市は (1) + に先立って (2) + 関係者に対する (3) + 説明会を開催する (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s126",
+    "before": "隣のクラスの友達とけんかしてしまい、学校の廊下で",
+    "pieces": [
+      "こと",
+      "すら",
+      "目を合わせる",
+      "すれ違っても"
+    ],
+    "starIndex": 2,
+    "after": "なくなってしまった。",
+    "meaning": "Cãi nhau với người bạn ở lớp bên cạnh nên dù có đi lướt qua nhau ở hành lang trường học thì thậm chí việc nhìn vào mắt nhau cũng không còn nữa.",
+    "grammar": "～すら / ～ても",
+    "explanation": "～すら: 「thậm chí/ngay cả...」. Thứ tự đúng: すれ違っても (4) + 目を合わせる (3) + こと (1) + すら (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s127",
+    "before": "このソファーは、それなりの大きさはあるが、見た目",
+    "pieces": [
+      "ほどの",
+      "でも",
+      "重さはないため",
+      "一人"
+    ],
+    "starIndex": 2,
+    "after": "楽に動かせる。",
+    "meaning": "Chiếc ghế sofa này tuy có độ lớn nhất định nhưng vì không có độ nặng đến mức như vẻ ngoài nên ngay cả một người cũng có thể di chuyển dễ dàng.",
+    "grammar": "～ほどの～はない / ～でも",
+    "explanation": "～ほどの～はない: 「không... đến mức như...」. Thứ tự đúng: ほどの (1) + 重さはないため (3) + 一人 (4) + でも (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s128",
+    "before": "友達にスキー旅行に誘われている。返事を",
+    "pieces": [
+      "決まっていなくて",
+      "仕事の予定が",
+      "しなければ",
+      "と思いながらも"
+    ],
+    "starIndex": 2,
+    "after": "まだ返事ができていない。",
+    "meaning": "Tôi được bạn rủ đi du lịch trượt tuyết. Dù vừa nghĩ là phải trả lời nhưng vì lịch trình công việc chưa cố định nên tôi vẫn chưa thể trả lời.",
+    "grammar": "～しなければと思いながらも",
+    "explanation": "Thứ tự đúng: しなければ (3) + と思いながらも (4) + 仕事の予定が (2) + 決まっていなくて (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s129",
+    "before": "私は、美術館では音声ガイドの機械を借りて、説明を聞きながら作品を鑑賞する。作品のどこに",
+    "pieces": [
+      "わかると",
+      "注目して",
+      "いいのかが",
+      "鑑賞したら"
+    ],
+    "starIndex": 2,
+    "after": "その作品をより深く味わえるからだ。",
+    "meaning": "Tại bảo tàng mỹ thuật, tôi thuê máy hướng dẫn âm thanh để vừa nghe thuyết minh vừa thưởng thức tác phẩm. Đó là vì khi hiểu được nên chú ý vào đâu của tác phẩm khi thưởng thức thì sẽ có thể cảm nhận tác phẩm đó sâu sắc hơn.",
+    "grammar": "～たらいいのか / ～と",
+    "explanation": "Thứ tự đúng: 注目して (2) + 鑑賞したら (4) + いいのかが (3) + わかると (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s130",
+    "before": "雪が降っている",
+    "pieces": [
+      "わりに",
+      "のは",
+      "寒く感じない",
+      "そんなに"
+    ],
+    "starIndex": 2,
+    "after": "風がほとんどないからだろう。",
+    "meaning": "Việc tuyết rơi mà không cảm thấy lạnh đến thế có lẽ là vì hầu như không có gió.",
+    "grammar": "～わりに（は） / ～のは～からだ",
+    "explanation": "～わりに: 「dù... nhưng...」, ～のは～からだ: 「việc... là do...」. Thứ tự đúng: わりに (1) + そんなに (4) + 寒く感じない (3) + のは (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s131",
+    "before": "この本の内容をきちんと",
+    "pieces": [
+      "それなりの",
+      "理解するには",
+      "難しいと感じる人も",
+      "知識が求められるので"
+    ],
+    "starIndex": 2,
+    "after": "多いだろう。",
+    "meaning": "Để hiểu được thấu đáo nội dung cuốn sách này đòi hỏi phải có kiến thức nhất định, nên chắc hẳn có nhiều người cảm thấy khó.",
+    "grammar": "～には / ～ので",
+    "explanation": "Thứ tự đúng: 理解するには (2) + それなりの (1) + 知識が求められるので (4) + 難しいと感じる人も (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s132",
+    "before": "石油は、自動車や航空機などの",
+    "pieces": [
+      "使われる",
+      "だけでなく",
+      "プラスチック製品を作る",
+      "燃料として"
+    ],
+    "starIndex": 2,
+    "after": "原料としても利用されている。",
+    "meaning": "Dầu mỏ không chỉ được dùng làm nhiên liệu cho ô tô hay máy bay mà còn được sử dụng làm nguyên liệu sản xuất các sản phẩm nhựa.",
+    "grammar": "～だけでなく～も",
+    "explanation": "～だけでなく: 「không chỉ... mà còn...」. Thứ tự đúng: 燃料として (4) + 使われる (1) + だけでなく (2) + プラスチック製品を作る (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s133",
+    "before": "東鉄道竹山線内にある二つの信号機が故障しており、大事故が",
+    "pieces": [
+      "起きかねない",
+      "続いていたことが",
+      "状態が",
+      "危険な"
+    ],
+    "starIndex": 2,
+    "after": "明らかになった。",
+    "meaning": "Người ta đã làm rõ rằng hai tín hiệu trên tuyến Takeyama của đường sắt Higashi bị hỏng và tình trạng nguy hiểm có khả năng gây ra tai nạn lớn đã kéo dài.",
+    "grammar": "～かねない",
+    "explanation": "V-かねない: 「có khả năng/nguy cơ...」. Thứ tự đúng: 起きかねない (1) + 危険な (4) + 状態が (3) + 続いていたことが (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s134",
+    "before": "（インタビューで）「店長になって最初の1年間は大変でした。店長になった",
+    "pieces": [
+      "といっても",
+      "ばかりで",
+      "わからないこと",
+      "自分いいのか"
+    ],
+    "starIndex": 2,
+    "after": "と悩むこともありました。」",
+    "meaning": "(Trong buổi phỏng vấn) 「Năm đầu tiên trở thành cửa hàng trưởng rất vất vả. Dù nói là trở thành cửa hàng trưởng nhưng mới chỉ là vừa mới lên nên toàn những điều không biết, tôi cũng từng trăn trở liệu mình làm có ổn không.」",
+    "grammar": "～といっても / ～ばかりで",
+    "explanation": "～といっても: 「dù nói là...」, ～ばかりで: 「chỉ toàn...」. Thứ tự đúng: といっても (1) + ばかりで (2) + わからないこと (3) + 自分いいのか (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s135",
+    "before": "家を買うことについて",
+    "pieces": [
+      "夫は",
+      "買ってしまうと",
+      "否定的な",
+      "一度"
+    ],
+    "starIndex": 2,
+    "after": "簡単に引っ越せないのが嫌だと言っている。",
+    "meaning": "Về việc mua nhà, chồng tôi tỏ thái độ phủ định, ông ấy nói rằng một khi đã mua rồi thì việc không thể chuyển nhà dễ dàng là điều ông ấy không thích.",
+    "grammar": "～否定的な / ～と",
+    "explanation": "Thứ tự đúng: 夫は (1) + 否定的な (3) + 一度 (4) + 買ってしまうと (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s136",
+    "before": "「さわら」という魚は、漢字の「鰆」と書く",
+    "pieces": [
+      "ように",
+      "わかる",
+      "ことから",
+      "春を代表する"
+    ],
+    "starIndex": 2,
+    "after": "魚の一つだ。",
+    "meaning": "Cá Sawara, từ việc chữ Hán viết là 鰆 (xuân + ngư) như có thể thấy, là một trong những loài cá đại diện cho mùa xuân.",
+    "grammar": "～ようにわかる / ～ことから",
+    "explanation": "～ことから: 「từ việc... (đưa ra căn cứ)」. Thứ tự đúng: ように (1) + わかる (2) + ことから (3) + 春を代表する (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s137",
+    "before": "会議での青山さんのプレゼンは、普段はなかなか",
+    "pieces": [
+      "ぐらい",
+      "課長が",
+      "褒める",
+      "褒めることができない"
+    ],
+    "starIndex": 2,
+    "after": "素晴らしかった。",
+    "meaning": "Bài thuyết trình của Aoyama tại cuộc họp tuyệt vời đến mức vị tổ trưởng vốn bình thường hiếm khi khen ngợi cũng phải cất lời khen.",
+    "grammar": "～ぐらい / ～ことができない",
+    "explanation": "～ぐらい: 「đến mức...」. Thứ tự đúng: 課長が (2) + 褒める (3) + ことができない (4) + ぐらい (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s138",
+    "before": "同じ気温",
+    "pieces": [
+      "感じ方",
+      "でも",
+      "温度や風の強さなど",
+      "によって"
+    ],
+    "starIndex": 2,
+    "after": "は大きく変える。",
+    "meaning": "Dù ở cùng một nhiệt độ khí hậu, cảm giác nhiệt vẫn thay đổi lớn tùy thuộc vào các yếu tố như nhiệt độ thực tế hay độ mạnh của gió.",
+    "grammar": "～でも / ～によって",
+    "explanation": "～によって: 「tùy thuộc vào...」. Thứ tự đúng: でも (2) + 感じ方 (1) + 温度や風の強さなど (3) + によって (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s139",
+    "before": "「山川大学アニメ研究会」は",
+    "pieces": [
+      "学生が",
+      "集まって",
+      "アニメが",
+      "好きでたまらないというか"
+    ],
+    "starIndex": 2,
+    "after": "できた団体だ。",
+    "meaning": "「Hội nghiên cứu Anime đại học Yamakawa」 là đoàn thể được tạo nên bởi sự tập hợp của những sinh viên yêu thích anime đến mức không chịu nổi.",
+    "grammar": "～てたまらない / ～が集まってできた",
+    "explanation": "～てたまらない: 「rất.../không chịu nổi」. Thứ tự đúng: アニメが (3) + 好きでたまらないというか (4) + 学生が (1) + 集まって (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s140",
+    "before": "会社の今井先輩は自分引きが多いといつも言っているが",
+    "pieces": [
+      "新人にしては",
+      "何でも完璧にできている",
+      "わたしからすると",
+      "わからないことばかりの"
+    ],
+    "starIndex": 2,
+    "after": "ように見える。",
+    "meaning": "Tiền bối Imai ở công ty luôn nói rằng mình còn nhiều khuyết điểm, nhưng đối với tôi thì anh ấy trông như thể có thể làm hoàn hảo mọi thứ dù là người mới.",
+    "grammar": "～からすると / ～にしては",
+    "explanation": "～からすると: 「đối với.../xét từ...」, ～にしては: 「dù là... nhưng...」. Thứ tự đúng: わたしからすると (3) + わからないことばかりの (4) + 新人にしては (1) + 何でも完璧にできている (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s141",
+    "before": "長く使っている電子レンジが壊れてしまった。古いものだし、修理に",
+    "pieces": [
+      "もう",
+      "考えると",
+      "かかる",
+      "費用を"
+    ],
+    "starIndex": 2,
+    "after": "買い替えたほうがいいかもしれない。",
+    "meaning": "Chiếc lò vi sóng dùng lâu năm đã bị hỏng. Đồ đã cũ rồi, xét đến chi phí sửa chữa thì có lẽ nên mua mới lại thì tốt hơn.",
+    "grammar": "～を考えると",
+    "explanation": "～を考えると: 「khi xem xét/suy nghĩ về...」. Thứ tự đúng: かかる (3) + 費用を (4) + 考えると (2) + もう (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s142",
+    "before": "娘「今度のスピーチコンテスト、参加しようかなあ。でも、自信ないなあ。」\n母「チャレンジ",
+    "pieces": [
+      "だけ",
+      "みたら",
+      "する",
+      "して"
+    ],
+    "starIndex": 2,
+    "after": "？いい経験になると思うよ。」",
+    "meaning": "Con gái: 「Cuộc thi hùng biện lần này con có nên tham gia không nhỉ. Nhưng con không tự tin lắm.」\nMẹ: 「Hay con thử thử thách xem sao? Mẹ nghĩ sẽ là trải nghiệm tốt đấy.」",
+    "grammar": "～してみたら（どう） / ～だけしてみる",
+    "explanation": "V-してみたら: 「thử làm... xem sao」. Thứ tự đúng: して (4) + 見たら (2) + する (3) + だけ (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s143",
+    "before": "このドレスを着ると、",
+    "pieces": [
+      "映画か何かに",
+      "なったような",
+      "出てくる",
+      "お姫様にでも"
+    ],
+    "starIndex": 2,
+    "after": "気分になる。",
+    "meaning": "Khi mặc chiếc váy này vào, tôi có cảm giác như thể mình hóa thân thành nàng công chúa xuất hiện trong phim ảnh hay đâu đó.",
+    "grammar": "～にでもなったような / ～気分になる",
+    "explanation": "～になったような: 「như thể trở thành...」. Thứ tự đúng: 映画か何かに (1) + 出てくる (3) + お姫様にでも (4) + なったような (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s144",
+    "before": "昨日は「母の日」だったので、いつもおいしいお弁当を",
+    "pieces": [
+      "感謝の",
+      "作ってくれて",
+      "ありがとうという",
+      "気持ちを込めて"
+    ],
+    "starIndex": 2,
+    "after": "母が欲しがっていたアクセサリーをプレゼントした。",
+    "meaning": "Hôm qua là 「Ngày của Mẹ」 nên gửi gắm tình cảm cảm ơn 「Cảm ơn mẹ vì luôn làm cơm hộp ngon cho con」, tôi đã tặng mẹ món trang sức mà mẹ mơ ước.",
+    "grammar": "～気持ちを込めて / ～という",
+    "explanation": "～気持ちを込めて: 「gửi gắm tình cảm...」. Thứ tự đúng: 作ってくれて (2) + ありがとうという (3) + 感謝の (1) + 気持ちを込めて (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s145",
+    "before": "学生時代は、周りの人から",
+    "pieces": [
+      "言えずに",
+      "気にするあまり",
+      "自分の本当の気持ちを",
+      "自分がどう思われているかを"
+    ],
+    "starIndex": 2,
+    "after": "無理して人に合わせようとすることが多かった。",
+    "meaning": "Thời sinh viên, vì quá để tâm đến việc người xung quanh nghĩ gì về mình nên tôi không thể nói ra cảm xúc thật của bản thân mà thường gượng ép hùa theo người khác.",
+    "grammar": "～あまり / ～ずに",
+    "explanation": "V-る/Nの + あまり: 「vì quá... nên...」. Thứ tự đúng: 自分がどう思われているかを (4) + 気にするあまり (2) + 自分の本当の気持ちを (3) + 言えずに (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s146",
+    "before": "このパン用では、原料の",
+    "pieces": [
+      "こだわって",
+      "小麦粉は",
+      "水にまで",
+      "もちろん"
+    ],
+    "starIndex": 2,
+    "after": "一つ一つ丁寧にパンを作っているそうだ。",
+    "meaning": "Ở tiệm bánh này, nghe nói nguyên liệu bột mì là đương nhiên, đến cả nước người ta cũng kĩ lưỡng lựa chọn để làm ra từng chiếc bánh chu đáo.",
+    "grammar": "～はもちろん～にまで / ～にこだわって",
+    "explanation": "～はもちろん: 「... thì là lẽ đương nhiên」, ～にこだわって: 「kĩ lưỡng/chú trọng vào...」. Thứ tự đúng: 小麦粉は (2) + もちろん (4) + 水にまで (3) + こだわって (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s147",
+    "before": "昨日は、梅雨の",
+    "pieces": [
+      "いい天気で",
+      "時期としては",
+      "この",
+      "珍しく"
+    ],
+    "starIndex": 2,
+    "after": "、久しぶりに洗濯物を外に干すことができた。",
+    "meaning": "Hôm qua thời tiết đẹp hiếm thấy đối với khoảng thời gian mùa mưa này, nên đã lâu lắm rồi tôi mới có thể phơi đồ ngoài trời.",
+    "grammar": "～としては / ～珍しく",
+    "explanation": "N + としては: 「đối với/xét là...」. Thứ tự đúng: 時期としては (2) + 珍しく (4) + この (3) + いい天気で (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s148",
+    "before": "今回のセミナーの開催日が人の",
+    "pieces": [
+      "集まりにくい",
+      "ことを考えると",
+      "平日だった",
+      "200名もの"
+    ],
+    "starIndex": 2,
+    "after": "参加者が集まったのは大成功といえる。",
+    "meaning": "Khi xét đến việc ngày tổ chức hội thảo lần này rơi vào ngày thường vốn khó tập trung người, việc tập hợp được tới 200 người tham gia có thể nói là thành công lớn.",
+    "grammar": "～にくい / ～ことを考えると",
+    "explanation": "～ことを考えると: 「khi xét đến việc...」. Thứ tự đúng: 集まりにくい (1) + 平日だった (3) + ことを考えると (2) + 200名もの (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s149",
+    "before": "人には",
+    "pieces": [
+      "良さがあるというが",
+      "誰にでも",
+      "その人にしかない",
+      "自分でそれに"
+    ],
+    "starIndex": 2,
+    "after": "気づくのは難しい。。",
+    "meaning": "Người ta nói ai cũng có ưu điểm chỉ riêng người đó mới có, nhưng việc bản thân tự nhận ra điều đó lại rất khó.",
+    "grammar": "～というが / ～にしかない",
+    "explanation": "Thứ tự đúng: 誰にでも (2) + その人にしかない (3) + 良さがあるというが (1) + 自分でそれに (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s150",
+    "before": "昨日の晩、目覚まし時計をセットするのを忘れてしまい、今朝は寝坊してしまった。それでも",
+    "pieces": [
+      "のは",
+      "たまたまかかってきた",
+      "電話に起こされた",
+      "遅刻をせずに済んだ"
+    ],
+    "starIndex": 2,
+    "after": "からだ。。",
+    "meaning": "Tối qua tôi quên đặt đồng hồ báo thức nên sáng nay bị ngủ quên. Mặc dù vậy tôi vẫn tránh được việc bị trễ là do vô tình được đánh thức bởi cuộc điện thoại gọi đến.",
+    "grammar": "～せずに済んだ / ～のは～からだ",
+    "explanation": "V-せずに済んだ: 「tránh khỏi/không cần phải...」, ～のは～からだ: 「sở dĩ... là do...」. Thứ tự đúng: 遅刻をせずに済んだ (4) + のは (1) + たまたまかかってきた (2) + 電話に起こされた (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s151",
+    "before": "ちょっと",
+    "pieces": [
+      "だけの",
+      "つもりで",
+      "服屋に入ったら",
+      "見る"
+    ],
+    "starIndex": 2,
+    "after": "好みのTシャツを見つけてしまい、つい買ってしまった。",
+    "meaning": "Chỉ định vào tiệm quần áo xem một chút thôi nhưng lại tìm thấy chiếc áo T-shirt đúng sở thích nên lỡ mua mất.",
+    "grammar": "～見るだけのつもりで",
+    "explanation": "～つもりで: 「với ý định...」. Thứ tự đúng: 見る (4) + だけの (1) + つもりで (2) + 服屋に入ったら (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s152",
+    "before": "兄は最近ずっと「歯が痛くて眠れない」と言っているけれど、歯医者には行こうとしない。そんなに",
+    "pieces": [
+      "痛い",
+      "早く行けばいい",
+      "のに",
+      "んだったら"
+    ],
+    "starIndex": 2,
+    "after": "。",
+    "meaning": "Anh tôi dạo này cứ than 「Đau răng không ngủ được」 suốt nhưng lại không chịu đi nha sĩ. Nếu đau đến mức thế thì đi sớm có phải tốt hơn không.",
+    "grammar": "～んだったら～ばいいのに",
+    "explanation": "～ばいいのに: 「... thì tốt biết mấy/sao không...」. Thứ tự đúng: 痛い (1) + んだったら (4) + 早く行けばいい (2) + のに (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s153",
+    "before": "「ABCチーズ」はチーズ料理の専門店で、私のような",
+    "pieces": [
+      "人に",
+      "好きでたまらないという",
+      "チーズが",
+      "ぜひおすすめしたい"
+    ],
+    "starIndex": 2,
+    "after": "店だ。",
+    "meaning": "「ABC Cheese」 là quán chuyên món phô mai, là quán mà tôi rất muốn giới thiệu tới những người thích phô mai đến mức không chịu nổi như tôi.",
+    "grammar": "～てたまらない / ～におすすめしたい",
+    "explanation": "～てたまらない: 「rất.../không chịu nổi」. Thứ tự đúng: チーズが (3) + 好きでたまらないという (2) + 人に (1) + ぜひおすすめしたい (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s154",
+    "before": "親友の花子に初めて会ったとき、初対面とは思えない",
+    "pieces": [
+      "よく覚えている",
+      "ぐらい",
+      "のを",
+      "話が盛り上がった"
+    ],
+    "starIndex": 2,
+    "after": "。",
+    "meaning": "Lần đầu gặp bạn thân Hanako, tôi vẫn nhớ rất rõ việc câu chuyện đã diễn ra sôi nổi đến mức không nghĩ là lần đầu gặp mặt.",
+    "grammar": "～とは思えないぐらい / ～のを覚えている",
+    "explanation": "～ぐらい: 「đến mức...」. Thứ tự đúng: ぐらい (2) + 話が盛り上がった (4) + のを (3) + よく覚えている (1).",
+    "level": "N2"
+  },
+  {
+    "id": "s155",
+    "before": "学生のころ、様々な国を旅行して、自分の",
+    "pieces": [
+      "出会えない",
+      "交流したことで",
+      "国にいては",
+      "様々な文化や価値観を持つ人と"
+    ],
+    "starIndex": 2,
+    "after": "、世界には多様な考え方があることを知った。",
+    "meaning": "Hồi còn là sinh viên, nhờ du lịch nhiều quốc gia và giao lưu với những người có văn hóa, giá trị quan đa dạng mà nếu chỉ ở trong nước mình thì không thể gặp gỡ, tôi đã biết được rằng trên thế giới có những cách suy nghĩ rất đa dạng.",
+    "grammar": "～にいては～ない / ～ことで",
+    "explanation": "～にいては: 「nếu ở... (thì không thể...)」. Thứ tự đúng: 国にいては (3) + 出会えない (1) + 様々な文化や価値観を持つ人と (4) + 交流したことで (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s156",
+    "before": "水は蒸発するときに周囲の熱を奪うという性質を持っています。汗をかく",
+    "pieces": [
+      "と",
+      "のも",
+      "体温が下がる",
+      "その性質による"
+    ],
+    "starIndex": 2,
+    "after": "ものです。",
+    "meaning": "Nước có tính chất thu nhiệt xung quanh khi bay hơi. Việc thân nhiệt giảm xuống khi đổ mồ hôi cũng là nhờ vào tính chất đó.",
+    "grammar": "～と / ～によるものだ",
+    "explanation": "～による: 「do/nhờ vào...」. Thứ tự đúng: と (1) + 体温が下がる (3) + のも (2) + その性質による (4).",
+    "level": "N2"
+  },
+  {
+    "id": "s157",
+    "before": "朝ご飯はなるべく",
+    "pieces": [
+      "食べるようにしているが",
+      "牛乳だけで",
+      "時間がなくて",
+      "きちんと"
+    ],
+    "starIndex": 2,
+    "after": "済ませてしまうこともある。",
+    "meaning": "Bữa sáng tôi cố gắng ăn uống đàng hoàng nhất có thể, nhưng cũng có lúc không có thời gian nên qua loa chỉ với ly sữa.",
+    "grammar": "～ようにしているが / ～で済ませる",
+    "explanation": "～ようにしている: 「cố gắng...」, ～で済ませる: 「xong/qua loa với...」. Thứ tự đúng: きちんと (4) + 食べるようにしているが (1) +時間がなくて (3) + 牛乳だけで (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s158",
+    "before": "慌てた様子で部長と課長が",
+    "pieces": [
+      "会議室に",
+      "一度も出てこないまま",
+      "2時間が",
+      "入っていったきり"
+    ],
+    "starIndex": 2,
+    "after": "たとうとしている。何があったのだろうか。",
+    "meaning": "Trưởng phòng và tổ trưởng với dáng vẻ vội vã sau khi đi vào phòng họp liền ở lỳ trong đó, 2 tiếng đồng hồ trôi qua mà không ra ngoài một lần nào. Không biết đã có chuyện gì xảy ra nhỉ.",
+    "grammar": "～きり / ～まま",
+    "explanation": "V-たきり: 「sau khi... thì cứ thế không...」. Thứ tự đúng: 会議室に (1) + 入っていったきり (4) + 一度も出てこないまま (2) + 2時間が (3).",
+    "level": "N2"
+  },
+  {
+    "id": "s159",
+    "before": "私がお昼によく行く定食屋は、全部でいくつ",
+    "pieces": [
+      "たくさんの種類の",
+      "定食があって",
+      "あるか",
+      "わからないぐらい"
+    ],
+    "starIndex": 2,
+    "after": "いつも迷う。",
+    "meaning": "Quán ăn suất tôi hay đến vào buổi trưa có nhiều loại suất ăn đến mức không biết tổng cộng có bao nhiêu suất, lúc nào tôi cũng phân vân.",
+    "grammar": "～か分からないぐらい",
+    "explanation": "～くらい/ぐらい: 「đến mức...」. Thứ tự đúng: あるか (3) + わからないぐらい (4) + たくさんの種類の (1) + 定食があって (2).",
+    "level": "N2"
+  },
+  {
+    "id": "s160",
+    "before": "私の部屋のたんすには、いつかまた",
+    "pieces": [
+      "と思って",
+      "着るかもしれない",
+      "古い服が",
+      "捨てられずにいる"
+    ],
+    "starIndex": 2,
+    "after": "たくさんしまってある。",
+    "meaning": "Tủ quần áo trong phòng tôi có cất giữ rất nhiều quần áo cũ mà vì nghĩ 「biết đâu khi nào đó lại mặc」 nên không thể vứt đi được.",
+    "grammar": "～かもしれないと思って / ～ずにいる",
+    "explanation": "V-ずにいる: 「vẫn không (vứt) được...」. Thứ tự đúng: 着るかもしれない (2) + と思って (1) + 捨てられずにいる (4) + 古い服が (3).",
+    "level": "N2"
+  }
 ]
