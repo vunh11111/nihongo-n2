@@ -5,6 +5,7 @@ import StarGame from "./components/StarGame.jsx";
 import ReadingGame from "./components/ReadingGame.jsx";
 import Exam from "./pages/Exam.jsx";
 import { GAMES } from "./games.js";
+import { confirmLeaveExam } from "./lib/exam.js";
 
 // Chọn component theo loại trò (game.kind):
 //   "star"    -> Hái sao
@@ -25,7 +26,7 @@ export default function App() {
         {onHome ? (
           <span className="brand">日本語 <b>N2</b></span>
         ) : (
-          <Link className="btn ghost" to="/">← Trang chủ</Link>
+          <Link className="btn ghost" to="/" onClick={(e) => { if (!confirmLeaveExam()) e.preventDefault(); }}>← Trang chủ</Link>
         )}
         {!onHome && <strong className="top-title">{pathname === "/thi-thu" ? "Thi thử" : GAMES.find((g) => g.path === pathname)?.title}</strong>}
       </header>

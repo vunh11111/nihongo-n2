@@ -18,6 +18,28 @@ export function parseSentence(sentence) {
   return m ? { before: m[1], target: m[2], after: m[3] } : { before: sentence, target: "", after: "" };
 }
 
+// Khóa để nhận biết 2 mục trùng nội dung (khác id nhưng giống hệt nhau)
+//   kind = "star"   -> Hái sao: so theo before + các mảnh + after
+//   kind = "reading"-> bài đọc (mondai 9-14): so theo nội dung các đoạn văn
+//   còn lại         -> trắc nghiệm: so theo câu + đáp án đúng
+// (cùng 1 câu nhưng khác đáp án, ví dụ mondai 6 hỏi cùng 1 từ, vẫn được coi là 2 câu khác nhau)
+export function dedupeKey(kind, q) {
+  if (kind === "reading") return (q.passages ?? []).map((p) => p.text).join("|");
+  if (kind === "star") return `${q.before}|${(q.pieces ?? []).join("|")}|${q.after}`;
+  return `${q.sentence}|${q.answer}`;
+}
+
+// Loại các mục trùng nội dung, giữ lại mục xuất hiện đầu tiên và giữ nguyên thứ tự
+export function uniqueQuestions(questions, kind) {
+  const seen = new Set();
+  return questions.filter((q) => {
+    const k = dedupeKey(kind, q);
+    if (seen.has(k)) return false;
+    seen.add(k);
+    return true;
+  });
+}
+
 // Tạo bộ đề cho 1 lượt chơi: xáo thứ tự câu, lấy tối đa `size` câu.
 // Thứ tự 4 đáp án: mặc định xáo ngẫu nhiên; nếu keepOrder = true thì giữ đúng thứ tự trong `choices`
 export function buildDeck(questions, size = questions.length, keepOrder = false) {

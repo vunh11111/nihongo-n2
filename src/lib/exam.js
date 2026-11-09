@@ -65,23 +65,9 @@ export const MODES = [
 ];
 export const getMode = (id) => MODES.find((m) => m.id === id) ?? MODES[2];
 
-// ===== Lấy ngẫu nhiên, tránh trùng =====
-// Hai câu có cùng "khóa" được coi là trùng nhau (ví dụ affix.json có nhiều câu giống hệt, khác id)
-function dedupeKey(game, q) {
-  if (game.kind === "reading") return (q.passages ?? []).map((p) => p.text).join("|");
-  if (game.kind === "star") return `${q.before}|${(q.pieces ?? []).join("|")}|${q.after}`;
-  return `${q.sentence}|${q.answer}`;
-}
-
-function uniquePool(game) {
-  const seen = new Set();
-  return shuffle(game.questions).filter((q) => {
-    const k = dedupeKey(game, q);
-    if (seen.has(k)) return false;
-    seen.add(k);
-    return true;
-  });
-}
+// ===== Lấy ngẫu nhiên =====
+// GAMES[].questions đã được loại câu trùng nội dung trong games.js nên ở đây chỉ cần xáo rồi lấy.
+const randomPool = (game) => shuffle(game.questions);
 
 // Mỗi mondai: cần bao nhiêu, database hiện có bao nhiêu (đã loại trùng)
 export function getAvailability(modeId) {
@@ -92,7 +78,7 @@ export function getAvailability(modeId) {
       title: game?.title ?? `Mondai ${m}`,
       unit: game?.kind === "reading" ? "bài" : "câu",
       need: EXAM_SPEC[m]?.count ?? 0,
-      have: game ? uniquePool(game).length : 0,
+      have: game ? game.questions.length : 0,
     };
   });
 }
@@ -104,7 +90,7 @@ export function buildExam(modeId) {
     const game = GAMES.find((g) => g.mondai === m);
     const need = EXAM_SPEC[m]?.count ?? 0;
     if (!game || !need) continue;
-    const picked = uniquePool(game).slice(0, need);
+    const picked = randomPool(game).slice(0, need);
 
     if (game.kind === "reading") {
       picked.forEach((set) => {
@@ -182,4 +168,19 @@ export function formatTime(totalSeconds) {
   const mm = String(Math.floor(s / 60)).padStart(2, "0");
   const ss = String(s % 60).padStart(2, "0");
   return `${mm}:${ss}`;
+}
+
+// ===== Chặn thoát nhầm khi đang thi =====
+// beforeunload chỉ bắt được tải lại / đóng tab, không bắt được điều hướng trong app (bấm "← Trang chủ",
+// nút Back của trình duyệt). ExamRunner bật cờ này khi đang làm bài, App và ExamRunner dựa vào đó để hỏi lại.
+export const LEAVE_EXAM_MESSAGE = "Bạn đang làm bài thi. Nếu rời khỏi trang, toàn bộ bài làm sẽ bị mất. Bạn có chắc muốn thoát?";
+
+let examActive = false;
+export const setExamActive = (value) => {
+  examActive = value;
+};
+
+// true = được phép rời đi (không đang thi, hoặc người dùng đã xác nhận thoát)
+export function confirmLeaveExam() {
+  return !examActive || window.confirm(LEAVE_EXAM_MESSAGE);
 }
