@@ -11,8 +11,9 @@
       "礼宜",
       "礼誼"
     ],
-    "meaning": "lễ nghi, lịch sự | Hán Việt: LỄ NGHI",
-    "level": "N2"
+    "meaning": "lễ nghi, lịch sự",
+    "level": "N2",
+    "han_viet": "LỄ NGHI"
   },
   {
     "id": "k002",
@@ -26,8 +27,9 @@
       "昇成",
       "昇世"
     ],
-    "meaning": "thăng tiến, thành đạt | Hán Việt: XUẤT THẾ",
-    "level": "N2"
+    "meaning": "thăng tiến, thành đạt",
+    "level": "N2",
+    "han_viet": "XUẤT THẾ"
   },
   {
     "id": "k003",
@@ -41,8 +43,9 @@
       "伝統",
       "伝達"
     ],
-    "meaning": "truyền thống | Hán Việt: TRUYỀN THỐNG",
-    "level": "N2"
+    "meaning": "truyền thống",
+    "level": "N2",
+    "han_viet": "TRUYỀN THỐNG"
   },
   {
     "id": "k004",
@@ -56,8 +59,9 @@
       "競ら",
       "暴ら"
     ],
-    "meaning": "vội vàng, cuống cuồng | Hán Việt: TIÊU",
-    "level": "N2"
+    "meaning": "vội vàng, cuống cuồng",
+    "level": "N2",
+    "han_viet": "TIÊU"
   },
   {
     "id": "k005",
@@ -71,8 +75,9 @@
       "暴らし",
       "墓らし"
     ],
-    "meaning": "sinh sống, sống | Hán Việt: MỘ",
-    "level": "N2"
+    "meaning": "sinh sống, sống",
+    "level": "N2",
+    "han_viet": "MỘ"
   },
   {
     "id": "k006",
@@ -86,8 +91,9 @@
       "開演",
       "開講"
     ],
-    "meaning": "tổ chức (hội nghị, đại hội) | Hán Việt: KHAI THÔI",
-    "level": "N2"
+    "meaning": "tổ chức (hội nghị, đại hội)",
+    "level": "N2",
+    "han_viet": "KHAI THÔI"
   },
   {
     "id": "k007",
@@ -101,8 +107,9 @@
       "頼り",
       "援り"
     ],
-    "meaning": "chỗ dựa, đáng tin cậy | Hán Việt: LẠI",
-    "level": "N2"
+    "meaning": "chỗ dựa, đáng tin cậy",
+    "level": "N2",
+    "han_viet": "LẠI"
   },
   {
     "id": "k008",
@@ -116,8 +123,9 @@
       "荒れて",
       "暴れて"
     ],
-    "meaning": "xáo trộn, rối loạn | Hán Việt: LOẠN",
-    "level": "N2"
+    "meaning": "xáo trộn, rối loạn",
+    "level": "N2",
+    "han_viet": "LOẠN"
   },
   {
     "id": "k009",
@@ -131,8 +139,9 @@
       "運賃",
       "運貨"
     ],
-    "meaning": "cước phí di chuyển, tiền xe/tàu | Hán Việt: VẬN NHẪM",
-    "level": "N2"
+    "meaning": "cước phí di chuyển, tiền xe/tàu",
+    "level": "N2",
+    "han_viet": "VẬN NHẪM"
   },
   {
     "id": "k010",
@@ -146,8 +155,9 @@
       "録影",
       "撮影"
     ],
-    "meaning": "quay phim, chụp ảnh | Hán Việt: TOÁT ẢNH",
-    "level": "N2"
+    "meaning": "quay phim, chụp ảnh",
+    "level": "N2",
+    "han_viet": "TOÁT ẢNH"
   },
   {
     "id": "k011",
@@ -161,8 +171,9 @@
       "象徴",
       "像微"
     ],
-    "meaning": "biểu tượng, tượng trưng | Hán Việt: TƯỢNG TRƯNG",
-    "level": "N2"
+    "meaning": "biểu tượng, tượng trưng",
+    "level": "N2",
+    "han_viet": "TƯỢNG TRƯNG"
   },
   {
     "id": "k012",
@@ -176,8 +187,9 @@
       "暴しい",
       "極しい"
     ],
-    "meaning": "mạnh, dữ dội, khắc nghiệt | Hán Việt: KÍCH",
-    "level": "N2"
+    "meaning": "mạnh, dữ dội, khắc nghiệt",
+    "level": "N2",
+    "han_viet": "KÍCH"
   },
   {
     "id": "k013",
@@ -191,8 +203,9 @@
       "答録",
       "答緑"
     ],
-    "meaning": "đăng ký, lưu (danh bạ) | Hán Việt: ĐĂNG LỤC",
-    "level": "N2"
+    "meaning": "đăng ký, lưu (danh bạ)",
+    "level": "N2",
+    "han_viet": "ĐĂNG LỤC"
   },
   {
     "id": "k014",
@@ -206,8 +219,9 @@
       "請った",
       "誘った"
     ],
-    "meaning": "rủ, mời | Hán Việt: DỤ",
-    "level": "N2"
+    "meaning": "rủ, mời",
+    "level": "N2",
+    "han_viet": "DỤ"
   },
   {
     "id": "k015",
@@ -221,8 +235,9 @@
       "変換",
       "変替"
     ],
-    "meaning": "thay đổi, biến đổi | Hán Việt: BIẾN CANH",
-    "level": "N2"
+    "meaning": "thay đổi, biến đổi",
+    "level": "N2",
+    "han_viet": "BIẾN CANH"
   },
   {
     "id": "k016",
@@ -236,8 +251,9 @@
       "贈えた",
       "供えた"
     ],
-    "meaning": "ban cho, mang lại | Hán Việt: DỮ",
-    "level": "N2"
+    "meaning": "ban cho, mang lại",
+    "level": "N2",
+    "han_viet": "DỮ"
   },
   {
     "id": "k017",
@@ -251,8 +267,9 @@
       "官利",
       "官理"
     ],
-    "meaning": "quản lý | Hán Việt: QUẢN LÝ",
-    "level": "N2"
+    "meaning": "quản lý",
+    "level": "N2",
+    "han_viet": "QUẢN LÝ"
   },
   {
     "id": "k018",
@@ -266,8 +283,9 @@
       "副詞",
       "福祉"
     ],
-    "meaning": "phúc lợi xã hội | Hán Việt: PHÚC CHỈ",
-    "level": "N2"
+    "meaning": "phúc lợi xã hội",
+    "level": "N2",
+    "han_viet": "PHÚC CHỈ"
   },
   {
     "id": "k019",
@@ -281,8 +299,9 @@
       "投論",
       "投諭"
     ],
-    "meaning": "thảo luận, tranh luận | Hán Việt: THẢO LUẬN",
-    "level": "N2"
+    "meaning": "thảo luận, tranh luận",
+    "level": "N2",
+    "han_viet": "THẢO LUẬN"
   },
   {
     "id": "k020",
@@ -296,8 +315,9 @@
       "族して",
       "束して"
     ],
-    "meaning": "thuộc về, trực thuộc | Hán Việt: THUỘC",
-    "level": "N2"
+    "meaning": "thuộc về, trực thuộc",
+    "level": "N2",
+    "han_viet": "THUỘC"
   },
   {
     "id": "k021",
@@ -311,8 +331,9 @@
       "誘いて",
       "伴いて"
     ],
-    "meaning": "dẫn dắt, chỉ dẫn | Hán Việt: ĐẠO",
-    "level": "N2"
+    "meaning": "dẫn dắt, chỉ dẫn",
+    "level": "N2",
+    "han_viet": "ĐẠO"
   },
   {
     "id": "k022",
@@ -326,8 +347,9 @@
       "扱って",
       "処って"
     ],
-    "meaning": "đối xử, xử lý, thao tác | Hán Việt: TRÁP",
-    "level": "N2"
+    "meaning": "đối xử, xử lý, thao tác",
+    "level": "N2",
+    "han_viet": "TRÁP"
   },
   {
     "id": "k023",
@@ -341,8 +363,9 @@
       "責極的",
       "積極的"
     ],
-    "meaning": "tích cực | Hán Việt: TÍCH CỰC ĐÍCH",
-    "level": "N2"
+    "meaning": "tích cực",
+    "level": "N2",
+    "han_viet": "TÍCH CỰC ĐÍCH"
   },
   {
     "id": "k024",
@@ -356,8 +379,9 @@
       "底坑",
       "抵坑"
     ],
-    "meaning": "đề kháng, ngần ngại, phản đối | Hán Việt: ĐỂ KHÁNG",
-    "level": "N2"
+    "meaning": "đề kháng, ngần ngại, phản đối",
+    "level": "N2",
+    "han_viet": "ĐỂ KHÁNG"
   },
   {
     "id": "k025",
@@ -371,8 +395,9 @@
       "背",
       "肩"
     ],
-    "meaning": "vai | Hán Việt: KIÊN",
-    "level": "N2"
+    "meaning": "vai",
+    "level": "N2",
+    "han_viet": "KIÊN"
   },
   {
     "id": "k026",
@@ -386,8 +411,9 @@
       "参れる",
       "訪れる"
     ],
-    "meaning": "ghé thăm, tới thăm | Hán Việt: PHỎNG",
-    "level": "N2"
+    "meaning": "ghé thăm, tới thăm",
+    "level": "N2",
+    "han_viet": "PHỎNG"
   },
   {
     "id": "k027",
@@ -401,8 +427,9 @@
       "収穫",
       "収得"
     ],
-    "meaning": "thu hoạch | Hán Việt: THU HOẠCH",
-    "level": "N2"
+    "meaning": "thu hoạch",
+    "level": "N2",
+    "han_viet": "THU HOẠCH"
   },
   {
     "id": "k028",
@@ -416,8 +443,9 @@
       "荒い",
       "暴い"
     ],
-    "meaning": "sức mạnh, khí thế, đà | Hán Việt: THẾ",
-    "level": "N2"
+    "meaning": "sức mạnh, khí thế, đà",
+    "level": "N2",
+    "han_viet": "THẾ"
   },
   {
     "id": "k029",
@@ -431,8 +459,9 @@
       "組織",
       "祖織"
     ],
-    "meaning": "tổ chức, cơ cấu | Hán Việt: TỔ CHỨC",
-    "level": "N2"
+    "meaning": "tổ chức, cơ cấu",
+    "level": "N2",
+    "han_viet": "TỔ CHỨC"
   },
   {
     "id": "k030",
@@ -446,8 +475,9 @@
       "減るところ",
       "総るところ"
     ],
-    "meaning": "khắp nơi, mọi nơi | Hán Việt: CHÍ",
-    "level": "N2"
+    "meaning": "khắp nơi, mọi nơi",
+    "level": "N2",
+    "han_viet": "CHÍ"
   },
   {
     "id": "k031",
@@ -461,8 +491,9 @@
       "略る",
       "削る"
     ],
-    "meaning": "gọt, cắt giảm | Hán Việt: TƯỚC",
-    "level": "N2"
+    "meaning": "gọt, cắt giảm",
+    "level": "N2",
+    "han_viet": "TƯỚC"
   },
   {
     "id": "k032",
@@ -476,8 +507,9 @@
       "構義",
       "構儀"
     ],
-    "meaning": "bài giảng, giờ học | Hán Việt: GIẢNG NGHĨA",
-    "level": "N2"
+    "meaning": "bài giảng, giờ học",
+    "level": "N2",
+    "han_viet": "GIẢNG NGHĨA"
   },
   {
     "id": "k033",
@@ -491,8 +523,9 @@
       "建利",
       "建理"
     ],
-    "meaning": "quyền lợi | Hán Việt: QUYỀN LỢI",
-    "level": "N2"
+    "meaning": "quyền lợi",
+    "level": "N2",
+    "han_viet": "QUYỀN LỢI"
   },
   {
     "id": "k034",
@@ -506,8 +539,9 @@
       "並木",
       "列木"
     ],
-    "meaning": "hàng cây ven đường | Hán Việt: TỊNH MỘC",
-    "level": "N2"
+    "meaning": "hàng cây ven đường",
+    "level": "N2",
+    "han_viet": "TỊNH MỘC"
   },
   {
     "id": "k035",
@@ -521,8 +555,9 @@
       "貫連",
       "官連"
     ],
-    "meaning": "liên quan, mối liên hệ | Hán Việt: QUAN LIÊN",
-    "level": "N2"
+    "meaning": "liên quan, mối liên hệ",
+    "level": "N2",
+    "han_viet": "QUAN LIÊN"
   },
   {
     "id": "k036",
@@ -536,8 +571,9 @@
       "信険に",
       "信剣に"
     ],
-    "meaning": "nghiêm túc, đứng đắn | Hán Việt: CHÂN KIẾM",
-    "level": "N2"
+    "meaning": "nghiêm túc, đứng đắn",
+    "level": "N2",
+    "han_viet": "CHÂN KIẾM"
   },
   {
     "id": "k037",
@@ -551,8 +587,9 @@
       "勤めて",
       "努めて"
     ],
-    "meaning": "nỗ lực, cố gắng | Hán Việt: NỖ",
-    "level": "N2"
+    "meaning": "nỗ lực, cố gắng",
+    "level": "N2",
+    "han_viet": "NỖ"
   },
   {
     "id": "k038",
@@ -566,8 +603,9 @@
       "寄付",
       "貴符"
     ],
-    "meaning": "quyên góp, quyên cúng | Hán Việt: KÝ PHÓ",
-    "level": "N2"
+    "meaning": "quyên góp, quyên cúng",
+    "level": "N2",
+    "han_viet": "KÝ PHÓ"
   },
   {
     "id": "k039",
@@ -581,8 +619,9 @@
       "即差に",
       "速差に"
     ],
-    "meaning": "ngay lập tức | Hán Việt: TỨC TỌA",
-    "level": "N2"
+    "meaning": "ngay lập tức",
+    "level": "N2",
+    "han_viet": "TỨC TỌA"
   },
   {
     "id": "k040",
@@ -596,8 +635,9 @@
       "憎めたら",
       "責めたら"
     ],
-    "meaning": "trách móc, đổ lỗi | Hán Việt: TRÁCH",
-    "level": "N2"
+    "meaning": "trách móc, đổ lỗi",
+    "level": "N2",
+    "han_viet": "TRÁCH"
   },
   {
     "id": "k041",
@@ -611,8 +651,9 @@
       "汗っぽい",
       "湿っぽい"
     ],
-    "meaning": "ẩm ướt; ảm đạm (bầu không khí) | Hán Việt: THẤP",
-    "level": "N2"
+    "meaning": "ẩm ướt; ảm đạm (bầu không khí)",
+    "level": "N2",
+    "han_viet": "THẤP"
   },
   {
     "id": "k042",
@@ -626,8 +667,9 @@
       "設族",
       "接続"
     ],
-    "meaning": "kết nối | Hán Việt: TIẾP TỤC",
-    "level": "N2"
+    "meaning": "kết nối",
+    "level": "N2",
+    "han_viet": "TIẾP TỤC"
   },
   {
     "id": "k043",
@@ -641,8 +683,9 @@
       "拒って",
       "争って"
     ],
-    "meaning": "chống đối, làm trái ý | Hán Việt: NGHỊCH",
-    "level": "N2"
+    "meaning": "chống đối, làm trái ý",
+    "level": "N2",
+    "han_viet": "NGHỊCH"
   },
   {
     "id": "k044",
@@ -656,8 +699,9 @@
       "批反",
       "非反"
     ],
-    "meaning": "phê bình, chỉ trích | Hán Việt: PHÊ PHÁN",
-    "level": "N2"
+    "meaning": "phê bình, chỉ trích",
+    "level": "N2",
+    "han_viet": "PHÊ PHÁN"
   },
   {
     "id": "k045",
@@ -671,8 +715,9 @@
       "劣っている",
       "乏っている"
     ],
-    "meaning": "kém hơn, yếu hơn | Hán Việt: LIỆT",
-    "level": "N2"
+    "meaning": "kém hơn, yếu hơn",
+    "level": "N2",
+    "han_viet": "LIỆT"
   },
   {
     "id": "k046",
@@ -686,8 +731,9 @@
       "討しい",
       "評しい"
     ],
-    "meaning": "chi tiết, tường tận | Hán Việt: TƯỜNG",
-    "level": "N2"
+    "meaning": "chi tiết, tường tận",
+    "level": "N2",
+    "han_viet": "TƯỜNG"
   },
   {
     "id": "k047",
@@ -701,8 +747,9 @@
       "補財",
       "援助"
     ],
-    "meaning": "viện trợ, hỗ trợ | Hán Việt: VIỆN TRỢ",
-    "level": "N2"
+    "meaning": "viện trợ, hỗ trợ",
+    "level": "N2",
+    "han_viet": "VIỆN TRỢ"
   },
   {
     "id": "k048",
@@ -716,8 +763,9 @@
       "破れて",
       "削れて"
     ],
-    "meaning": "rách, bị rách | Hán Việt: PHÁ",
-    "level": "N2"
+    "meaning": "rách, bị rách",
+    "level": "N2",
+    "han_viet": "PHÁ"
   },
   {
     "id": "k049",
@@ -731,8 +779,9 @@
       "面倒",
       "免到"
     ],
-    "meaning": "phiền phức, rắc rối | Hán Việt: DIỆN ĐẢO",
-    "level": "N2"
+    "meaning": "phiền phức, rắc rối",
+    "level": "N2",
+    "han_viet": "DIỆN ĐẢO"
   },
   {
     "id": "k050",
@@ -746,8 +795,9 @@
       "捨った",
       "授った"
     ],
-    "meaning": "nhặt được | Hán Việt: THẬP",
-    "level": "N2"
+    "meaning": "nhặt được",
+    "level": "N2",
+    "han_viet": "THẬP"
   },
   {
     "id": "k051",
@@ -761,8 +811,9 @@
       "拒離",
       "拒理"
     ],
-    "meaning": "khoảng cách, cự ly | Hán Việt: CỰ LY",
-    "level": "N2"
+    "meaning": "khoảng cách, cự ly",
+    "level": "N2",
+    "han_viet": "CỰ LY"
   },
   {
     "id": "k052",
@@ -776,8 +827,9 @@
       "避離",
       "被離"
     ],
-    "meaning": "sơ tán, lánh nạn | Hán Việt: TỊ NẠN",
-    "level": "N2"
+    "meaning": "sơ tán, lánh nạn",
+    "level": "N2",
+    "han_viet": "TỊ NẠN"
   },
   {
     "id": "k053",
@@ -791,8 +843,9 @@
       "変換",
       "変替"
     ],
-    "meaning": "thay đổi, biến đổi | Hán Việt: BIẾN CANH",
-    "level": "N2"
+    "meaning": "thay đổi, biến đổi",
+    "level": "N2",
+    "han_viet": "BIẾN CANH"
   },
   {
     "id": "k054",
@@ -806,8 +859,9 @@
       "源因",
       "基因"
     ],
-    "meaning": "nguyên nhân | Hán Việt: NGUYÊN NHÂN",
-    "level": "N2"
+    "meaning": "nguyên nhân",
+    "level": "N2",
+    "han_viet": "NGUYÊN NHÂN"
   },
   {
     "id": "k055",
@@ -821,8 +875,9 @@
       "許め",
       "診め"
     ],
-    "meaning": "thừa nhận, công nhận | Hán Việt: NHẬN",
-    "level": "N2"
+    "meaning": "thừa nhận, công nhận",
+    "level": "N2",
+    "han_viet": "NHẬN"
   },
   {
     "id": "k056",
@@ -836,8 +891,9 @@
       "困乱",
       "困雑"
     ],
-    "meaning": "hỗn loạn | Hán Việt: HỖN LOẠN",
-    "level": "N2"
+    "meaning": "hỗn loạn",
+    "level": "N2",
+    "han_viet": "HỖN LOẠN"
   },
   {
     "id": "k057",
@@ -851,8 +907,9 @@
       "順長",
       "順調"
     ],
-    "meaning": "thuận lợi, trôi chảy | Hán Việt: THUẬN ĐIỀU",
-    "level": "N2"
+    "meaning": "thuận lợi, trôi chảy",
+    "level": "N2",
+    "han_viet": "THUẬN ĐIỀU"
   },
   {
     "id": "k058",
@@ -866,8 +923,9 @@
       "競っ",
       "抗っ"
     ],
-    "meaning": "tranh chấp, cạnh tranh | Hán Việt: TRANH",
-    "level": "N2"
+    "meaning": "tranh chấp, cạnh tranh",
+    "level": "N2",
+    "han_viet": "TRANH"
   },
   {
     "id": "k059",
@@ -881,8 +939,9 @@
       "支的",
       "支摘"
     ],
-    "meaning": "chỉ ra, chỉ trích | Hán Việt: CHỈ TRÍCH",
-    "level": "N2"
+    "meaning": "chỉ ra, chỉ trích",
+    "level": "N2",
+    "han_viet": "CHỈ TRÍCH"
   },
   {
     "id": "k060",
@@ -896,8 +955,9 @@
       "鮮やか",
       "濃やか"
     ],
-    "meaning": "rực rỡ, tươi tắn | Hán Việt: TIÊN",
-    "level": "N2"
+    "meaning": "rực rỡ, tươi tắn",
+    "level": "N2",
+    "han_viet": "TIÊN"
   },
   {
     "id": "k061",
@@ -911,8 +971,9 @@
       "指治",
       "手持"
     ],
-    "meaning": "ủng hộ, hỗ trợ | Hán Việt: CHI TRÌ",
-    "level": "N2"
+    "meaning": "ủng hộ, hỗ trợ",
+    "level": "N2",
+    "han_viet": "CHI TRÌ"
   },
   {
     "id": "k062",
@@ -926,8 +987,9 @@
       "嫌",
       "避"
     ],
-    "meaning": "cự tuyệt, từ chối | Hán Việt: CỰ",
-    "level": "N2"
+    "meaning": "cự tuyệt, từ chối",
+    "level": "N2",
+    "han_viet": "CỰ"
   },
   {
     "id": "k063",
@@ -941,8 +1003,9 @@
       "抗儀",
       "講儀"
     ],
-    "meaning": "kháng nghị, phản đối | Hán Việt: KHÁNG NGHỊ",
-    "level": "N2"
+    "meaning": "kháng nghị, phản đối",
+    "level": "N2",
+    "han_viet": "KHÁNG NGHỊ"
   },
   {
     "id": "k064",
@@ -956,8 +1019,9 @@
       "投入",
       "投人"
     ],
-    "meaning": "đưa vào, áp dụng | Hán Việt: ĐẠO NHẬP",
-    "level": "N2"
+    "meaning": "đưa vào, áp dụng",
+    "level": "N2",
+    "han_viet": "ĐẠO NHẬP"
   },
   {
     "id": "k065",
@@ -971,8 +1035,9 @@
       "観",
       "査"
     ],
-    "meaning": "thừa nhận, nhận lỗi | Hán Việt: NHẬN",
-    "level": "N2"
+    "meaning": "thừa nhận, nhận lỗi",
+    "level": "N2",
+    "han_viet": "NHẬN"
   },
   {
     "id": "k066",
@@ -986,8 +1051,9 @@
       "泊",
       "召"
     ],
-    "meaning": "mời, rủ | Hán Việt: CHIÊU",
-    "level": "N2"
+    "meaning": "mời, rủ",
+    "level": "N2",
+    "han_viet": "CHIÊU"
   },
   {
     "id": "k067",
@@ -1001,8 +1067,9 @@
       "保証",
       "補正"
     ],
-    "meaning": "bảo đảm, bảo hành (tùy ngữ cảnh) | Hán Việt: BẢO CHỨNG",
-    "level": "N2"
+    "meaning": "bảo đảm, bảo hành (tùy ngữ cảnh)",
+    "level": "N2",
+    "han_viet": "BẢO CHỨNG"
   },
   {
     "id": "k068",
@@ -1016,8 +1083,9 @@
       "推",
       "権"
     ],
-    "meaning": "tổ chức (sự kiện); sự kiện (催し) | Hán Việt: THÔI",
-    "level": "N2"
+    "meaning": "tổ chức (sự kiện); sự kiện (催し)",
+    "level": "N2",
+    "han_viet": "THÔI"
   },
   {
     "id": "k069",
@@ -1031,8 +1099,9 @@
       "硬価",
       "固価"
     ],
-    "meaning": "tiền xu, tiền kim loại | Hán Việt: NGẠNH HÓA",
-    "level": "N2"
+    "meaning": "tiền xu, tiền kim loại",
+    "level": "N2",
+    "han_viet": "NGẠNH HÓA"
   },
   {
     "id": "k070",
@@ -1046,8 +1115,9 @@
       "製造",
       "制造"
     ],
-    "meaning": "chế tạo, sản xuất | Hán Việt: CHẾ TẠO",
-    "level": "N2"
+    "meaning": "chế tạo, sản xuất",
+    "level": "N2",
+    "han_viet": "CHẾ TẠO"
   },
   {
     "id": "k071",
@@ -1061,8 +1131,9 @@
       "調制",
       "調説"
     ],
-    "meaning": "điều chỉnh | Hán Việt: ĐIỀU TIẾT",
-    "level": "N2"
+    "meaning": "điều chỉnh",
+    "level": "N2",
+    "han_viet": "ĐIỀU TIẾT"
   },
   {
     "id": "k072",
@@ -1076,8 +1147,9 @@
       "占",
       "願"
     ],
-    "meaning": "chúc mừng | Hán Việt: CHÚC",
-    "level": "N2"
+    "meaning": "chúc mừng",
+    "level": "N2",
+    "han_viet": "CHÚC"
   },
   {
     "id": "k073",
@@ -1091,8 +1163,9 @@
       "措置",
       "所置"
     ],
-    "meaning": "trang thiết bị, bộ máy | Hán Việt: TRANG TRÍ",
-    "level": "N2"
+    "meaning": "trang thiết bị, bộ máy",
+    "level": "N2",
+    "han_viet": "TRANG TRÍ"
   },
   {
     "id": "k074",
@@ -1106,8 +1179,9 @@
       "補管",
       "補官"
     ],
-    "meaning": "bảo quản, lưu trữ | Hán Việt: BẢO QUẢN",
-    "level": "N2"
+    "meaning": "bảo quản, lưu trữ",
+    "level": "N2",
+    "han_viet": "BẢO QUẢN"
   },
   {
     "id": "k075",
@@ -1121,8 +1195,9 @@
       "敬重",
       "敬長"
     ],
-    "meaning": "tôn trọng, coi trọng | Hán Việt: TÔN TRỌNG",
-    "level": "N2"
+    "meaning": "tôn trọng, coi trọng",
+    "level": "N2",
+    "han_viet": "TÔN TRỌNG"
   },
   {
     "id": "k078",
@@ -1136,8 +1211,9 @@
       "破辺",
       "被辺"
     ],
-    "meaning": "mảnh vỡ | Hán Việt: PHÁ PHIẾN",
-    "level": "N2"
+    "meaning": "mảnh vỡ",
+    "level": "N2",
+    "han_viet": "PHÁ PHIẾN"
   },
   {
     "id": "k079",
@@ -1151,8 +1227,9 @@
       "係備",
       "係秘"
     ],
-    "meaning": "canh gác, bảo vệ, an ninh | Hán Việt: CẢNH BỊ",
-    "level": "N2"
+    "meaning": "canh gác, bảo vệ, an ninh",
+    "level": "N2",
+    "han_viet": "CẢNH BỊ"
   },
   {
     "id": "k081",
@@ -1166,8 +1243,9 @@
       "豊か",
       "満か"
     ],
-    "meaning": "phong phú, giàu có | Hán Việt: PHONG",
-    "level": "N2"
+    "meaning": "phong phú, giàu có",
+    "level": "N2",
+    "han_viet": "PHONG"
   },
   {
     "id": "k082",
@@ -1181,8 +1259,9 @@
       "育う",
       "養う"
     ],
-    "meaning": "nuôi dưỡng, bồi dưỡng | Hán Việt: DƯỠNG",
-    "level": "N2"
+    "meaning": "nuôi dưỡng, bồi dưỡng",
+    "level": "N2",
+    "han_viet": "DƯỠNG"
   },
   {
     "id": "k085",
@@ -1196,8 +1275,9 @@
       "省きます",
       "抜きます"
     ],
-    "meaning": "lược bớt, bỏ qua | Hán Việt: TỈNH",
-    "level": "N2"
+    "meaning": "lược bớt, bỏ qua",
+    "level": "N2",
+    "han_viet": "TỈNH"
   },
   {
     "id": "k086",
@@ -1211,8 +1291,9 @@
       "迎え",
       "紹え"
     ],
-    "meaning": "đón | Hán Việt: NGHÊNH",
-    "level": "N2"
+    "meaning": "đón",
+    "level": "N2",
+    "han_viet": "NGHÊNH"
   },
   {
     "id": "k087",
@@ -1226,8 +1307,9 @@
       "介種",
       "看護"
     ],
-    "meaning": "chăm sóc, điều dưỡng | Hán Việt: GIỚI HỘ",
-    "level": "N2"
+    "meaning": "chăm sóc, điều dưỡng",
+    "level": "N2",
+    "han_viet": "GIỚI HỘ"
   },
   {
     "id": "k088",
@@ -1241,8 +1323,9 @@
       "形統",
       "形等"
     ],
-    "meaning": "hệ thống, nhóm màu | Hán Việt: HỆ THỐNG",
-    "level": "N2"
+    "meaning": "hệ thống, nhóm màu",
+    "level": "N2",
+    "han_viet": "HỆ THỐNG"
   },
   {
     "id": "k089",
@@ -1256,8 +1339,9 @@
       "包ねた",
       "束ねた"
     ],
-    "meaning": "buộc thành bó | Hán Việt: THÚC",
-    "level": "N2"
+    "meaning": "buộc thành bó",
+    "level": "N2",
+    "han_viet": "THÚC"
   },
   {
     "id": "k090",
@@ -1271,8 +1355,9 @@
       "精算",
       "制算"
     ],
-    "meaning": "quyết toán, thanh toán chi phí | Hán Việt: TINH TOÁN",
-    "level": "N2"
+    "meaning": "quyết toán, thanh toán chi phí",
+    "level": "N2",
+    "han_viet": "TINH TOÁN"
   },
   {
     "id": "k091",
@@ -1286,8 +1371,9 @@
       "好味",
       "習味"
     ],
-    "meaning": "sở thích | Hán Việt: THÚ VỊ",
-    "level": "N2"
+    "meaning": "sở thích",
+    "level": "N2",
+    "han_viet": "THÚ VỊ"
   },
   {
     "id": "k092",
@@ -1301,8 +1387,9 @@
       "硬い",
       "濃い"
     ],
-    "meaning": "đậm (màu/mực) | Hán Việt: NÙNG",
-    "level": "N2"
+    "meaning": "đậm (màu/mực)",
+    "level": "N2",
+    "han_viet": "NÙNG"
   },
   {
     "id": "k093",
@@ -1316,8 +1403,9 @@
       "雑じった",
       "合じった"
     ],
-    "meaning": "trộn lẫn, pha lẫn | Hán Việt: HỖN",
-    "level": "N2"
+    "meaning": "trộn lẫn, pha lẫn",
+    "level": "N2",
+    "han_viet": "HỖN"
   },
   {
     "id": "k094",
@@ -1331,8 +1419,9 @@
       "由送",
       "由輸"
     ],
-    "meaning": "vận tải, vận chuyển | Hán Việt: THÂU TỐNG",
-    "level": "N2"
+    "meaning": "vận tải, vận chuyển",
+    "level": "N2",
+    "han_viet": "THÂU TỐNG"
   },
   {
     "id": "k095",
@@ -1346,8 +1435,9 @@
       "続いだ",
       "築いだ"
     ],
-    "meaning": "kế thừa, nối nghiệp | Hán Việt: KẾ",
-    "level": "N2"
+    "meaning": "kế thừa, nối nghiệp",
+    "level": "N2",
+    "han_viet": "KẾ"
   },
   {
     "id": "k096",
@@ -1361,8 +1451,9 @@
       "皆始",
       "皆試"
     ],
-    "meaning": "bắt đầu, khởi đầu | Hán Việt: KHAI THỦY",
-    "level": "N2"
+    "meaning": "bắt đầu, khởi đầu",
+    "level": "N2",
+    "han_viet": "KHAI THỦY"
   },
   {
     "id": "k097",
@@ -1376,8 +1467,9 @@
       "開約",
       "改訳"
     ],
-    "meaning": "hủy hợp đồng, chấm dứt hợp đồng | Hán Việt: GIẢI ƯỚC",
-    "level": "N2"
+    "meaning": "hủy hợp đồng, chấm dứt hợp đồng",
+    "level": "N2",
+    "han_viet": "GIẢI ƯỚC"
   },
   {
     "id": "k098",
@@ -1391,8 +1483,9 @@
       "照人",
       "招人"
     ],
-    "meaning": "nhân chứng | Hán Việt: CHỨNG NHÂN",
-    "level": "N2"
+    "meaning": "nhân chứng",
+    "level": "N2",
+    "han_viet": "CHỨNG NHÂN"
   },
   {
     "id": "k099",
@@ -1406,8 +1499,9 @@
       "幹気",
       "感気"
     ],
-    "meaning": "thông gió, thông khí | Hán Việt: HOÁN KHÍ",
-    "level": "N2"
+    "meaning": "thông gió, thông khí",
+    "level": "N2",
+    "han_viet": "HOÁN KHÍ"
   },
   {
     "id": "k100",
@@ -1421,8 +1515,9 @@
       "深行",
       "進幸"
     ],
-    "meaning": "tiến hành, tiến triển | Hán Việt: TIẾN HÀNH",
-    "level": "N2"
+    "meaning": "tiến hành, tiến triển",
+    "level": "N2",
+    "han_viet": "TIẾN HÀNH"
   },
   {
     "id": "k101",
@@ -1436,8 +1531,9 @@
       "照やか",
       "清やか"
     ],
-    "meaning": "rực rỡ, tươi tắn | Hán Việt: TIÊN",
-    "level": "N2"
+    "meaning": "rực rỡ, tươi tắn",
+    "level": "N2",
+    "han_viet": "TIÊN"
   },
   {
     "id": "k102",
@@ -1451,8 +1547,9 @@
       "実状",
       "成情"
     ],
-    "meaning": "tình hình thực tế | Hán Việt: THỰC TÌNH",
-    "level": "N2"
+    "meaning": "tình hình thực tế",
+    "level": "N2",
+    "han_viet": "THỰC TÌNH"
   },
   {
     "id": "k103",
@@ -1466,8 +1563,9 @@
       "通めて",
       "詰めて"
     ],
-    "meaning": "thu nhỏ, rút ngắn | Hán Việt: SÚC",
-    "level": "N2"
+    "meaning": "thu nhỏ, rút ngắn",
+    "level": "N2",
+    "han_viet": "SÚC"
   },
   {
     "id": "k104",
@@ -1481,8 +1579,9 @@
       "実戦",
       "実践"
     ],
-    "meaning": "thực tiễn, thực hành | Hán Việt: THỰC TIỄN",
-    "level": "N2"
+    "meaning": "thực tiễn, thực hành",
+    "level": "N2",
+    "han_viet": "THỰC TIỄN"
   },
   {
     "id": "k105",
@@ -1496,8 +1595,9 @@
       "異飾",
       "特飾"
     ],
-    "meaning": "khác biệt, độc đáo | Hán Việt: DỊ SẮC",
-    "level": "N2"
+    "meaning": "khác biệt, độc đáo",
+    "level": "N2",
+    "han_viet": "DỊ SẮC"
   },
   {
     "id": "k106",
@@ -1511,8 +1611,9 @@
       "富か",
       "福か"
     ],
-    "meaning": "phong phú, dồi dào | Hán Việt: PHONG",
-    "level": "N2"
+    "meaning": "phong phú, dồi dào",
+    "level": "N2",
+    "han_viet": "PHONG"
   },
   {
     "id": "k107",
@@ -1526,8 +1627,9 @@
       "逆品",
       "戻品"
     ],
-    "meaning": "trả lại hàng | Hán Việt: PHẢN PHẨM",
-    "level": "N2"
+    "meaning": "trả lại hàng",
+    "level": "N2",
+    "han_viet": "PHẢN PHẨM"
   },
   {
     "id": "k108",
@@ -1541,8 +1643,9 @@
       "乱亡",
       "荒亡"
     ],
-    "meaning": "thô bạo, cẩu thả | Hán Việt: LOẠN BẠO",
-    "level": "N2"
+    "meaning": "thô bạo, cẩu thả",
+    "level": "N2",
+    "han_viet": "LOẠN BẠO"
   },
   {
     "id": "k109",
@@ -1556,8 +1659,9 @@
       "競っ",
       "討っ"
     ],
-    "meaning": "cạnh tranh, thi đua | Hán Việt: CẠNH",
-    "level": "N2"
+    "meaning": "cạnh tranh, thi đua",
+    "level": "N2",
+    "han_viet": "CẠNH"
   },
   {
     "id": "k110",
@@ -1571,8 +1675,9 @@
       "低点",
       "弱点"
     ],
-    "meaning": "điểm yếu, nhược điểm | Hán Việt: NHƯỢC ĐIỂM",
-    "level": "N2"
+    "meaning": "điểm yếu, nhược điểm",
+    "level": "N2",
+    "han_viet": "NHƯỢC ĐIỂM"
   },
   {
     "id": "k111",
@@ -1586,8 +1691,9 @@
       "任せ",
       "但せ"
     ],
-    "meaning": "giao phó, ủy thác | Hán Việt: NHẬM",
-    "level": "N2"
+    "meaning": "giao phó, ủy thác",
+    "level": "N2",
+    "han_viet": "NHẬM"
   },
   {
     "id": "k112",
@@ -1601,8 +1707,9 @@
       "観誘",
       "観遊"
     ],
-    "meaning": "khuyên mời, rủ rê | Hán Việt: KHUYẾN DỤ",
-    "level": "N2"
+    "meaning": "khuyên mời, rủ rê",
+    "level": "N2",
+    "han_viet": "KHUYẾN DỤ"
   },
   {
     "id": "k114",
@@ -1616,8 +1723,9 @@
       "占もっ",
       "積もっ"
     ],
-    "meaning": "chất đống, tích tụ | Hán Việt: TÍCH",
-    "level": "N2"
+    "meaning": "chất đống, tích tụ",
+    "level": "N2",
+    "han_viet": "TÍCH"
   },
   {
     "id": "k115",
@@ -1631,8 +1739,9 @@
       "延及",
       "永及"
     ],
-    "meaning": "vĩnh cửu, lâu dài | Hán Việt: VĨNH CỬU",
-    "level": "N2"
+    "meaning": "vĩnh cửu, lâu dài",
+    "level": "N2",
+    "han_viet": "VĨNH CỬU"
   },
   {
     "id": "k116",
@@ -1646,8 +1755,9 @@
       "昇っ",
       "照っ"
     ],
-    "meaning": "mọc (mặt trời), lên cao | Hán Việt: THĂNG",
-    "level": "N2"
+    "meaning": "mọc (mặt trời), lên cao",
+    "level": "N2",
+    "han_viet": "THĂNG"
   },
   {
     "id": "k117",
@@ -1661,8 +1771,9 @@
       "垂頂",
       "垂直"
     ],
-    "meaning": "thẳng đứng, vuông góc | Hán Việt: THÙY TRỰC",
-    "level": "N2"
+    "meaning": "thẳng đứng, vuông góc",
+    "level": "N2",
+    "han_viet": "THÙY TRỰC"
   },
   {
     "id": "k118",
@@ -1676,8 +1787,9 @@
       "住拠",
       "住巨"
     ],
-    "meaning": "chỗ ở, nhà ở | Hán Việt: TRÚ CƯ",
-    "level": "N2"
+    "meaning": "chỗ ở, nhà ở",
+    "level": "N2",
+    "han_viet": "TRÚ CƯ"
   },
   {
     "id": "k119",
@@ -1691,8 +1803,9 @@
       "賛請",
       "賛政"
     ],
-    "meaning": "tán thành | Hán Việt: TÁN THÀNH",
-    "level": "N2"
+    "meaning": "tán thành",
+    "level": "N2",
+    "han_viet": "TÁN THÀNH"
   },
   {
     "id": "k120",
@@ -1706,8 +1819,9 @@
       "被離",
       "避離"
     ],
-    "meaning": "sơ tán, lánh nạn | Hán Việt: TỊ NẠN",
-    "level": "N2"
+    "meaning": "sơ tán, lánh nạn",
+    "level": "N2",
+    "han_viet": "TỊ NẠN"
   },
   {
     "id": "k121",
@@ -1721,8 +1835,9 @@
       "求",
       "情"
     ],
-    "meaning": "lòng tham, ham muốn | Hán Việt: DỤC",
-    "level": "N2"
+    "meaning": "lòng tham, ham muốn",
+    "level": "N2",
+    "han_viet": "DỤC"
   },
   {
     "id": "k122",
@@ -1736,8 +1851,9 @@
       "俳憂",
       "俳優"
     ],
-    "meaning": "diễn viên | Hán Việt: BÀI ƯU",
-    "level": "N2"
+    "meaning": "diễn viên",
+    "level": "N2",
+    "han_viet": "BÀI ƯU"
   },
   {
     "id": "k123",
@@ -1751,8 +1867,9 @@
       "離れ",
       "避け"
     ],
-    "meaning": "xa cách, rời xa | Hán Việt: LY",
-    "level": "N2"
+    "meaning": "xa cách, rời xa",
+    "level": "N2",
+    "han_viet": "LY"
   },
   {
     "id": "k124",
@@ -1766,8 +1883,9 @@
       "身談",
       "診談"
     ],
-    "meaning": "chẩn đoán | Hán Việt: CHẨN ĐOÁN",
-    "level": "N2"
+    "meaning": "chẩn đoán",
+    "level": "N2",
+    "han_viet": "CHẨN ĐOÁN"
   },
   {
     "id": "k125",
@@ -1781,8 +1899,9 @@
       "似しい",
       "比しい"
     ],
-    "meaning": "bằng nhau, như nhau | Hán Việt: ĐẲNG",
-    "level": "N2"
+    "meaning": "bằng nhau, như nhau",
+    "level": "N2",
+    "han_viet": "ĐẲNG"
   },
   {
     "id": "k126",
@@ -1796,8 +1915,9 @@
       "衣",
       "帯"
     ],
-    "meaning": "vải | Hán Việt: BỐ",
-    "level": "N2"
+    "meaning": "vải",
+    "level": "N2",
+    "han_viet": "BỐ"
   },
   {
     "id": "k127",
@@ -1811,8 +1931,9 @@
       "福祉",
       "副支"
     ],
-    "meaning": "phúc lợi xã hội | Hán Việt: PHÚC CHỈ",
-    "level": "N2"
+    "meaning": "phúc lợi xã hội",
+    "level": "N2",
+    "han_viet": "PHÚC CHỈ"
   },
   {
     "id": "k128",
@@ -1826,8 +1947,9 @@
       "管理",
       "官利"
     ],
-    "meaning": "quản lý | Hán Việt: QUẢN LÝ",
-    "level": "N2"
+    "meaning": "quản lý",
+    "level": "N2",
+    "han_viet": "QUẢN LÝ"
   },
   {
     "id": "k129",
@@ -1841,8 +1963,9 @@
       "研修",
       "演修"
     ],
-    "meaning": "tập huấn, tu nghiệp | Hán Việt: NGHIÊN TU",
-    "level": "N2"
+    "meaning": "tập huấn, tu nghiệp",
+    "level": "N2",
+    "han_viet": "NGHIÊN TU"
   },
   {
     "id": "k130",
@@ -1856,8 +1979,9 @@
       "停えず",
       "滞えず"
     ],
-    "meaning": "không ngừng, liên tục | Hán Việt: TUYỆT",
-    "level": "N2"
+    "meaning": "không ngừng, liên tục",
+    "level": "N2",
+    "han_viet": "TUYỆT"
   },
   {
     "id": "k131",
@@ -1871,8 +1995,9 @@
       "投標",
       "当標"
     ],
-    "meaning": "bỏ phiếu | Hán Việt: ĐẦU PHIẾU",
-    "level": "N2"
+    "meaning": "bỏ phiếu",
+    "level": "N2",
+    "han_viet": "ĐẦU PHIẾU"
   },
   {
     "id": "k132",
@@ -1886,8 +2011,9 @@
       "握えて",
       "抱えて"
     ],
-    "meaning": "ôm, gánh vác | Hán Việt: BÃO",
-    "level": "N2"
+    "meaning": "ôm, gánh vác",
+    "level": "N2",
+    "han_viet": "BÃO"
   },
   {
     "id": "k133",
@@ -1901,8 +2027,9 @@
       "略して",
       "簡して"
     ],
-    "meaning": "viết tắt, gọi tắt | Hán Việt: LƯỢC",
-    "level": "N2"
+    "meaning": "viết tắt, gọi tắt",
+    "level": "N2",
+    "han_viet": "LƯỢC"
   },
   {
     "id": "k134",
@@ -1916,8 +2043,9 @@
       "各充",
       "各張"
     ],
-    "meaning": "mở rộng, tăng cường (quy mô, nội dung) | Hán Việt: KHUẾCH SUNG",
-    "level": "N2"
+    "meaning": "mở rộng, tăng cường (quy mô, nội dung)",
+    "level": "N2",
+    "han_viet": "KHUẾCH SUNG"
   },
   {
     "id": "k135",
@@ -1931,8 +2059,9 @@
       "濃高",
       "農高"
     ],
-    "meaning": "khả năng cao, rất có thể; đậm đặc | Hán Việt: NÙNG HẬU",
-    "level": "N2"
+    "meaning": "khả năng cao, rất có thể; đậm đặc",
+    "level": "N2",
+    "han_viet": "NÙNG HẬU"
   },
   {
     "id": "k136",
@@ -1946,8 +2075,9 @@
       "仕望",
       "思望"
     ],
-    "meaning": "nguyện vọng, ước muốn | Hán Việt: CHÍ VỌNG",
-    "level": "N2"
+    "meaning": "nguyện vọng, ước muốn",
+    "level": "N2",
+    "han_viet": "CHÍ VỌNG"
   },
   {
     "id": "k137",
@@ -1961,8 +2091,9 @@
       "短便",
       "短遍"
     ],
-    "meaning": "truyện ngắn | Hán Việt: ĐOẢN BIÊN",
-    "level": "N2"
+    "meaning": "truyện ngắn",
+    "level": "N2",
+    "han_viet": "ĐOẢN BIÊN"
   },
   {
     "id": "k138",
@@ -1976,8 +2107,9 @@
       "降っ",
       "流っ"
     ],
-    "meaning": "rụng, rơi tàn | Hán Việt: TÁN",
-    "level": "N2"
+    "meaning": "rụng, rơi tàn",
+    "level": "N2",
+    "han_viet": "TÁN"
   },
   {
     "id": "k139",
@@ -1991,8 +2123,9 @@
       "温らかい",
       "柔らかい"
     ],
-    "meaning": "mềm mại | Hán Việt: NHU",
-    "level": "N2"
+    "meaning": "mềm mại",
+    "level": "N2",
+    "han_viet": "NHU"
   },
   {
     "id": "k140",
@@ -2006,8 +2139,9 @@
       "疲働",
       "被働"
     ],
-    "meaning": "mệt mỏi, kiệt sức | Hán Việt: BÌ LAO",
-    "level": "N2"
+    "meaning": "mệt mỏi, kiệt sức",
+    "level": "N2",
+    "han_viet": "BÌ LAO"
   },
   {
     "id": "k141",
@@ -2021,8 +2155,9 @@
       "警備",
       "係護"
     ],
-    "meaning": "canh gác, bảo vệ, an ninh | Hán Việt: CẢNH BỊ",
-    "level": "N2"
+    "meaning": "canh gác, bảo vệ, an ninh",
+    "level": "N2",
+    "han_viet": "CẢNH BỊ"
   },
   {
     "id": "k142",
@@ -2036,8 +2171,9 @@
       "被離",
       "避離"
     ],
-    "meaning": "sơ tán, lánh nạn | Hán Việt: TỊ NẠN",
-    "level": "N2"
+    "meaning": "sơ tán, lánh nạn",
+    "level": "N2",
+    "han_viet": "TỊ NẠN"
   },
   {
     "id": "k143",
@@ -2051,8 +2187,9 @@
       "礼う",
       "尊う"
     ],
-    "meaning": "kính trọng, tôn kính | Hán Việt: KÍNH",
-    "level": "N2"
+    "meaning": "kính trọng, tôn kính",
+    "level": "N2",
+    "han_viet": "KÍNH"
   },
   {
     "id": "k144",
@@ -2066,8 +2203,9 @@
       "受校",
       "授校"
     ],
-    "meaning": "tham gia khóa học, nghe giảng | Hán Việt: THỤ GIẢNG",
-    "level": "N2"
+    "meaning": "tham gia khóa học, nghe giảng",
+    "level": "N2",
+    "han_viet": "THỤ GIẢNG"
   },
   {
     "id": "k145",
@@ -2081,8 +2219,9 @@
       "熱かましい",
       "暑かましい"
     ],
-    "meaning": "trơ tráo, mặt dày | Hán Việt: HẬU",
-    "level": "N2"
+    "meaning": "trơ tráo, mặt dày",
+    "level": "N2",
+    "han_viet": "HẬU"
   },
   {
     "id": "k146",
@@ -2096,8 +2235,9 @@
       "愛まれて",
       "豊まれて"
     ],
-    "meaning": "được ban cho, ưu đãi | Hán Việt: HUỆ",
-    "level": "N2"
+    "meaning": "được ban cho, ưu đãi",
+    "level": "N2",
+    "han_viet": "HUỆ"
   },
   {
     "id": "k147",
@@ -2111,8 +2251,9 @@
       "補う",
       "浦う"
     ],
-    "meaning": "bổ sung, bù đắp | Hán Việt: BỔ",
-    "level": "N2"
+    "meaning": "bổ sung, bù đắp",
+    "level": "N2",
+    "han_viet": "BỔ"
   },
   {
     "id": "k149",
@@ -2126,8 +2267,9 @@
       "景向",
       "形行"
     ],
-    "meaning": "xu hướng, khuynh hướng | Hán Việt: KHUYNH HƯỚNG",
-    "level": "N2"
+    "meaning": "xu hướng, khuynh hướng",
+    "level": "N2",
+    "han_viet": "KHUYNH HƯỚNG"
   },
   {
     "id": "k150",
@@ -2141,8 +2283,9 @@
       "劣えて",
       "減えて"
     ],
-    "meaning": "suy giảm, yếu đi | Hán Việt: SUY",
-    "level": "N2"
+    "meaning": "suy giảm, yếu đi",
+    "level": "N2",
+    "han_viet": "SUY"
   },
   {
     "id": "k152",
@@ -2156,8 +2299,9 @@
       "清んだ",
       "涼んだ"
     ],
-    "meaning": "hóng mát | Hán Việt: LƯƠNG",
-    "level": "N2"
+    "meaning": "hóng mát",
+    "level": "N2",
+    "han_viet": "LƯƠNG"
   },
   {
     "id": "k154",
@@ -2171,8 +2315,9 @@
       "疑われました",
       "救われました"
     ],
-    "meaning": "được cứu rỗi, giúp đỡ | Hán Việt: CỨU",
-    "level": "N2"
+    "meaning": "được cứu rỗi, giúp đỡ",
+    "level": "N2",
+    "han_viet": "CỨU"
   },
   {
     "id": "k156",
@@ -2186,8 +2331,9 @@
       "睡眼",
       "睡眠"
     ],
-    "meaning": "giấc ngủ | Hán Việt: THỤY MIÊN",
-    "level": "N2"
+    "meaning": "giấc ngủ",
+    "level": "N2",
+    "han_viet": "THỤY MIÊN"
   },
   {
     "id": "k157",
@@ -2201,8 +2347,9 @@
       "資然",
       "自源"
     ],
-    "meaning": "tài nguyên | Hán Việt: TƯ NGUYÊN",
-    "level": "N2"
+    "meaning": "tài nguyên",
+    "level": "N2",
+    "han_viet": "TƯ NGUYÊN"
   },
   {
     "id": "k158",
@@ -2216,8 +2363,9 @@
       "総作",
       "総査"
     ],
-    "meaning": "thao tác, vận hành | Hán Việt: THAO TÁC",
-    "level": "N2"
+    "meaning": "thao tác, vận hành",
+    "level": "N2",
+    "han_viet": "THAO TÁC"
   },
   {
     "id": "k159",
@@ -2231,8 +2379,9 @@
       "節教",
       "節強"
     ],
-    "meaning": "dạy bảo, mắng mỏ | Hán Việt: THUYẾT GIÁO",
-    "level": "N2"
+    "meaning": "dạy bảo, mắng mỏ",
+    "level": "N2",
+    "han_viet": "THUYẾT GIÁO"
   },
   {
     "id": "k160",
@@ -2246,7 +2395,8 @@
       "照やか",
       "清やか"
     ],
-    "meaning": "rực rỡ, tươi tắn | Hán Việt: TIÊN",
-    "level": "N2"
+    "meaning": "rực rỡ, tươi tắn",
+    "level": "N2",
+    "han_viet": "TIÊN"
   }
 ]

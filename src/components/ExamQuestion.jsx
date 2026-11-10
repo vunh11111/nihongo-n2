@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { parseSentence } from "../lib/quiz.js";
 import { isAnswered, isCorrect } from "../lib/exam.js";
+import ChoiceNotes from "./ChoiceNotes.jsx";
 
 const SLOTS = 4;
 const emptySlots = () => Array(SLOTS).fill(null);
@@ -110,6 +111,7 @@ export default function ExamQuestion({ item, items, answer, answers, onAnswer, r
       )}
       {q.grammar && <span lang="ja" className="grammar">{q.grammar}</span>}
       {q.meaning && <span>{q.meaning}</span>}
+      <ChoiceNotes q={q} />
       {q.explanation && <span className="explain">{q.explanation}</span>}
       {type === "reading" && item.set.translation && (
         <details className="trans">
