@@ -12,8 +12,9 @@
       "無",
       "未"
     ],
-    "meaning": "không chính thức, phi chính thức (Hán Việt: PHI CÔNG THỨC)",
-    "level": "N2"
+    "meaning": "không chính thức, phi chính thức",
+    "level": "N2",
+    "han_viet": "PHI CÔNG THỨC"
   },
   {
     "id": "a002",
@@ -28,8 +29,9 @@
       "感",
       "式"
     ],
-    "meaning": "mang tính chuyên môn (Hán Việt: CHUYÊN MÔN ĐÍCH)",
-    "level": "N2"
+    "meaning": "mang tính chuyên môn",
+    "level": "N2",
+    "han_viet": "CHUYÊN MÔN ĐÍCH"
   },
   {
     "id": "a003",
@@ -44,8 +46,9 @@
       "無",
       "非"
     ],
-    "meaning": "chưa được giải quyết (Hán Việt: VỊ GIẢI QUYẾT)",
-    "level": "N2"
+    "meaning": "chưa được giải quyết",
+    "level": "N2",
+    "han_viet": "VỊ GIẢI QUYẾT"
   },
   {
     "id": "a004",
@@ -60,8 +63,9 @@
       "的",
       "度"
     ],
-    "meaning": "tính an toàn (Hán Việt: AN TOÀN TÍNH)",
-    "level": "N2"
+    "meaning": "tính an toàn",
+    "level": "N2",
+    "han_viet": "AN TOÀN TÍNH"
   },
   {
     "id": "a005",
@@ -76,8 +80,9 @@
       "非",
       "未"
     ],
-    "meaning": "vô thức, không tự giác (Hán Việt: VÔ Ý THỨC)",
-    "level": "N2"
+    "meaning": "vô thức, không tự giác",
+    "level": "N2",
+    "han_viet": "VÔ Ý THỨC"
   },
   {
     "id": "a006",
@@ -92,8 +97,9 @@
       "非",
       "未"
     ],
-    "meaning": "vô trách nhiệm (Hán Việt: VÔ TRÁCH NHIỆM)",
-    "level": "N2"
+    "meaning": "vô trách nhiệm",
+    "level": "N2",
+    "han_viet": "VÔ TRÁCH NHIỆM"
   },
   {
     "id": "a007",
@@ -108,8 +114,9 @@
       "性",
       "式"
     ],
-    "meaning": "đô thị hóa (Hán Việt: ĐÔ THỊ HÓA)",
-    "level": "N2"
+    "meaning": "đô thị hóa",
+    "level": "N2",
+    "han_viet": "ĐÔ THỊ HÓA"
   },
   {
     "id": "a008",
@@ -124,8 +131,9 @@
       "次",
       "補"
     ],
-    "meaning": "phó giám đốc, phó tổng giám đốc (Hán Việt: PHÓ XÃ TRƯỞNG)",
-    "level": "N2"
+    "meaning": "phó giám đốc, phó tổng giám đốc",
+    "level": "N2",
+    "han_viet": "PHÓ XÃ TRƯỞNG"
   },
   {
     "id": "a009",
@@ -140,8 +148,9 @@
       "気持",
       "気配"
     ],
-    "meaning": "hơi bị cảm, có dấu hiệu cảm (Hán Việt: PHONG TÀ KHÍ VỊ)",
-    "level": "N2"
+    "meaning": "hơi bị cảm, có dấu hiệu cảm",
+    "level": "N2",
+    "han_viet": "PHONG TÀ KHÍ VỊ"
   },
   {
     "id": "a010",
@@ -156,8 +165,9 @@
       "比",
       "度"
     ],
-    "meaning": "tỷ lệ có việc làm (Hán Việt: TỰU CHỨC SUẤT)",
-    "level": "N2"
+    "meaning": "tỷ lệ có việc làm",
+    "level": "N2",
+    "han_viet": "TỰU CHỨC SUẤT"
   },
   {
     "id": "a011",
@@ -172,8 +182,9 @@
       "無",
       "未"
     ],
-    "meaning": "thiếu ý thức, vô ý thức (Hán Việt: PHI THƯỜNG THỨC)",
-    "level": "N2"
+    "meaning": "thiếu ý thức, vô ý thức",
+    "level": "N2",
+    "han_viet": "PHI THƯỜNG THỨC"
   },
   {
     "id": "a012",
@@ -188,8 +199,9 @@
       "的",
       "度"
     ],
-    "meaning": "tính thực dụng (Hán Việt: THỰC DỤNG TÍNH)",
-    "level": "N2"
+    "meaning": "tính thực dụng",
+    "level": "N2",
+    "han_viet": "THỰC DỤNG TÍNH"
   },
   {
     "id": "a013",
@@ -204,8 +216,9 @@
       "非",
       "未"
     ],
-    "meaning": "không chú ý, bất cẩn (Hán Việt: BẤT CHÚ Ý)",
-    "level": "N2"
+    "meaning": "không chú ý, bất cẩn",
+    "level": "N2",
+    "han_viet": "BẤT CHÚ Ý"
   },
   {
     "id": "a014",
@@ -220,8 +233,9 @@
       "的",
       "気"
     ],
-    "meaning": "cảm giác thỏa mãn, hài lòng (Hán Việt: MÃN TÚC CẢM)",
-    "level": "N2"
+    "meaning": "cảm giác thỏa mãn, hài lòng",
+    "level": "N2",
+    "han_viet": "MÃN TÚC CẢM"
   },
   {
     "id": "a015",
@@ -236,8 +250,9 @@
       "超",
       "重"
     ],
-    "meaning": "rất lưu hành, cực kỳ phổ biến (Hán Việt: ĐẠI LƯU HÀNH)",
-    "level": "N2"
+    "meaning": "rất lưu hành, cực kỳ phổ biến",
+    "level": "N2",
+    "han_viet": "ĐẠI LƯU HÀNH"
   },
   {
     "id": "a016",
@@ -252,8 +267,9 @@
       "無",
       "未"
     ],
-    "meaning": "không chính xác (Hán Việt: BẤT CHÍNH XÁC)",
-    "level": "N2"
+    "meaning": "không chính xác",
+    "level": "N2",
+    "han_viet": "BẤT CHÍNH XÁC"
   },
   {
     "id": "a017",
@@ -268,8 +284,9 @@
       "性",
       "式"
     ],
-    "meaning": "quốc tế hóa (Hán Việt: QUỐC TẾ HÓA)",
-    "level": "N2"
+    "meaning": "quốc tế hóa",
+    "level": "N2",
+    "han_viet": "QUỐC TẾ HÓA"
   },
   {
     "id": "a018",
@@ -284,8 +301,9 @@
       "次",
       "微"
     ],
-    "meaning": "tác dụng phụ (Hán Việt: PHÓ TÁC DỤNG)",
-    "level": "N2"
+    "meaning": "tác dụng phụ",
+    "level": "N2",
+    "han_viet": "PHÓ TÁC DỤNG"
   },
   {
     "id": "a019",
@@ -300,8 +318,9 @@
       "的",
       "心"
     ],
-    "meaning": "tinh thần trách nhiệm (Hán Việt: TRÁCH NHIỆM CẢM)",
-    "level": "N2"
+    "meaning": "tinh thần trách nhiệm",
+    "level": "N2",
+    "han_viet": "TRÁCH NHIỆM CẢM"
   },
   {
     "id": "a020",
@@ -316,8 +335,9 @@
       "複",
       "重"
     ],
-    "meaning": "quy hoạch tái phát triển (Hán Việt: TÁI KHAI PHÁT)",
-    "level": "N2"
+    "meaning": "quy hoạch tái phát triển",
+    "level": "N2",
+    "han_viet": "TÁI KHAI PHÁT"
   },
   {
     "id": "a021",
@@ -332,8 +352,9 @@
       "不",
       "非"
     ],
-    "meaning": "chưa có kinh nghiệm (Hán Việt: VỊ KINH NGHIỆM)",
-    "level": "N2"
+    "meaning": "chưa có kinh nghiệm",
+    "level": "N2",
+    "han_viet": "VỊ KINH NGHIỆM"
   },
   {
     "id": "a022",
@@ -348,8 +369,9 @@
       "的",
       "柄"
     ],
-    "meaning": "bản chất con người, tính nhân văn (Hán Việt: NHÂN GIAN TÍNH)",
-    "level": "N2"
+    "meaning": "bản chất con người, tính nhân văn",
+    "level": "N2",
+    "han_viet": "NHÂN GIAN TÍNH"
   },
   {
     "id": "a023",
@@ -364,8 +386,9 @@
       "少",
       "亜"
     ],
-    "meaning": "bán trong suốt (Hán Việt: BÁN THẤU MINH)",
-    "level": "N2"
+    "meaning": "bán trong suốt",
+    "level": "N2",
+    "han_viet": "BÁN THẤU MINH"
   },
   {
     "id": "a024",
@@ -380,8 +403,9 @@
       "率",
       "性"
     ],
-    "meaning": "khả năng hiểu, năng lực thấu hiểu (Hán Việt: LÝ GIẢI LỰC)",
-    "level": "N2"
+    "meaning": "khả năng hiểu, năng lực thấu hiểu",
+    "level": "N2",
+    "han_viet": "LÝ GIẢI LỰC"
   },
   {
     "id": "a025",
@@ -396,8 +420,9 @@
       "主",
       "真"
     ],
-    "meaning": "hội viên chính thức (Hán Việt: CHÍNH HỘI VIÊN)",
-    "level": "N2"
+    "meaning": "hội viên chính thức",
+    "level": "N2",
+    "han_viet": "CHÍNH HỘI VIÊN"
   },
   {
     "id": "a026",
@@ -412,8 +437,9 @@
       "無",
       "未"
     ],
-    "meaning": "bất hợp lý (Hán Việt: BẤT HỢP LÝ)",
-    "level": "N2"
+    "meaning": "bất hợp lý",
+    "level": "N2",
+    "han_viet": "BẤT HỢP LÝ"
   },
   {
     "id": "a027",
@@ -428,8 +454,9 @@
       "的",
       "度"
     ],
-    "meaning": "cảm giác 3D, hiệu ứng nổi (Hán Việt: LẬP THỂ CẢM)",
-    "level": "N2"
+    "meaning": "cảm giác 3D, hiệu ứng nổi",
+    "level": "N2",
+    "han_viet": "LẬP THỂ CẢM"
   },
   {
     "id": "a028",
@@ -444,8 +471,9 @@
       "無",
       "未"
     ],
-    "meaning": "không tự nhiên, gượng gạo (Hán Việt: BẤT TỰ NHIÊN)",
-    "level": "N2"
+    "meaning": "không tự nhiên, gượng gạo",
+    "level": "N2",
+    "han_viet": "BẤT TỰ NHIÊN"
   },
   {
     "id": "a029",
@@ -460,8 +488,9 @@
       "感",
       "性"
     ],
-    "meaning": "mức độ hoàn thiện (Hán Việt: HOÀN THÀNH ĐỘ)",
-    "level": "N2"
+    "meaning": "mức độ hoàn thiện",
+    "level": "N2",
+    "han_viet": "HOÀN THÀNH ĐỘ"
   },
   {
     "id": "a030",
@@ -476,8 +505,9 @@
       "不",
       "非"
     ],
-    "meaning": "thao tác lỗi, sự cố vận hành (Hán Việt: NGỘ ĐỘNG TÁC)",
-    "level": "N2"
+    "meaning": "thao tác lỗi, sự cố vận hành",
+    "level": "N2",
+    "han_viet": "NGỘ ĐỘNG TÁC"
   },
   {
     "id": "a031",
@@ -492,8 +522,9 @@
       "無",
       "未"
     ],
-    "meaning": "phi pháp, bất hợp pháp (Hán Việt: PHI HỢP PHÁP)",
-    "level": "N2"
+    "meaning": "phi pháp, bất hợp pháp",
+    "level": "N2",
+    "han_viet": "PHI HỢP PHÁP"
   },
   {
     "id": "a032",
@@ -508,8 +539,9 @@
       "性",
       "風"
     ],
-    "meaning": "tính thực tế, sự chân thật (Hán Việt: HIỆN THỰC VỊ)",
-    "level": "N2"
+    "meaning": "tính thực tế, sự chân thật",
+    "level": "N2",
+    "han_viet": "HIỆN THỰC VỊ"
   },
   {
     "id": "a033",
@@ -524,8 +556,9 @@
       "反",
       "背"
     ],
-    "meaning": "hướng ngược lại (Hán Việt: NGHỊCH PHƯƠNG HƯỚNG)",
-    "level": "N2"
+    "meaning": "hướng ngược lại",
+    "level": "N2",
+    "han_viet": "NGHỊCH PHƯƠNG HƯỚNG"
   },
   {
     "id": "a034",
@@ -540,8 +573,9 @@
       "的",
       "度"
     ],
-    "meaning": "độ tin cậy (Hán Việt: TÍN LẠI TÍNH)",
-    "level": "N2"
+    "meaning": "độ tin cậy",
+    "level": "N2",
+    "han_viet": "TÍN LẠI TÍNH"
   },
   {
     "id": "a035",
@@ -556,8 +590,9 @@
       "次",
       "初"
     ],
-    "meaning": "thời đại mới (Hán Việt: TÂN THỜI ĐẠI)",
-    "level": "N2"
+    "meaning": "thời đại mới",
+    "level": "N2",
+    "han_viet": "TÂN THỜI ĐẠI"
   },
   {
     "id": "a036",
@@ -572,8 +607,9 @@
       "無",
       "未"
     ],
-    "meaning": "không ổn định, bất ổn (Hán Việt: BẤT AN ĐỊNH)",
-    "level": "N2"
+    "meaning": "không ổn định, bất ổn",
+    "level": "N2",
+    "han_viet": "BẤT AN ĐỊNH"
   },
   {
     "id": "a037",
@@ -588,8 +624,9 @@
       "式",
       "型"
     ],
-    "meaning": "phong cách hiện đại (Hán Việt: HIỆN ĐẠI PHONG)",
-    "level": "N2"
+    "meaning": "phong cách hiện đại",
+    "level": "N2",
+    "han_viet": "HIỆN ĐẠI PHONG"
   },
   {
     "id": "a038",
@@ -604,8 +641,9 @@
       "次",
       "初"
     ],
-    "meaning": "năm tài chính mới, năm học mới (Hán Việt: TÂN NIÊN ĐỘ)",
-    "level": "N2"
+    "meaning": "năm tài chính mới, năm học mới",
+    "level": "N2",
+    "han_viet": "TÂN NIÊN ĐỘ"
   },
   {
     "id": "a039",
@@ -620,8 +658,9 @@
       "的",
       "気"
     ],
-    "meaning": "cảm giác thân quen, gần gũi (Hán Việt: THÂN CẬN CẢM)",
-    "level": "N2"
+    "meaning": "cảm giác thân quen, gần gũi",
+    "level": "N2",
+    "han_viet": "THÂN CẬN CẢM"
   },
   {
     "id": "a040",
@@ -636,8 +675,9 @@
       "大",
       "主"
     ],
-    "meaning": "cần chú ý, phải chú ý (Hán Việt: YẾU CHÚ Ý)",
-    "level": "N2"
+    "meaning": "cần chú ý, phải chú ý",
+    "level": "N2",
+    "han_viet": "YẾU CHÚ Ý"
   },
   {
     "id": "a041",
@@ -652,8 +692,9 @@
       "無",
       "非"
     ],
-    "meaning": "chưa hoàn thành (Hán Việt: VỊ HOÀN THÀNH)",
-    "level": "N2"
+    "meaning": "chưa hoàn thành",
+    "level": "N2",
+    "han_viet": "VỊ HOÀN THÀNH"
   },
   {
     "id": "a042",
@@ -668,8 +709,9 @@
       "性",
       "式"
     ],
-    "meaning": "cơ giới hóa (Hán Việt: CƠ GIỚI HÓA)",
-    "level": "N2"
+    "meaning": "cơ giới hóa",
+    "level": "N2",
+    "han_viet": "CƠ GIỚI HÓA"
   },
   {
     "id": "a043",
@@ -684,8 +726,9 @@
       "複",
       "重"
     ],
-    "meaning": "tái sản xuất (Hán Việt: TÁI SINH SẢN)",
-    "level": "N2"
+    "meaning": "tái sản xuất",
+    "level": "N2",
+    "han_viet": "TÁI SINH SẢN"
   },
   {
     "id": "a044",
@@ -700,8 +743,9 @@
       "感",
       "性"
     ],
-    "meaning": "độ trong suốt (Hán Việt: THẤU MINH ĐỘ)",
-    "level": "N2"
+    "meaning": "độ trong suốt",
+    "level": "N2",
+    "han_viet": "THẤU MINH ĐỘ"
   },
   {
     "id": "a045",
@@ -716,8 +760,9 @@
       "非",
       "未"
     ],
-    "meaning": "vô thức (Hán Việt: VÔ Ý THỨC)",
-    "level": "N2"
+    "meaning": "vô thức",
+    "level": "N2",
+    "han_viet": "VÔ Ý THỨC"
   },
   {
     "id": "a046",
@@ -732,8 +777,9 @@
       "無",
       "未"
     ],
-    "meaning": "mờ mịt, không rõ ràng (Hán Việt: BẤT THẤU MINH)",
-    "level": "N2"
+    "meaning": "mờ mịt, không rõ ràng",
+    "level": "N2",
+    "han_viet": "BẤT THẤU MINH"
   },
   {
     "id": "a047",
@@ -748,8 +794,9 @@
       "風",
       "味"
     ],
-    "meaning": "cảm giác mùa, không khí mùa (Hán Việt: QUÝ TIẾT CẢM)",
-    "level": "N2"
+    "meaning": "cảm giác mùa, không khí mùa",
+    "level": "N2",
+    "han_viet": "QUÝ TIẾT CẢM"
   },
   {
     "id": "a048",
@@ -764,8 +811,9 @@
       "准",
       "予"
     ],
-    "meaning": "quyết định tạm thời (Hán Việt: GIẢ QUYẾT ĐỊNH)",
-    "level": "N2"
+    "meaning": "quyết định tạm thời",
+    "level": "N2",
+    "han_viet": "GIẢ QUYẾT ĐỊNH"
   },
   {
     "id": "a049",
@@ -780,8 +828,9 @@
       "度",
       "比"
     ],
-    "meaning": "tỷ lệ phổ biến (Hán Việt: PHỔ CẬP SUẤT)",
-    "level": "N2"
+    "meaning": "tỷ lệ phổ biến",
+    "level": "N2",
+    "han_viet": "PHỔ CẬP SUẤT"
   },
   {
     "id": "a050",
@@ -796,8 +845,9 @@
       "主",
       "核"
     ],
-    "meaning": "nhân vật trung tâm, nhân vật cốt cán (Hán Việt: TRUNG TÂM NHÂN VẬT)",
-    "level": "N2"
+    "meaning": "nhân vật trung tâm, nhân vật cốt cán",
+    "level": "N2",
+    "han_viet": "TRUNG TÂM NHÂN VẬT"
   },
   {
     "id": "a051",
@@ -812,8 +862,9 @@
       "無",
       "未"
     ],
-    "meaning": "bất công, không công bằng (Hán Việt: BẤT CÔNG BÌNH)",
-    "level": "N2"
+    "meaning": "bất công, không công bằng",
+    "level": "N2",
+    "han_viet": "BẤT CÔNG BÌNH"
   },
   {
     "id": "a052",
@@ -828,8 +879,9 @@
       "的",
       "気"
     ],
-    "meaning": "cảm giác đoàn kết, đồng lòng (Hán Việt: NHẤT THỂ CẢM)",
-    "level": "N2"
+    "meaning": "cảm giác đoàn kết, đồng lòng",
+    "level": "N2",
+    "han_viet": "NHẤT THỂ CẢM"
   },
   {
     "id": "a053",
@@ -844,8 +896,9 @@
       "初",
       "生"
     ],
-    "meaning": "sản phẩm mới (Hán Việt: TÂN CHẾ PHẨM)",
-    "level": "N2"
+    "meaning": "sản phẩm mới",
+    "level": "N2",
+    "han_viet": "TÂN CHẾ PHẨM"
   },
   {
     "id": "a054",
@@ -860,8 +913,9 @@
       "割",
       "比"
     ],
-    "meaning": "tỷ lệ tăng trưởng (Hán Việt: THÀNH TRƯỞNG SUẤT)",
-    "level": "N2"
+    "meaning": "tỷ lệ tăng trưởng",
+    "level": "N2",
+    "han_viet": "THÀNH TRƯỞNG SUẤT"
   },
   {
     "id": "a055",
@@ -876,8 +930,9 @@
       "優",
       "高"
     ],
-    "meaning": "điều kiện tốt, điều kiện thuận lợi (Hán Việt: HẢO ĐIỀU KIỆN)",
-    "level": "N2"
+    "meaning": "điều kiện tốt, điều kiện thuận lợi",
+    "level": "N2",
+    "han_viet": "HẢO ĐIỀU KIỆN"
   },
   {
     "id": "a056",
@@ -892,8 +947,9 @@
       "非",
       "未"
     ],
-    "meaning": "không liên quan (Hán Việt: VÔ QUAN HỆ)",
-    "level": "N2"
+    "meaning": "không liên quan",
+    "level": "N2",
+    "han_viet": "VÔ QUAN HỆ"
   },
   {
     "id": "a057",
@@ -908,8 +964,9 @@
       "感",
       "式"
     ],
-    "meaning": "mang tính hiệu quả (Hán Việt: HIỆU QUẢ ĐÍCH)",
-    "level": "N2"
+    "meaning": "mang tính hiệu quả",
+    "level": "N2",
+    "han_viet": "HIỆU QUẢ ĐÍCH"
   },
   {
     "id": "a058",
@@ -924,8 +981,9 @@
       "現",
       "実"
     ],
-    "meaning": "truyền hình trực tiếp (Hán Việt: SINH PHÓNG TỐNG)",
-    "level": "N2"
+    "meaning": "truyền hình trực tiếp",
+    "level": "N2",
+    "han_viet": "SINH PHÓNG TỐNG"
   },
   {
     "id": "a059",
@@ -940,8 +998,9 @@
       "的",
       "度"
     ],
-    "meaning": "tầm quan trọng (Hán Việt: TRỌNG YẾU TÍNH)",
-    "level": "N2"
+    "meaning": "tầm quan trọng",
+    "level": "N2",
+    "han_viet": "TRỌNG YẾU TÍNH"
   },
   {
     "id": "a060",
@@ -956,8 +1015,9 @@
       "極",
       "高"
     ],
-    "meaning": "tiên tiến nhất, hiện đại nhất (Hán Việt: TỐI TIÊN ĐOAN)",
-    "level": "N2"
+    "meaning": "tiên tiến nhất, hiện đại nhất",
+    "level": "N2",
+    "han_viet": "TỐI TIÊN ĐOAN"
   },
   {
     "id": "a061",
@@ -972,8 +1032,9 @@
       "無",
       "未"
     ],
-    "meaning": "không tự nhiên (Hán Việt: BẤT TỰ NHIÊN)",
-    "level": "N2"
+    "meaning": "không tự nhiên",
+    "level": "N2",
+    "han_viet": "BẤT TỰ NHIÊN"
   },
   {
     "id": "a062",
@@ -988,8 +1049,9 @@
       "的",
       "気"
     ],
-    "meaning": "cảm giác thân quen (Hán Việt: THÂN CẬN CẢM)",
-    "level": "N2"
+    "meaning": "cảm giác thân quen",
+    "level": "N2",
+    "han_viet": "THÂN CẬN CẢM"
   },
   {
     "id": "a063",
@@ -1004,8 +1066,9 @@
       "非",
       "未"
     ],
-    "meaning": "không có kế hoạch (Hán Việt: VÔ KẾ HOẠCH)",
-    "level": "N2"
+    "meaning": "không có kế hoạch",
+    "level": "N2",
+    "han_viet": "VÔ KẾ HOẠCH"
   },
   {
     "id": "a064",
@@ -1020,8 +1083,9 @@
       "性",
       "感"
     ],
-    "meaning": "mức độ nổi tiếng (Hán Việt: TRI DANH ĐỘ)",
-    "level": "N2"
+    "meaning": "mức độ nổi tiếng",
+    "level": "N2",
+    "han_viet": "TRI DANH ĐỘ"
   },
   {
     "id": "a065",
@@ -1036,8 +1100,9 @@
       "超",
       "極"
     ],
-    "meaning": "thông tin mới nhất (Hán Việt: TỐI TÂN TÌNH BÁO)",
-    "level": "N2"
+    "meaning": "thông tin mới nhất",
+    "level": "N2",
+    "han_viet": "TỐI TÂN TÌNH BÁO"
   },
   {
     "id": "a066",
@@ -1052,8 +1117,9 @@
       "無",
       "未"
     ],
-    "meaning": "không đầy đủ, thiếu sót (Hán Việt: BẤT THẬP PHẦN)",
-    "level": "N2"
+    "meaning": "không đầy đủ, thiếu sót",
+    "level": "N2",
+    "han_viet": "BẤT THẬP PHẦN"
   },
   {
     "id": "a067",
@@ -1068,8 +1134,9 @@
       "的",
       "度"
     ],
-    "meaning": "cảm giác an tâm (Hán Việt: AN TÂM CẢM)",
-    "level": "N2"
+    "meaning": "cảm giác an tâm",
+    "level": "N2",
+    "han_viet": "AN TÂM CẢM"
   },
   {
     "id": "a068",
@@ -1084,8 +1151,9 @@
       "非",
       "未"
     ],
-    "meaning": "không có bằng cấp, không đủ chứng chỉ (Hán Việt: VÔ TƯ CÁCH)",
-    "level": "N2"
+    "meaning": "không có bằng cấp, không đủ chứng chỉ",
+    "level": "N2",
+    "han_viet": "VÔ TƯ CÁCH"
   },
   {
     "id": "a069",
@@ -1100,8 +1168,9 @@
       "的",
       "度"
     ],
-    "meaning": "tính tiện lợi (Hán Việt: LỢI TIỆN TÍNH)",
-    "level": "N2"
+    "meaning": "tính tiện lợi",
+    "level": "N2",
+    "han_viet": "LỢI TIỆN TÍNH"
   },
   {
     "id": "a070",
@@ -1116,8 +1185,9 @@
       "初",
       "超"
     ],
-    "meaning": "kỷ lục mới (Hán Việt: TÂN KỶ LỤC)",
-    "level": "N2"
+    "meaning": "kỷ lục mới",
+    "level": "N2",
+    "han_viet": "TÂN KỶ LỤC"
   },
   {
     "id": "a071",
@@ -1132,8 +1202,9 @@
       "無",
       "未"
     ],
-    "meaning": "bất hợp lý (Hán Việt: BẤT HỢP LÝ)",
-    "level": "N2"
+    "meaning": "bất hợp lý",
+    "level": "N2",
+    "han_viet": "BẤT HỢP LÝ"
   },
   {
     "id": "a072",
@@ -1148,8 +1219,9 @@
       "的",
       "気"
     ],
-    "meaning": "cảm giác căng thẳng (Hán Việt: KHẨN TRƯƠNG CẢM)",
-    "level": "N2"
+    "meaning": "cảm giác căng thẳng",
+    "level": "N2",
+    "han_viet": "KHẨN TRƯƠNG CẢM"
   },
   {
     "id": "a073",
@@ -1164,8 +1236,9 @@
       "無",
       "非"
     ],
-    "meaning": "chưa quyết định (Hán Việt: VỊ QUYẾT ĐỊNH)",
-    "level": "N2"
+    "meaning": "chưa quyết định",
+    "level": "N2",
+    "han_viet": "VỊ QUYẾT ĐỊNH"
   },
   {
     "id": "a074",
@@ -1180,8 +1253,9 @@
       "的",
       "度"
     ],
-    "meaning": "sự cần thiết (Hán Việt: TẤT YẾU TÍNH)",
-    "level": "N2"
+    "meaning": "sự cần thiết",
+    "level": "N2",
+    "han_viet": "TẤT YẾU TÍNH"
   },
   {
     "id": "a075",
@@ -1196,8 +1270,9 @@
       "生",
       "再"
     ],
-    "meaning": "cuộc sống mới (Hán Việt: TÂN SINH HOẠT)",
-    "level": "N2"
+    "meaning": "cuộc sống mới",
+    "level": "N2",
+    "han_viet": "TÂN SINH HOẠT"
   },
   {
     "id": "a076",
@@ -1212,8 +1287,9 @@
       "無",
       "未"
     ],
-    "meaning": "không thể, không có khả năng (Hán Việt: BẤT KHẢ NĂNG)",
-    "level": "N2"
+    "meaning": "không thể, không có khả năng",
+    "level": "N2",
+    "han_viet": "BẤT KHẢ NĂNG"
   },
   {
     "id": "a077",
@@ -1228,8 +1304,9 @@
       "感",
       "式"
     ],
-    "meaning": "mang tính thực tế (Hán Việt: HIỆN THỰC ĐÍCH)",
-    "level": "N2"
+    "meaning": "mang tính thực tế",
+    "level": "N2",
+    "han_viet": "HIỆN THỰC ĐÍCH"
   },
   {
     "id": "a078",
@@ -1244,8 +1321,9 @@
       "不",
       "曲"
     ],
-    "meaning": "hiểu nhầm (Hán Việt: NGỘ GIẢI)",
-    "level": "N2"
+    "meaning": "hiểu nhầm",
+    "level": "N2",
+    "han_viet": "NGỘ GIẢI"
   },
   {
     "id": "a079",
@@ -1260,8 +1338,9 @@
       "的",
       "度"
     ],
-    "meaning": "tính nguy hiểm, nguy cơ (Hán Việt: NGUY HIỂM TÍNH)",
-    "level": "N2"
+    "meaning": "tính nguy hiểm, nguy cơ",
+    "level": "N2",
+    "han_viet": "NGUY HIỂM TÍNH"
   },
   {
     "id": "a080",
@@ -1276,8 +1355,9 @@
       "非",
       "未"
     ],
-    "meaning": "vắng mặt không phép (Hán Việt: VÔ ĐOẠN KHIẾM TỊCH)",
-    "level": "N2"
+    "meaning": "vắng mặt không phép",
+    "level": "N2",
+    "han_viet": "VÔ ĐOẠN KHIẾM TỊCH"
   },
   {
     "id": "a083",
@@ -1292,8 +1372,9 @@
       "非",
       "未"
     ],
-    "meaning": "vô trách nhiệm (Hán Việt: VÔ TRÁCH NHIỆM)",
-    "level": "N2"
+    "meaning": "vô trách nhiệm",
+    "level": "N2",
+    "han_viet": "VÔ TRÁCH NHIỆM"
   },
   {
     "id": "a085",
@@ -1308,8 +1389,9 @@
       "次",
       "補"
     ],
-    "meaning": "phó giám đốc, phó tổng giám đốc (Hán Việt: PHÓ XÃ TRƯỞNG)",
-    "level": "N2"
+    "meaning": "phó giám đốc, phó tổng giám đốc",
+    "level": "N2",
+    "han_viet": "PHÓ XÃ TRƯỞNG"
   },
   {
     "id": "a087",
@@ -1324,8 +1406,9 @@
       "性",
       "式"
     ],
-    "meaning": "đô thị hóa (Hán Việt: ĐÔ THỊ HÓA)",
-    "level": "N2"
+    "meaning": "đô thị hóa",
+    "level": "N2",
+    "han_viet": "ĐÔ THỊ HÓA"
   },
   {
     "id": "a089",
@@ -1340,7 +1423,8 @@
       "気持",
       "気配"
     ],
-    "meaning": "hơi bị cảm, có dấu hiệu cảm (Hán Việt: PHONG TÀ KHÍ VỊ)",
-    "level": "N2"
+    "meaning": "hơi bị cảm, có dấu hiệu cảm",
+    "level": "N2",
+    "han_viet": "PHONG TÀ KHÍ VỊ"
   }
 ]

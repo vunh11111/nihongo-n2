@@ -2,6 +2,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { GAMES } from "../games.js";
 import { buildDeck, parseSentence, pickRandomGame } from "../lib/quiz.js";
+import ChoiceNotes from "./ChoiceNotes.jsx";
 
 const TYPE_LABEL = { prefix: "Tiền tố 接頭語", suffix: "Hậu tố 接尾語" };
 
@@ -127,6 +128,7 @@ export default function QuizGame({ game }) {
             )}
             {q.grammar && <span lang="ja" className="grammar">{q.grammar}</span>}
             <span>{q.meaning}</span>
+            <ChoiceNotes q={q} />
             {q.explanation && <span className="explain">{q.explanation}</span>}
           </>
         )}

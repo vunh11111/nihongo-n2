@@ -6,7 +6,9 @@ import { readFileSync } from "node:fs";
 //   reading  (1)  answer = reading, vùng [ ] là chữ Hán (word)
 //   kanji    (2)  answer = word, vùng [ ] là hiragana (reading)
 //   affix    (3)  answer là tiền tố/hậu tố; điền answer vào [ ] thì câu phải chứa word
+//   (mondai 1-3 bắt buộc có "han_viet" - Hán Việt của word, viết IN HOA, tách riêng khỏi "meaning")
 //   context  (4)  điền từ vào chỗ trống [ ]
+//                 + bắt buộc "choice_meanings" = { đáp án: nghĩa } đủ 4 đáp án; "han_viet" có thể không có (từ không phải Hán Việt)
 //   synonym  (5)  [từ gạch chân] + 4 đáp án là từ/cụm từ đồng nghĩa; word = từ gạch chân
 //   usage    (6)  sentence là "[từ]", 4 đáp án là 4 câu; word = từ cần dùng
 //   grammar  (7)  điền mẫu ngữ pháp vào chỗ trống [ ]
@@ -49,6 +51,51 @@ const MARK_REPLACE = /[\[［].+?[\]］]/;
 
 const errors = [];
 const warnings = [];
+
+// Hán Việt (mondai 1-3) là trường riêng "han_viet" viết IN HOA, không ghi lẫn trong "meaning".
+// Các mondai khác chưa bắt buộc, nhưng nếu đã có han_viet thì cũng phải đúng định dạng.
+const HAN_VIET_REQUIRED = new Set(["reading", "kanji", "affix"]);
+// Mondai 4 không bắt buộc (từ katakana / thuần Nhật không có Hán Việt) nhưng cũng không được ghi lẫn trong "meaning"
+const HAN_VIET_SEPARATE = new Set([...HAN_VIET_REQUIRED, "context"]);
+function checkHanViet(q, at, kind) {
+  const required = HAN_VIET_REQUIRED.has(kind);
+  if (required && (q.han_viet === undefined || q.han_viet === "")) errors.push(`${at}: thiếu trường "han_viet"`);
+  if (q.han_viet !== undefined && q.han_viet !== "") {
+    if (typeof q.han_viet !== "string") errors.push(`${at}: "han_viet" phải là chuỗi`);
+    else if (q.han_viet !== q.han_viet.trim().toUpperCase())
+      errors.push(`${at}: "han_viet" phải viết IN HOA và không có khoảng trắng thừa (đang là "${q.han_viet}")`);
+  }
+  if (HAN_VIET_SEPARATE.has(kind) && /Hán Việt/i.test(q.meaning ?? ""))
+    errors.push(`${at}: "meaning" không được ghi lẫn "Hán Việt" - hãy để trong trường "han_viet" (có thể chạy: node scripts/${kind === "context" ? "migrate-context" : "migrate-hanviet"}.mjs)`);
+}
+
+// Giải nghĩa từng đáp án (mondai 4): choice_meanings = { đáp án: nghĩa } phải có đủ và chỉ có 4 đáp án trong choices.
+// Các mondai khác chưa bắt buộc, nhưng nếu đã có thì cũng phải đúng định dạng.
+const CHOICE_MEANINGS_REQUIRED = new Set(["context"]);
+function checkChoiceMeanings(q, at, kind) {
+  const cm = q.choice_meanings;
+  if (cm === undefined) {
+    if (CHOICE_MEANINGS_REQUIRED.has(kind)) errors.push(`${at}: thiếu trường "choice_meanings"`);
+    return;
+  }
+  if (typeof cm !== "object" || cm === null || Array.isArray(cm)) {
+    errors.push(`${at}: "choice_meanings" phải là object dạng { "đáp án": "nghĩa" }`);
+    return;
+  }
+  if (Array.isArray(q.choices)) {
+    const missing = q.choices.filter((c) => !Object.hasOwn(cm, c));
+    const extra = Object.keys(cm).filter((k) => !q.choices.includes(k));
+    if (missing.length) errors.push(`${at}: choice_meanings thiếu nghĩa cho: ${missing.join(", ")}`);
+    if (extra.length) errors.push(`${at}: choice_meanings có khóa không nằm trong choices: ${extra.join(", ")}`);
+  }
+  for (const [k, v] of Object.entries(cm))
+    if (typeof v !== "string" || v.trim() === "") errors.push(`${at}: choice_meanings["${k}"] phải là chuỗi không rỗng`);
+  if (q.base_form !== undefined && (typeof q.base_form !== "string" || q.base_form === ""))
+    errors.push(`${at}: "base_form" phải là chuỗi không rỗng`);
+  // "explanation" giờ chỉ dành cho ghi chú riêng, không được quay lại kiểu liệt kê "(đáp án đúng/sai)" trong 1 chuỗi
+  if (typeof q.explanation === "string" && /\(đáp án (đúng|sai)\)/.test(q.explanation))
+    errors.push(`${at}: "explanation" không được liệt kê "(đáp án đúng/sai)" - hãy để trong "choice_meanings" (có thể chạy: node scripts/migrate-context.mjs)`);
+}
 
 // Kiểm tra 4 đáp án: đủ 4 cái, khác nhau, answer nằm trong đó
 function checkChoices(q, at) {
@@ -96,6 +143,8 @@ for (const { file, kind } of FILES) {
 
 // Trò trắc nghiệm 4 đáp án cho từng câu (mondai 1-7)
 function validateQuiz(q, at, kind) {
+  checkHanViet(q, at, kind);
+  checkChoiceMeanings(q, at, kind);
   if (!MARK_TEST.test(q.sentence ?? "")) errors.push(`${at}: sentence cần đánh dấu phần cần hỏi bằng [ ] hoặc ［ ］`);
   checkChoices(q, at);
   const m = (q.sentence ?? "").match(MARK_CAPTURE);
