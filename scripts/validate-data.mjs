@@ -10,6 +10,7 @@ import { readFileSync } from "node:fs";
 //   context  (4)  điền từ vào chỗ trống [ ]
 //                 + bắt buộc "choice_meanings" = { đáp án: nghĩa } đủ 4 đáp án; "han_viet" có thể không có (từ không phải Hán Việt)
 //   synonym  (5)  [từ gạch chân] + 4 đáp án là từ/cụm từ đồng nghĩa; word = từ gạch chân
+//                 + bắt buộc "choice_meanings" như mondai 4 ("explanation" chỉ còn là ghi chú về từ gạch chân)
 //   usage    (6)  sentence là "[từ]", 4 đáp án là 4 câu; word = từ cần dùng
 //   grammar  (7)  điền mẫu ngữ pháp vào chỗ trống [ ]
 //   star     (8)  Hái sao: before + 4 mảnh `pieces` theo thứ tự đúng + after
@@ -71,7 +72,7 @@ function checkHanViet(q, at, kind) {
 
 // Giải nghĩa từng đáp án (mondai 4): choice_meanings = { đáp án: nghĩa } phải có đủ và chỉ có 4 đáp án trong choices.
 // Các mondai khác chưa bắt buộc, nhưng nếu đã có thì cũng phải đúng định dạng.
-const CHOICE_MEANINGS_REQUIRED = new Set(["context"]);
+const CHOICE_MEANINGS_REQUIRED = new Set(["context", "synonym"]);
 function checkChoiceMeanings(q, at, kind) {
   const cm = q.choice_meanings;
   if (cm === undefined) {
@@ -94,7 +95,7 @@ function checkChoiceMeanings(q, at, kind) {
     errors.push(`${at}: "base_form" phải là chuỗi không rỗng`);
   // "explanation" giờ chỉ dành cho ghi chú riêng, không được quay lại kiểu liệt kê "(đáp án đúng/sai)" trong 1 chuỗi
   if (typeof q.explanation === "string" && /\(đáp án (đúng|sai)\)/.test(q.explanation))
-    errors.push(`${at}: "explanation" không được liệt kê "(đáp án đúng/sai)" - hãy để trong "choice_meanings" (có thể chạy: node scripts/migrate-context.mjs)`);
+    errors.push(`${at}: "explanation" không được liệt kê "(đáp án đúng/sai)" - hãy để trong "choice_meanings" (có thể chạy: node scripts/${kind === "synonym" ? "migrate-synonym" : "migrate-context"}.mjs)`);
 }
 
 // Kiểm tra 4 đáp án: đủ 4 cái, khác nhau, answer nằm trong đó
