@@ -11,6 +11,12 @@
       "直接"
     ],
     "meaning": "Tôi đã tạm thời gọi điện trao đổi với giám đốc.",
+    "choice_meanings": {
+      "さっき": "lúc nãy, vừa nãy",
+      "すぐに": "ngay lập tức",
+      "一応": "tạm thời, cứ làm cho có trước",
+      "直接": "trực tiếp"
+    },
     "explanation": "とりあえず: trước mắt, tạm thời làm việc cần thiết trước; 一応 là phương án gần nghĩa nhất trong ngữ cảnh này, nhưng không hoàn toàn đồng nghĩa.",
     "level": "N2"
   },
@@ -26,6 +32,12 @@
       "直して"
     ],
     "meaning": "Bạn tôi đã nhượng lại giá rẻ chiếc xe máy cho tôi.",
+    "choice_meanings": {
+      "売って": "bán",
+      "貸して": "cho mượn, cho thuê",
+      "預かって": "giữ hộ, nhận giữ",
+      "直して": "sửa"
+    },
     "explanation": "譲る（ゆずる）: nhượng lại, chuyển cho người khác (có thể bán hoặc cho). Trong câu có 安く, 売って là lựa chọn gần nghĩa nhất.",
     "level": "N2"
   },
@@ -41,6 +53,12 @@
       "報告"
     ],
     "meaning": "Trong lúc trò chuyện phiếm thì tôi nảy ra ý tưởng hay.",
+    "choice_meanings": {
+      "あいさつ": "chào hỏi",
+      "おしゃべり": "nói chuyện phiếm, tán gẫu",
+      "説明": "giải thích",
+      "報告": "báo cáo"
+    },
     "explanation": "雑談: trò chuyện tán phét, nói chuyện phiếm, gần nghĩa với おしゃべり. Hán Việt (雑談): TẠP ĐÀM.",
     "level": "N2"
   },
@@ -56,6 +74,12 @@
       "おとなしい"
     ],
     "meaning": "Chú chó nhà tôi rất thông minh.",
+    "choice_meanings": {
+      "頭がいい": "thông minh, sáng lợi",
+      "足が速い": "chạy nhanh",
+      "めずらしい": "hiếm, lạ",
+      "おとなしい": "hiền lành, ngoan ngoãn"
+    },
     "explanation": "かしこい: thông minh, khôn ngoan, đồng nghĩa với 頭がいい.",
     "level": "N2"
   },
@@ -71,6 +95,12 @@
       "オーバーだ"
     ],
     "meaning": "Câu chuyện của anh ấy lúc nào cũng phóng đại quá lời.",
+    "choice_meanings": {
+      "エネルギーがある": "có nhiều năng lượng",
+      "ユーモアがある": "có khiếu hài hước",
+      "オープンだ": "cởi mở",
+      "オーバーだ": "quá mức, cường điệu"
+    },
     "explanation": "大げさ: cường điệu, phóng đại, đồng nghĩa với オーバーだ.",
     "level": "N2"
   },
@@ -86,6 +116,12 @@
       "情けない"
     ],
     "meaning": "Xin đừng nói những điều ích kỷ tùy tiện như thế.",
+    "choice_meanings": {
+      "わがままな": "ích kỷ, tùy tiện",
+      "うるさい": "ồn ào, làm phiền",
+      "消極的な": "tiêu cực, thiếu chủ động",
+      "情けない": "thảm hại, đáng xấu hổ"
+    },
     "explanation": "勝手な: tùy tiện, ích kỷ, đồng nghĩa với わがままな. Hán Việt (勝手): THẮNG THỦ.",
     "level": "N2"
   },
@@ -101,6 +137,12 @@
       "突然"
     ],
     "meaning": "Người đó thường xuyên gọi điện cho tôi vào đêm muộn.",
+    "choice_meanings": {
+      "たまに": "thỉnh thoảng",
+      "何度も": "nhiều lần",
+      "たいてい": "thông thường, đa số",
+      "突然": "đột nhiên"
+    },
     "explanation": "たびたび: thường xuyên, nhiều lần, đồng nghĩa với 何度も.",
     "level": "N2"
   },
@@ -116,6 +158,12 @@
       "とても大きい"
     ],
     "meaning": "Đôi giày này rộng thùng thình.",
+    "choice_meanings": {
+      "とても重い": "rất nặng",
+      "とても小さい": "rất nhỏ",
+      "とても軽い": "rất nhẹ",
+      "とても大きい": "rất to, rất rộng"
+    },
     "explanation": "ぶかぶか: rộng thùng thình, rộng quá cỡ (đặc biệt quần áo, giày dép); gần nghĩa với とても大きい trong ngữ cảnh.",
     "level": "N2"
   },
@@ -131,6 +179,12 @@
       "決め方"
     ],
     "meaning": "Dù là chuyên gia trong cùng lĩnh vực nhưng tùy vào lập trường mà quan điểm lại khác nhau.",
+    "choice_meanings": {
+      "教え方": "cách dạy",
+      "調べ方": "cách tìm hiểu, cách tra cứu",
+      "考え方": "cách suy nghĩ, quan điểm",
+      "決め方": "cách quyết định"
+    },
     "explanation": "見解: quan điểm, cách nhìn nhận, đồng nghĩa với 考え方. Hán Việt (見解): KIẾN GIẢI.",
     "level": "N2"
   },
@@ -146,6 +200,12 @@
       "買った"
     ],
     "meaning": "Tuần trước tôi đã thuê xe ô tô.",
+    "choice_meanings": {
+      "修理した": "sửa chữa",
+      "借りた": "mượn, thuê",
+      "検査した": "kiểm tra",
+      "買った": "mua"
+    },
     "explanation": "レンタルする: thuê, mượn, đồng nghĩa với 借りた.",
     "level": "N2"
   },
@@ -161,6 +221,12 @@
       "緊張"
     ],
     "meaning": "Phong trào này chắc sẽ không kéo dài lâu đâu.",
+    "choice_meanings": {
+      "効果": "hiệu quả",
+      "状態": "tình trạng, trạng thái",
+      "流行": "thịnh hành, trào lưu",
+      "緊張": "căng thẳng, hồi hộp"
+    },
     "explanation": "ブーム: trào lưu, cơn sốt, đồng nghĩa với 流行.",
     "level": "N2"
   },
@@ -176,6 +242,12 @@
       "十分注意して"
     ],
     "meaning": "Hãy thực hiện công đoạn này một cách thận trọng.",
+    "choice_meanings": {
+      "急いで": "vội vã",
+      "絶対忘れずに": "tuyệt đối không quên",
+      "静かに": "yên tĩnh",
+      "十分注意して": "hết sức chú ý, cẩn thận"
+    },
     "explanation": "慎重に: cẩn thận, thận trọng, đồng nghĩa với 十分注意して. Hán Việt (慎重): THẬN TRỌNG.",
     "level": "N2"
   },
@@ -191,6 +263,12 @@
       "破れて"
     ],
     "meaning": "Áo sơ mi bị co lại rồi.",
+    "choice_meanings": {
+      "小さくなって": "trở nên nhỏ lại",
+      "古くなって": "trở nên cũ",
+      "汚れて": "bị bẩn",
+      "破れて": "bị rách"
+    },
     "explanation": "ちぢむ: co lại, ngắn lại, thu nhỏ lại, đồng nghĩa với 小さくなって.",
     "level": "N2"
   },
@@ -206,6 +284,12 @@
       "やっと"
     ],
     "meaning": "Bài báo cáo được giao về nhà gần như đã xong.",
+    "choice_meanings": {
+      "すべて": "tất cả",
+      "すぐに": "ngay lập tức",
+      "だいたい": "đại khái, khoảng chừng",
+      "やっと": "cuối cùng"
+    },
     "explanation": "ほぼ: hầu như, gần như, đồng nghĩa với だいたい.",
     "level": "N2"
   },
@@ -221,6 +305,12 @@
       "悪くなる"
     ],
     "meaning": "Nghe nói tuần sau thời tiết sẽ tốt lên.",
+    "choice_meanings": {
+      "あまり変わらない": "không thay đổi mấy",
+      "変わりやすい": "dễ thay đổi",
+      "よくなる": "trở nên tốt hơn",
+      "悪くなる": "trở nên xấu đi"
+    },
     "explanation": "天気が回復する: thời tiết trở nên tốt lên, đồng nghĩa với よくなる. Hán Việt (回復): HỒI PHỤC.",
     "level": "N2"
   },
@@ -236,6 +326,12 @@
       "汗をかいた"
     ],
     "meaning": "Làm việc ngoài trời giữa mùa hè suốt nên tôi mệt rã rời.",
+    "choice_meanings": {
+      "ひどく疲れた": "mệt rã rời",
+      "のどがかわいた": "khát nước",
+      "お腹が空いた": "đói bụng",
+      "汗をかいた": "đổ mồ hôi"
+    },
     "explanation": "くたくた: mệt phờ phạt, mệt rã rời, đồng nghĩa với ひどく疲れた.",
     "level": "N2"
   },
@@ -251,6 +347,12 @@
       "少し"
     ],
     "meaning": "Trong 10 năm qua, môi trường tự nhiên của hòn đảo này chỉ thay đổi một chút.",
+    "choice_meanings": {
+      "急に": "đột ngột",
+      "ゆっくり": "chậm rãi",
+      "大きく": "lớn, nhiều (một cách đáng kể)",
+      "少し": "một chút"
+    },
     "explanation": "わずかに: chỉ một chút, ít ỏi, đồng nghĩa với 少し.",
     "level": "N2"
   },
@@ -266,6 +368,12 @@
       "人気があった"
     ],
     "meaning": "Nghe nói Tanaka đã rất giỏi từ khi còn nhỏ.",
+    "choice_meanings": {
+      "頭がよかった": "thông minh, giỏi giang",
+      "体が丈夫だった": "thể chất khỏe mạnh",
+      "話がおもしろかった": "ăn nói thú vị",
+      "人気があった": "được yêu thích, có tiếng tăm"
+    },
     "explanation": "優秀（ユウシュウ）: ưu tú, xuất sắc về năng lực hoặc thành tích; trong các lựa chọn, 頭がよかった là gần nghĩa nhất, dù không hoàn toàn đồng nghĩa. Hán Việt: ƯU TÚ.",
     "level": "N2"
   },
@@ -281,6 +389,12 @@
       "鼻をかいていた"
     ],
     "meaning": "Suzuki cúi mặt xuống trông có vẻ ngượng ngùng.",
+    "choice_meanings": {
+      "横を向いていた": "quay mặt sang bên",
+      "下を向いていた": "cúi mặt xuống, nhìn xuống",
+      "頭をかいていた": "gãi đầu",
+      "鼻をかいていた": "gãi mũi"
+    },
     "explanation": "うつむいていた: đã cúi mặt xuống; gần nghĩa với 下を向いていた (giữ cùng dạng quá khứ tiếp diễn).",
     "level": "N2"
   },
@@ -296,6 +410,12 @@
       "いちどに"
     ],
     "meaning": "Người bạn thời sinh viên đột ngột đến thăm tôi.",
+    "choice_meanings": {
+      "つぎつぎ": "lần lượt, liên tiếp",
+      "やっと": "cuối cùng",
+      "とつぜん": "đột nhiên, bất ngờ",
+      "いちどに": "cùng một lúc"
+    },
     "explanation": "いきなり: bất ngờ, đột ngột, đồng nghĩa với とつぜん.",
     "level": "N2"
   },
@@ -311,6 +431,12 @@
       "きちんと"
     ],
     "meaning": "Vấn đề này phải lập tức báo cáo cho trưởng phòng.",
+    "choice_meanings": {
+      "あとで": "sau đó",
+      "すぐに": "ngay lập tức",
+      "くわしく": "một cách chi tiết, tỉ mỉ",
+      "きちんと": "đàng hoàng, chỉn chu"
+    },
     "explanation": "ただちに: lập tức, ngay tức khắc, đồng nghĩa với すぐに.",
     "level": "N2"
   },
@@ -326,6 +452,12 @@
       "嫌な"
     ],
     "meaning": "Từ phòng bên cạnh nghe thấy âm thanh kì lạ.",
+    "choice_meanings": {
+      "変な": "kỳ lạ, kỳ quặc",
+      "にぎやかな": "náo nhiệt, sôi nổi",
+      "大きな": "to lớn",
+      "嫌な": "khó chịu, đáng ghét"
+    },
     "explanation": "奇妙な: kì lạ, kì quái, đồng nghĩa với 変な. Hán Việt (奇妙): KỲ DIỆU.",
     "level": "N2"
   },
@@ -341,6 +473,12 @@
       "移動させて"
     ],
     "meaning": "Hãy hoàn thiện sẵn tài liệu này trước ngày mai.",
+    "choice_meanings": {
+      "出して": "nộp, đưa ra",
+      "直して": "sửa",
+      "完成させて": "làm cho hoàn thành",
+      "移動させて": "di chuyển, dời đi"
+    },
     "explanation": "仕上げる: hoàn thành, làm xong hoàn thiện, đồng nghĩa với 完成させて.",
     "level": "N2"
   },
@@ -356,6 +494,12 @@
       "昼間"
     ],
     "meaning": "Ban ngày tôi đi làm thêm.",
+    "choice_meanings": {
+      "平日": "ngày thường",
+      "休日": "ngày nghỉ",
+      "夜間": "ban đêm",
+      "昼間": "ban ngày"
+    },
     "explanation": "日中: ban ngày, thời gian trong ngày, đồng nghĩa với 昼間. Hán Việt (日中): NHẬT TRUNG.",
     "level": "N2"
   },
@@ -371,6 +515,12 @@
       "もう乾いている"
     ],
     "meaning": "Chiếc khăn và áo sơ mi này vẫn còn ẩm nhỉ.",
+    "choice_meanings": {
+      "まだきれいになっていない": "vẫn chưa sạch",
+      "まだ乾いていない": "vẫn chưa khô",
+      "もうきれいになっている": "đã sạch rồi",
+      "もう乾いている": "đã khô rồi"
+    },
     "explanation": "しめっている: ẩm ướt, chưa khô, đồng nghĩa với まだ乾いていない.",
     "level": "N2"
   },
@@ -386,6 +536,12 @@
       "しらべたい"
     ],
     "meaning": "Tôi có một ít dữ liệu muốn bổ sung.",
+    "choice_meanings": {
+      "たしたい": "muốn thêm vào",
+      "なおしたい": "muốn sửa",
+      "のせたい": "muốn đặt lên, muốn đăng lên",
+      "しらべたい": "muốn tìm hiểu, muốn tra cứu"
+    },
     "explanation": "追加する: bổ sung, thêm vào, đồng nghĩa với たしたい. Hán Việt (追加): TRUY GIA.",
     "level": "N2"
   },
@@ -401,6 +557,12 @@
       "かなり"
     ],
     "meaning": "Ở nước đó vào thời điểm này chắc cũng khá nóng.",
+    "choice_meanings": {
+      "たぶん": "có lẽ",
+      "どうせ": "dù sao cũng",
+      "やはり": "quả nhiên, vẫn là",
+      "かなり": "khá, tương đối"
+    },
     "explanation": "そうとう: tương đối, khá là, đồng nghĩa với かなり.",
     "level": "N2"
   },
@@ -416,6 +578,12 @@
       "動かないで"
     ],
     "meaning": "Hãy giữ yên, đừng cử động trong chốc lát.",
+    "choice_meanings": {
+      "見ないで": "đừng nhìn",
+      "話さないで": "đừng nói",
+      "使わないで": "đừng dùng",
+      "動かないで": "đừng cử động"
+    },
     "explanation": "じっとする: giữ yên, không cử động, đồng nghĩa với 動かないで.",
     "level": "N2"
   },
@@ -431,6 +599,12 @@
       "必要のない"
     ],
     "meaning": "Có vẻ như thông tin sai lệch đã bị lan truyền.",
+    "choice_meanings": {
+      "古い": "cũ",
+      "正しくない": "không đúng",
+      "秘密の": "bí mật",
+      "必要のない": "không cần thiết"
+    },
     "explanation": "あやまった: nhầm lẫn, sai lầm, không đúng, đồng nghĩa với 正しくない.",
     "level": "N2"
   },
@@ -446,6 +620,12 @@
       "痺れている"
     ],
     "meaning": "Tay tôi hơi khô ráp.",
+    "choice_meanings": {
+      "汚れている": "bẩn",
+      "冷えている": "lạnh, nguội",
+      "乾いている": "khô ráo",
+      "痺れている": "tê"
+    },
     "explanation": "かさかさしている: khô ráp, khô nẻ, đồng nghĩa với 乾いている.",
     "level": "N2"
   },
@@ -461,6 +641,12 @@
       "教える"
     ],
     "meaning": "Tôi sẽ cố gắng hoàn thành công việc càng sớm càng tốt.",
+    "choice_meanings": {
+      "覚える": "nhớ, học thuộc",
+      "終える": "kết thúc, làm xong",
+      "始める": "bắt đầu",
+      "教える": "dạy, chỉ bảo"
+    },
     "explanation": "済ます: hoàn thành, làm xong, đồng nghĩa với 終える.",
     "level": "N2"
   },
@@ -476,6 +662,12 @@
       "なさけなかった"
     ],
     "meaning": "Thái độ của người đó hôm qua thật mập mờ.",
+    "choice_meanings": {
+      "ていねいだった": "lịch sự, chu đáo",
+      "はっきりしなかった": "không rõ ràng",
+      "りっぱだった": "tuyệt vời, đáng nể",
+      "なさけなかった": "thảm hại, đáng xấu hổ"
+    },
     "explanation": "あいまい: mơ hồ, mập mờ, không rõ ràng, đồng nghĩa với はっきりしなかった.",
     "level": "N2"
   },
@@ -491,6 +683,12 @@
       "ふしぎな"
     ],
     "meaning": "Hôm qua ở trường đã xảy ra sự việc bất ngờ ngoài dự tính.",
+    "choice_meanings": {
+      "おもしろい": "thú vị",
+      "悲しい": "buồn",
+      "意外な": "bất ngờ, ngoài dự đoán",
+      "ふしぎな": "kỳ lạ, bí ẩn"
+    },
     "explanation": "思いがけない: không ngờ, ngoài dự tính, đồng nghĩa với 意外な.",
     "level": "N2"
   },
@@ -506,6 +704,12 @@
       "しばらくして"
     ],
     "meaning": "Sau khi tốt nghiệp đại học, anh ấy đã tự mình thành lập công ty.",
+    "choice_meanings": {
+      "自分で": "tự mình",
+      "すぐに": "ngay lập tức",
+      "仲間と": "cùng với bạn bè, đồng đội",
+      "しばらくして": "một lúc sau"
+    },
     "explanation": "みずから: đích thân, tự bản thân mình, đồng nghĩa với 自分で.",
     "level": "N2"
   },
@@ -521,6 +725,12 @@
       "案内しました"
     ],
     "meaning": "Mọi người đã có mặt đầy đủ chưa?",
+    "choice_meanings": {
+      "集まりました": "tập trung, tụ họp",
+      "訪ねました": "đến thăm",
+      "出発しました": "xuất phát",
+      "案内しました": "hướng dẫn, dẫn đường"
+    },
     "explanation": "そろう: có mặt đầy đủ, tập hợp đủ; 集まる: tụ họp. Trong câu hỏi này, 集まりました là đáp án gần nghĩa nhất nhưng không nhấn mạnh tính đầy đủ bằng そろいました.",
     "level": "N2"
   },
@@ -536,6 +746,12 @@
       "それぞれ"
     ],
     "meaning": "Hành lý nặng khoảng 5 kg.",
+    "choice_meanings": {
+      "ぜんぶで": "tổng cộng",
+      "ぴったり": "vừa khít, chính xác",
+      "だいたい": "đại khái, khoảng chừng",
+      "それぞれ": "mỗi (người, cái)"
+    },
     "explanation": "およそ: khoảng, đại khái, đồng nghĩa với だいたい.",
     "level": "N2"
   },
@@ -551,6 +767,12 @@
       "計画"
     ],
     "meaning": "Tôi muốn bạn cho biết kế hoạch cụ thể hơn chút.",
+    "choice_meanings": {
+      "理由": "lý do",
+      "情報": "thông tin",
+      "特徴": "đặc trưng, đặc điểm",
+      "計画": "kế hoạch"
+    },
     "explanation": "プラン: kế hoạch, dự án, đồng nghĩa với 計画.",
     "level": "N2"
   },
@@ -566,6 +788,12 @@
       "これまでより"
     ],
     "meaning": "Nghe nói tình hình kinh tế của thành phố vẫn khó khăn như trước.",
+    "choice_meanings": {
+      "相変わらず": "vẫn như mọi khi, vẫn như cũ",
+      "思ったとおり": "đúng như dự đoán",
+      "実際には": "thực tế thì",
+      "これまでより": "hơn so với trước giờ"
+    },
     "explanation": "依然として: vẫn như cũ, vẫn vậy như trước, đồng nghĩa với 相変わらず. Hán Việt (依然): Y NHIÊN.",
     "level": "N2"
   },
@@ -581,6 +809,12 @@
       "恐ろしかった"
     ],
     "meaning": "Lúc đó tôi thực sự đã dốc hết sức mình.",
+    "choice_meanings": {
+      "危なかった": "nguy hiểm",
+      "一生懸命だった": "hết sức cố gắng",
+      "緊張した": "căng thẳng",
+      "恐ろしかった": "đáng sợ"
+    },
     "explanation": "必死: quyết tâm, dốc hết sức lực, đồng nghĩa với 一生懸命だった. Hán Việt (必死): TẤT TỬ.",
     "level": "N2"
   },
@@ -596,6 +830,12 @@
       "山の下のほう"
     ],
     "meaning": "Ở chân núi có một hồ nước rất đẹp.",
+    "choice_meanings": {
+      "山の向こう": "phía bên kia núi",
+      "山の上のほう": "phần trên của núi",
+      "山の中間あたり": "khoảng lưng chừng núi",
+      "山の下のほう": "phần dưới của núi"
+    },
     "explanation": "ふもと: chân núi, vùng dưới chân núi; gần nghĩa với 山の下のほう.",
     "level": "N2"
   },
@@ -611,7 +851,13 @@
       "教えて"
     ],
     "meaning": "Xin hãy điều chỉnh kích thước chữ cho giống nhau.",
-    "explanation": "Đáp án đúng: 同じにして — làm cho giống nhau. そろえる nghĩa là làm cho đồng đều, bằng nhau, tương đương với 「同じにして」.",
+    "choice_meanings": {
+      "大きくして": "làm cho to ra",
+      "同じにして": "làm cho giống nhau",
+      "調べて": "tra cứu, kiểm tra",
+      "教えて": "dạy, chỉ cho biết"
+    },
+    "explanation": "そろえる nghĩa là làm cho đồng đều, bằng nhau, tương đương với 「同じにして」.",
     "level": "N2"
   },
   {
@@ -626,7 +872,13 @@
       "さっそく買った"
     ],
     "meaning": "Nghe nói ông Nakano đã mua thu gom toàn bộ khu đất trống sau khi nhà máy cũ bị phá dỡ.",
-    "explanation": "Đáp án đúng: 全部買った — mua toàn bộ. 買い占める (Hán Việt: MÃI CHIÊM) nghĩa là mua thu gom toàn bộ, gom hàng, tương đương với 「全部買った」.",
+    "choice_meanings": {
+      "無理に買った": "mua một cách gượng ép",
+      "全部買った": "mua toàn bộ",
+      "安く買った": "mua giá rẻ",
+      "さっそく買った": "mua ngay lập tức"
+    },
+    "explanation": "買い占める (Hán Việt: MÃI CHIÊM) nghĩa là mua thu gom toàn bộ, gom hàng, tương đương với 「全部買った」.",
     "level": "N2"
   },
   {
@@ -641,7 +893,13 @@
       "前日"
     ],
     "meaning": "Ngay trước lúc xuất phát, em gái đã gọi điện thoại tới.",
-    "explanation": "Đáp án đúng: 直前 — ngay trước đó. 間際 (Hán Việt: GIAN TẾ) nghĩa là ngay trước thời điểm sát giờ, tương đương với 「直前」.",
+    "choice_meanings": {
+      "直前": "ngay trước đó",
+      "直後": "ngay sau đó",
+      "当日": "đúng ngày hôm đó",
+      "前日": "ngày hôm trước"
+    },
+    "explanation": "間際 (Hán Việt: GIAN TẾ) nghĩa là ngay trước thời điểm sát giờ, tương đương với 「直前」.",
     "level": "N2"
   },
   {
@@ -656,7 +914,13 @@
       "たしかに"
     ],
     "meaning": "Uống thuốc xong là cơn đau dịu đi ngay lập tức.",
-    "explanation": "Đáp án đúng: すぐに — ngay lập tức. たちまち nghĩa là ngay tức khắc, nhanh chóng, tương đương với 「すぐに」.",
+    "choice_meanings": {
+      "すっかり": "hoàn toàn, sạch sẽ",
+      "やっと": "cuối cùng",
+      "すぐに": "ngay lập tức",
+      "たしかに": "quả thật, đúng là"
+    },
+    "explanation": "たちまち nghĩa là ngay tức khắc, nhanh chóng, tương đương với 「すぐに」.",
     "level": "N2"
   },
   {
@@ -671,7 +935,13 @@
       "お金は払いました"
     ],
     "meaning": "Tôi đã thanh toán tiền rồi.",
-    "explanation": "Đáp án đúng: お金は払いました — đã trả tiền. お勘定 (Hán Việt: KHÁM ĐỊNH) nghĩa là thanh toán hóa đơn, tương đương với 「お金は払いました」.",
+    "choice_meanings": {
+      "料理は注文しました": "đã gọi món",
+      "店は予約しました": "đã đặt chỗ ở quán",
+      "店員は呼びました": "đã gọi nhân viên",
+      "お金は払いました": "đã trả tiền"
+    },
+    "explanation": "お勘定 (Hán Việt: KHÁM ĐỊNH) nghĩa là thanh toán hóa đơn, tương đương với 「お金は払いました」.",
     "level": "N2"
   },
   {
@@ -686,7 +956,13 @@
       "違います"
     ],
     "meaning": "Hai bản báo cáo này khác nhau về chủ đề.",
-    "explanation": "Đáp án đúng: 違います — khác. 異なる (Hán Việt: DỊ) nghĩa là khác biệt, không giống, tương đương với 「違います」.",
+    "choice_meanings": {
+      "単純です": "đơn giản",
+      "似ています": "giống nhau, tương tự",
+      "複雑です": "phức tạp",
+      "違います": "khác"
+    },
+    "explanation": "異なる (Hán Việt: DỊ) nghĩa là khác biệt, không giống, tương đương với 「違います」.",
     "level": "N2"
   },
   {
@@ -701,7 +977,13 @@
       "さっき"
     ],
     "meaning": "Nghe nói hai người họ ngẫu nhiên gặp nhau.",
-    "explanation": "Đáp án đúng: 偶然 — ngẫu nhiên. たまたま nghĩa là tình cờ, ngẫu nhiên, tương đương với 「偶然」 (Hán Việt: NGẪU NHIÊN).",
+    "choice_meanings": {
+      "すぐに": "ngay lập tức",
+      "偶然": "ngẫu nhiên",
+      "何度も": "nhiều lần",
+      "さっき": "lúc nãy, vừa nãy"
+    },
+    "explanation": "たまたま nghĩa là tình cờ, ngẫu nhiên, tương đương với 「偶然」 (Hán Việt: NGẪU NHIÊN).",
     "level": "N2"
   },
   {
@@ -716,7 +998,13 @@
       "はっきりした"
     ],
     "meaning": "Có bằng chứng rõ ràng cho thấy phát ngôn đó là dối trá.",
-    "explanation": "Đáp án đúng: はっきりした — rõ ràng. 明らか (Hán Việt: MINH) nghĩa là rõ ràng, minh bạch, tương đương với 「はっきりした」.",
+    "choice_meanings": {
+      "さまざまな": "đa dạng, nhiều loại",
+      "別の": "khác, riêng biệt",
+      "新しい": "mới",
+      "はっきりした": "rõ ràng"
+    },
+    "explanation": "明らか (Hán Việt: MINH) nghĩa là rõ ràng, minh bạch, tương đương với 「はっきりした」.",
     "level": "N2"
   },
   {
@@ -731,7 +1019,13 @@
       "遠慮"
     ],
     "meaning": "Bạn nên cẩn thận chú ý càng nhiều càng tốt.",
-    "explanation": "Đáp án đúng: 注意 — chú ý, cẩn thận. 用心 (Hán Việt: DỤNG TÂM) nghĩa là cẩn trọng, đề phòng, tương đương với 「注意」.",
+    "choice_meanings": {
+      "注意": "chú ý, cẩn thận",
+      "努力": "nỗ lực",
+      "我慢": "chịu đựng, nhẫn nại",
+      "遠慮": "e dè, ngại ngần"
+    },
+    "explanation": "用心 (Hán Việt: DỤNG TÂM) nghĩa là cẩn trọng, đề phòng, tương đương với 「注意」.",
     "level": "N2"
   },
   {
@@ -746,7 +1040,13 @@
       "寒く"
     ],
     "meaning": "Hội trường bỗng nhiên trở nên ồn ào.",
-    "explanation": "Đáp án đúng: うるさく — ồn ào. 騒々しい (Hán Việt: TAO) nghĩa là ồn ào, ầm ĩ, tương đương với 「うるさく」.",
+    "choice_meanings": {
+      "暗く": "tối",
+      "静かに": "yên tĩnh",
+      "うるさく": "ồn ào",
+      "寒く": "lạnh"
+    },
+    "explanation": "騒々しい (Hán Việt: TAO) nghĩa là ồn ào, ầm ĩ, tương đương với 「うるさく」.",
     "level": "N2"
   },
   {
@@ -761,7 +1061,13 @@
       "建てて"
     ],
     "meaning": "Nghe nói anh Mori sở hữu một cửa hàng ở khu vực này.",
-    "explanation": "Đáp án đúng: 持って — có, sở hữu. 所有 (Hán Việt: SỞ HỮU) nghĩa là sở hữu, nắm giữ, tương đương với 「持って」.",
+    "choice_meanings": {
+      "探して": "tìm kiếm",
+      "借りて": "thuê, mượn",
+      "持って": "có, sở hữu",
+      "建てて": "xây dựng"
+    },
+    "explanation": "所有 (Hán Việt: SỞ HỮU) nghĩa là sở hữu, nắm giữ, tương đương với 「持って」.",
     "level": "N2"
   },
   {
@@ -776,7 +1082,13 @@
       "絶対"
     ],
     "meaning": "Tôi nghĩ anh Sato có lẽ sẽ không đến.",
-    "explanation": "Đáp án đúng: たぶん — có lẽ. おそらく nghĩa là e rằng, có lẽ, tương đương với 「たぶん」.",
+    "choice_meanings": {
+      "たぶん": "có lẽ",
+      "当然": "đương nhiên",
+      "やはり": "quả nhiên, vẫn là",
+      "絶対": "tuyệt đối"
+    },
+    "explanation": "おそらく nghĩa là e rằng, có lẽ, tương đương với 「たぶん」.",
     "level": "N2"
   },
   {
@@ -791,7 +1103,13 @@
       "しまって"
     ],
     "meaning": "Vẫn còn nhiều đồ đạc chưa được cất dọn.",
-    "explanation": "Đáp án đúng: しまって — cất giữ, cất dọn. 収納 (Hán Việt: THU NẠP) nghĩa là cất giữ, thu dọn gọn gàng, tương đương với 「しまって」.",
+    "choice_meanings": {
+      "集めて": "thu thập, gom lại",
+      "預けて": "gửi, gửi giữ",
+      "返して": "trả lại",
+      "しまって": "cất giữ, cất dọn"
+    },
+    "explanation": "収納 (Hán Việt: THU NẠP) nghĩa là cất giữ, thu dọn gọn gàng, tương đương với 「しまって」.",
     "level": "N2"
   },
   {
@@ -806,7 +1124,13 @@
       "心が弱い"
     ],
     "meaning": "Em gái tôi giống mẹ, vóc dáng nhỏ nhắn.",
-    "explanation": "Đáp án đúng: 体が小さい — cơ thể nhỏ nhắn. 小柄 (Hán Việt: TIỂU BÍNH) nghĩa là vóc dáng nhỏ bé, tương đương với 「体が小さい」.",
+    "choice_meanings": {
+      "声が小さい": "giọng nhỏ",
+      "力が弱い": "sức yếu",
+      "体が小さい": "cơ thể nhỏ nhắn",
+      "心が弱い": "tinh thần yếu đuối"
+    },
+    "explanation": "小柄 (Hán Việt: TIỂU BÍNH) nghĩa là vóc dáng nhỏ bé, tương đương với 「体が小さい」.",
     "level": "N2"
   },
   {
@@ -821,7 +1145,13 @@
       "あまり食べない"
     ],
     "meaning": "Anh Suzuki là người ít nói.",
-    "explanation": "Đáp án đúng: あまり話さない — ít khi nói chuyện. 無口 (Hán Việt: VÔ KHẨU) nghĩa là kiệm lời, ít nói, tương đương với 「あまり話さない」.",
+    "choice_meanings": {
+      "あまり笑わない": "ít khi cười",
+      "あまり話さない": "ít khi nói chuyện",
+      "あまり怒らない": "ít khi giận",
+      "あまり食べない": "ít khi ăn"
+    },
+    "explanation": "無口 (Hán Việt: VÔ KHẨU) nghĩa là kiệm lời, ít nói, tương đương với 「あまり話さない」.",
     "level": "N2"
   },
   {
@@ -836,7 +1166,13 @@
       "少し"
     ],
     "meaning": "Tôi nghĩ ngày mai thời tiết sẽ mát mẻ hơn một chút so với hôm nay.",
-    "explanation": "Đáp án đúng: 少し — một chút. やや nghĩa là hơi hơi, một chút, tương đương với 「少し」.",
+    "choice_meanings": {
+      "絶対": "tuyệt đối",
+      "もっと": "hơn nữa",
+      "たぶん": "có lẽ",
+      "少し": "một chút"
+    },
+    "explanation": "やや nghĩa là hơi hơi, một chút, tương đương với 「少し」.",
     "level": "N2"
   },
   {
@@ -851,7 +1187,13 @@
       "明るさ"
     ],
     "meaning": "Tôi thấy những bài hát có nhịp độ như thế này thì dễ hát.",
-    "explanation": "Đáp án đúng: 速さ — tốc độ, nhịp độ. テンポ (tempo) nghĩa là nhịp độ, tốc độ nhạc, tương đương với 「速さ」.",
+    "choice_meanings": {
+      "速さ": "tốc độ, nhịp độ",
+      "長さ": "chiều dài",
+      "高さ": "chiều cao",
+      "明るさ": "độ sáng"
+    },
+    "explanation": "テンポ (tempo) nghĩa là nhịp độ, tốc độ nhạc, tương đương với 「速さ」.",
     "level": "N2"
   },
   {
@@ -866,7 +1208,13 @@
       "嫌な"
     ],
     "meaning": "Hôm qua tôi đã nghe một câu chuyện kỳ lạ.",
-    "explanation": "Đáp án đúng: 変な — kỳ lạ, kỳ quặc. 妙 (Hán Việt: DIỆU) nghĩa là kỳ lạ, khác thường, tương đương với 「変な」.",
+    "choice_meanings": {
+      "うれしい": "vui mừng",
+      "変な": "kỳ lạ, kỳ quặc",
+      "なつかしい": "hoài niệm, nhớ nhung",
+      "嫌な": "khó chịu, đáng ghét"
+    },
+    "explanation": "妙 (Hán Việt: DIỆU) nghĩa là kỳ lạ, khác thường, tương đương với 「変な」.",
     "level": "N2"
   },
   {
@@ -881,7 +1229,13 @@
       "小声で"
     ],
     "meaning": "Anh Takahashi nói chuyện như thể đang thì thầm.",
-    "explanation": "Đáp án đúng: 小声で — bằng giọng nhỏ. ささやく nghĩa là nói thầm, thì thầm bằng giọng nhỏ, tương đương với 「小声で」.",
+    "choice_meanings": {
+      "急いで": "vội vã",
+      "ゆっくり": "chậm rãi",
+      "大声で": "bằng giọng lớn",
+      "小声で": "bằng giọng nhỏ"
+    },
+    "explanation": "ささやく nghĩa là nói thầm, thì thầm bằng giọng nhỏ, tương đương với 「小声で」.",
     "level": "N2"
   },
   {
@@ -896,7 +1250,13 @@
       "しばらく"
     ],
     "meaning": "Ông Suzuki trước đây đã từng sống ở Pháp.",
-    "explanation": "Đáp án đúng: 以前 — trước đây. かつて nghĩa là đã từng, trước đây, tương đương với 「以前」 (Hán Việt: DĨ TIỀN).",
+    "choice_meanings": {
+      "確か": "chắc chắn, nếu nhớ không nhầm",
+      "主に": "chủ yếu",
+      "以前": "trước đây",
+      "しばらく": "một thời gian, tạm thời"
+    },
+    "explanation": "かつて nghĩa là đã từng, trước đây, tương đương với 「以前」 (Hán Việt: DĨ TIỀN).",
     "level": "N2"
   },
   {
@@ -911,7 +1271,13 @@
       "かわいい"
     ],
     "meaning": "Anh Takahashi là một người rất thú vị, vui tính.",
-    "explanation": "Đáp án đúng: 面白い — thú vị, vui vẻ. 愉快 (Hán Việt: DU KHOÁI) nghĩa là vui vẻ, hài hước, tương đương với 「面白い」.",
+    "choice_meanings": {
+      "面白い": "thú vị, vui vẻ",
+      "おしゃれな": "sành điệu, thời trang",
+      "親切な": "tốt bụng, tử tế",
+      "かわいい": "đáng yêu"
+    },
+    "explanation": "愉快 (Hán Việt: DU KHOÁI) nghĩa là vui vẻ, hài hước, tương đương với 「面白い」.",
     "level": "N2"
   },
   {
@@ -926,7 +1292,13 @@
       "しかたない"
     ],
     "meaning": "Tôi nghĩ chuyện đó đúng là không còn cách nào khác.",
-    "explanation": "Đáp án đúng: しかたない — không còn cách nào khác. やむを得ない nghĩa là bất khả kháng, đành chịu, tương đương với 「しかたない」.",
+    "choice_meanings": {
+      "もったいない": "lãng phí, đáng tiếc",
+      "なさけない": "thảm hại, đáng xấu hổ",
+      "つまらない": "tẻ nhạt, chán",
+      "しかたない": "không còn cách nào khác"
+    },
+    "explanation": "やむを得ない nghĩa là bất khả kháng, đành chịu, tương đương với 「しかたない」.",
     "level": "N2"
   },
   {
@@ -941,7 +1313,13 @@
       "働いた"
     ],
     "meaning": "Bạn nên nghỉ ngơi thư giãn một chút thì hơn.",
-    "explanation": "Đáp án đúng: 休んだ — nghỉ ngơi. 息抜き (Hán Việt: TỨC BẠT) nghĩa là xả hơi, nghỉ ngơi xả stress, tương đương với 「休んだ」.",
+    "choice_meanings": {
+      "待って": "chờ đợi",
+      "急いだ": "vội vã",
+      "休んだ": "nghỉ ngơi",
+      "働いた": "làm việc"
+    },
+    "explanation": "息抜き (Hán Việt: TỨC BẠT) nghĩa là xả hơi, nghỉ ngơi xả stress, tương đương với 「休んだ」.",
     "level": "N2"
   },
   {
@@ -956,7 +1334,13 @@
       "運がよかった"
     ],
     "meaning": "Hôm nay tôi rất may mắn.",
-    "explanation": "Đáp án đúng: 運がよかった — may mắn. ついてる nghĩa là gặp may, may mắn, tương đương với 「運がよかった」.",
+    "choice_meanings": {
+      "気分が悪かった": "tâm trạng không tốt, khó chịu",
+      "運が悪かった": "xui xẻo",
+      "気分がよかった": "tâm trạng tốt, dễ chịu",
+      "運がよかった": "may mắn"
+    },
+    "explanation": "ついてる nghĩa là gặp may, may mắn, tương đương với 「運がよかった」.",
     "level": "N2"
   },
   {
@@ -971,7 +1355,13 @@
       "できるだけ"
     ],
     "meaning": "Tôi luôn luôn chú ý đến cách sử dụng từ ngữ.",
-    "explanation": "Đáp án đúng: いつも — luôn luôn. 常に (Hán Việt: THƯỜNG) nghĩa là luôn luôn, thường xuyên, tương đương với 「いつも」.",
+    "choice_meanings": {
+      "当然": "đương nhiên",
+      "いつも": "luôn luôn",
+      "特に": "đặc biệt là",
+      "できるだけ": "hết sức có thể"
+    },
+    "explanation": "常に (Hán Việt: THƯỜNG) nghĩa là luôn luôn, thường xuyên, tương đương với 「いつも」.",
     "level": "N2"
   },
   {
@@ -986,7 +1376,13 @@
       "多すぎる"
     ],
     "meaning": "Gần đây việc sản xuất dư thừa quá mức đang trở thành vấn đề đáng lo ngại.",
-    "explanation": "Đáp án đúng: 多すぎる — quá nhiều. 過剰 (Hán Việt: QUÁ THẶNG) nghĩa là dư thừa, quá mức, tương đương với 「多すぎる」.",
+    "choice_meanings": {
+      "早すぎる": "quá sớm",
+      "少なすぎる": "quá ít",
+      "遅すぎる": "quá muộn",
+      "多すぎる": "quá nhiều"
+    },
+    "explanation": "過剰 (Hán Việt: QUÁ THẶNG) nghĩa là dư thừa, quá mức, tương đương với 「多すぎる」.",
     "level": "N2"
   },
   {
@@ -1001,7 +1397,13 @@
       "間違っているところ"
     ],
     "meaning": "Nếu trong tài liệu có sai sót thì xin hãy thông báo cho tôi.",
-    "explanation": "Đáp án đúng: 間違っているところ — chỗ bị sai. 誤り (Hán Việt: NGỘ) nghĩa là lỗi sai, sai sót, tương đương với 「間違っているところ」.",
+    "choice_meanings": {
+      "読みにくいところ": "chỗ khó đọc",
+      "汚れているところ": "chỗ bị bẩn",
+      "わかりにくいところ": "chỗ khó hiểu",
+      "間違っているところ": "chỗ bị sai"
+    },
+    "explanation": "誤り (Hán Việt: NGỘ) nghĩa là lỗi sai, sai sót, tương đương với 「間違っているところ」.",
     "level": "N2"
   },
   {
@@ -1016,7 +1418,13 @@
       "よく泣く"
     ],
     "meaning": "Đứa con nhà tôi rất nhát gan.",
-    "explanation": "Đáp án đúng: 何でも怖がる — cái gì cũng sợ. 臆病 (Hán Việt: ỨC BỆNH) nghĩa là nhát gan, nhút nhát, tương đương với 「何でも怖がる」.",
+    "choice_meanings": {
+      "よく病気をする": "hay bị ốm",
+      "何でも怖がる": "cái gì cũng sợ",
+      "何でも忘れる": "cái gì cũng quên",
+      "よく泣く": "hay khóc"
+    },
+    "explanation": "臆病 (Hán Việt: ỨC BỆNH) nghĩa là nhát gan, nhút nhát, tương đương với 「何でも怖がる」.",
     "level": "N2"
   },
   {
@@ -1031,7 +1439,13 @@
       "何も持たずに"
     ],
     "meaning": "Anh Takahashi thì đã về từ lâu lắm rồi đấy.",
-    "explanation": "Đáp án đúng: ずっと前に — từ rất lâu trước đó. とっくに nghĩa là từ lâu rồi, tương đương với 「ずっと前に」.",
+    "choice_meanings": {
+      "ずっと前に": "từ rất lâu trước đó",
+      "一人で": "một mình",
+      "あわてて": "cuống cuồng, vội vàng",
+      "何も持たずに": "không mang theo gì cả"
+    },
+    "explanation": "とっくに nghĩa là từ lâu rồi, tương đương với 「ずっと前に」.",
     "level": "N2"
   },
   {
@@ -1046,7 +1460,13 @@
       "借りました"
     ],
     "meaning": "Chiếc xe đạp đó tôi đã nhượng lại cho em trai.",
-    "explanation": "Đáp án đúng: あげました — cho, nhượng lại. 譲る (Hán Việt: NHƯỢNG) nghĩa là nhường lại, cho lại, tương đương với 「あげました」.",
+    "choice_meanings": {
+      "貸しました": "cho mượn",
+      "もらいました": "nhận",
+      "あげました": "cho, nhượng lại",
+      "借りました": "mượn"
+    },
+    "explanation": "譲る (Hán Việt: NHƯỢNG) nghĩa là nhường lại, cho lại, tương đương với 「あげました」.",
     "level": "N2"
   },
   {
@@ -1061,7 +1481,13 @@
       "応援して"
     ],
     "meaning": "Nhiều người cho đến nay vẫn còn ghi nhớ về vận động viên đó.",
-    "explanation": "Đáp án đúng: 覚えて — ghi nhớ. 記憶 (Hán Việt: KÝ ỨC) nghĩa là ký ức, ghi nhớ, tương đương với 「覚えて」.",
+    "choice_meanings": {
+      "心配して": "lo lắng",
+      "語って": "kể, thuật lại",
+      "覚えて": "ghi nhớ",
+      "応援して": "cổ vũ, ủng hộ"
+    },
+    "explanation": "記憶 (Hán Việt: KÝ ỨC) nghĩa là ký ức, ghi nhớ, tương đương với 「覚えて」.",
     "level": "N2"
   },
   {
@@ -1076,7 +1502,13 @@
       "自慢"
     ],
     "meaning": "Anh Nakamura toàn nói những lời bất bình phàn nàn.",
-    "explanation": "Đáp án đúng: 文句 — lời phàn nàn. 不平 (Hán Việt: BẤT BÌNH) nghĩa là bất bình, phàn nàn, tương đương với 「文句」.",
+    "choice_meanings": {
+      "文句": "lời phàn nàn",
+      "冗談": "nói đùa",
+      "うそ": "nói dối",
+      "自慢": "khoe khoang"
+    },
+    "explanation": "不平 (Hán Việt: BẤT BÌNH) nghĩa là bất bình, phàn nàn, tương đương với 「文句」.",
     "level": "N2"
   },
   {
@@ -1091,7 +1523,13 @@
       "怖がる"
     ],
     "meaning": "Bị nói như thế thì ai mà chẳng nổi giận chứ.",
-    "explanation": "Đáp án đúng: 怒る — nổi giận. むかつく nghĩa là bực tức, khó chịu, nổi giận, tương đương với 「怒る」.",
+    "choice_meanings": {
+      "怒る": "nổi giận",
+      "驚く": "ngạc nhiên",
+      "困る": "gặp rắc rối, khó xử",
+      "怖がる": "sợ hãi"
+    },
+    "explanation": "むかつく nghĩa là bực tức, khó chịu, nổi giận, tương đương với 「怒る」.",
     "level": "N2"
   },
   {
@@ -1106,7 +1544,13 @@
       "だらしない"
     ],
     "meaning": "Tôi không nghĩ anh Takahashi lại là người tự ý, ích kỷ đến thế.",
-    "explanation": "Đáp án đúng: わがままな — ích kỷ, tùy tiện. 勝手 (Hán Việt: THẮNG THỦ) nghĩa là tự ý, tùy tiện, ích kỷ, tương đương với 「わがままな」.",
+    "choice_meanings": {
+      "いじわるな": "xấu tính",
+      "わがままな": "ích kỷ, tùy tiện",
+      "なさけない": "thảm hại, đáng xấu hổ",
+      "だらしない": "luộm thuộm, lôi thôi"
+    },
+    "explanation": "勝手 (Hán Việt: THẮNG THỦ) nghĩa là tự ý, tùy tiện, ích kỷ, tương đương với 「わがままな」.",
     "level": "N2"
   },
   {
@@ -1121,10 +1565,16 @@
       "単純な"
     ],
     "meaning": "Sự việc lần này là một trường hợp hiếm có.",
-    "explanation": "Đáp án đúng: ほとんどない — hầu như không có, hiếm. まれ (Hán Việt: HY) nghĩa là hiếm có, ít gặp, tương đương với 「ほとんどない」.",
+    "choice_meanings": {
+      "複雑な": "phức tạp",
+      "よくある": "thường gặp, hay có",
+      "ほとんどない": "hầu như không có, hiếm",
+      "単純な": "đơn giản"
+    },
+    "explanation": "まれ (Hán Việt: HY) nghĩa là hiếm có, ít gặp, tương đương với 「ほとんどない」.",
     "level": "N2"
   },
-    {
+  {
     "id": "y076",
     "sentence": "佐藤氏は、[たびたび]この店を訪れた。",
     "word": "たびたび",
@@ -1136,7 +1586,13 @@
       "何度も"
     ],
     "meaning": "Ông Sato đã nhiều lần ghé thăm cửa hàng này.",
-    "explanation": "Đáp án đúng: 何度も — nhiều lần. たびたび: thường xuyên, nhiều lần; gần nghĩa với 何度も. 必ず: nhất định | ようやく: cuối cùng, mãi mới | 偶然: tình cờ.",
+    "choice_meanings": {
+      "必ず": "nhất định",
+      "ようやく": "cuối cùng, mãi mới",
+      "偶然": "tình cờ",
+      "何度も": "nhiều lần"
+    },
+    "explanation": "たびたび: thường xuyên, nhiều lần; gần nghĩa với 何度も.",
     "level": "N2"
   },
   {
@@ -1151,7 +1607,13 @@
       "驚いた"
     ],
     "meaning": "Mọi người đều chú ý đến phát biểu hôm nay của ông Hayashi.",
-    "explanation": "Đáp án đúng: 関心を持った — quan tâm, để ý. 注目する (Hán Việt: CHÚ MỤC): chú ý, tập trung sự quan tâm; trong ngữ cảnh này gần nghĩa với 関心を持つ. 疑問を持った: nảy sinh thắc mắc | 感動した: cảm động | 驚いた: ngạc nhiên.",
+    "choice_meanings": {
+      "関心を持った": "quan tâm, để ý",
+      "疑問を持った": "nảy sinh thắc mắc",
+      "感動した": "cảm động",
+      "驚いた": "ngạc nhiên"
+    },
+    "explanation": "注目する (Hán Việt: CHÚ MỤC): chú ý, tập trung sự quan tâm; trong ngữ cảnh này gần nghĩa với 関心を持つ.",
     "level": "N2"
   },
   {
@@ -1166,7 +1628,13 @@
       "確実に"
     ],
     "meaning": "Hãy trực tiếp nói việc này với chính người có liên quan.",
-    "explanation": "Đáp án đúng: 直接 — trực tiếp (Hán Việt: TRỰC TIẾP). じかに: trực tiếp, không qua trung gian. あとで: sau đó | すべて: tất cả | 確実に: một cách chắc chắn.",
+    "choice_meanings": {
+      "直接": "trực tiếp (Hán Việt: TRỰC TIẾP)",
+      "あとで": "sau đó",
+      "すべて": "tất cả",
+      "確実に": "một cách chắc chắn"
+    },
+    "explanation": "じかに: trực tiếp, không qua trung gian.",
     "level": "N2"
   },
   {
@@ -1181,7 +1649,13 @@
       "破れる"
     ],
     "meaning": "Suýt nữa thì đã xảy ra va chạm.",
-    "explanation": "Đáp án đúng: ぶつかる — va vào, đụng vào. 衝突する (Hán Việt: XUNG ĐỘT): va chạm, đâm vào nhau; trong ngữ cảnh này gần nghĩa với ぶつかる. 倒れる: ngã, đổ | 壊れる: hỏng, vỡ | 破れる: rách.",
+    "choice_meanings": {
+      "倒れる": "ngã, đổ",
+      "壊れる": "hỏng, vỡ",
+      "ぶつかる": "va vào, đụng vào",
+      "破れる": "rách"
+    },
+    "explanation": "衝突する (Hán Việt: XUNG ĐỘT): va chạm, đâm vào nhau; trong ngữ cảnh này gần nghĩa với ぶつかる.",
     "level": "N2"
   },
   {
@@ -1196,7 +1670,13 @@
       "しつこい"
     ],
     "meaning": "Anh Takahashi sẽ không dùng cách làm gian xảo như thế đâu.",
-    "explanation": "Đáp án đúng: ずるい — gian xảo, chơi không đẹp. ひきょう (卑怯; Hán Việt: TI HIẾP): hèn hạ, không quang minh chính đại; trong ngữ cảnh này gần nghĩa với ずるい. 危ない: nguy hiểm | 厳しい: nghiêm khắc, khắt khe | しつこい: dai dẳng, đeo bám.",
+    "choice_meanings": {
+      "危ない": "nguy hiểm",
+      "ずるい": "gian xảo, chơi không đẹp",
+      "厳しい": "nghiêm khắc, khắt khe",
+      "しつこい": "dai dẳng, đeo bám"
+    },
+    "explanation": "ひきょう (卑怯; Hán Việt: TI HIẾP): hèn hạ, không quang minh chính đại; trong ngữ cảnh này gần nghĩa với ずるい.",
     "level": "N2"
   },
   {
@@ -1211,7 +1691,13 @@
       "詰めて"
     ],
     "meaning": "Tôi bị mắng vì lỡ làm bóng đập vào ô tô.",
-    "explanation": "Đáp án đúng: ぶつけて — đâm vào, đập vào. 当てる (Hán Việt: ĐƯƠNG): làm va chạm, đánh trúng; trong ngữ cảnh này gần nghĩa với ぶつける. 隠して (đáp án sai): giấu | 落として (đáp án sai): làm rơi | 詰めて (đáp án sai): nhét vào",
+    "choice_meanings": {
+      "ぶつけて": "đâm vào, đập vào",
+      "隠して": "giấu",
+      "落として": "làm rơi",
+      "詰めて": "nhét vào"
+    },
+    "explanation": "当てる (Hán Việt: ĐƯƠNG): làm va chạm, đánh trúng; trong ngữ cảnh này gần nghĩa với ぶつける.",
     "level": "N2"
   },
   {
@@ -1226,7 +1712,13 @@
       "不安な"
     ],
     "meaning": "Nhà văn đó đã sống một cuộc đời đáng thương.",
-    "explanation": "Đáp án đúng: かわいそうな — đáng thương, tội nghiệp. あわれな（哀れな; Hán Việt: AI）: bi thương, đáng thương; trong ngữ cảnh này gần nghĩa với かわいそうな. たいくつな (đáp án sai): chán ngắt | おかしな (đáp án sai): kỳ lạ, buồn cười | 不安な (đáp án sai): bất an",
+    "choice_meanings": {
+      "たいくつな": "chán ngắt",
+      "おかしな": "kỳ lạ, buồn cười",
+      "かわいそうな": "đáng thương, tội nghiệp",
+      "不安な": "bất an"
+    },
+    "explanation": "あわれな（哀れな; Hán Việt: AI）: bi thương, đáng thương; trong ngữ cảnh này gần nghĩa với かわいそうな.",
     "level": "N2"
   },
   {
@@ -1241,7 +1733,13 @@
       "しばらく"
     ],
     "meaning": "Dự định là trong một thời gian tới sẽ không sử dụng. (Hán Việt: ĐƯƠNG PHẦN)",
-    "explanation": "Đáp án đúng: しばらく — một thời gian, tạm thời. 当分 (Hán Việt: ĐƯƠNG PHẦN): trước mắt, trong một thời gian tới; trong ngữ cảnh này gần nghĩa với しばらく. これから (đáp án sai): từ giờ trở đi | 全部 (đáp án sai): tất cả | 今回 (đáp án sai): lần này",
+    "choice_meanings": {
+      "これから": "từ giờ trở đi",
+      "全部": "tất cả",
+      "今回": "lần này",
+      "しばらく": "một thời gian, tạm thời"
+    },
+    "explanation": "当分 (Hán Việt: ĐƯƠNG PHẦN): trước mắt, trong một thời gian tới; trong ngữ cảnh này gần nghĩa với しばらく.",
     "level": "N2"
   },
   {
@@ -1256,7 +1754,13 @@
       "とうとう許された"
     ],
     "meaning": "Chuyện đi du học đã hoàn toàn thay đổi. (Hán Việt: NHẤT CHUYỂN)",
-    "explanation": "Đáp án đúng: すっかり変わった — thay đổi hoàn toàn. 一転する (Hán Việt: NHẤT CHUYỂN): xoay chuyển hoàn toàn, thay đổi hẳn; trong ngữ cảnh này gần nghĩa với すっかり変わる. 急にとまった (đáp án sai): dừng đột ngột | 少し進んだ (đáp án sai): tiến triển một chút | とうとう許された (đáp án sai): cuối cùng đã được cho phép",
+    "choice_meanings": {
+      "急にとまった": "dừng đột ngột",
+      "すっかり変わった": "thay đổi hoàn toàn",
+      "少し進んだ": "tiến triển một chút",
+      "とうとう許された": "cuối cùng đã được cho phép"
+    },
+    "explanation": "一転する (Hán Việt: NHẤT CHUYỂN): xoay chuyển hoàn toàn, thay đổi hẳn; trong ngữ cảnh này gần nghĩa với すっかり変わる.",
     "level": "N2"
   },
   {
@@ -1271,7 +1775,13 @@
       "悩んでも"
     ],
     "meaning": "Đến ngày trước kỳ thi rồi mà cuống quýt lên thì cũng chẳng giải quyết được gì.",
-    "explanation": "Đáp án đúng: 慌てても — cuống quýt, hoảng hốt. じたばたする: vung tay vung chân cuống quýt, hốt hoảng đắn đo vô ích; trong ngữ cảnh này gần nghĩa với 慌てる. 心配しても (đáp án sai): lo lắng | 緊張しても (đáp án sai): căng thẳng | 悩んでも (đáp án sai): trăn trở",
+    "choice_meanings": {
+      "慌てても": "cuống quýt, hoảng hốt",
+      "心配しても": "lo lắng",
+      "緊張しても": "căng thẳng",
+      "悩んでも": "trăn trở"
+    },
+    "explanation": "じたばたする: vung tay vung chân cuống quýt, hốt hoảng đắn đo vô ích; trong ngữ cảnh này gần nghĩa với 慌てる.",
     "level": "N2"
   },
   {
@@ -1286,7 +1796,13 @@
       "訓練"
     ],
     "meaning": "Để vận hành chiếc máy này, cần có kỹ thuật đặc biệt.",
-    "explanation": "Đáp án đúng: 技術 — kỹ thuật (Hán Việt: KỸ THUẬT). テクニック (technique): kỹ thuật, kỹ năng chuyên môn; đồng nghĩa với 技術. 知識 (đáp án sai): kiến thức | 工夫 (đáp án sai): công phu, tìm tòi cách làm | 訓練 (đáp án sai): huấn luyện",
+    "choice_meanings": {
+      "技術": "kỹ thuật (Hán Việt: KỸ THUẬT)",
+      "知識": "kiến thức",
+      "工夫": "công phu, tìm tòi cách làm",
+      "訓練": "huấn luyện"
+    },
+    "explanation": "テクニック (technique): kỹ thuật, kỹ năng chuyên môn; đồng nghĩa với 技術.",
     "level": "N2"
   },
   {
@@ -1301,7 +1817,13 @@
       "腕を組んで"
     ],
     "meaning": "Anh Aoki im lặng cúi đầu xuống một lúc.",
-    "explanation": "Đáp án đúng: 下を向いて — cúi mặt xuống. うつむく（俯く）: cúi đầu/ngửa mặt xuống dưới; trong ngữ cảnh này đồng nghĩa với 下を向く. 遠くを見て (đáp án sai): nhìn ra xa | 目を閉て (đáp án sai): nhắm mắt | 腕を組んで (đáp án sai): khoanh tay",
+    "choice_meanings": {
+      "遠くを見て": "nhìn ra xa",
+      "目を閉て": "nhắm mắt",
+      "下を向いて": "cúi mặt xuống",
+      "腕を組んで": "khoanh tay"
+    },
+    "explanation": "うつむく（俯く）: cúi đầu/ngửa mặt xuống dưới; trong ngữ cảnh này đồng nghĩa với 下を向く.",
     "level": "N2"
   },
   {
@@ -1316,7 +1838,13 @@
       "かっこいい"
     ],
     "meaning": "Chú chó này thật sự là một chú chó thông minh nhỉ. (Hán Việt: LỢI KHẨU)",
-    "explanation": "Đáp án đúng: 頭がいい — thông minh, sáng lợi. 利口な (Hán Việt: LỢI KHẨU): khôn ngoan, lanh lợi; trong ngữ cảnh này gần nghĩa với 頭がいい. かわいい (đáp án sai): đáng yêu | 元気な (đáp án sai): khỏe mạnh | かっこいい (đáp án sai): ngầu, đẹp trai",
+    "choice_meanings": {
+      "かわいい": "đáng yêu",
+      "頭がいい": "thông minh, sáng lợi",
+      "元気な": "khỏe mạnh",
+      "かっこいい": "ngầu, đẹp trai"
+    },
+    "explanation": "利口な (Hán Việt: LỢI KHẨU): khôn ngoan, lanh lợi; trong ngữ cảnh này gần nghĩa với 頭がいい.",
     "level": "N2"
   },
   {
@@ -1331,7 +1859,13 @@
       "気をつけた"
     ],
     "meaning": "Chẳng phải nên cẩn thận hơn một chút hay sao? (Hán Việt: DỤNG TÂM)",
-    "explanation": "Đáp án đúng: 気をつけた — cẩn thận, chú ý. 用心する (Hán Việt: DỤNG TÂM): cẩn trọng, đề phòng; trong ngữ cảnh này gần nghĩa với 気をつける. 落ち着いた (đáp án sai): bình tĩnh | がんばった (đáp án sai): cố gắng | よく考えて (đáp án sai): suy nghĩ kỹ",
+    "choice_meanings": {
+      "落ち着いた": "bình tĩnh",
+      "がんばった": "cố gắng",
+      "よく考えて": "suy nghĩ kỹ",
+      "気をつけた": "cẩn thận, chú ý"
+    },
+    "explanation": "用心する (Hán Việt: DỤNG TÂM): cẩn trọng, đề phòng; trong ngữ cảnh này gần nghĩa với 気をつける.",
     "level": "N2"
   },
   {
@@ -1346,7 +1880,13 @@
       "しつこくて"
     ],
     "meaning": "Xin lỗi vì lời giải thích dài dòng lặp đi lặp lại.",
-    "explanation": "Đáp án đúng: しつこくて — dài dòng, lặp đi lặp lại gây phiền. くどい: dài dòng, nói đi nói lại; trong ngữ cảnh này gần nghĩa với しつこい. つまらなくて (đáp án sai): chán ngắt | 下手で (đáp án sai): dở, kém | 複雑で (đáp án sai): phức tạp",
+    "choice_meanings": {
+      "つまらなくて": "chán ngắt",
+      "下手で": "dở, kém",
+      "複雑で": "phức tạp",
+      "しつこくて": "dài dòng, lặp đi lặp lại gây phiền"
+    },
+    "explanation": "くどい: dài dòng, nói đi nói lại; trong ngữ cảnh này gần nghĩa với しつこい.",
     "level": "N2"
   },
   {
@@ -1361,7 +1901,13 @@
       "さびしくなってきた"
     ],
     "meaning": "Tôi cảm thấy khu vực quanh đây cũng đang trở nên nguy hiểm, mất an ninh. (Hán Việt: VẬT TAO)",
-    "explanation": "Đáp án đúng: 安全じゃなくなってきた — trở nên không an toàn. 物騒 (Hán Việt: VẬT TAO): nguy hiểm, loạn lạc, không an toàn; gần nghĩa với 安全ではない. きれいじゃなくなってきた (đáp án sai): bớt sạch | うるさくなってきた (đáp án sai): trở nên ồn ào | さびしくなってきた (đáp án sai): trở nên vắng vẻ",
+    "choice_meanings": {
+      "きれいじゃなくなってきた": "bớt sạch",
+      "うるさくなってきた": "trở nên ồn ào",
+      "安全じゃなくなってきた": "trở nên không an toàn",
+      "さびしくなってきた": "trở nên vắng vẻ"
+    },
+    "explanation": "物騒 (Hán Việt: VẬT TAO): nguy hiểm, loạn lạc, không an toàn; gần nghĩa với 安全ではない.",
     "level": "N2"
   },
   {
@@ -1376,7 +1922,13 @@
       "心配した"
     ],
     "meaning": "Nghe câu chuyện đó xong tôi cảm thấy rất thất vọng và chán nản. (Hán Việt: LẠC THÂM)",
-    "explanation": "Đáp án đúng: がっかりした — thất vọng, chán nản. 落ち込む (Hán Việt: LẠC THÂM): suy sụp, nản lòng; trong ngữ cảnh này gần nghĩa với がっかりする. 緊張した (đáp án sai): căng thẳng | びっくりした (đáp án sai): giật mình | 心配した (đáp án sai): lo lắng",
+    "choice_meanings": {
+      "緊張した": "căng thẳng",
+      "びっくりした": "giật mình",
+      "がっかりした": "thất vọng, chán nản",
+      "心配した": "lo lắng"
+    },
+    "explanation": "落ち込む (Hán Việt: LẠC THÂM): suy sụp, nản lòng; trong ngữ cảnh này gần nghĩa với がっかりする.",
     "level": "N2"
   },
   {
@@ -1391,7 +1943,13 @@
       "何度も"
     ],
     "meaning": "Dù đã dốc hết sức mình nhưng tôi vẫn không được đánh giá cao cho lắm.",
-    "explanation": "Đáp án đúng: 一生懸命 — hết sức mình, cố gắng hết sức. 精いっぱい: dốc toàn lực, làm hết khả năng; đồng nghĩa với 一生懸命. せっかく (đáp án sai): cất công | いろいろ (đáp án sai): nhiều loại | 何度も (đáp án sai): nhiều lần",
+    "choice_meanings": {
+      "せっかく": "cất công",
+      "一生懸命": "hết sức mình, cố gắng hết sức",
+      "いろいろ": "nhiều loại",
+      "何度も": "nhiều lần"
+    },
+    "explanation": "精いっぱい: dốc toàn lực, làm hết khả năng; đồng nghĩa với 一生懸命.",
     "level": "N2"
   },
   {
@@ -1406,7 +1964,13 @@
       "かわいそうだと思った"
     ],
     "meaning": "Nghe câu chuyện đó, mọi người đều cảm thấy thương cảm cho nhân vật. (Hán Việt: ĐỒNG TÌNH)",
-    "explanation": "Đáp án đúng: かわいそうだと思った — cảm thấy thương hại, thương cảm. 同情する (Hán Việt: ĐỒNG TÌNH): cảm thông, thương xóm; trong ngữ cảnh này gần nghĩa với かわいそうだと思う. しかたがないと思った (đáp án sai): nghĩ là đành chịu | うらやましいと思った (đáp án sai): ghen tị | なつかしいと思った (đáp án sai): hoài niệm",
+    "choice_meanings": {
+      "しかたがないと思った": "nghĩ là đành chịu",
+      "うらやましいと思った": "ghen tị",
+      "なつかしいと思った": "hoài niệm",
+      "かわいそうだと思った": "cảm thấy thương hại, thương cảm"
+    },
+    "explanation": "同情する (Hán Việt: ĐỒNG TÌNH): cảm thông, thương xóm; trong ngữ cảnh này gần nghĩa với かわいそうだと思う.",
     "level": "N2"
   },
   {
@@ -1421,7 +1985,13 @@
       "合わせる"
     ],
     "meaning": "Cần phải quy định và quyết định các điều kiện. (Hán Việt: ĐỊNH)",
-    "explanation": "Đáp án đúng: 決める — quyết định, ấn định. 定める (Hán Việt: ĐỊNH): ban hành, quy định, quyết định; đồng nghĩa với 決める. 伝える (đáp án sai): truyền đạt | 調べる (đáp án sai): điều tra | 合わせる (đáp án sai): kết hợp, làm cho phù hợp",
+    "choice_meanings": {
+      "決める": "quyết định, ấn định",
+      "伝える": "truyền đạt",
+      "調べる": "điều tra",
+      "合わせる": "kết hợp, làm cho phù hợp"
+    },
+    "explanation": "定める (Hán Việt: ĐỊNH): ban hành, quy định, quyết định; đồng nghĩa với 決める.",
     "level": "N2"
   },
   {
@@ -1436,7 +2006,13 @@
       "新しい"
     ],
     "meaning": "Công việc này rất vất vả và nặng nhọc.",
-    "explanation": "Đáp án đúng: 大変だ — vất vả, khó khăn. ハード (hard): khắc nghiệt, vất vả; trong ngữ cảnh này gần nghĩa với 大変だ. 楽しい (đáp án sai): vui vẻ | 簡単だ (đáp án sai): đơn giản | 新しい (đáp án sai): mới",
+    "choice_meanings": {
+      "楽しい": "vui vẻ",
+      "簡単だ": "đơn giản",
+      "大変だ": "vất vả, khó khăn",
+      "新しい": "mới"
+    },
+    "explanation": "ハード (hard): khắc nghiệt, vất vả; trong ngữ cảnh này gần nghĩa với 大変だ.",
     "level": "N2"
   },
   {
@@ -1451,7 +2027,13 @@
       "面白いと思った"
     ],
     "meaning": "Nghe câu chuyện đó xong tôi cảm thấy hoang mang và lo lắng. (Hán Việt: ĐỘNG DAO)",
-    "explanation": "Đáp án đúng: 不安になった — trở nên lo lắng, bất an. 動揺する (Hán Việt: ĐỘNG DAO): dao động tâm lý, hoang mang; trong ngữ cảnh này gần nghĩa với 不安になる. うれしくなった (đáp án sai): thấy vui | 不満に思った (đáp án sai): thấy bất mãn | 面白いと思った (đáp án sai): thấy thú vị",
+    "choice_meanings": {
+      "うれしくなった": "thấy vui",
+      "不安になった": "trở nên lo lắng, bất an",
+      "不満に思った": "thấy bất mãn",
+      "面白いと思った": "thấy thú vị"
+    },
+    "explanation": "動揺する (Hán Việt: ĐỘNG DAO): dao động tâm lý, hoang mang; trong ngữ cảnh này gần nghĩa với 不安になる.",
     "level": "N2"
   },
   {
@@ -1466,7 +2048,13 @@
       "答えた"
     ],
     "meaning": "Nên quay trở lại sớm thì hơn.",
-    "explanation": "Đáp án đúng: 戻った — quay lại (Hán Việt: LỆ). 引き返す: quay ngược trở lại đường cũ; đồng nghĩa với 戻る. 払った (đáp án sai): trả tiền | 直した (đáp án sai): sửa chữa | 答えた (đáp án sai): trả lời",
+    "choice_meanings": {
+      "払った": "trả tiền",
+      "直した": "sửa chữa",
+      "戻った": "quay lại (Hán Việt: LỆ)",
+      "答えた": "trả lời"
+    },
+    "explanation": "引き返す: quay ngược trở lại đường cũ; đồng nghĩa với 戻る.",
     "level": "N2"
   },
   {
@@ -1481,7 +2069,13 @@
       "もっと"
     ],
     "meaning": "Tôi muốn tăng cường chức năng hơn nữa. (Hán Việt: NHẤT TẦNG)",
-    "explanation": "Đáp án đúng: もっと — hơn nữa. 一層 (Hán Việt: NHẤT TẦNG): hơn một bậc, thêm nữa; đồng nghĩa với もっと. すぐに (đáp án sai): ngay lập tức | 少し (đáp án sai): một chút | できるだけ (đáp án sai): trong khả năng có thể",
+    "choice_meanings": {
+      "すぐに": "ngay lập tức",
+      "少し": "một chút",
+      "できるだけ": "trong khả năng có thể",
+      "もっと": "hơn nữa"
+    },
+    "explanation": "一層 (Hán Việt: NHẤT TẦNG): hơn một bậc, thêm nữa; đồng nghĩa với もっと.",
     "level": "N2"
   },
   {
@@ -1496,7 +2090,13 @@
       "専門の"
     ],
     "meaning": "Đột nhiên bị đau đầu dữ dội nên tôi đã đến bệnh viện quen hay khám.",
-    "explanation": "Đáp án đúng: いつも行く — thường xuyên đến khám. かかりつけの（診つけの）: quen thuộc, hay ghé khám chữa bệnh; trong ngữ cảnh này gần nghĩa với いつも行く. 休日も開いている (đáp án sai): mở cả ngày nghỉ | 近くの (đáp án sai): ở gần | 専門の (đáp án sai): chuyên khoa",
+    "choice_meanings": {
+      "いつも行く": "thường xuyên đến khám",
+      "休日も開いている": "mở cả ngày nghỉ",
+      "近くの": "ở gần",
+      "専門の": "chuyên khoa"
+    },
+    "explanation": "かかりつけの（診つけの）: quen thuộc, hay ghé khám chữa bệnh; trong ngữ cảnh này gần nghĩa với いつも行く.",
     "level": "N2"
   },
   {
@@ -1511,7 +2111,13 @@
       "記録して"
     ],
     "meaning": "Tôi làm tình nguyện viên hướng dẫn các danh lam thắng cảnh trong thành phố.",
-    "explanation": "Đáp án đúng: 案内して — hướng dẫn, dẫn đường. ガイドする (guide): hướng dẫn tour, giới thiệu danh thắng; đồng nghĩa với 案内する. 宣伝して (đáp án sai): tuyên truyền | 調査して (đáp án sai): điều tra | 記録して (đáp án sai): ghi chép",
+    "choice_meanings": {
+      "案内して": "hướng dẫn, dẫn đường",
+      "宣伝して": "tuyên truyền",
+      "調査して": "điều tra",
+      "記録して": "ghi chép"
+    },
+    "explanation": "ガイドする (guide): hướng dẫn tour, giới thiệu danh thắng; đồng nghĩa với 案内する.",
     "level": "N2"
   },
   {
@@ -1526,7 +2132,13 @@
       "まじめに"
     ],
     "meaning": "Anh Yamaguchi cũng đang nghiêm túc thực hiện. (Hán Việt: CHÂN KIẾM)",
-    "explanation": "Đáp án đúng: まじめに — nghiêm túc, đứng đắn. 真剣に (Hán Việt: CHÂN KIẾM): nghiêm túc, hết mình; đồng nghĩa với まじめに. 上手に (đáp án sai): giỏi giang | 自由に (đáp án sai): tự do | 積極的に (đáp án sai): tích cực",
+    "choice_meanings": {
+      "上手に": "giỏi giang",
+      "自由に": "tự do",
+      "積極的に": "tích cực",
+      "まじめに": "nghiêm túc, đứng đắn"
+    },
+    "explanation": "真剣に (Hán Việt: CHÂN KIẾM): nghiêm túc, hết mình; đồng nghĩa với まじめに.",
     "level": "N2"
   },
   {
@@ -1541,7 +2153,13 @@
       "たくさんいる"
     ],
     "meaning": "Tôi nghĩ những ca sĩ như cô ấy rất hiếm có.",
-    "explanation": "Đáp án đúng: あまりいない — hiếm có, không có mấy ai. まれ（稀）: hiếm hoi, ít gặp; đồng nghĩa với あまりいない. 人気が出ない (đáp án sai): không nổi tiếng | 人気が出る (đáp án sai): nổi tiếng | たくさんいる (đáp án sai): có nhiều",
+    "choice_meanings": {
+      "あまりいない": "hiếm có, không có mấy ai",
+      "人気が出ない": "không nổi tiếng",
+      "人気が出る": "nổi tiếng",
+      "たくさんいる": "có nhiều"
+    },
+    "explanation": "まれ（稀）: hiếm hoi, ít gặp; đồng nghĩa với あまりいない.",
     "level": "N2"
   },
   {
@@ -1556,7 +2174,13 @@
       "今日まで"
     ],
     "meaning": "Con đường này bị cấm lưu thông cả ngày. (Hán Việt: CHUNG NHẬT)",
-    "explanation": "Đáp án đúng: 一日中 — suốt cả ngày. 終日 (Hán Việt: CHUNG NHẬT): cả ngày, suốt cả ngày; đồng nghĩa với 一日中. 週末 (đáp án sai): cuối tuần | 夜間 (đáp án sai): ban đêm | 今日まで (đáp án sai): cho tới hôm nay",
+    "choice_meanings": {
+      "週末": "cuối tuần",
+      "夜間": "ban đêm",
+      "一日中": "suốt cả ngày",
+      "今日まで": "cho tới hôm nay"
+    },
+    "explanation": "終日 (Hán Việt: CHUNG NHẬT): cả ngày, suốt cả ngày; đồng nghĩa với 一日中.",
     "level": "N2"
   },
   {
@@ -1571,7 +2195,13 @@
       "乾かして"
     ],
     "meaning": "Anh Aoki đang sờ soạng, nghịch tóc của mình.",
-    "explanation": "Đáp án đúng: 触って — sờ, chạm vào. いじる（弄る）: nghịch, sờ máy; trong ngữ cảnh này gần nghĩa với 触る. 切って (đáp án sai): cắt | 洗って (đáp án sai): gội | 乾かして (đáp án sai): sấy khô",
+    "choice_meanings": {
+      "切って": "cắt",
+      "触って": "sờ, chạm vào",
+      "洗って": "gội",
+      "乾かして": "sấy khô"
+    },
+    "explanation": "いじる（弄る）: nghịch, sờ máy; trong ngữ cảnh này gần nghĩa với 触る.",
     "level": "N2"
   },
   {
@@ -1586,7 +2216,13 @@
       "始発の"
     ],
     "meaning": "Công ty của tôi cách nhà ga gần nhất 15 phút đi bộ. (Hán Việt: TỐI KÝ)",
-    "explanation": "Đáp án đúng: 一番近い — gần nhất. 最寄り (Hán Việt: TỐI KÝ): gần nhất, lân cận nhất; đồng nghĩa với 一番近い. 一番大きい (đáp án sai): lớn nhất | 終点の (đáp án sai): ga cuối | 始発の (đáp án sai): ga đầu",
+    "choice_meanings": {
+      "一番大きい": "lớn nhất",
+      "一番近い": "gần nhất",
+      "終点の": "ga cuối",
+      "始発の": "ga đầu"
+    },
+    "explanation": "最寄り (Hán Việt: TỐI KÝ): gần nhất, lân cận nhất; đồng nghĩa với 一番近い.",
     "level": "N2"
   },
   {
@@ -1601,7 +2237,13 @@
       "借りて"
     ],
     "meaning": "Váy mặc biểu diễn ở buổi hòa nhạc tôi luôn thuê ở cửa hàng gần nhà.",
-    "explanation": "Đáp án đúng: 借りて — thuê, mượn. レンタルする (rental): thuê, mượn đồ dùng; đồng nghĩa với 借りる. 作って (đáp án sai): may/làm | 買って (đáp án sai): mua | 直して (đáp án sai): sửa",
+    "choice_meanings": {
+      "作って": "may/làm",
+      "買って": "mua",
+      "直して": "sửa",
+      "借りて": "thuê, mượn"
+    },
+    "explanation": "レンタルする (rental): thuê, mượn đồ dùng; đồng nghĩa với 借りる.",
     "level": "N2"
   },
   {
@@ -1616,7 +2258,13 @@
       "自慢"
     ],
     "meaning": "Nghe nói anh Murakami rất ghét bị người khác chỉ đạo ra lệnh. (Hán Việt: CHỈ ĐỒ)",
-    "explanation": "Đáp án đúng: 命令 — chỉ thị, ra lệnh. 指図する (Hán Việt: CHỈ ĐỒ): chỉ đạo, chỉ trỏ ra lệnh; gần nghĩa với 命令する. 反対 (đáp án sai): phản đối | 注意 (đáp án sai): nhắc nhở, chú ý | 自慢 (đáp án sai): khoe khoang",
+    "choice_meanings": {
+      "命令": "chỉ thị, ra lệnh",
+      "反対": "phản đối",
+      "注意": "nhắc nhở, chú ý",
+      "自慢": "khoe khoang"
+    },
+    "explanation": "指図する (Hán Việt: CHỈ ĐỒ): chỉ đạo, chỉ trỏ ra lệnh; gần nghĩa với 命令する.",
     "level": "N2"
   },
   {
@@ -1631,7 +2279,13 @@
       "あると便利だ"
     ],
     "meaning": "Đi du lịch vào thời điểm này thì ô là thứ không thể thiếu.",
-    "explanation": "Đáp án đúng: ないと困る — không có thì gặp rắc rối, không thể thiếu. 欠かせない: không thể thiếu; đồng nghĩa với ないと困る. ないといい (đáp án sai): không có thì tốt | あるとじゃまだ (đáp án sai): có thì vướng víu | あると便利だ (đáp án sai): có thì tiện",
+    "choice_meanings": {
+      "ないといい": "không có thì tốt",
+      "あるとじゃまだ": "có thì vướng víu",
+      "ないと困る": "không có thì gặp rắc rối, không thể thiếu",
+      "あると便利だ": "có thì tiện"
+    },
+    "explanation": "欠かせない: không thể thiếu; đồng nghĩa với ないと困る.",
     "level": "N2"
   },
   {
@@ -1646,7 +2300,13 @@
       "とても"
     ],
     "meaning": "Cơn mưa vẫn còn rất nặng hạt. (Hán Việt: Y NHIÊN)",
-    "explanation": "Đáp án đúng: まだ — vẫn còn, chưa đổi. 依然 (Hán Việt: Y NHIÊN): như cũ, vẫn còn; đồng nghĩa với まだ. 確かに (đáp án sai): quả nhiên, chắc chắn | 意外に (đáp án sai): không ngờ | とても (đáp án sai): rất",
+    "choice_meanings": {
+      "確かに": "quả nhiên, chắc chắn",
+      "まだ": "vẫn còn, chưa đổi",
+      "意外に": "không ngờ",
+      "とても": "rất"
+    },
+    "explanation": "依然 (Hán Việt: Y NHIÊN): như cũ, vẫn còn; đồng nghĩa với まだ.",
     "level": "N2"
   },
   {
@@ -1661,7 +2321,13 @@
       "破りそう"
     ],
     "meaning": "Suýt nữa thì đã xảy ra va chạm. (Hán Việt: XUNG ĐỘT)",
-    "explanation": "Đáp án đúng: ぶつかりそう — suýt đâm vào. 衝突する (Hán Việt: XUNG ĐỘT): va chạm, đâm vào nhau; đồng nghĩa với ぶつかる. 落ちそう (đáp án sai): suýt rơi | 壊しそう (đáp án sai): suýt làm hỏng | 破りそう (đáp án sai): suýt xé rách",
+    "choice_meanings": {
+      "ぶつかりそう": "suýt đâm vào",
+      "落ちそう": "suýt rơi",
+      "壊しそう": "suýt làm hỏng",
+      "破りそう": "suýt xé rách"
+    },
+    "explanation": "衝突する (Hán Việt: XUNG ĐỘT): va chạm, đâm vào nhau; đồng nghĩa với ぶつかる.",
     "level": "N2"
   },
   {
@@ -1676,7 +2342,13 @@
       "いつも"
     ],
     "meaning": "Tôi đã nhờ anh ấy rất nhiều lần rồi. (Hán Việt: TÁI TAM)",
-    "explanation": "Đáp án đúng: 何度も — nhiều lần, lặp đi lặp lại. 再三 (Hán Việt: TÁI TAM): năm lần bảy lượt, nhiều lần; đồng nghĩa với 何度も. たまに (đáp án sai): thỉnh thoảng | 何度か (đáp án sai): vài lần | いつも (đáp án sai): luôn luôn",
+    "choice_meanings": {
+      "たまに": "thỉnh thoảng",
+      "何度か": "vài lần",
+      "何度も": "nhiều lần, lặp đi lặp lại",
+      "いつも": "luôn luôn"
+    },
+    "explanation": "再三 (Hán Việt: TÁI TAM): năm lần bảy lượt, nhiều lần; đồng nghĩa với 何度も.",
     "level": "N2"
   },
   {
@@ -1691,7 +2363,13 @@
       "自慢"
     ],
     "meaning": "Những điều anh ấy đang nói là nhảm nhí nhăng nhít, dối trá.",
-    "explanation": "Đáp án đúng: うそ — nói dối, bịa đặt. でたらめ: nhảm nhí, nhăng nhít, bịa đặt; trong ngữ cảnh này đồng nghĩa với うそ. 悪口 (đáp án sai): nói xấu | わがまま (đáp án sai): ích kỷ | 自慢 (đáp án sai): khoe khoang",
+    "choice_meanings": {
+      "悪口": "nói xấu",
+      "わがまま": "ích kỷ",
+      "うそ": "nói dối, bịa đặt",
+      "自慢": "khoe khoang"
+    },
+    "explanation": "でたらめ: nhảm nhí, nhăng nhít, bịa đặt; trong ngữ cảnh này đồng nghĩa với うそ.",
     "level": "N2"
   },
   {
@@ -1706,7 +2384,13 @@
       "配達"
     ],
     "meaning": "Xin lỗi, làm ơn cho tôi thanh toán tiền. (Hán Việt: KHÁM ĐỊNH)",
-    "explanation": "Đáp án đúng: 会計 — tính tiền, thanh toán (Hán Việt: HỘI KẾ). お勘定 (Hán Việt: KHÁM ĐỊNH): tính tiền hóa đơn; đồng nghĩa với 会計. 注文 (đáp án sai): gọi món | 予約 (đáp án sai): đặt chỗ | 配達 (đáp án sai): giao hàng",
+    "choice_meanings": {
+      "注文": "gọi món",
+      "会計": "tính tiền, thanh toán (Hán Việt: HỘI KẾ)",
+      "予約": "đặt chỗ",
+      "配達": "giao hàng"
+    },
+    "explanation": "お勘定 (Hán Việt: KHÁM ĐỊNH): tính tiền hóa đơn; đồng nghĩa với 会計.",
     "level": "N2"
   },
   {
@@ -1721,7 +2405,13 @@
       "うるさい"
     ],
     "meaning": "Hôm nay chú chó có vẻ ồn ào gầm gừ hơn thường ngày.",
-    "explanation": "Đáp án đúng: うるさい — ồn ào, làm phiền. さわがしい（騒がしい）: ầm ĩ, xôn xao; đồng nghĩa với うるさい. 悲しい (đáp án sai): buồn | 静かだ (đáp án sai): yên tĩnh | 楽しい (đáp án sai): vui vẻ",
+    "choice_meanings": {
+      "悲しい": "buồn",
+      "静かだ": "yên tĩnh",
+      "楽しい": "vui vẻ",
+      "うるさい": "ồn ào, làm phiền"
+    },
+    "explanation": "さわがしい（騒がしい）: ầm ĩ, xôn xao; đồng nghĩa với うるさい.",
     "level": "N2"
   },
   {
@@ -1736,7 +2426,13 @@
       "破りそう"
     ],
     "meaning": "Suýt nữa thì đã xảy ra va chạm. (Hán Việt: XUNG ĐỘT)",
-    "explanation": "Đáp án đúng: ぶつかりそう — suýt đâm vào, suýt va chạm. 衝突する (Hán Việt: XUNG ĐỘT): va chạm, đâm vào nhau; đồng nghĩa với ぶつかる. 落ちそう (đáp án sai): suýt rơi | 壊しそう (đáp án sai): suýt làm hỏng | 破りそう (đáp án sai): suýt xé rách",
+    "choice_meanings": {
+      "ぶつかりそう": "suýt đâm vào, suýt va chạm",
+      "落ちそう": "suýt rơi",
+      "壊しそう": "suýt làm hỏng",
+      "破りそう": "suýt xé rách"
+    },
+    "explanation": "衝突する (Hán Việt: XUNG ĐỘT): va chạm, đâm vào nhau; đồng nghĩa với ぶつかる.",
     "level": "N2"
   },
   {
@@ -1751,7 +2447,13 @@
       "いつも"
     ],
     "meaning": "Tôi đã nhờ anh ấy rất nhiều lần rồi. (Hán Việt: TÁI TAM)",
-    "explanation": "Đáp án đúng: 何度も — nhiều lần, lặp đi lặp lại. 再三 (Hán Việt: TÁI TAM): năm lần bảy lượt, nhiều lần; đồng nghĩa với 何度も. たまに (đáp án sai): thỉnh thoảng | 何度か (đáp án sai): vài lần | いつも (đáp án sai): luôn luôn",
+    "choice_meanings": {
+      "たまに": "thỉnh thoảng",
+      "何度か": "vài lần",
+      "何度も": "nhiều lần, lặp đi lặp lại",
+      "いつも": "luôn luôn"
+    },
+    "explanation": "再三 (Hán Việt: TÁI TAM): năm lần bảy lượt, nhiều lần; đồng nghĩa với 何度も.",
     "level": "N2"
   },
   {
@@ -1766,7 +2468,13 @@
       "自慢"
     ],
     "meaning": "Những điều anh ấy đang nói là nhảm nhí nhăng nhít, dối trá.",
-    "explanation": "Đáp án đúng: うそ — nói dối, bịa đặt. でたらめ: nhảm nhí, nhăng nhít, bịa đặt; đồng nghĩa với うそ. 悪口 (đáp án sai): nói xấu | わがまま (đáp án sai): ích kỷ | 自慢 (đáp án sai): khoe khoang",
+    "choice_meanings": {
+      "悪口": "nói xấu",
+      "わがまま": "ích kỷ",
+      "うそ": "nói dối, bịa đặt",
+      "自慢": "khoe khoang"
+    },
+    "explanation": "でたらめ: nhảm nhí, nhăng nhít, bịa đặt; đồng nghĩa với うそ.",
     "level": "N2"
   },
   {
@@ -1781,7 +2489,13 @@
       "配達"
     ],
     "meaning": "Xin lỗi, làm ơn cho tôi thanh toán tiền. (Hán Việt: KHÁM ĐỊNH)",
-    "explanation": "Đáp án đúng: 会計 — tính tiền, thanh toán (Hán Việt: HỘI KẾ). お勘定 (Hán Việt: KHÁM ĐỊNH): tính tiền hóa đơn; đồng nghĩa với 会計. 注文 (đáp án sai): gọi món | 予約 (đáp án sai): đặt chỗ | 配達 (đáp án sai): giao hàng",
+    "choice_meanings": {
+      "注文": "gọi món",
+      "会計": "tính tiền, thanh toán (Hán Việt: HỘI KẾ)",
+      "予約": "đặt chỗ",
+      "配達": "giao hàng"
+    },
+    "explanation": "お勘定 (Hán Việt: KHÁM ĐỊNH): tính tiền hóa đơn; đồng nghĩa với 会計.",
     "level": "N2"
   },
   {
@@ -1796,7 +2510,13 @@
       "うるさい"
     ],
     "meaning": "Hôm nay chú chó có vẻ ồn ào gầm gừ hơn thường ngày.",
-    "explanation": "Đáp án đúng: うるさい — ồn ào, làm phiền. さわがしい（騒がしい）: ầm ĩ, xôn xao; đồng nghĩa với うるさい. 悲しい (đáp án sai): buồn | 静かに (đáp án sai): yên tĩnh | 楽しい (đáp án sai): vui vẻ",
+    "choice_meanings": {
+      "悲しい": "buồn",
+      "静かに": "yên tĩnh",
+      "楽しい": "vui vẻ",
+      "うるさい": "ồn ào, làm phiền"
+    },
+    "explanation": "さわがしい（騒がしい）: ầm ĩ, xôn xao; đồng nghĩa với うるさい.",
     "level": "N2"
   },
   {
@@ -1811,7 +2531,13 @@
       "体力"
     ],
     "meaning": "Vận động viên đó có kỹ thuật rất tốt.",
-    "explanation": "Đáp án đúng: 技術 — kỹ thuật (Hán Việt: KỸ THUẬT). テクニック (technique): kỹ thuật, kỹ năng chuyên môn; đồng nghĩa với 技術. 自信 (đáp án sai): tự tin | 経験 (đáp án sai): kinh nghiệm | 体力 (đáp án sai): thể lực",
+    "choice_meanings": {
+      "自信": "tự tin",
+      "技術": "kỹ thuật (Hán Việt: KỸ THUẬT)",
+      "経験": "kinh nghiệm",
+      "体力": "thể lực"
+    },
+    "explanation": "テクニック (technique): kỹ thuật, kỹ năng chuyên môn; đồng nghĩa với 技術.",
     "level": "N2"
   },
   {
@@ -1826,7 +2552,13 @@
       "手紙"
     ],
     "meaning": "Ở đây lưu trữ một lượng lớn sách vở. (Hán Việt: THƯ TỊCH)",
-    "explanation": "Đáp án đúng: 本 — sách vở. 書籍 (Hán Việt: THƯ TỊCH): sách báo, thư tịch; đồng nghĩa với 本. 新聞 (đáp án sai): báo | 絵 (đáp án sai): tranh | 手紙 (đáp án sai): thư",
+    "choice_meanings": {
+      "新聞": "báo",
+      "絵": "tranh",
+      "本": "sách vở",
+      "手紙": "thư"
+    },
+    "explanation": "書籍 (Hán Việt: THƯ TỊCH): sách báo, thư tịch; đồng nghĩa với 本.",
     "level": "N2"
   },
   {
@@ -1841,7 +2573,13 @@
       "すぐに決まった"
     ],
     "meaning": "Sang năm nay phương châm của quốc gia đã hoàn toàn thay đổi. (Hán Việt: NHẤT CHUYỂN)",
-    "explanation": "Đáp án đúng: すっかり変わった — thay đổi hoàn toàn. 一転する (Hán Việt: NHẤT CHUYỂN): xoay chuyển hoàn toàn, thay đổi hẳn; đồng nghĩa với すっかり変わる. 少し変わった (đáp án sai): thay đổi một chút | やっと決まった (đáp án sai): cuối cùng đã quyết định | すぐに決まった (đáp án sai): lập tức quyết định",
+    "choice_meanings": {
+      "すっかり変わった": "thay đổi hoàn toàn",
+      "少し変わった": "thay đổi một chút",
+      "やっと決まった": "cuối cùng đã quyết định",
+      "すぐに決まった": "lập tức quyết định"
+    },
+    "explanation": "一転する (Hán Việt: NHẤT CHUYỂN): xoay chuyển hoàn toàn, thay đổi hẳn; đồng nghĩa với すっかり変わる.",
     "level": "N2"
   },
   {
@@ -1856,7 +2594,13 @@
       "太くなって"
     ],
     "meaning": "Dụng cụ này có đầu nhọn sắc.",
-    "explanation": "Đáp án đúng: 細くなって — thon nhỏ, nhọn lại. とがる（尖る）: nhọn, sắc vuốt; trong ngữ cảnh này gần nghĩa với 細くなる. 柔らかくなって (đáp án sai): mềm ra | 硬くなって (đáp án sai): cứng lại | 太くなって (đáp án sai): to ra",
+    "choice_meanings": {
+      "柔らかくなって": "mềm ra",
+      "細くなって": "thon nhỏ, nhọn lại",
+      "硬くなって": "cứng lại",
+      "太くなって": "to ra"
+    },
+    "explanation": "とがる（尖る）: nhọn, sắc vuốt; trong ngữ cảnh này gần nghĩa với 細くなる.",
     "level": "N2"
   },
   {
@@ -1871,7 +2615,13 @@
       "価値がない"
     ],
     "meaning": "Những gì anh ấy đang làm thật vô giá trị, nhảm nhí.",
-    "explanation": "Đáp án đúng: 価値がない — không có giá trị. くだらない: vô giá trị, nhảm nhí, không đáng bận tâm; đồng nghĩa với 価値がない. 効果がない (đáp án sai): không có hiệu quả | 目的がない (đáp án sai): không có mục đích | 変化がない (đáp án sai): không có thay đổi",
+    "choice_meanings": {
+      "効果がない": "không có hiệu quả",
+      "目的がない": "không có mục đích",
+      "変化がない": "không có thay đổi",
+      "価値がない": "không có giá trị"
+    },
+    "explanation": "くだらない: vô giá trị, nhảm nhí, không đáng bận tâm; đồng nghĩa với 価値がない.",
     "level": "N2"
   },
   {
@@ -1886,7 +2636,13 @@
       "難しい"
     ],
     "meaning": "Phá bỏ tòa nhà này thì thật đáng tiếc. (Hán Việt: TÍCH)",
-    "explanation": "Đáp án đúng: もったいない — lãng phí, đáng tiếc. 惜しい (Hán Việt: TÍCH): đáng tiếc, tiếc nuối; đồng nghĩa với もったいない. 危ない (đáp án sai): nguy hiểm | めんどくさい (đáp án sai): phiền phức | 難しい (đáp án sai): khó khăn",
+    "choice_meanings": {
+      "危ない": "nguy hiểm",
+      "もったいない": "lãng phí, đáng tiếc",
+      "めんどくさい": "phiền phức",
+      "難しい": "khó khăn"
+    },
+    "explanation": "惜しい (Hán Việt: TÍCH): đáng tiếc, tiếc nuối; đồng nghĩa với もったいない.",
     "level": "N2"
   },
   {
@@ -1901,7 +2657,13 @@
       "速さ"
     ],
     "meaning": "Hãy điều chỉnh nhịp độ sao cho khớp với nhau.",
-    "explanation": "Đáp án đúng: 速さ — tốc độ, nhịp độ. テンポ (tempo): nhịp độ, nhịp nhanh chậm; đồng nghĩa với 速さ. 長さ (đáp án sai): chiều dài | 高さ (đáp án sai): chiều cao | 大きさ (đáp án sai): kích thước",
+    "choice_meanings": {
+      "長さ": "chiều dài",
+      "高さ": "chiều cao",
+      "大きさ": "kích thước",
+      "速さ": "tốc độ, nhịp độ"
+    },
+    "explanation": "テンポ (tempo): nhịp độ, nhịp nhanh chậm; đồng nghĩa với 速さ.",
     "level": "N2"
   },
   {
@@ -1916,7 +2678,13 @@
       "意外に"
     ],
     "meaning": "Tin tức đó lập tức lan rộng ra ngay lập tức.",
-    "explanation": "Đáp án đúng: すぐに — ngay lập tức. たちまち（立角・瞬間）: ngay tức khắc, trong chớp mắt; đồng nghĩa với すぐに. 次第に (đáp án sai): dần dần | 確かに (đáp án sai): chắc chắn | 意外に (đáp án sai): không ngờ",
+    "choice_meanings": {
+      "すぐに": "ngay lập tức",
+      "次第に": "dần dần",
+      "確かに": "chắc chắn",
+      "意外に": "không ngờ"
+    },
+    "explanation": "たちまち（立角・瞬間）: ngay tức khắc, trong chớp mắt; đồng nghĩa với すぐに.",
     "level": "N2"
   },
   {
@@ -1931,7 +2699,13 @@
       "最終的な目的"
     ],
     "meaning": "Trình bày tóm tắt nội dung khái quát của nghiên cứu. (Hán Việt: KHÁI YẾU)",
-    "explanation": "Đáp án đúng: 大体の内容 — nội dung khái quát, tóm tắt đại ý. 概要 (Hán Việt: KHÁI YẾU): tóm tắt, đại意; đồng nghĩa với 大体の内容. 詳しい内容 (đáp án sai): nội dung chi tiết | 主な目的 (đáp án sai): mục đích chính | 最終的な目的 (đáp án sai): mục đích cuối cùng",
+    "choice_meanings": {
+      "詳しい内容": "nội dung chi tiết",
+      "大体の内容": "nội dung khái quát, tóm tắt đại ý",
+      "主な目的": "mục đích chính",
+      "最終的な目的": "mục đích cuối cùng"
+    },
+    "explanation": "概要 (Hán Việt: KHÁI YẾU): tóm tắt, đại意; đồng nghĩa với 大体の内容.",
     "level": "N2"
   },
   {
@@ -1946,7 +2720,13 @@
       "迷っていた"
     ],
     "meaning": "Lúc đó tôi đã chủ quan không chú ý đề phòng. (Hán Việt: DU ĐOẠN)",
-    "explanation": "Đáp án đúng: 気を付けていなかった — không chú ý, lơ đễnh. 油断する (Hán Việt: DU ĐOẠN): chủ quan, lơ đễnh; đồng nghĩa với 気を付けない. 慌てていた (đáp án sai): vội vã, cuống quýt | 何も覚えていなかった (đáp án sai): không nhớ gì | 迷っていた (đáp án sai): phân vân",
+    "choice_meanings": {
+      "慌てていた": "vội vã, cuống quýt",
+      "何も覚えていなかった": "không nhớ gì",
+      "気を付けていなかった": "không chú ý, lơ đễnh",
+      "迷っていた": "phân vân"
+    },
+    "explanation": "油断する (Hán Việt: DU ĐOẠN): chủ quan, lơ đễnh; đồng nghĩa với 気を付けない.",
     "level": "N2"
   },
   {
@@ -1961,7 +2741,13 @@
       "あなた"
     ],
     "meaning": "Về việc này, mỗi cá nhân sẽ tự chịu trách nhiệm. (Hán Việt: CÁ TỰ)",
-    "explanation": "Đáp án đúng: 一人一人 — từng người một, mỗi cá nhân. 各自 (Hán Việt: CÁ TỰ): mỗi người, từng cá nhân; đồng nghĩa với 一人一人. 私 (đáp án sai): tôi | 代表者 (đáp án sai): đại diện | あなた (đáp án sai): bạn",
+    "choice_meanings": {
+      "私": "tôi",
+      "代表者": "đại diện",
+      "一人一人": "từng người một, mỗi cá nhân",
+      "あなた": "bạn"
+    },
+    "explanation": "各自 (Hán Việt: CÁ TỰ): mỗi người, từng cá nhân; đồng nghĩa với 一人一人.",
     "level": "N2"
   },
   {
@@ -1976,7 +2762,13 @@
       "整理する"
     ],
     "meaning": "Ngày mai tôi định hoàn thành nấc cuối cùng cho bài báo cáo.",
-    "explanation": "Đáp án đúng: 完成させる — hoàn thành. 仕上げる（仕上げる）: hoàn thành công đoạn cuối; đồng nghĩa với 完成させる. 書く (đáp án sai): viết | 出す (đáp án sai): nộp | 整理する (đáp án sai): chỉnh sửa, sắp xếp",
+    "choice_meanings": {
+      "書く": "viết",
+      "完成させる": "hoàn thành",
+      "出す": "nộp",
+      "整理する": "chỉnh sửa, sắp xếp"
+    },
+    "explanation": "仕上げる（仕上げる）: hoàn thành công đoạn cuối; đồng nghĩa với 完成させる.",
     "level": "N2"
   },
   {
@@ -1991,7 +2783,13 @@
       "重大な"
     ],
     "meaning": "Đó là một vấn đề nghiêm trọng. (Hán Việt: THÂM KHẮC)",
-    "explanation": "Đáp án đúng: 重大な — trọng đại, nghiêm trọng (Hán Việt: TRỌNG ĐẠI). 深刻な (Hán Việt: THÂM KHẮC): nghiêm trọng, gay go; đồng nghĩa với 重大性. 単純な (đáp án sai): đơn giản | 身近な (đáp án sai): thâm cận, gần gũi | 微妙な (đáp án sai): vi diệu, phức tạp",
+    "choice_meanings": {
+      "単純な": "đơn giản",
+      "身近な": "thâm cận, gần gũi",
+      "微妙な": "vi diệu, phức tạp",
+      "重大な": "trọng đại, nghiêm trọng (Hán Việt: TRỌNG ĐẠI)"
+    },
+    "explanation": "深刻な (Hán Việt: THÂM KHẮC): nghiêm trọng, gay go; đồng nghĩa với 重大性.",
     "level": "N2"
   },
   {
@@ -2006,7 +2804,13 @@
       "同じクラスの人"
     ],
     "meaning": "Hôm nay tôi có kế hoạch đi ăn cùng đồng nghiệp. (Hán Việt: ĐỒNG LIÊU)",
-    "explanation": "Đáp án đúng: 同じ会社の人 — người cùng công ty. 同僚 (Hán Việt: ĐỒNG LIÊU): đồng nghiệp; đồng nghĩa với 同じ会社の人. 同じアパートの人 (đáp án sai): người cùng chung cư | 同じ出身地の人 (đáp án sai): đồng hương | 同じクラスの人 (đáp án sai): bạn cùng lớp",
+    "choice_meanings": {
+      "同じ会社の人": "người cùng công ty",
+      "同じアパートの人": "người cùng chung cư",
+      "同じ出身地の人": "đồng hương",
+      "同じクラスの人": "bạn cùng lớp"
+    },
+    "explanation": "同僚 (Hán Việt: ĐỒNG LIÊU): đồng nghiệp; đồng nghĩa với 同じ会社の人.",
     "level": "N2"
   },
   {
@@ -2021,7 +2825,13 @@
       "後ろを向いて"
     ],
     "meaning": "Chị Maeda từ nãy đến giờ cứ cúi mặt xuống.",
-    "explanation": "Đáp án đúng: 下を向いて — cúi mặt xuống. うつむく（俯く）: cúi đầu xuống; đồng nghĩa với 下を向く. 上を向いて (đáp án sai): ngửa mặt lên | 横を向いて (đáp án sai): nhìn sang bên | 後ろを向いて (đáp án sai): quay về phía sau",
+    "choice_meanings": {
+      "上を向いて": "ngửa mặt lên",
+      "横を向いて": "nhìn sang bên",
+      "下を向いて": "cúi mặt xuống",
+      "後ろを向いて": "quay về phía sau"
+    },
+    "explanation": "うつむく（俯く）: cúi đầu xuống; đồng nghĩa với 下を向く.",
     "level": "N2"
   },
   {
@@ -2036,7 +2846,13 @@
       "もう"
     ],
     "meaning": "Lịch trình chuyến công tác về cơ bản đại khái đã quyết định xong.",
-    "explanation": "Đáp án đúng: だいたい — đại khái, khoảng chừng. おおよそ（大凡）: đại khái, ước chừng; đồng nghĩa với だいたい. すべて (đáp án sai): tất cả | やっと (đáp án sai): cuối cùng | もう (đáp án sai): đã",
+    "choice_meanings": {
+      "だいたい": "đại khái, khoảng chừng",
+      "すべて": "tất cả",
+      "やっと": "cuối cùng",
+      "もう": "đã"
+    },
+    "explanation": "おおよそ（大凡）: đại khái, ước chừng; đồng nghĩa với だいたい.",
     "level": "N2"
   },
   {
@@ -2051,7 +2867,13 @@
       "イメージ"
     ],
     "meaning": "Cô ấy có tác phong cư xử vô cùng lịch sự. (Hán Việt: HÀNH NGHI)",
-    "explanation": "Đáp án đúng: マナー — quy tắc ứng xử, phép lịch sự (manner). 行儀 (Hán Việt: HÀNH NGHI): cách ứng xử, lễ nghi; đồng nghĩa với マナー. アイデア (đáp án sai): ý tưởng | サービス (đáp án sai): dịch vụ | イメージ (đáp án sai): hình ảnh",
+    "choice_meanings": {
+      "アイデア": "ý tưởng",
+      "サービス": "dịch vụ",
+      "マナー": "quy tắc ứng xử, phép lịch sự (manner)",
+      "イメージ": "hình ảnh"
+    },
+    "explanation": "行儀 (Hán Việt: HÀNH NGHI): cách ứng xử, lễ nghi; đồng nghĩa với マナー.",
     "level": "N2"
   },
   {
@@ -2066,7 +2888,13 @@
       "硬そうにして"
     ],
     "meaning": "Anh Nakanishi lúc nào cũng ra vẻ ta đây, hống hách.",
-    "explanation": "Đáp án đúng: 偉そうにして — ra vẻ ta đây, oai phong kiêu ngạo. いばる（威張る）: kiêu ngạo, hống hách; đồng nghĩa với 偉そうにする. 暇そうにして (đáp án sai): ra vẻ rảnh rỗi | 親切そうにして (đáp án sai): ra vẻ tốt bụng | 硬そうにして (đáp án sai): ra vẻ cứng nhắc",
+    "choice_meanings": {
+      "暇そうにして": "ra vẻ rảnh rỗi",
+      "偉そうにして": "ra vẻ ta đây, oai phong kiêu ngạo",
+      "親切そうにして": "ra vẻ tốt bụng",
+      "硬そうにして": "ra vẻ cứng nhắc"
+    },
+    "explanation": "いばる（威張る）: kiêu ngạo, hống hách; đồng nghĩa với 偉そうにする.",
     "level": "N2"
   },
   {
@@ -2081,7 +2909,13 @@
       "しまって"
     ],
     "meaning": "Những đồ vật không dùng đến xin hãy cất vào đây. (Hán Việt: THU NẠP)",
-    "explanation": "Đáp án đúng: しまって — cất giữ, thu cất đồ đạc. 収納する (Hán Việt: THU NẠP): cất giữ, xếp gọn; đồng nghĩa với しまう. 並べて (đáp án sai): sắp xếp | 捨てて (đáp án sai): vứt đi | 預けて (đáp án sai): gửi gắm",
+    "choice_meanings": {
+      "並べて": "sắp xếp",
+      "捨てて": "vứt đi",
+      "預けて": "gửi gắm",
+      "しまって": "cất giữ, thu cất đồ đạc"
+    },
+    "explanation": "収納する (Hán Việt: THU NẠP): cất giữ, xếp gọn; đồng nghĩa với しまう.",
     "level": "N2"
   },
   {
@@ -2096,7 +2930,13 @@
       "わがまま"
     ],
     "meaning": "Anh Yokoyama rất hay cằn nhằn bất bình. (Hán Việt: BẤT BÌNH)",
-    "explanation": "Đáp án đúng: 文句 — phàn nàn, cằn nhằn. 不平 (Hán Việt: BẤT BÌNH): không vừa lòng, bất bình phàn nàn; đồng nghĩa với 文句. 冗談 (đáp án sai): nói đùa | うそ (đáp án sai): nói dối | わがまま (đáp án sai): ích kỷ",
+    "choice_meanings": {
+      "冗談": "nói đùa",
+      "文句": "phàn nàn, cằn nhằn",
+      "うそ": "nói dối",
+      "わがまま": "ích kỷ"
+    },
+    "explanation": "不平 (Hán Việt: BẤT BÌNH): không vừa lòng, bất bình phàn nàn; đồng nghĩa với 文句.",
     "level": "N2"
   },
   {
@@ -2111,7 +2951,13 @@
       "準備"
     ],
     "meaning": "Anh Sato đã hướng dẫn dẫn đường cho chúng tôi.",
-    "explanation": "Đáp án đúng: 案内 — hướng dẫn, dẫn đường. ガイドする (guide): hướng dẫn; đồng nghĩa với 案内する. 解決 (đáp án sai): giải quyết | 応援 (đáp án sai): cổ vũ | 準備 (đáp án sai): chuẩn bị",
+    "choice_meanings": {
+      "案内": "hướng dẫn, dẫn đường",
+      "解決": "giải quyết",
+      "応援": "cổ vũ",
+      "準備": "chuẩn bị"
+    },
+    "explanation": "ガイドする (guide): hướng dẫn; đồng nghĩa với 案内する.",
     "level": "N2"
   },
   {
@@ -2126,7 +2972,13 @@
       "使った"
     ],
     "meaning": "Cách diễn đạt này nên chỉnh sửa lại thì hơn đấy. (Hán Việt: TU CHÍNH)",
-    "explanation": "Đáp án đúng: 直した — sửa lại. 修正する (Hán Việt: TU CHÍNH): chỉnh sửa; đồng nghĩa với 直す. 調べた (đáp án sai): tra cứu | 覚えた (đáp án sai): ghi nhớ | 使った (đáp án sai): sử dụng",
+    "choice_meanings": {
+      "調べた": "tra cứu",
+      "覚えた": "ghi nhớ",
+      "直した": "sửa lại",
+      "使った": "sử dụng"
+    },
+    "explanation": "修正する (Hán Việt: TU CHÍNH): chỉnh sửa; đồng nghĩa với 直す.",
     "level": "N2"
   },
   {
@@ -2141,7 +2993,13 @@
       "次第に"
     ],
     "meaning": "Tôi đã từng bước dần dần quen với công ty. (Hán Việt: TỪ TỪ)",
-    "explanation": "Đáp án đúng: 次第に — từng bước, từ từ (Hán Việt: THỨ ĐỆ). 徐々に (Hán Việt: TỪ TỪ): từng chút một, dần dần; đồng nghĩa với 次第に. ずいぶん (đáp án sai): khá là | いつのまにか (đáp án sai): không biết từ lúc nào | やっと (đáp án sai): cuối cùng",
+    "choice_meanings": {
+      "ずいぶん": "khá là",
+      "いつのまにか": "không biết từ lúc nào",
+      "やっと": "cuối cùng",
+      "次第に": "từng bước, từ từ (Hán Việt: THỨ ĐỆ)"
+    },
+    "explanation": "徐々に (Hán Việt: TỪ TỪ): từng chút một, dần dần; đồng nghĩa với 次第に.",
     "level": "N2"
   },
   {
@@ -2156,7 +3014,13 @@
       "こぼれて"
     ],
     "meaning": "Lớp sơn màu xanh bị bong tróc ra.",
-    "explanation": "Đáp án đúng: 取れて — bị bong ra, rơi ra. はげる（剥げる）: bong tróc sơn/da; gần nghĩa với 取れる. ついて (đáp án sai): dính vào | 乾いて (đáp án sai): khô ráo | こぼれて (đáp án sai): tràn trào",
+    "choice_meanings": {
+      "取れて": "bị bong ra, rơi ra",
+      "ついて": "dính vào",
+      "乾いて": "khô ráo",
+      "こぼれて": "tràn trào"
+    },
+    "explanation": "はげる（剥げる）: bong tróc sơn/da; gần nghĩa với 取れる.",
     "level": "N2"
   },
   {
@@ -2171,7 +3035,13 @@
       "言葉"
     ],
     "meaning": "Cử chỉ cử động đó của cô ấy thật đầy ấn tượng.",
-    "explanation": "Đáp án đúng: 動作 — động tác, cử chỉ (Hán Việt: ĐỘNG TÁC). しぐさ（仕草）: hành vi, dáng vẻ cử chỉ; đồng nghĩa với 動作. 考え (đáp án sai): suy nghĩ | 服装 (đáp án sai): trang phục | 言葉 (đáp án sai): lời nói",
+    "choice_meanings": {
+      "考え": "suy nghĩ",
+      "動作": "động tác, cử chỉ (Hán Việt: ĐỘNG TÁC)",
+      "服装": "trang phục",
+      "言葉": "lời nói"
+    },
+    "explanation": "しぐさ（仕草）: hành vi, dáng vẻ cử chỉ; đồng nghĩa với 動作.",
     "level": "N2"
   },
   {
@@ -2186,7 +3056,13 @@
       "種類が多い"
     ],
     "meaning": "Sản phẩm này so với các cửa hàng khác thì đắt hơn hẳn. (Hán Việt: CÁT CAO)",
-    "explanation": "Đáp án đúng: 値段が高い — giá cả đắt đỏ. 割高 (Hán Việt: CÁT CAO): đắt tương đối so với mặt bằng chung; đồng nghĩa với 値段が高い. 質がいい (đáp án sai): chất lượng tốt | 人気がある (đáp án sai): được ưa chuộng | 種類が多い (đáp án sai): chủng loại đa dạng",
+    "choice_meanings": {
+      "質がいい": "chất lượng tốt",
+      "値段が高い": "giá cả đắt đỏ",
+      "人気がある": "được ưa chuộng",
+      "種類が多い": "chủng loại đa dạng"
+    },
+    "explanation": "割高 (Hán Việt: CÁT CAO): đắt tương đối so với mặt bằng chung; đồng nghĩa với 値段が高い.",
     "level": "N2"
   },
   {
@@ -2201,7 +3077,13 @@
       "慎重だった"
     ],
     "meaning": "Thái độ của anh ấy rất lạnh nhạt, thờ ơ. (Hán Việt: LÃNH ĐẠM)",
-    "explanation": "Đáp án đúng: 冷たかった — lạnh lùng, lơ đãng. 冷淡 (Hán Việt: LÃNH ĐẠM): lạnh nhạt, thờ ơ; đồng nghĩa với 冷たい. 厳しかった (đáp án sai): nghiêm khắc | 静かだった (đáp án sai): yên tĩnh | 慎重だった (đáp án sai): thận trọng",
+    "choice_meanings": {
+      "厳しかった": "nghiêm khắc",
+      "冷たかった": "lạnh lùng, lơ đãng",
+      "静かだった": "yên tĩnh",
+      "慎重だった": "thận trọng"
+    },
+    "explanation": "冷淡 (Hán Việt: LÃNH ĐẠM): lạnh nhạt, thờ ơ; đồng nghĩa với 冷たい.",
     "level": "N2"
   },
   {
@@ -2216,7 +3098,13 @@
       "座った"
     ],
     "meaning": "Giữa buổi họp tôi đã xin phép rời khỏi chỗ ra ngoài một lúc. (Hán Việt: TỊCH NGOẠI)",
-    "explanation": "Đáp án đúng: 部屋を出た — rời phòng. 席を外す: tạm rời khỏi chỗ ngồi/khỏi phòng; đồng nghĩa với 部屋を出る. 発言した (đáp án sai): phát biểu | 休んだ (đáp án sai): nghỉ ngơi | 座った (đáp án sai): ngồi xuống",
+    "choice_meanings": {
+      "部屋を出た": "rời phòng",
+      "発言した": "phát biểu",
+      "休んだ": "nghỉ ngơi",
+      "座った": "ngồi xuống"
+    },
+    "explanation": "席を外す: tạm rời khỏi chỗ ngồi/khỏi phòng; đồng nghĩa với 部屋を出る.",
     "level": "N2"
   },
   {
@@ -2231,7 +3119,13 @@
       "慎重"
     ],
     "meaning": "Kế hoạch đó đang bị lơ đễnh, làm hời hợt qua loa.",
-    "explanation": "Đáp án đúng: いい加減 — hời hợt, không nghiêm túc. おろそか: lơ đễnh, bỏ bê qua loa; đồng nghĩa với いい加減. 複雑 (đáp án sai): phức tạp | 順調 (đáp án sai): suôn sẻ | 慎重 (đáp án sai): thận trọng",
+    "choice_meanings": {
+      "複雑": "phức tạp",
+      "順調": "suôn sẻ",
+      "いい加減": "hời hợt, không nghiêm túc",
+      "慎重": "thận trọng"
+    },
+    "explanation": "おろそか: lơ đễnh, bỏ bê qua loa; đồng nghĩa với いい加減.",
     "level": "N2"
   },
   {
@@ -2246,7 +3140,13 @@
       "心配した"
     ],
     "meaning": "Khu vực này đã thoát khỏi thiệt hại do cơn bão gây ra. (Hán Việt: MIỄN)",
-    "explanation": "Đáp án đúng: 受けなかった — không bị gánh chịu thiệt hại. 免れる（まぬかれる; Hán Việt: MIỄN）: thoát khỏi, không bị ảnh hưởng; đồng nghĩa với 受けない. 受けた (đáp án sai): bị gánh chịu | 予想した (đáp án sai): dự đoán | 心配した (đáp án sai): lo lắng",
+    "choice_meanings": {
+      "受けた": "bị gánh chịu",
+      "予想した": "dự đoán",
+      "受けなかった": "không bị gánh chịu thiệt hại",
+      "心配した": "lo lắng"
+    },
+    "explanation": "免れる（まぬかれる; Hán Việt: MIỄN）: thoát khỏi, không bị ảnh hưởng; đồng nghĩa với 受けない.",
     "level": "N2"
   },
   {
@@ -2261,7 +3161,13 @@
       "似ていた"
     ],
     "meaning": "Ý kiến của hai người trùng khớp đồng nhất với nhau. (Hán Việt: NHẤT TRÍ)",
-    "explanation": "Đáp án đúng: 同じだった — giống nhau, cùng một ý. 一致する (Hán Việt: NHẤT TRÍ): nhất trí, giống nhau; đồng nghĩa với 同じだ. 正しかった (đáp án sai): đúng đắn | はっきりしていた (đáp án sai): rõ ràng | 似ていた (đáp án sai): tương tự",
+    "choice_meanings": {
+      "正しかった": "đúng đắn",
+      "同じだった": "giống nhau, cùng một ý",
+      "はっきりしていた": "rõ ràng",
+      "似ていた": "tương tự"
+    },
+    "explanation": "一致する (Hán Việt: NHẤT TRÍ): nhất trí, giống nhau; đồng nghĩa với 同じだ.",
     "level": "N2"
   },
   {
@@ -2276,7 +3182,13 @@
       "タイトル"
     ],
     "meaning": "Nhan đề của tác phẩm này rất gây ấn tượng. (Hán Việt: ĐỀ)",
-    "explanation": "Đáp án đúng: タイトル — tiêu đề, nhan đề (title). 題 (Hán Việt: ĐỀ): nhan đề; đồng nghĩa với タイトル. デザイン (đáp án sai): thiết kế | アイデア (đáp án sai): ý tưởng | ストーリー (đáp án sai): cốt truyện",
+    "choice_meanings": {
+      "デザイン": "thiết kế",
+      "アイデア": "ý tưởng",
+      "ストーリー": "cốt truyện",
+      "タイトル": "tiêu đề, nhan đề (title)"
+    },
+    "explanation": "題 (Hán Việt: ĐỀ): nhan đề; đồng nghĩa với タイトル.",
     "level": "N2"
   },
   {
@@ -2291,7 +3203,13 @@
       "うるさい"
     ],
     "meaning": "Khu vực quanh đây lúc nào cũng ồn ào náo nhiệt.",
-    "explanation": "Đáp án đúng: うるさい — ồn ào, làm phiền. そうぞうしい（騒々しい）: ầm ĩ, ồn ào náo動; đồng nghĩa với うるさい. 暗い (đáp án sai): u tối | 静かだ (đáp án sai): yên tĩnh | 明るい (đáp án sai): tươi sáng",
+    "choice_meanings": {
+      "暗い": "u tối",
+      "静かだ": "yên tĩnh",
+      "明るい": "tươi sáng",
+      "うるさい": "ồn ào, làm phiền"
+    },
+    "explanation": "そうぞうしい（騒々しい）: ầm ĩ, ồn ào náo動; đồng nghĩa với うるさい.",
     "level": "N2"
   },
   {
@@ -2306,7 +3224,13 @@
       "集中"
     ],
     "meaning": "Tôi đã cẩn thận đề phòng hơn thường ngày. (Hán Việt: DỤNG TÂM)",
-    "explanation": "Đáp án đúng: 注意 — chú ý, cẩn thận đề phòng. 用心する (Hán Việt: DỤNG TÂM): cẩn trọng đề phòng; đồng nghĩa với 注意する. 努力 (đáp án sai): nỗ lực | 準備 (đáp án sai): chuẩn bị | 集中 (đáp án sai): tập trung",
+    "choice_meanings": {
+      "注意": "chú ý, cẩn thận đề phòng",
+      "努力": "nỗ lực",
+      "準備": "chuẩn bị",
+      "集中": "tập trung"
+    },
+    "explanation": "用心する (Hán Việt: DỤNG TÂM): cẩn trọng đề phòng; đồng nghĩa với 注意する.",
     "level": "N2"
   },
   {
@@ -2321,7 +3245,13 @@
       "地味すぎる"
     ],
     "meaning": "Chiếc áo sơ mi này đối với tôi rộng thùng hình quá.",
-    "explanation": "Đáp án đúng: 大きすぎる — quá rộng, quá to. ぶかぶか: rộng thùng hình (quần áo, giày dép); đồng nghĩa với 大きすぎる. 派手すぎる (đáp án sai): quá sặc sỡ | 小さすぎる (đáp án sai): quá nhỏ | 地味すぎる (đáp án sai): quá giản dị",
+    "choice_meanings": {
+      "派手すぎる": "quá sặc sỡ",
+      "小さすぎる": "quá nhỏ",
+      "大きすぎる": "quá rộng, quá to",
+      "地味すぎる": "quá giản dị"
+    },
+    "explanation": "ぶかぶか: rộng thùng hình (quần áo, giày dép); đồng nghĩa với 大きすぎる.",
     "level": "N2"
   },
   {
@@ -2336,7 +3266,13 @@
       "製品を作った会社"
     ],
     "meaning": "Vì có thắc mắc nên tôi đã liên hệ hỏi công ty nhà sản xuất.",
-    "explanation": "Đáp án đúng: 製品を作った会社 — công ty sản xuất ra sản phẩm. メーカー (maker): nhà sản xuất; đồng nghĩa với 製品を作った会社. 製品を輸入した会社 (đáp án sai): công ty nhập khẩu | 製品を売った店 (đáp án sai): cửa hàng bán sản phẩm | 製品を修理した店 (đáp án sai): cửa hàng sửa chữa",
+    "choice_meanings": {
+      "製品を輸入した会社": "công ty nhập khẩu",
+      "製品を売った店": "cửa hàng bán sản phẩm",
+      "製品を修理した店": "cửa hàng sửa chữa",
+      "製品を作った会社": "công ty sản xuất ra sản phẩm"
+    },
+    "explanation": "メーカー (maker): nhà sản xuất; đồng nghĩa với 製品を作った会社.",
     "level": "N2"
   },
   {
@@ -2351,7 +3287,13 @@
       "発展して"
     ],
     "meaning": "Bây giờ ở nước bạn thứ gì đang là trào lưu thịnh hành vậy?",
-    "explanation": "Đáp án đúng: 流行して — thịnh hành, đang hot (Hán Việt: LƯU HÀNH). はやる（流行る）: lưu hành, phổ biến rộng rãi; đồng nghĩa với 流行する. 制限して (đáp án sai): hạn chế | 増加して (đáp án sai): tăng lên | 発展して (đáp án sai): phát triển",
+    "choice_meanings": {
+      "制限して": "hạn chế",
+      "増加して": "tăng lên",
+      "流行して": "thịnh hành, đang hot (Hán Việt: LƯU HÀNH)",
+      "発展して": "phát triển"
+    },
+    "explanation": "はやる（流行る）: lưu hành, phổ biến rộng rãi; đồng nghĩa với 流行する.",
     "level": "N2"
   },
   {
@@ -2366,7 +3308,13 @@
       "全部いっしょにして"
     ],
     "meaning": "Tại đây, hàng hóa được quản lý gộp chung tất cả lại một lần. (Hán Việt: NHẤT KHOÁT)",
-    "explanation": "Đáp án đúng: 全部いっしょにして — gộp tất cả làm một. 一括する (Hán Việt: NHẤT KHOÁT): gộp chung toàn bộ; đồng nghĩa với 全部いっしょにする. 細かく分けて (đáp án sai): chia nhỏ | 箱に入れて (đáp án sai): cho vào hộp | しばらくの間 (đáp án sai): trong một thời gian",
+    "choice_meanings": {
+      "細かく分けて": "chia nhỏ",
+      "箱に入れて": "cho vào hộp",
+      "しばらくの間": "trong một thời gian",
+      "全部いっしょにして": "gộp tất cả làm một"
+    },
+    "explanation": "一括する (Hán Việt: NHẤT KHOÁT): gộp chung toàn bộ; đồng nghĩa với 全部いっしょにする.",
     "level": "N2"
   },
   {
@@ -2381,7 +3329,13 @@
       "経験したことがない"
     ],
     "meaning": "Tần trước đã xảy ra một sự việc hoàn toàn ngoài dự tính bất ngờ.",
-    "explanation": "Đáp án đúng: 予想していなかった — không lường trước, ngoài dự kiến. 思いがけない: không ngờ đến, ngoài dự tính; đồng nghĩa với 予想していない. 信じられない (đáp án sai): không thể tin được | 忘れられない (đáp án sai): không thể quên | 経験したことがない (đáp án sai): chưa từng trải qua",
+    "choice_meanings": {
+      "信じられない": "không thể tin được",
+      "予想していなかった": "không lường trước, ngoài dự kiến",
+      "忘れられない": "không thể quên",
+      "経験したことがない": "chưa từng trải qua"
+    },
+    "explanation": "思いがけない: không ngờ đến, ngoài dự tính; đồng nghĩa với 予想していない.",
     "level": "N2"
   },
   {
@@ -2396,7 +3350,13 @@
       "いつも"
     ],
     "meaning": "Hướng tới mục tiêu tiếp theo, tôi định sẽ cố gắng nỗ lực hơn nữa. (Hán Việt: NHẤT TẦNG)",
-    "explanation": "Đáp án đúng: もっと — hơn nữa. いっそう（一層; Hán Việt: NHẤT TẦNG）: hơn một bậc, thêm nữa; đồng nghĩa với もっと. できるだけ (đáp án sai): hết sức có thể | しっかり (đáp án sai): chắc chắn, nghiêm túc | いつも (đáp án sai): luôn luôn",
+    "choice_meanings": {
+      "もっと": "hơn nữa",
+      "できるだけ": "hết sức có thể",
+      "しっかり": "chắc chắn, nghiêm túc",
+      "いつも": "luôn luôn"
+    },
+    "explanation": "いっそう（一層; Hán Việt: NHẤT TẦNG）: hơn một bậc, thêm nữa; đồng nghĩa với もっと.",
     "level": "N2"
   }
 ]
