@@ -13,6 +13,7 @@ import { readFileSync } from "node:fs";
 //                 + bắt buộc "choice_meanings" như mondai 4 ("explanation" chỉ còn là ghi chú về từ gạch chân)
 //   usage    (6)  sentence là "[từ]", 4 đáp án là 4 câu; word = từ cần dùng
 //   grammar  (7)  điền mẫu ngữ pháp vào chỗ trống [ ]
+//                 + bắt buộc "choice_meanings" như mondai 4 (nghĩa/cách dùng của đủ 4 đáp án; "explanation" chỉ còn là ghi chú về mẫu đúng)
 //   star     (8)  Hái sao: before + 4 mảnh `pieces` theo thứ tự đúng + after
 //   cloze    (9)  bài đọc có chỗ trống [1], [2]... + câu hỏi tương ứng
 //   short (10), medium (11), ab (12), long (13), info (14): bài đọc + các câu hỏi
@@ -70,9 +71,9 @@ function checkHanViet(q, at, kind) {
     errors.push(`${at}: "meaning" không được ghi lẫn "Hán Việt" - hãy để trong trường "han_viet" (có thể chạy: node scripts/${kind === "context" ? "migrate-context" : "migrate-hanviet"}.mjs)`);
 }
 
-// Giải nghĩa từng đáp án (mondai 4): choice_meanings = { đáp án: nghĩa } phải có đủ và chỉ có 4 đáp án trong choices.
+// Giải nghĩa từng đáp án (mondai 4, 5, 7): choice_meanings = { đáp án: nghĩa } phải có đủ và chỉ có 4 đáp án trong choices.
 // Các mondai khác chưa bắt buộc, nhưng nếu đã có thì cũng phải đúng định dạng.
-const CHOICE_MEANINGS_REQUIRED = new Set(["context", "synonym"]);
+const CHOICE_MEANINGS_REQUIRED = new Set(["context", "synonym", "grammar"]);
 function checkChoiceMeanings(q, at, kind) {
   const cm = q.choice_meanings;
   if (cm === undefined) {
@@ -94,8 +95,10 @@ function checkChoiceMeanings(q, at, kind) {
   if (q.base_form !== undefined && (typeof q.base_form !== "string" || q.base_form === ""))
     errors.push(`${at}: "base_form" phải là chuỗi không rỗng`);
   // "explanation" giờ chỉ dành cho ghi chú riêng, không được quay lại kiểu liệt kê "(đáp án đúng/sai)" trong 1 chuỗi
-  if (typeof q.explanation === "string" && /\(đáp án (đúng|sai)\)/.test(q.explanation))
-    errors.push(`${at}: "explanation" không được liệt kê "(đáp án đúng/sai)" - hãy để trong "choice_meanings" (có thể chạy: node scripts/${kind === "synonym" ? "migrate-synonym" : "migrate-context"}.mjs)`);
+  if (typeof q.explanation === "string" && /\(đáp án (đúng|sai)\)/.test(q.explanation)) {
+    const hint = kind === "grammar" ? "" : ` (có thể chạy: node scripts/${kind === "synonym" ? "migrate-synonym" : "migrate-context"}.mjs)`;
+    errors.push(`${at}: "explanation" không được liệt kê "(đáp án đúng/sai)" - hãy để trong "choice_meanings"${hint}`);
+  }
 }
 
 // Kiểm tra 4 đáp án: đủ 4 cái, khác nhau, answer nằm trong đó
